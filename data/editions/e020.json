@@ -1,0 +1,2053 @@
+{
+ "id": "e020",
+ "number": 20,
+ "publishedAt": "2026-11-10T10:17:00+01:00",
+ "cover": {
+  "img": "e020/cover.jpg",
+  "alt": {
+   "en": "Mr H Reviews video about the DC Studios leadership change",
+   "pt": "Vídeo do Mr H Reviews sobre a mudança de liderança na DC Studios"
+  },
+  "target": "dcstudios",
+  "headline": {
+   "en": "Skydance replaces James Gunn and Peter Safran at DC Studios with Marvel veteran Jeremy Latcham",
+   "pt": "A Skydance substitui James Gunn e Peter Safran na DC Studios pelo veterano da Marvel Jeremy Latcham"
+  }
+ },
+ "note": [
+  {
+   "en": "Tuesday's issue opens with Skydance replacing James Gunn and Peter Safran at DC Studios with Jeremy Latcham, plus GTA 6 preloading ahead of 19 November, Johnny Depp's Ebenezer, SpaceX's Starship Flight 15, Anthropic's Claude Fable 5.2, Wolverine joining the new Avengers, a Hollywood film of the horror manga Noah of the Blood Sea and Disney+'s The Remarried Empress. Rumours are marked as such and follow-ups are marked as updates. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+   "pt": "A edição de terça-feira abre com a Skydance a substituir James Gunn e Peter Safran na DC Studios por Jeremy Latcham, e traz o pré-carregamento de GTA 6 antes de 19 de novembro, Ebenezer, de Johnny Depp, o Voo 15 da Starship da SpaceX, o Claude Fable 5.2 da Anthropic, o Wolverine nos novos Vingadores, um filme de Hollywood do manga de terror Noah of the Blood Sea e The Remarried Empress, do Disney+. Os rumores estão identificados como tal e os seguimentos estão marcados como atualizações. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+  },
+  {
+   "en": "New since the last edition: since Edition 019 (9 Nov, 10:12), 26 new stories and 2 updates, plus 31 quick hits.",
+   "pt": "Novidades desde a última edição: desde a Edição 019 (9 nov, 10:12), 26 notícias novas e 2 atualizações, mais 31 destaques rápidos."
+  }
+ ],
+ "sections": [
+  {
+   "id": "cover-section",
+   "topic": "cover-section",
+   "title": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "subtitle": {
+    "en": "Movies · Business",
+    "pt": "Filmes · Negócios"
+   },
+   "items": [
+    {
+     "id": "dcstudios",
+     "topic": "movies",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=m9QOKVY89yw",
+      "img": "e020/cover.jpg",
+      "alt": {
+       "en": "Mr H Reviews video about the DC Studios leadership change",
+       "pt": "Vídeo do Mr H Reviews sobre a mudança de liderança na DC Studios"
+      },
+      "duration": "11:02",
+      "caption": {
+       "en": "Mr H Reviews, 9 Nov. Tap to watch on YouTube.",
+       "pt": "Mr H Reviews, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Cover story · Movies · DC Studios · Leadership · 10 Nov",
+      "pt": "História de capa · Filmes · DC Studios · Liderança · 10 nov"
+     },
+     "headline": {
+      "en": "Skydance replaces James Gunn and Peter Safran at DC Studios with Marvel veteran Jeremy Latcham",
+      "pt": "A Skydance substitui James Gunn e Peter Safran na DC Studios pelo veterano da Marvel Jeremy Latcham"
+     },
+     "deck": {
+      "en": "Gunn and Safran step down as co-CEOs on 1 December; Gunn keeps two films he already has in post-production.",
+      "pt": "Gunn e Safran deixam de ser co-CEOs a 1 de dezembro; Gunn mantém dois filmes que já estão em pós-produção."
+     },
+     "body": [
+      {
+       "en": "Deadline reports that Skydance has named Jeremy Latcham, a Marvel Studios veteran, president and chief creative officer of DC Studios. He replaces co-CEOs James Gunn and Peter Safran, whose exit takes effect on 1 December, and will report to Dana Goldberg and Josh Greenstein, the co-chairs of Skydance's Motion Picture Group.",
+       "pt": "A Deadline noticia que a Skydance nomeou Jeremy Latcham, veterano dos Marvel Studios, presidente e diretor criativo da DC Studios. Ele substitui os co-CEOs James Gunn e Peter Safran, cuja saída é efetiva a 1 de dezembro, e responderá a Dana Goldberg e Josh Greenstein, co-presidentes do Motion Picture Group da Skydance."
+      },
+      {
+       "en": "According to The Hollywood Reporter, the pair were told on Friday 6 November, and Skydance's takeover of Warner Bros. Discovery had closed in October. Gunn keeps Man of Tomorrow and The People v. Gorilla Grodd, both already in post-production, and he and Safran stay on as producers of The Batman Part II. Variety reports that Gunn called the job a trying one and said he is relieved.",
+       "pt": "Segundo a The Hollywood Reporter, a dupla foi informada na sexta-feira, 6 de novembro, e a aquisição da Warner Bros. Discovery pela Skydance tinha sido concluída em outubro. Gunn fica com Man of Tomorrow e The People v. Gorilla Grodd, ambos já em pós-produção, e ele e Safran continuam como produtores de The Batman Part II. A Variety diz que Gunn descreveu o cargo como desgastante e afirmou sentir alívio."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Effective",
+        "pt": "Efetivo"
+       },
+       "v": {
+        "en": "1 December",
+        "pt": "1 de dezembro"
+       }
+      },
+      {
+       "k": {
+        "en": "New chief",
+        "pt": "Novo responsável"
+       },
+       "v": {
+        "en": "Jeremy Latcham",
+        "pt": "Jeremy Latcham"
+       }
+      },
+      {
+       "k": {
+        "en": "Reports to",
+        "pt": "Responde a"
+       },
+       "v": {
+        "en": "Goldberg and Greenstein",
+        "pt": "Goldberg e Greenstein"
+       }
+      },
+      {
+       "k": {
+        "en": "Gunn keeps",
+        "pt": "Gunn mantém"
+       },
+       "v": {
+        "en": "Man of Tomorrow, Gorilla Grodd",
+        "pt": "Man of Tomorrow, Gorilla Grodd"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://deadline.com/2026/11/dc-studios-james-gunn-peter-safran-leaving-1237217374/",
+      "label": {
+       "en": "Read the full story at Deadline →",
+       "pt": "Ler a notícia completa em Deadline →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-peter-safran-ouster-dc-1236751437/",
+       "name": "The Hollywood Reporter"
+      },
+      {
+       "url": "https://variety.com/2026/film/news/james-gunn-dc-speaks-out-1236943133/",
+       "name": "Variety"
+      },
+      {
+       "url": "https://www.reuters.com/business/media-telecom/skydance-names-latcham-dc-studios-chief-replacing-gunn-safran-variety-reports-2026-11-09/",
+       "name": "Reuters"
+      },
+      {
+       "url": "https://www.indiewire.com/news/breaking-news/dc-studios-shakeup-james-gunn-peter-safran-out-jeremy-latcham-1235226240/",
+       "name": "IndieWire"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "topic": "games",
+   "title": {
+    "en": "Games",
+    "pt": "Jogos"
+   },
+   "subtitle": {
+    "en": "Games · Industry, releases and reveals",
+    "pt": "Jogos · Indústria, lançamentos e revelações"
+   },
+   "items": [
+    {
+     "id": "gta",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Qo612f8c40Y",
+      "img": "e020/games.jpg",
+      "alt": {
+       "en": "Noah Explains video about the GTA 6 launch",
+       "pt": "Vídeo do Noah Explains sobre o lançamento de GTA 6"
+      },
+      "duration": "2:23",
+      "caption": {
+       "en": "Noah Explains, 5 Nov. Tap to watch on YouTube.",
+       "pt": "Noah Explains, 5 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Rockstar · GTA 6 · Preload",
+      "pt": "Jogos · Rockstar · GTA 6 · Pré-carregamento"
+     },
+     "headline": {
+      "en": "GTA 6 preload goes live and fans start digging through the data ahead of the 19 November launch",
+      "pt": "O pré-carregamento de GTA 6 já está ativo e os fãs começam a vasculhar os dados antes do lançamento de 19 de novembro"
+     },
+     "deck": {
+      "en": "Take-Two says console and PC experiences tend to be roughly the same, while its plans stay console-first.",
+      "pt": "A Take-Two diz que as experiências em consola e PC tendem a ser semelhantes, mas os planos continuam centrados nas consolas."
+     },
+     "body": [
+      {
+       "en": "IGN reports that as the GTA 6 preload went live, players began going through the game files in search of details Rockstar has not announced. Treat anything dug out that way as unconfirmed until the studio says it. A video recap quotes a Rockstar notice that puts the download at about 212 GB.",
+       "pt": "A IGN noticia que, assim que o pré-carregamento de GTA 6 ficou ativo, os jogadores começaram a analisar os ficheiros do jogo à procura de detalhes que a Rockstar não anunciou. Tudo o que for encontrado assim fica por confirmar até o estúdio se pronunciar. Um vídeo-resumo cita um aviso da Rockstar que indica um download de cerca de 212 GB."
+      },
+      {
+       "en": "PC Gamer's coverage of Take-Two's remarks says the company has no PC plans to share and no plan for GTA Online yet, and that the console launch is single-player only. Push Square adds that the PS5 physical edition includes a poster rather than the long-requested map.",
+       "pt": "A cobertura da PC Gamer sobre os comentários da Take-Two diz que a empresa não tem planos de PC para partilhar nem planos para o GTA Online por agora, e que o lançamento em consola é apenas para um jogador. A Push Square acrescenta que a edição física para PS5 inclui um poster em vez do mapa há muito pedido."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Launch",
+        "pt": "Lançamento"
+       },
+       "v": {
+        "en": "19 November",
+        "pt": "19 de novembro"
+       }
+      },
+      {
+       "k": {
+        "en": "Preload",
+        "pt": "Pré-carregamento"
+       },
+       "v": {
+        "en": "Live",
+        "pt": "Ativo"
+       }
+      },
+      {
+       "k": {
+        "en": "Console mode",
+        "pt": "Modo em consola"
+       },
+       "v": {
+        "en": "Single-player only",
+        "pt": "Apenas um jogador"
+       }
+      },
+      {
+       "k": {
+        "en": "PC version",
+        "pt": "Versão PC"
+       },
+       "v": {
+        "en": "No plans shared",
+        "pt": "Sem planos divulgados"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://me.ign.com/en/grand-theft-auto-vi/249610/as-gta-6-preload-goes-live-fans-dig-into-the-data-to-try-to-unearth-unannounced-information-ahead-of",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
+       "name": "PC Gamer"
+      },
+      {
+       "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-physical-edition-includes-a-poster-but-its-still-not-the-map",
+       "name": "Push Square"
+      }
+     ]
+    },
+    {
+     "id": "darkheresy",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=x9m9fOB3ZNQ",
+      "img": "e020/warhammer.jpg",
+      "alt": {
+       "en": "GameTrailers video: Warhammer 40,000: Dark Heresy trailer",
+       "pt": "Vídeo da GameTrailers: trailer de Warhammer 40,000: Dark Heresy"
+      },
+      "duration": "1:11",
+      "caption": {
+       "en": "GameTrailers, 9 Nov. Tap to watch on YouTube.",
+       "pt": "GameTrailers, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Owlcat · Warhammer 40,000 · Release date",
+      "pt": "Jogos · Owlcat · Warhammer 40,000 · Data de lançamento"
+     },
+     "headline": {
+      "en": "Warhammer 40,000: Dark Heresy gets a 28 January 2027 release date",
+      "pt": "Warhammer 40,000: Dark Heresy tem data de lançamento: 28 de janeiro de 2027"
+     },
+     "body": [
+      {
+       "en": "Eurogamer reports the Owlcat RPG, the follow-up to Rogue Trader, will launch on 28 January 2027 on PC, PS5 and Xbox, with a Switch 2 version planned for later. Push Square and GameSpot carry the same date.",
+       "pt": "A Eurogamer noticia que o RPG da Owlcat, a sequela de Rogue Trader, chega a 28 de janeiro de 2027 a PC, PS5 e Xbox, com uma versão para Switch 2 prevista para mais tarde. A Push Square e a GameSpot indicam a mesma data."
+      }
+     ],
+     "chip": {
+      "en": "28 Jan 2027",
+      "pt": "28 jan 2027"
+     },
+     "link": {
+      "url": "https://www.eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg",
+      "label": {
+       "en": "Read the full story at Eurogamer →",
+       "pt": "Ler a notícia completa em Eurogamer →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.pushsquare.com/news/2026/11/one-of-ps5s-most-promising-rpgs-adds-to-the-chaos-of-january-2027",
+       "name": "Push Square"
+      },
+      {
+       "url": "https://www.gamespot.com/articles/warhammer-40000-dark-heresy-the-follow-up-to-rogue-trader-gets-early-2027-release-date/",
+       "name": "GameSpot"
+      }
+     ]
+    },
+    {
+     "id": "exterminauts",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=p1b_BpHpS6U",
+      "img": "e020/exterminauts.jpg",
+      "alt": {
+       "en": "Glitch Unlimited video about Exterminauts (sponsored by the game)",
+       "pt": "Vídeo do Glitch Unlimited sobre Exterminauts (patrocinado pelo jogo)"
+      },
+      "duration": "9:32",
+      "caption": {
+       "en": "Glitch Unlimited, 7 Nov (sponsored by Exterminauts). Tap to watch on YouTube.",
+       "pt": "Glitch Unlimited, 7 nov (patrocinado por Exterminauts). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Behaviour Interactive · Exterminauts · Co-op",
+      "pt": "Jogos · Behaviour Interactive · Exterminauts · Cooperativo"
+     },
+     "headline": {
+      "en": "Exterminauts, a three-player co-op shooter, is compared to Helldivers 2 starring home-improvement dads",
+      "pt": "Exterminauts, um shooter cooperativo para três jogadores, é comparado a Helldivers 2 com pais de bricolage como protagonistas"
+     },
+     "body": [
+      {
+       "en": "GameSpot describes Behaviour Interactive's PvE shooter as Helldivers 2 with home-improvement dads. It has no release date yet and is planned for PC, PS5 and Xbox with cross-play. The video credited here says a Steam beta runs 12 to 18 November and is sponsored by the game.",
+       "pt": "A GameSpot descreve o shooter PvE da Behaviour Interactive como um Helldivers 2 com pais de bricolage. Ainda não tem data de lançamento e está previsto para PC, PS5 e Xbox com jogo cruzado. O vídeo aqui creditado diz que há uma beta no Steam de 12 a 18 de novembro e que é patrocinado pelo jogo."
+      }
+     ],
+     "chip": {
+      "en": "Beta 12–18 Nov",
+      "pt": "Beta 12–18 nov"
+     },
+     "link": {
+      "url": "https://www.gamespot.com/articles/exterminauts-is-like-helldivers-2-starring-home-depot-dads/",
+      "label": {
+       "en": "Read the full story at GameSpot →",
+       "pt": "Ler a notícia completa em GameSpot →"
+      }
+     }
+    },
+    {
+     "id": "silksong",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=p_x2TO25l6E",
+      "img": "e020/silksong.jpg",
+      "alt": {
+       "en": "Daily Silksong News video about the physical edition booklet",
+       "pt": "Vídeo do Daily Silksong News sobre o livreto da edição física"
+      },
+      "duration": "1:49",
+      "caption": {
+       "en": "Daily Silksong News, 9 Nov. Tap to watch on YouTube.",
+       "pt": "Daily Silksong News, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Team Cherry · Hollow Knight: Silksong · Physical edition",
+      "pt": "Jogos · Team Cherry · Hollow Knight: Silksong · Edição física"
+     },
+     "headline": {
+      "en": "Silksong's physical edition booklet mentions free content packs and a giant expansion called Sea of Sorrow",
+      "pt": "O livreto da edição física de Silksong menciona pacotes de conteúdo gratuitos e uma expansão gigante chamada Sea of Sorrow"
+     },
+     "body": [
+      {
+       "en": "Eurogamer reports that the booklet in the Hollow Knight: Silksong physical edition refers to multiple free content packs and describes Sea of Sorrow as a giant expansion. The outlet reports it from the booklet; the studio has not published a schedule in these reports.",
+       "pt": "A Eurogamer noticia que o livreto da edição física de Hollow Knight: Silksong refere vários pacotes de conteúdo gratuitos e descreve Sea of Sorrow como uma expansão gigante. O meio baseia-se no livreto; nestes relatos o estúdio não publicou um calendário."
+      }
+     ],
+     "chip": {
+      "en": "Sea of Sorrow",
+      "pt": "Sea of Sorrow"
+     },
+     "link": {
+      "url": "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
+      "label": {
+       "en": "Read the full story at Eurogamer →",
+       "pt": "Ler a notícia completa em Eurogamer →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Push Square",
+     "url": "https://www.pushsquare.com/news/2026/11/stuff-your-face-with-ps5-rpg-atelier-karias-story-trailer-pre-orders-live-now",
+     "text": {
+      "en": "says pre-orders are live for the PS5 RPG Atelier Karia, which has a story trailer and arrives on 25 February 2027 at $69.99.",
+      "pt": "diz que as pré-encomendas do RPG Atelier Karia para PS5 já estão abertas, com um trailer da história, e que chega a 25 de fevereiro de 2027 por 69,99 dólares."
+     }
+    },
+    {
+     "src": "IGN",
+     "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-dataminers-uncover-potential-majoras-mask-master-quest-dlc-hints",
+     "text": {
+      "en": "reports a Rumour: dataminers say they found hints of Majora's Mask and Master Quest DLC for the Ocarina of Time remake. Nintendo has not confirmed it.",
+      "pt": "noticia um Rumor: dataminers dizem ter encontrado indícios de DLC de Majora's Mask e Master Quest para o remake de Ocarina of Time. A Nintendo não confirmou."
+     }
+    },
+    {
+     "src": "Eurogamer",
+     "url": "https://www.eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2",
+     "text": {
+      "en": "says Bandai Namco and Monolith Soft are confirmed as support studios on the Switch 2 Ocarina of Time remake.",
+      "pt": "diz que a Bandai Namco e a Monolith Soft estão confirmadas como estúdios de apoio no remake de Ocarina of Time para Switch 2."
+     }
+    },
+    {
+     "src": "Eurogamer",
+     "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-free-trial-november",
+     "text": {
+      "en": "notes that a free trial of the DMZ mode in Call of Duty: Modern Warfare 4 runs until 11 November.",
+      "pt": "nota que um teste gratuito do modo DMZ de Call of Duty: Modern Warfare 4 decorre até 11 de novembro."
+     }
+    },
+    {
+     "src": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/sea-of-remnants-dawnbreaker-closed-beta-test-begins-december-3",
+     "text": {
+      "en": "reports that the Sea of Remnants Dawnbreaker closed beta test begins on 3 December.",
+      "pt": "noticia que o teste beta fechado de Sea of Remnants Dawnbreaker começa a 3 de dezembro."
+     }
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "topic": "movies",
+   "title": {
+    "en": "Movies",
+    "pt": "Filmes"
+   },
+   "subtitle": {
+    "en": "Movies · Box office, trailers and casting",
+    "pt": "Filmes · Bilheteira, trailers e elencos"
+   },
+   "items": [
+    {
+     "id": "ebenezer",
+     "topic": "movies",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=57q4Wojwbe4",
+      "img": "e020/ebenezer.jpg",
+      "alt": {
+       "en": "Kristian Harloff video about Ebenezer",
+       "pt": "Vídeo de Kristian Harloff sobre Ebenezer"
+      },
+      "duration": "3:04",
+      "caption": {
+       "en": "Kristian Harloff, 10 Nov. Tap to watch on YouTube.",
+       "pt": "Kristian Harloff, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Paramount · Ebenezer · Johnny Depp",
+      "pt": "Filmes · Paramount · Ebenezer · Johnny Depp"
+     },
+     "headline": {
+      "en": "Johnny Depp's Scrooge film Ebenezer gets its first reactions ahead of a 13 November global release",
+      "pt": "O filme de Scrooge de Johnny Depp, Ebenezer, recebe as primeiras reações antes do lançamento mundial de 13 de novembro"
+     },
+     "deck": {
+      "en": "Reviews are due on 12 November, and the London premiere has just been held.",
+      "pt": "As críticas chegam a 12 de novembro e a estreia em Londres acabou de acontecer."
+     },
+     "body": [
+      {
+       "en": "The Hollywood Reporter has gathered the first reactions to Ti West's Paramount film, in which Johnny Depp plays Scrooge. Full reviews are due on 12 November and the film opens worldwide on 13 November.",
+       "pt": "A The Hollywood Reporter reuniu as primeiras reações ao filme de Ti West para a Paramount, em que Johnny Depp interpreta Scrooge. As críticas completas chegam a 12 de novembro e o filme estreia em todo o mundo a 13 de novembro."
+      },
+      {
+       "en": "Deadline reports on the London premiere held on Monday. The film is described as Depp's first mainstream Hollywood feature since the fallout from his legal fights; his next listed project is Lionsgate's Day Drinker, due in 2027.",
+       "pt": "A Deadline noticia a estreia em Londres, na segunda-feira. O filme é descrito como o primeiro grande filme de Hollywood de Depp desde as consequências dos seus processos judiciais; o projeto seguinte indicado é Day Drinker, da Lionsgate, previsto para 2027."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Director",
+        "pt": "Realizador"
+       },
+       "v": {
+        "en": "Ti West",
+        "pt": "Ti West"
+       }
+      },
+      {
+       "k": {
+        "en": "Studio",
+        "pt": "Estúdio"
+       },
+       "v": {
+        "en": "Paramount",
+        "pt": "Paramount"
+       }
+      },
+      {
+       "k": {
+        "en": "Reviews",
+        "pt": "Críticas"
+       },
+       "v": {
+        "en": "12 November",
+        "pt": "12 de novembro"
+       }
+      },
+      {
+       "k": {
+        "en": "Release",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "13 November",
+        "pt": "13 de novembro"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-first-reactions-scrooge-1236751441/",
+      "label": {
+       "en": "Read the full story at The Hollywood Reporter →",
+       "pt": "Ler a notícia completa em The Hollywood Reporter →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://deadline.com/2026/11/johnny-depp-ti-west-london-ebenezer-global-premiere-1237218130/",
+       "name": "Deadline"
+      }
+     ]
+    },
+    {
+     "id": "odyssey",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Universal · The Odyssey · Home release",
+      "pt": "Filmes · Universal · The Odyssey · Edição doméstica"
+     },
+     "headline": {
+      "en": "Nolan's The Odyssey reaches digital and 4K on 17 November after $1.8 billion worldwide",
+      "pt": "The Odyssey, de Nolan, chega ao digital e a 4K a 17 de novembro depois de 1,8 mil milhões de dólares a nível mundial"
+     },
+     "body": [
+      {
+       "en": "Collider says the film arrives on digital and 4K on 17 November. Its box office stands at $1.8 billion worldwide, made up of $625 million domestic and $1.176 billion overseas, against a $250 million budget.",
+       "pt": "A Collider diz que o filme chega ao digital e a 4K a 17 de novembro. A bilheteira ronda os 1,8 mil milhões de dólares a nível mundial, com 625 milhões no mercado interno e 1,176 mil milhões no estrangeiro, para um orçamento de 250 milhões."
+      }
+     ],
+     "chip": {
+      "en": "17 Nov · $1.8B",
+      "pt": "17 nov · 1,8 mil M$"
+     },
+     "link": {
+      "url": "https://collider.com/the-odyssey-digital-release-date-november-17-2026/",
+      "label": {
+       "en": "Read the full story at Collider →",
+       "pt": "Ler a notícia completa em Collider →"
+      }
+     }
+    },
+    {
+     "id": "skydance",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Io3xzGJe3aE",
+      "img": "e020/skydance.jpg",
+      "alt": {
+       "en": "Bloomberg Podcasts video about Skydance",
+       "pt": "Vídeo da Bloomberg Podcasts sobre a Skydance"
+      },
+      "duration": "7:41",
+      "caption": {
+       "en": "Bloomberg Podcasts, 9 Nov. Tap to watch on YouTube.",
+       "pt": "Bloomberg Podcasts, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Skydance · Warner Bros. Discovery · Streaming",
+      "pt": "Filmes · Skydance · Warner Bros. Discovery · Streaming"
+     },
+     "headline": {
+      "en": "Skydance details $6 billion in cost savings from the WBD deal and sets an HBO Max and Paramount+ bundle",
+      "pt": "A Skydance detalha 6 mil milhões de dólares de poupanças com o negócio da WBD e prepara um pacote HBO Max e Paramount+"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that, with third-quarter results, Skydance outlined $6 billion in cost savings from the Warner Bros. Discovery deal and said a bundle of HBO Max and Paramount+ is planned for early next year.",
+       "pt": "A Reuters noticia que, com os resultados do terceiro trimestre, a Skydance indicou 6 mil milhões de dólares de poupanças com o negócio da Warner Bros. Discovery e disse que um pacote de HBO Max e Paramount+ está previsto para o início do próximo ano."
+      }
+     ],
+     "chip": {
+      "en": "$6B savings",
+      "pt": "6 mil M$ poupados"
+     },
+     "link": {
+      "url": "https://www.reuters.com/legal/transactional/skydance-details-cost-cuts-sets-streaming-bundle-early-next-year-2026-11-09/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/jonathan-bailey-bill-nighy-oliver-sacks-insomniac-city-1236751088/",
+     "text": {
+      "en": "reports that Jonathan Bailey and Bill Nighy star in Insomniac City, a film about Oliver Sacks.",
+      "pt": "noticia que Jonathan Bailey e Bill Nighy protagonizam Insomniac City, um filme sobre Oliver Sacks."
+     }
+    },
+    {
+     "src": "Variety",
+     "url": "https://variety.com/2026/film/news/xyz-films-rights-kill-me-charlie-day-allison-williams-1236943468/",
+     "text": {
+      "en": "says XYZ Films has taken rights to Kill Me, with Charlie Day and Allison Williams.",
+      "pt": "diz que a XYZ Films ficou com os direitos de Kill Me, com Charlie Day e Allison Williams."
+     }
+    },
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/summer-school-2001-us-cinemas-amazon-first-czech-viet-film-1236749759/",
+     "text": {
+      "en": "reports that Summer School, 2001 reaches US cinemas on 11 December, an Amazon first for a Czech-Vietnamese film.",
+      "pt": "noticia que Summer School, 2001 chega aos cinemas dos EUA a 11 de dezembro, uma estreia da Amazon para um filme checo-vietnamita."
+     }
+    },
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/disney-christmas-holiday-short-film-2026-the-invisible-horse-1236749275/",
+     "text": {
+      "en": "says Disney's holiday short for 2026 is called The Invisible Horse.",
+      "pt": "diz que a curta de Natal da Disney para 2026 se chama The Invisible Horse."
+     }
+    },
+    {
+     "src": "Variety",
+     "url": "https://variety.com/2026/film/global/longlegs-alicia-witt-horror-incuba-project-juan-pablo-arias-1236935621/",
+     "text": {
+      "en": "reports that Alicia Witt joins the horror film Incuba Project.",
+      "pt": "noticia que Alicia Witt se junta ao filme de terror Incuba Project."
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "topic": "tech",
+   "title": {
+    "en": "Tech",
+    "pt": "Tech"
+   },
+   "subtitle": {
+    "en": "Tech · Devices, software and security",
+    "pt": "Tech · Dispositivos, software e segurança"
+   },
+   "items": [
+    {
+     "id": "starship",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=wj5GE768sCk",
+      "img": "e020/starship.jpg",
+      "alt": {
+       "en": "Spaceflight Now video about Starship Flight 15",
+       "pt": "Vídeo da Spaceflight Now sobre o Voo 15 da Starship"
+      },
+      "duration": "10:03",
+      "caption": {
+       "en": "Spaceflight Now, 8 Nov. Tap to watch on YouTube.",
+       "pt": "Spaceflight Now, 8 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Tech · SpaceX · Starship · Flight 15",
+      "pt": "Tech · SpaceX · Starship · Voo 15"
+     },
+     "headline": {
+      "en": "SpaceX targets 13 November for Starship Flight 15, its first attempt to catch the upper stage",
+      "pt": "A SpaceX aponta a 13 de novembro o Voo 15 da Starship, a primeira tentativa de apanhar o andar superior"
+     },
+     "deck": {
+      "en": "The launch window opens at 5:45 pm Eastern, which is 23:45 in Angola.",
+      "pt": "A janela de lançamento abre às 17:45 de Nova Iorque, ou seja, às 23:45 em Angola."
+     },
+     "body": [
+      {
+       "en": "Reuters reports that SpaceX is aiming for 13 November, with the window opening at 5:45 pm Eastern. The flight is the first attempt to catch Starship's upper stage; catching the booster has already been done three times. It carries 26 next-generation Starlink satellites, and the previous flight was on 28 September.",
+       "pt": "A Reuters noticia que a SpaceX aponta a 13 de novembro, com a janela a abrir às 17:45, hora da costa leste. O voo é a primeira tentativa de apanhar o andar superior da Starship; o booster já foi apanhado três vezes. Leva 26 satélites Starlink de nova geração e o voo anterior foi a 28 de setembro."
+      },
+      {
+       "en": "A video from Spaceflight Now says SpaceX expects the FAA licence to cover the flight. As with any launch, the date can move with weather and technical checks.",
+       "pt": "Um vídeo da Spaceflight Now diz que a SpaceX espera que a licença da FAA abranja o voo. Como em qualquer lançamento, a data pode mudar com o tempo e as verificações técnicas."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Target date",
+        "pt": "Data prevista"
+       },
+       "v": {
+        "en": "13 November",
+        "pt": "13 de novembro"
+       }
+      },
+      {
+       "k": {
+        "en": "Window opens",
+        "pt": "A janela abre"
+       },
+       "v": {
+        "en": "23:45 Angola time",
+        "pt": "23:45, hora de Angola"
+       }
+      },
+      {
+       "k": {
+        "en": "Payload",
+        "pt": "Carga"
+       },
+       "v": {
+        "en": "26 Starlink satellites",
+        "pt": "26 satélites Starlink"
+       }
+      },
+      {
+       "k": {
+        "en": "First attempt",
+        "pt": "Primeira tentativa"
+       },
+       "v": {
+        "en": "Upper-stage catch",
+        "pt": "Apanhar o andar superior"
+       }
+      }
+     ],
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETN92687599007?channel=nhm034",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "usagepacks",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a phone",
+       "pt": "Ilustração de um telemóvel"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Apple · Apple Intelligence · Pricing",
+      "pt": "Tech · Apple · Apple Intelligence · Preços"
+     },
+     "headline": {
+      "en": "Apple introduces $49.99 Apple Intelligence Usage Packs, starting with Logic Pro",
+      "pt": "A Apple apresenta Pacotes de Utilização do Apple Intelligence a 49,99 dólares, a começar pelo Logic Pro"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that the packs arrive first in Logic Pro, with other Creator Studio apps following this month. They do not work with Family Sharing, credits roll over, and they expire after 12 months.",
+       "pt": "A The Verge noticia que os pacotes chegam primeiro ao Logic Pro, seguindo-se outras apps do Creator Studio este mês. Não funcionam com a Partilha em Família, os créditos acumulam-se e expiram ao fim de 12 meses."
+      }
+     ],
+     "chip": {
+      "en": "$49.99",
+      "pt": "49,99 $"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    },
+    {
+     "id": "moonbase",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=eXrd5sNdacA",
+      "img": "e020/nasa.jpg",
+      "alt": {
+       "en": "NASA video about the Max Power moon base plan",
+       "pt": "Vídeo da NASA sobre o plano Max Power para a base lunar"
+      },
+      "duration": "1:27",
+      "caption": {
+       "en": "NASA, 9 Nov. Tap to watch on YouTube.",
+       "pt": "NASA, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Tech · NASA · Max Power · Moon base",
+      "pt": "Tech · NASA · Max Power · Base lunar"
+     },
+     "headline": {
+      "en": "NASA's Max Power plan lines up moon base contracts, from landers to a nuclear-powered rover",
+      "pt": "O plano Max Power da NASA reúne contratos para uma base lunar, de módulos de alunagem a um rover nuclear"
+     },
+     "body": [
+      {
+       "en": "CNET says CLPS 2 is worth $10 billion, the ceiling for CLPS 1.0 rises from $2.6 billion to $4.2 billion, and $1.3 billion goes to orbital transfer vehicles. Blue Origin's nuclear-powered Promise rover is listed at $94 million plus $140 million, and a $1 million student challenge is included.",
+       "pt": "A CNET diz que o CLPS 2 vale 10 mil milhões de dólares, o teto do CLPS 1.0 sobe de 2,6 para 4,2 mil milhões e 1,3 mil milhões vão para veículos de transferência orbital. O rover nuclear Promise, da Blue Origin, aparece com 94 milhões mais 140 milhões, e há um desafio para estudantes de 1 milhão."
+      }
+     ],
+     "chip": {
+      "en": "CLPS 2 · $10B",
+      "pt": "CLPS 2 · 10 mil M$"
+     },
+     "link": {
+      "url": "https://www.cnet.com/science/space/nasa-max-power-awards-moon-base-contracts/",
+      "label": {
+       "en": "Read the full story at CNET →",
+       "pt": "Ler a notícia completa em CNET →"
+      }
+     }
+    },
+    {
+     "id": "igage",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=5NqFFJ_4M6w",
+      "img": "e020/instagram.jpg",
+      "alt": {
+       "en": "NDTV video about Instagram's AI age detection",
+       "pt": "Vídeo da NDTV sobre a deteção de idade por I.A. do Instagram"
+      },
+      "duration": "3:47",
+      "caption": {
+       "en": "NDTV, 9 Nov. Tap to watch on YouTube.",
+       "pt": "NDTV, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Tech · Meta · Instagram · Age checks",
+      "pt": "Tech · Meta · Instagram · Verificação de idade"
+     },
+     "headline": {
+      "en": "Instagram takes its AI age detection global",
+      "pt": "O Instagram alarga a deteção de idade por I.A. a todo o mundo"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that Meta is expanding the AI age assurance system it uses on Instagram to markets worldwide.",
+       "pt": "A The Verge noticia que a Meta está a alargar a todo o mundo o sistema de verificação de idade por I.A. que usa no Instagram."
+      }
+     ],
+     "chip": {
+      "en": "Global rollout",
+      "pt": "Lançamento global"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/tech/1027753/8bitdos-ultimate-3c-plus-wired-controller-xbox-tmr-thumbstick-hall-effect-triggers",
+     "text": {
+      "en": "says 8BitDo's wired Ultimate 3C Plus controller for Xbox arrives on 16 November at $39.99, with TMR thumbsticks and Hall effect triggers.",
+      "pt": "diz que o comando com fios Ultimate 3C Plus da 8BitDo para Xbox chega a 16 de novembro por 39,99 dólares, com manípulos TMR e gatilhos de efeito Hall."
+     }
+    },
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
+     "text": {
+      "en": "looks at Medium TK, a notes app.",
+      "pt": "analisa o Medium TK, uma app de notas."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "https://www.reuters.com/business/media-telecom/bt-hold-off-starlink-launch-until-ukraine-noise-dies-down-ceo-tells-ft-2026-11-10/",
+     "text": {
+      "en": "reports that BT will hold off launching Starlink until the noise around Ukraine dies down, its chief executive told the FT.",
+      "pt": "noticia que a BT vai adiar o lançamento do Starlink até a polémica em torno da Ucrânia acalmar, disse o presidente executivo ao FT."
+     }
+    },
+    {
+     "src": "9to5Mac",
+     "url": "https://9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027/",
+     "text": {
+      "en": "carries a Rumour: a leak reveals details of more iPhone 18 models launching in early 2027. Apple has not confirmed any of it.",
+      "pt": "traz um Rumor: uma fuga revela detalhes de mais modelos do iPhone 18 que chegam no início de 2027. A Apple não confirmou nada."
+     }
+    },
+    {
+     "src": "9to5Google",
+     "url": "https://9to5google.com/2026/11/09/google-store-black-friday-2026/",
+     "text": {
+      "en": "reports that the Google Store's Black Friday sale starts on 19 November.",
+      "pt": "noticia que a promoção da Black Friday da Google Store começa a 19 de novembro."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "topic": "ai",
+   "title": {
+    "en": "A.I.",
+    "pt": "I.A."
+   },
+   "subtitle": {
+    "en": "A.I. · Models, markets and policy",
+    "pt": "I.A. · Modelos, mercados e política"
+   },
+   "items": [
+    {
+     "id": "fable",
+     "topic": "ai",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=7qqfI8daaIc",
+      "img": "e020/fable.jpg",
+      "alt": {
+       "en": "BotUprising video about Claude Fable 5.2",
+       "pt": "Vídeo do BotUprising sobre o Claude Fable 5.2"
+      },
+      "duration": "8:13",
+      "caption": {
+       "en": "BotUprising, 10 Nov. Tap to watch on YouTube.",
+       "pt": "BotUprising, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · Claude Fable 5.2 · Mythos 5.2",
+      "pt": "I.A. · Anthropic · Claude Fable 5.2 · Mythos 5.2"
+     },
+     "headline": {
+      "en": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, its first launch since the METR report on self-improvement",
+      "pt": "A Anthropic lança o Claude Fable 5.2 e o Mythos 5.2, o primeiro lançamento desde o relatório da METR sobre automelhoria"
+     },
+     "deck": {
+      "en": "Fable gets cheaper, while Mythos stays limited to approved organisations.",
+      "pt": "O Fable fica mais barato, enquanto o Mythos continua limitado a organizações aprovadas."
+     },
+     "body": [
+      {
+       "en": "TechCrunch reports that Anthropic released new Mythos and Fable models on 9 November, amid concerns about recursive self-improvement raised in a METR report. Fable's price falls from $10 to $8 per million input tokens; the video credited here quotes $8 for input and $40 for output.",
+       "pt": "A TechCrunch noticia que a Anthropic lançou novos modelos Mythos e Fable a 9 de novembro, no meio das preocupações sobre automelhoria recursiva levantadas num relatório da METR. O preço do Fable desce de 10 para 8 dólares por milhão de tokens de entrada; o vídeo aqui creditado indica 8 dólares de entrada e 40 de saída."
+      },
+      {
+       "en": "Mythos is restricted to approved organisations in cyber and life sciences. Reuters also covers the release. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "O Mythos está restrito a organizações aprovadas nas áreas de cibersegurança e ciências da vida. A Reuters também cobre o lançamento. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Models",
+        "pt": "Modelos"
+       },
+       "v": {
+        "en": "Fable 5.2, Mythos 5.2",
+        "pt": "Fable 5.2, Mythos 5.2"
+       }
+      },
+      {
+       "k": {
+        "en": "Fable input price",
+        "pt": "Preço de entrada do Fable"
+       },
+       "v": {
+        "en": "$8 per million tokens",
+        "pt": "8 $ por milhão de tokens"
+       }
+      },
+      {
+       "k": {
+        "en": "Mythos access",
+        "pt": "Acesso ao Mythos"
+       },
+       "v": {
+        "en": "Approved organisations",
+        "pt": "Organizações aprovadas"
+       }
+      },
+      {
+       "k": {
+        "en": "Released",
+        "pt": "Lançamento"
+       },
+       "v": {
+        "en": "9 November",
+        "pt": "9 de novembro"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "label": {
+       "en": "Read the full story at TechCrunch →",
+       "pt": "Ler a notícia completa em TechCrunch →"
+      }
+     },
+     "also": [
+      {
+       "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WK2H4?channel=frL012",
+       "name": "Reuters"
+      }
+     ]
+    },
+    {
+     "id": "ipo2",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · IPO · Update",
+      "pt": "I.A. · Anthropic · IPO · Atualização"
+     },
+     "headline": {
+      "en": "Update: a filing that appeared to show Anthropic raising up to $69.3 billion was sent, then retracted",
+      "pt": "Atualização: um pedido que parecia mostrar a Anthropic a captar até 69,3 mil milhões de dólares foi enviado e depois retirado"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Edition 019 covered the roadshow; a filing with a price range has now surfaced and been withdrawn.",
+       "pt": "O que há de novo desde a última edição: a Edição 019 tratou do roadshow; surgiu agora um pedido com intervalo de preço, entretanto retirado."
+      },
+      {
+       "en": "Bloomberg, citing Reuters, reports the filing appeared to show about 867 million shares at $70 to $80, or up to $69.3 billion. Axios says the company plans to proceed with the IPO this month. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A Bloomberg, citando a Reuters, noticia que o pedido parecia mostrar cerca de 867 milhões de ações a 70 a 80 dólares, ou até 69,3 mil milhões. A Axios diz que a empresa planeia avançar com a IPO este mês. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "Up to $69.3B",
+      "pt": "Até 69,3 mil M$"
+     },
+     "link": {
+      "url": "https://bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says",
+      "label": {
+       "en": "Read the full story at Bloomberg →",
+       "pt": "Ler a notícia completa em Bloomberg →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-crisis",
+       "name": "Axios"
+      }
+     ]
+    },
+    {
+     "id": "ausai",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=OqKKGjQahss",
+      "img": "e020/australia.jpg",
+      "alt": {
+       "en": "7NEWS Australia video about the new AI rules",
+       "pt": "Vídeo da 7NEWS Australia sobre as novas regras de I.A."
+      },
+      "duration": "2:21",
+      "caption": {
+       "en": "7NEWS Australia, 10 Nov. Tap to watch on YouTube.",
+       "pt": "7NEWS Australia, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Australia · Regulation · Policy",
+      "pt": "I.A. · Austrália · Regulação · Política"
+     },
+     "headline": {
+      "en": "Australia tightens AI oversight with a regulator and mandatory incident reporting",
+      "pt": "A Austrália reforça a supervisão da I.A. com um regulador e comunicação obrigatória de incidentes"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that Australia will create an AI regulator and require incidents to be reported, after an OpenAI agent breached a government system.",
+       "pt": "A Reuters noticia que a Austrália vai criar um regulador de I.A. e exigir a comunicação de incidentes, depois de um agente da OpenAI ter violado um sistema do governo."
+      }
+     ],
+     "chip": {
+      "en": "New regulator",
+      "pt": "Novo regulador"
+     },
+     "link": {
+      "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "ember",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=lEI4GlPstQw",
+      "img": "e020/ember.jpg",
+      "alt": {
+       "en": "JaySym_AI video about Meta's Muse Ember",
+       "pt": "Vídeo do JaySym_AI sobre o Muse Ember da Meta"
+      },
+      "duration": "4:13",
+      "caption": {
+       "en": "JaySym_AI, 9 Nov. Tap to watch on YouTube.",
+       "pt": "JaySym_AI, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Meta · Muse Ember · Benchmarks",
+      "pt": "I.A. · Meta · Muse Ember · Testes comparativos"
+     },
+     "headline": {
+      "en": "Meta's proprietary Muse Ember ties Claude Haiku 5.5 on an independent index at a fraction of the cost",
+      "pt": "O Muse Ember, proprietário da Meta, iguala o Claude Haiku 5.5 num índice independente por uma fração do custo"
+     },
+     "body": [
+      {
+       "en": "VentureBeat reports that Muse Ember scores 36 on the Artificial Analysis index, the same as Claude Haiku 5.5, at roughly 14 cents per task against 41 cents. GPT-6 Luna scores 27.8. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A VentureBeat noticia que o Muse Ember obtém 36 pontos no índice da Artificial Analysis, o mesmo que o Claude Haiku 5.5, a cerca de 14 cêntimos por tarefa contra 41. O GPT-6 Luna fica nos 27,8. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "Score 36",
+      "pt": "Pontuação 36"
+     },
+     "link": {
+      "url": "https://venturebeat.com/technology/metas-proprietary-muse-ember-nearly-matches-claude-haiku-5-5-at-1-3-the-estimated-per-task-cost",
+      "label": {
+       "en": "Read the full story at VentureBeat →",
+       "pt": "Ler a notícia completa em VentureBeat →"
+      }
+     }
+    },
+    {
+     "id": "nvidiaupd",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "chip",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a chip",
+       "pt": "Ilustração de um chip"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Nvidia · Jensen Huang · Update",
+      "pt": "I.A. · Nvidia · Jensen Huang · Atualização"
+     },
+     "headline": {
+      "en": "Update: the Huang affair may speed up US chip-export laws as Congress eyes the defence bill",
+      "pt": "Atualização: o caso Huang pode acelerar leis dos EUA sobre exportação de chips, com o Congresso de olho na lei da defesa"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Edition 019 covered the board probe; reports now focus on legislation that could follow.",
+       "pt": "O que há de novo desde a última edição: a Edição 019 tratou do inquérito do conselho; os relatos centram-se agora na legislação que pode seguir-se."
+      },
+      {
+       "en": "Reuters reports that the spy allegations are likely to spur laws tightening China's access to AI chips; the AI Overwatch Act, Chip Security Act and Match Act could be attached to the FY2027 defence bill. Wired and The Verge cover the fallout across the industry.",
+       "pt": "A Reuters noticia que as alegações de espionagem deverão impulsionar leis que restringem o acesso da China a chips de I.A.; o AI Overwatch Act, o Chip Security Act e o Match Act poderão ser anexados à lei da defesa do ano fiscal de 2027. A Wired e a The Verge cobrem as repercussões na indústria."
+      }
+     ],
+     "chip": {
+      "en": "FY2027 NDAA",
+      "pt": "NDAA 2027"
+     },
+     "link": {
+      "url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+       "name": "Wired"
+      },
+      {
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+       "name": "The Verge"
+      }
+     ]
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+     "text": {
+      "en": "reports a generative-AI partnership between Disney and Adobe.",
+      "pt": "noticia uma parceria de I.A. generativa entre a Disney e a Adobe."
+     }
+    },
+    {
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
+     "text": {
+      "en": "says Google is escalating its rivalry with Nvidia with new, more specialised versions of its TPU systems.",
+      "pt": "diz que a Google está a intensificar a rivalidade com a Nvidia com novas versões mais especializadas dos seus sistemas TPU."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/",
+     "text": {
+      "en": "reports that Anthropic must face a lawsuit over the marketing of Claude Max subscriptions. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+      "pt": "noticia que a Anthropic tem de enfrentar uma ação sobre o marketing das subscrições Claude Max. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+     }
+    },
+    {
+     "src": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show",
+     "text": {
+      "en": "says documents show Moonshot is renting Nvidia's top B300 AI chips in China.",
+      "pt": "diz que documentos mostram que a Moonshot aluga na China os melhores chips B300 da Nvidia."
+     }
+    },
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai?ref=taaft",
+     "text": {
+      "en": "quotes Paramount Skydance's David Ellison calling AI a creative unlock.",
+      "pt": "cita David Ellison, da Paramount Skydance, a chamar à I.A. um desbloqueio criativo."
+     }
+    }
+   ]
+  },
+  {
+   "id": "comics",
+   "topic": "comics",
+   "title": {
+    "en": "Comics",
+    "pt": "Comics"
+   },
+   "subtitle": {
+    "en": "Comics · Sales, launches and previews",
+    "pt": "Comics · Vendas, lançamentos e antevisões"
+   },
+   "items": [
+    {
+     "id": "wolverine",
+     "topic": "comics",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=H9SJ6673ARM",
+      "img": "e020/wolverine.jpg",
+      "alt": {
+       "en": "Comics by Perch video about Avengers #1",
+       "pt": "Vídeo do Comics by Perch sobre Avengers #1"
+      },
+      "duration": "12:50",
+      "caption": {
+       "en": "Comics by Perch, 5 Nov. Tap to watch on YouTube.",
+       "pt": "Comics by Perch, 5 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Comics · Marvel · Avengers · Wolverine",
+      "pt": "Comics · Marvel · Vingadores · Wolverine"
+     },
+     "headline": {
+      "en": "Wolverine officially joins the new Avengers, with Avengers #2 due on 16 December",
+      "pt": "O Wolverine junta-se oficialmente aos novos Vingadores, com Avengers #2 previsto para 16 de dezembro"
+     },
+     "deck": {
+      "en": "Avengers #1, by Zdarsky, went on sale on 4 November.",
+      "pt": "Avengers #1, de Zdarsky, chegou às bancas a 4 de novembro."
+     },
+     "body": [
+      {
+       "en": "CBR reports that Wolverine is now confirmed as a member of the new Avengers team, which also includes Spider-Man, Captain Marvel, Daredevil, Luke Cage and Miracleman. The line-up comes from Avengers #1, written by Zdarsky and released on 4 November.",
+       "pt": "A CBR noticia que o Wolverine está agora confirmado como membro da nova equipa dos Vingadores, que inclui também Homem-Aranha, Capitã Marvel, Demolidor, Luke Cage e Miracleman. A equipa vem de Avengers #1, escrito por Zdarsky e lançado a 4 de novembro."
+      },
+      {
+       "en": "Avengers #2 is scheduled for 16 December. A video from Comics by Perch, credited here, goes through the first issue.",
+       "pt": "Avengers #2 está marcado para 16 de dezembro. Um vídeo do Comics by Perch, creditado aqui, analisa o primeiro número."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Issue",
+        "pt": "Número"
+       },
+       "v": {
+        "en": "Avengers #1",
+        "pt": "Avengers #1"
+       }
+      },
+      {
+       "k": {
+        "en": "Writer",
+        "pt": "Argumentista"
+       },
+       "v": {
+        "en": "Zdarsky",
+        "pt": "Zdarsky"
+       }
+      },
+      {
+       "k": {
+        "en": "On sale",
+        "pt": "À venda"
+       },
+       "v": {
+        "en": "4 November",
+        "pt": "4 de novembro"
+       }
+      },
+      {
+       "k": {
+        "en": "Next issue",
+        "pt": "Próximo número"
+       },
+       "v": {
+        "en": "16 December",
+        "pt": "16 de dezembro"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.cbr.com/marvel-comics-wolverine-joins-avengers/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "alfred",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Comics · DC · Batman & Robin · 11 Nov",
+      "pt": "Comics · DC · Batman & Robin · 11 nov"
+     },
+     "headline": {
+      "en": "Batman & Robin: Year One – Dynamic Duos #4 sees Alfred leave",
+      "pt": "Batman & Robin: Year One – Dynamic Duos #4 mostra a saída de Alfred"
+     },
+     "body": [
+      {
+       "en": "CBR reports that Alfred leaves in Batman & Robin: Year One – Dynamic Duos #4, on sale on 11 November.",
+       "pt": "A CBR noticia que Alfred sai em Batman & Robin: Year One – Dynamic Duos #4, à venda a 11 de novembro."
+      }
+     ],
+     "chip": {
+      "en": "11 Nov",
+      "pt": "11 nov"
+     },
+     "link": {
+      "url": "https://www.cbr.com/batman-robin-year-one-dynamic-duos-4-alfred-leaves/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "content",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Image · Graphic novel · AI and Hollywood",
+      "pt": "Comics · Image · Romance gráfico · I.A. e Hollywood"
+     },
+     "headline": {
+      "en": "Image's graphic novel Content takes on AI and Hollywood",
+      "pt": "O romance gráfico Content, da Image, aborda a I.A. e Hollywood"
+     },
+     "body": [
+      {
+       "en": "The Beat reports that Curt Pires and Ryan Quackenbush are making the original graphic novel Content, which reaches comic shops on 17 February 2027 and the book market on 16 March 2027.",
+       "pt": "A The Beat noticia que Curt Pires e Ryan Quackenbush estão a fazer o romance gráfico original Content, que chega às lojas de comics a 17 de fevereiro de 2027 e ao mercado livreiro a 16 de março de 2027."
+      }
+     ],
+     "chip": {
+      "en": "17 Feb 2027",
+      "pt": "17 fev 2027"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/curt-pires-and-ryan-quackenbush-tackle-ai-and-hollywood-in-original-graphic-novel-content/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "dcgossip",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Comics · DC · Layoffs · Rumour",
+      "pt": "Comics · DC · Despedimentos · Rumor"
+     },
+     "headline": {
+      "en": "Rumour: DC Comics staff reportedly were not offered voluntary layoffs, with Absolute Batman said to be protecting jobs",
+      "pt": "Rumor: ao pessoal da DC Comics não terão sido oferecidos despedimentos voluntários, e o Absolute Batman estaria a proteger empregos"
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool's late-night gossip column says DC Comics was not offered voluntary layoffs and that Absolute Batman is credited with protecting jobs. It is gossip and has not been confirmed.",
+       "pt": "A coluna de mexericos noturna da Bleeding Cool diz que à DC Comics não foram oferecidos despedimentos voluntários e que o Absolute Batman é apontado como protetor de empregos. É mexerico e não foi confirmado."
+      }
+     ],
+     "chip": {
+      "en": "Rumour · Unconfirmed",
+      "pt": "Rumor · Por confirmar"
+     },
+     "link": {
+      "url": "https://bleedingcool.com/comics/late-night-dc-comics-gossip-james-gunn-jeremy-latcham-and-jim-lee/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "CBR",
+     "url": "https://www.cbr.com/star-wars-book-of-boba-fett-luke-skywalker-grogu-return/",
+     "text": {
+      "en": "reports that Star Wars: Book of Boba Fett #5 arrives on 11 November and #6 on 25 November, with Luke and Grogu.",
+      "pt": "noticia que Star Wars: Book of Boba Fett #5 chega a 11 de novembro e o #6 a 25 de novembro, com Luke e Grogu."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/chachu-4-preview-vegas-hangover-meets-violent-consequences/",
+     "text": {
+      "en": "previews Chachu #4, a Vegas hangover with violent consequences.",
+      "pt": "antevê Chachu #4, uma ressaca em Las Vegas com consequências violentas."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/the-fury-of-firestorm-8-preview-lorraines-vision-quest/",
+     "text": {
+      "en": "previews The Fury of Firestorm #8 and Lorraine's vision quest.",
+      "pt": "antevê The Fury of Firestorm #8 e a busca de visões de Lorraine."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/x-men-united-9-preview-emma-frost-meets-her-superior/",
+     "text": {
+      "en": "previews X-Men United #9, in which Emma Frost meets her superior.",
+      "pt": "antevê X-Men United #9, em que Emma Frost conhece a sua superior."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/the-batman-2026-annual-minotaurs-plans-for-gotham-and-the-calculator/",
+     "text": {
+      "en": "previews The Batman 2026 Annual #1, due 25 November at $5.99.",
+      "pt": "antevê The Batman 2026 Annual #1, previsto para 25 de novembro por 5,99 dólares."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manga",
+   "topic": "manga",
+   "title": {
+    "en": "Manga",
+    "pt": "Manga"
+   },
+   "subtitle": {
+    "en": "Manga · Anime adaptations and releases",
+    "pt": "Manga · Adaptações a anime e lançamentos"
+   },
+   "items": [
+    {
+     "id": "noah",
+     "topic": "manga",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Horror · Noah of the Blood Sea · Hollywood",
+      "pt": "Manga · Terror · Noah of the Blood Sea · Hollywood"
+     },
+     "headline": {
+      "en": "Horror manga Noah of the Blood Sea gets a Hollywood live-action film",
+      "pt": "O manga de terror Noah of the Blood Sea vai ter um filme de imagem real em Hollywood"
+     },
+     "deck": {
+      "en": "Tyrus Pictures optioned Yu Satomi's five-volume series; no director or cast has been announced.",
+      "pt": "A Tyrus Pictures adquiriu a opção da série em cinco volumes de Yu Satomi; ainda não foram anunciados realizador nem elenco."
+     },
+     "body": [
+      {
+       "en": "Anime News Network, citing Deadline, reports that Tyrus Pictures optioned the manga from publisher Takeshobo. Production is targeted for 2027, and the story is set aboard a luxury cruise ship.",
+       "pt": "A Anime News Network, citando a Deadline, noticia que a Tyrus Pictures adquiriu a opção do manga à editora Takeshobo. A produção está prevista para 2027 e a história passa-se a bordo de um cruzeiro de luxo."
+      },
+      {
+       "en": "Dread Central and Bloody Disgusting also report the deal. Yu Satomi's series runs five volumes and has an English release in North America; the film has no director or cast yet.",
+       "pt": "A Dread Central e a Bloody Disgusting também noticiam o negócio. A série de Yu Satomi tem cinco volumes e edição em inglês na América do Norte; o filme ainda não tem realizador nem elenco."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Author",
+        "pt": "Autor"
+       },
+       "v": {
+        "en": "Yu Satomi",
+        "pt": "Yu Satomi"
+       }
+      },
+      {
+       "k": {
+        "en": "Volumes",
+        "pt": "Volumes"
+       },
+       "v": {
+        "en": "5",
+        "pt": "5"
+       }
+      },
+      {
+       "k": {
+        "en": "Producer",
+        "pt": "Produtora"
+       },
+       "v": {
+        "en": "Tyrus Pictures",
+        "pt": "Tyrus Pictures"
+       }
+      },
+      {
+       "k": {
+        "en": "Production",
+        "pt": "Produção"
+       },
+       "v": {
+        "en": "Targeted for 2027",
+        "pt": "Prevista para 2027"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-09/deadline-noah-of-the-blood-sea-manga-gets-hollywood-live-action-film-adaptation/.243654",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.dreadcentral.com/comics-books/597132/noah-of-the-blood-sea-horror-manga-movie-adaptation/",
+       "name": "Dread Central"
+      },
+      {
+       "url": "https://bloody-disgusting.com/movie/3975175/horror-manga-noah-of-the-blood-sea-feature-adaptation-to-unleash-terror-aboard-luxury-cruise-ship/",
+       "name": "Bloody Disgusting"
+      }
+     ]
+    },
+    {
+     "id": "sheep",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Live action · Kyūgō · Monster in Sheep's Clothing",
+      "pt": "Manga · Imagem real · Kyūgō · Monster in Sheep's Clothing"
+     },
+     "headline": {
+      "en": "Kyūgō's Monster in Sheep's Clothing live-action film opens in Japan on 11 December",
+      "pt": "O filme de imagem real de Monster in Sheep's Clothing, de Kyūgō, estreia no Japão a 11 de dezembro"
+     },
+     "body": [
+      {
+       "en": "Anime News Network and Natalie report that the film of the BL manga, directed by Nobuyuki Suzuki and starring Haru Kashiwagi, opens on 11 December. It premiered at TIFF on 28 October.",
+       "pt": "A Anime News Network e a Natalie noticiam que o filme do manga BL, realizado por Nobuyuki Suzuki e com Haru Kashiwagi, estreia a 11 de dezembro. Teve estreia no TIFF a 28 de outubro."
+      }
+     ],
+     "chip": {
+      "en": "11 Dec · Japan",
+      "pt": "11 dez · Japão"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-10/kyugo-monster-in-sheep-clothing-bl-manga-gets-live-action-film/.243671",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://natalie.mu/eiga/news/697315",
+       "name": "Natalie"
+      }
+     ]
+    },
+    {
+     "id": "deathflags",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "calendar",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a calendar",
+       "pt": "Ilustração de um calendário"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Anime · My Death Flags Show No Sign of Ending",
+      "pt": "Manga · Anime · My Death Flags Show No Sign of Ending"
+     },
+     "headline": {
+      "en": "My Death Flags Show No Sign of Ending gets a TV anime in 2027",
+      "pt": "My Death Flags Show No Sign of Ending vai ter um anime de TV em 2027"
+     },
+     "body": [
+      {
+       "en": "Anime News Network reports the light novels will be adapted as a TV anime in 2027. The story also has a manga, drawn by Mitsuya Otosu.",
+       "pt": "A Anime News Network noticia que as light novels vão ser adaptadas a anime de TV em 2027. A história tem também um manga, desenhado por Mitsuya Otosu."
+      }
+     ],
+     "chip": {
+      "en": "2027",
+      "pt": "2027"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-09/my-death-flags-show-no-sign-of-ending-novels-get-tv-anime-in-2027/.243650",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    },
+    {
+     "id": "habou",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Manga · TV drama · Fuji TV · Habou no Wadachi",
+      "pt": "Manga · Série de TV · Fuji TV · Habou no Wadachi"
+     },
+     "headline": {
+      "en": "Fuji TV adapts Yukana Nagate's manga Habou no Wadachi as a January drama with SixTONES' Jesse",
+      "pt": "A Fuji TV adapta o manga Habou no Wadachi, de Yukana Nagate, numa série de janeiro com Jesse, dos SixTONES"
+     },
+     "body": [
+      {
+       "en": "Natalie reports the drama starts in January 2027 and airs on Tuesdays at 9 pm, with Jesse of SixTONES in the lead.",
+       "pt": "A Natalie noticia que a série começa em janeiro de 2027 e é emitida às terças-feiras às 21h, com Jesse, dos SixTONES, no papel principal."
+      }
+     ],
+     "chip": {
+      "en": "Jan 2027",
+      "pt": "jan 2027"
+     },
+     "link": {
+      "url": "https://natalie.mu/eiga/news/697269",
+      "label": {
+       "en": "Read the full story at Natalie →",
+       "pt": "Ler a notícia completa em Natalie →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Natalie",
+     "url": "https://natalie.mu/comic/news/697286",
+     "text": {
+      "en": "reports on the manga adaptation of Kōkyū Mikai no Yomeiri.",
+      "pt": "noticia a adaptação a manga de Kōkyū Mikai no Yomeiri."
+     }
+    },
+    {
+     "src": "Natalie",
+     "url": "https://natalie.mu/comic/news/697124",
+     "text": {
+      "en": "covers the first volume of Hundred Note: Coffin Robin.",
+      "pt": "cobre o primeiro volume de Hundred Note: Coffin Robin."
+     }
+    },
+    {
+     "src": "Natalie",
+     "url": "https://natalie.mu/comic/news/695565",
+     "text": {
+      "en": "lists today's new manga volumes in Japan.",
+      "pt": "lista os novos volumes de manga de hoje no Japão."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manhwa",
+   "topic": "manhwa",
+   "title": {
+    "en": "Manhwa",
+    "pt": "Manhwa"
+   },
+   "subtitle": {
+    "en": "Manhwa · Webtoons and adaptations",
+    "pt": "Manhwa · Webtoons e adaptações"
+   },
+   "items": [
+    {
+     "id": "empress",
+     "topic": "manhwa",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=AwSvOg5CLmg",
+      "img": "e020/empress.jpg",
+      "alt": {
+       "en": "Drama_Demystifiers video: a re-upload of the Disney+ trailer for The Remarried Empress",
+       "pt": "Vídeo do Drama_Demystifiers: reenvio do trailer do Disney+ de The Remarried Empress"
+      },
+      "duration": "1:25",
+      "caption": {
+       "en": "Drama_Demystifiers, 4 Nov (re-upload of the Disney+ trailer). Tap to watch on YouTube.",
+       "pt": "Drama_Demystifiers, 4 nov (reenvio do trailer do Disney+). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Disney+ · The Remarried Empress · Streaming",
+      "pt": "Manhwa · Disney+ · The Remarried Empress · Streaming"
+     },
+     "headline": {
+      "en": "The Remarried Empress, adapted from the Naver webtoon, becomes Disney+'s most-viewed local original premiere, Disney says",
+      "pt": "The Remarried Empress, adaptada do webtoon da Naver, torna-se a estreia de produção local mais vista do Disney+, diz a Disney"
+     },
+     "deck": {
+      "en": "The record is Disney's own claim; the Korea Times reports viewers are divided over costumes and dialogue.",
+      "pt": "O recorde é uma afirmação da própria Disney; o Korea Times diz que os espectadores estão divididos quanto aos figurinos e aos diálogos."
+     },
+     "body": [
+      {
+       "en": "Disney says the series is the most-viewed local original premiere of all time on Disney+ globally and the number one Korean premiere in more than 50 markets. Two episodes arrive every Wednesday from 11 November, and the finale is on 25 November. The webtoon has about 3 billion views.",
+       "pt": "A Disney diz que a série é a estreia de produção local mais vista de sempre no Disney+ a nível mundial e a estreia coreana número um em mais de 50 mercados. Chegam dois episódios todas as quartas-feiras a partir de 11 de novembro e o final é a 25 de novembro. O webtoon tem cerca de 3 mil milhões de visualizações."
+      },
+      {
+       "en": "The Korea Times says viewers are divided over the costumes and dialogue delivery. Dark Horizons also notes the series.",
+       "pt": "O Korea Times diz que os espectadores estão divididos quanto aos figurinos e à forma como os diálogos são ditos. A Dark Horizons também refere a série."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Episodes",
+        "pt": "Episódios"
+       },
+       "v": {
+        "en": "Two every Wednesday",
+        "pt": "Dois todas as quartas"
+       }
+      },
+      {
+       "k": {
+        "en": "Finale",
+        "pt": "Final"
+       },
+       "v": {
+        "en": "25 November",
+        "pt": "25 de novembro"
+       }
+      },
+      {
+       "k": {
+        "en": "Source",
+        "pt": "Origem"
+       },
+       "v": {
+        "en": "Naver webtoon",
+        "pt": "Webtoon da Naver"
+       }
+      },
+      {
+       "k": {
+        "en": "Record claim",
+        "pt": "Recorde"
+       },
+       "v": {
+        "en": "Disney's claim",
+        "pt": "Afirmação da Disney"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://press.disney.co.uk/news/romantic-epic-the-remarried-empress-becomes-the-most-viewed-local-original-premiere-of-all-time-on-disney-plus-globally",
+      "label": {
+       "en": "Read the full story at Disney →",
+       "pt": "Ler a notícia completa em Disney →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.koreatimes.co.kr/entertainment/20261110/the-remarried-empress-viewers-divided-over-costumes-dialogue-delivery",
+       "name": "Korea Times"
+      },
+      {
+       "url": "https://www.darkhorizons.com/quick-news-spy-look-out-miami-empress/",
+       "name": "Dark Horizons"
+      }
+     ]
+    },
+    {
+     "id": "webtoonq3",
+     "topic": "manhwa",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Webtoon Entertainment · Q3 results",
+      "pt": "Manhwa · Webtoon Entertainment · Resultados do 3.º trimestre"
+     },
+     "headline": {
+      "en": "Webtoon Entertainment's third-quarter revenue falls 4% and it posts a $9.23 million operating loss",
+      "pt": "A receita do terceiro trimestre da Webtoon Entertainment cai 4% e a empresa regista um prejuízo operacional de 9,23 milhões de dólares"
+     },
+     "body": [
+      {
+       "en": "Seoul Economic Daily reports a roughly 13.1 billion won operating loss. The company is co-producing about 15 titles with HAYATE and Crunchyroll, including The Remarried Empress and The Boxer, and a title called Ballad of a Hero topped the daily revenue rankings.",
+       "pt": "O Seoul Economic Daily noticia um prejuízo operacional de cerca de 13,1 mil milhões de won. A empresa coproduz cerca de 15 títulos com a HAYATE e a Crunchyroll, incluindo The Remarried Empress e The Boxer, e um título chamado Ballad of a Hero liderou o ranking diário de receitas."
+      }
+     ],
+     "chip": {
+      "en": "Revenue −4%",
+      "pt": "Receita −4%"
+     },
+     "link": {
+      "url": "https://en.sedaily.com/business/2026/11/10/webtoon-entertainment-q3-revenue-falls-4-percent-as-ip",
+      "label": {
+       "en": "Read the full story at Seoul Economic Daily →",
+       "pt": "Ler a notícia completa em Seoul Economic Daily →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://ground.news/article/webtoon-entertainment-reports-131-billion-won-operating-loss-in-q3-revenue-down-4-year-over-year",
+       "name": "Ground News"
+      },
+      {
+       "url": "https://www.mitrade.com/insights/news/live-news/article-8-2244347-20261110",
+       "name": "Mitrade"
+      }
+     ]
+    },
+    {
+     "id": "ryan",
+     "topic": "manhwa",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Kakao · AI short · Still, Ryan",
+      "pt": "Manhwa · Kakao · Curta de I.A. · Still, Ryan"
+     },
+     "headline": {
+      "en": "Kakao's five-minute AI short Still, Ryan, based on a webtoon, is made with ChatGPT images",
+      "pt": "A curta de I.A. de cinco minutos da Kakao, Still, Ryan, baseada num webtoon, é feita com imagens do ChatGPT"
+     },
+     "body": [
+      {
+       "en": "Edaily reports the short, directed by Han Ji-won, used about 1,500 prompts per scene with OpenAI's ChatGPT image tool. It is released on 11 November.",
+       "pt": "O Edaily noticia que a curta, realizada por Han Ji-won, usou cerca de 1500 prompts por cena com a ferramenta de imagens ChatGPT da OpenAI. Estreia a 11 de novembro."
+      }
+     ],
+     "chip": {
+      "en": "11 Nov",
+      "pt": "11 nov"
+     },
+     "link": {
+      "url": "https://en.edaily.co.kr/news/eda202611105179/",
+      "label": {
+       "en": "Read the full story at Edaily →",
+       "pt": "Ler a notícia completa em Edaily →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Tappytoon",
+     "url": "https://www.tappytoon.com/en/book/the-villainess-starts-from-scratch",
+     "text": {
+      "en": "offers Episode 1 of The Villainess Starts from Scratch free on 10 November.",
+      "pt": "oferece o Episódio 1 de The Villainess Starts from Scratch gratuitamente a 10 de novembro."
+     }
+    },
+    {
+     "src": "NoCut News",
+     "url": "https://en.nocutnews.co.kr/news/6604741",
+     "text": {
+      "en": "reports that Kakao Page is adding four new webtoons in November, including Damn Reincarnation.",
+      "pt": "noticia que a Kakao Page vai acrescentar quatro novos webtoons em novembro, incluindo Damn Reincarnation."
+     }
+    },
+    {
+     "src": "NoCut News",
+     "url": "https://en.nocutnews.co.kr/news/6604422",
+     "text": {
+      "en": "says a Marvel Comics app with Webtoon and Disney arrives on 16 November, and that Mafia Nanny is headed to Hulu.",
+      "pt": "diz que uma app da Marvel Comics com a Webtoon e a Disney chega a 16 de novembro, e que Mafia Nanny segue para o Hulu."
+     }
+    }
+   ]
+  }
+ ],
+ "footer": {
+  "en": "Compiled from 37 outlets, 79 articles, 15 videos. Summaries only; see the linked sources. Video thumbnails belong to their channels (Mr H Reviews, Noah Explains, Kristian Harloff, Spaceflight Now, BotUprising, Comics by Perch, Drama_Demystifiers, GameTrailers, Glitch Unlimited, Daily Silksong News, Bloomberg Podcasts, NASA, NDTV, 7NEWS Australia, JaySym_AI).",
+  "pt": "Compilado a partir de 37 meios, 79 artigos e 15 vídeos. Apenas resumos; consulte as fontes ligadas. As miniaturas dos vídeos pertencem aos respetivos canais (Mr H Reviews, Noah Explains, Kristian Harloff, Spaceflight Now, BotUprising, Comics by Perch, Drama_Demystifiers, GameTrailers, Glitch Unlimited, Daily Silksong News, Bloomberg Podcasts, NASA, NDTV, 7NEWS Australia, JaySym_AI)."
+ },
+ "footerline": "The Daily Respawn · Edition 020 · 10 Nov 2026, 10:17 Angola time"
+}
