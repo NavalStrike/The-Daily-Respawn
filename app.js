@@ -1,325 +1,345 @@
-/* The Daily Respawn — PWA. Vanilla JS, no build step. */
+/* The Daily Respawn: PWA. Vanilla JS, no build step. Editorial layout: header + topic nav, hero grid, topic sections, article reader, search, archive. */
 (function () {
   'use strict';
-  var TOPICS = ['games', 'movies', 'tech', 'ai', 'comics', 'manga', 'manhwa'];
-  var UI = {
-    en: { language: 'Language', edition: 'Edition', daily: 'Daily edition', tz: 'Angola time', cover: 'COVER STORY', inIssue: 'In this issue', browse: 'Browse by topic', all: 'All', saved: 'Saved', archive: 'Archive', install: 'Install', offline: 'Offline', note: "Editor's note", inside: 'Inside this issue', prev: 'Prev', next: 'Next', swipe: 'Swipe to turn the page', end: "That's all for this edition", back: 'Back to cover', video: 'VIDEO', watch: 'Watch the video', facts: 'Fast facts', also: 'Also reported by:', creators: 'Creators', co: 'Co-creators', close: 'Close', save: 'Save', unsave: 'Remove from saved', nosaved: 'Nothing saved yet. Tap the star on a story to keep it here.', loading: 'Loading…', fail: 'Could not load the magazine. Check your connection and try again.', retry: 'Try again', topics: { all: 'All', saved: 'Saved', games: 'Games', movies: 'Movies', tech: 'Tech', ai: 'A.I.', comics: 'Comics', manga: 'Manga', manhwa: 'Manhwa' } },
-    pt: { language: 'Idioma', edition: 'Edição', daily: 'Edição diária', tz: 'hora de Angola', cover: 'HISTÓRIA DE CAPA', inIssue: 'Nesta edição', browse: 'Navegar por tema', all: 'Tudo', saved: 'Guardados', archive: 'Arquivo', install: 'Instalar', offline: 'Sem ligação', note: 'Nota do editor', inside: 'Nesta edição', prev: 'Ant.', next: 'Seg.', swipe: 'Deslize para virar a página', end: 'É tudo por esta edição', back: 'Voltar à capa', video: 'VÍDEO', watch: 'Ver o vídeo', facts: 'Em resumo', also: 'Também noticiado por:', creators: 'Criadores', co: 'Cocriadores', close: 'Fechar', save: 'Guardar', unsave: 'Remover dos guardados', nosaved: 'Ainda não guardou nada. Toque na estrela de uma notícia para a guardar aqui.', loading: 'A carregar…', fail: 'Não foi possível carregar a revista. Verifique a ligação e tente novamente.', retry: 'Tentar novamente', topics: { all: 'Tudo', saved: 'Guardados', games: 'Jogos', movies: 'Filmes', tech: 'Tech', ai: 'I.A.', comics: 'Comics', manga: 'Manga', manhwa: 'Manhwa' } }
+  const TOPICS = ['games', 'movies', 'tech', 'ai', 'comics', 'manga', 'manhwa'];
+  const UI = {
+    en: { edition: 'Edition', daily: 'Daily edition', tz: 'Angola time', cover: 'Cover story', inIssue: 'In this issue', all: 'All', saved: 'Saved', archive: 'Archive', install: 'Install', offline: 'Offline', note: "Editor's note", video: 'VIDEO', watch: 'Watch on YouTube', facts: 'Fast facts', also: 'Also reported by:', creators: 'Creators', co: 'Co-creators', close: 'Close', save: 'Save', unsave: 'Remove from saved', nosaved: 'Nothing saved yet. Tap the star on a story to keep it here.', loading: 'Loading…', fail: 'Could not load the magazine. Check your connection and try again.', retry: 'Try again', search: 'Search', searchPh: 'Search this edition', noResults: 'No stories match your search.', searchHint: 'Type a name, a game, a film or a topic.', theme: 'Switch theme', back: 'Back', share: 'Share', copied: 'Link copied', minRead: 'min read', quick: 'Quick hits', stories: 'stories', update: 'Update', prev: 'Previous story', next: 'Next story', related: 'More in', nextEd: 'Next edition tomorrow at 09:00 Angola time', skip: 'Skip to content', topicsLbl: 'Topics', topics: { all: 'All', saved: 'Saved', games: 'Games', movies: 'Movies', tech: 'Tech', ai: 'A.I.', comics: 'Comics', manga: 'Manga', manhwa: 'Manhwa' } },
+    pt: { edition: 'Edição', daily: 'Edição diária', tz: 'hora de Angola', cover: 'História de capa', inIssue: 'Nesta edição', all: 'Tudo', saved: 'Guardados', archive: 'Arquivo', install: 'Instalar', offline: 'Sem ligação', note: 'Nota do editor', video: 'VÍDEO', watch: 'Ver no YouTube', facts: 'Em resumo', also: 'Também noticiado por:', creators: 'Criadores', co: 'Cocriadores', close: 'Fechar', save: 'Guardar', unsave: 'Remover dos guardados', nosaved: 'Ainda não guardou nada. Toque na estrela de uma notícia para a guardar aqui.', loading: 'A carregar…', fail: 'Não foi possível carregar a revista. Verifique a ligação e tente novamente.', retry: 'Tentar novamente', search: 'Pesquisar', searchPh: 'Pesquisar nesta edição', noResults: 'Nenhuma notícia corresponde à pesquisa.', searchHint: 'Escreva um nome, um jogo, um filme ou um tema.', theme: 'Mudar de tema', back: 'Voltar', share: 'Partilhar', copied: 'Ligação copiada', minRead: 'min de leitura', quick: 'Destaques rápidos', stories: 'notícias', update: 'Atualização', prev: 'Notícia anterior', next: 'Notícia seguinte', related: 'Mais em', nextEd: 'Próxima edição amanhã às 09:00, hora de Angola', skip: 'Saltar para o conteúdo', topicsLbl: 'Temas', topics: { all: 'Tudo', saved: 'Guardados', games: 'Jogos', movies: 'Filmes', tech: 'Tech', ai: 'I.A.', comics: 'Comics', manga: 'Manga', manhwa: 'Manhwa' } }
   };
+  const state = { lang: 'en', topic: 'all', ed: null, index: null, saved: {}, items: [], byId: {}, reading: null, pushed: false, lastFocus: null };
+  const $ = (id) => document.getElementById(id);
+  const main = $('main'), reader = $('reader'), searchBox = $('search'), drawer = $('drawer');
+  const t = (k) => UI[state.lang][k];
+  const L = (o) => (o ? (o[state.lang] || o.en || '') : '');
+  const norm = (s) => (s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
-  var state = { lang: 'en', topic: 'all', idx: 0, ed: null, index: null, pages: [], track: null, saved: {} };
-  var app = document.getElementById('app');
-  var t = function (k) { return UI[state.lang][k]; };
-  var L = function (o) { return o ? (o[state.lang] || o.en || '') : ''; };
-
-  function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) {} return null; }
-  function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
-  function link(href, text, cls) { var a = el('a', cls, text); a.href = href; a.target = '_blank'; a.rel = 'noopener noreferrer'; return a; }
-
-  /* ---------- dates ---------- */
-  function fmtDate(iso, long) {
-    var d = new Date(iso), loc = state.lang === 'pt' ? 'pt-PT' : 'en-GB';
-    try {
-      return new Intl.DateTimeFormat(loc, long ? { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Africa/Luanda' } : { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric', timeZone: 'Africa/Luanda' }).format(d).replace(/,/g, '');
-    } catch (e) { return d.toDateString(); }
-  }
-  function fmtTime(iso) {
-    try { return new Intl.DateTimeFormat('en-GB', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'Africa/Luanda' }).format(new Date(iso)); } catch (e) { return ''; }
-  }
+  function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { /* storage unavailable */ } return null; }
+  function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function ext(href, text, cls) { const a = el('a', cls, text); a.href = href; a.target = '_blank'; a.rel = 'noopener noreferrer'; return a; }
   function pad3(n) { return ('00' + n).slice(-3); }
+  function fmtDate(iso, long) {
+    const loc = state.lang === 'pt' ? 'pt-PT' : 'en-GB';
+    try { return new Intl.DateTimeFormat(loc, long ? { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Africa/Luanda' } : { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric', timeZone: 'Africa/Luanda' }).format(new Date(iso)); } catch (e) { return new Date(iso).toDateString(); }
+  }
+  function fmtTime(iso) { try { return new Intl.DateTimeFormat('en-GB', { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'Africa/Luanda' }).format(new Date(iso)); } catch (e) { return ''; } }
+  const topicName = (k) => UI[state.lang].topics[k] || k;
 
-  /* ---------- render (vertical markup, then paged) ---------- */
+  /* ---------- data model ---------- */
+  function indexEdition() {
+    state.items = []; state.byId = {};
+    (state.ed.sections || []).forEach((sec) => (sec.items || []).forEach((a) => { const it = { a: a, sec: sec, cover: sec.id === 'cover-section' }; state.items.push(it); state.byId[a.id] = it; }));
+  }
+  function coverItem() { const ed = state.ed; return (ed.cover && state.byId[ed.cover.target]) || state.items[0] || null; }
+  function isUpdate(a) { return !!a.upd || /^(update|atualiza)/i.test(L(a.headline)); }
+  function readMins(a) { const words = [L(a.deck)].concat((a.body || []).map(L)).join(' ').split(/\s+/).length; return Math.max(1, Math.round(words / 200)); }
+  function sourceName(a) { return a.link && (a.link.name || (L(a.link.label).match(/(?:at|em) (.+?) →/) || [])[1]) || ''; }
+
+  /* ---------- pieces ---------- */
   function icon(name) {
-    var ns = 'http://www.w3.org/2000/svg', s = document.createElementNS(ns, 'svg');
-    s.setAttribute('viewBox', '0 0 100 100'); s.setAttribute('width', '46%'); s.setAttribute('height', '46%'); s.setAttribute('aria-hidden', 'true'); s.style.display = 'block';
-    var u = document.createElementNS(ns, 'use'); u.setAttribute('href', '#i-' + name); s.appendChild(u); return s;
+    const ns = 'http://www.w3.org/2000/svg', s = document.createElementNS(ns, 'svg');
+    s.setAttribute('viewBox', '0 0 100 100'); s.setAttribute('aria-hidden', 'true');
+    const u = document.createElementNS(ns, 'use'); u.setAttribute('href', '#i-' + name); s.appendChild(u); return s;
   }
-  function shot(m, big) {
-    var a = link(m.url, '', 'shot');
-    var i = el('img'); i.src = 'img/' + m.img; i.alt = L(m.alt); i.loading = 'lazy'; a.appendChild(i);
-    var pb = el('span', 'pb'); pb.setAttribute('aria-hidden', 'true'); a.appendChild(pb);
-    if (m.duration) a.appendChild(el('span', 'tm', m.duration));
-    a.appendChild(el('span', 'sr', t('watch')));
-    return a;
+  function artEl(m) { const d = el('div', 'art ' + (m.tone || '')); d.setAttribute('role', 'img'); d.setAttribute('aria-label', L(m.alt)); d.appendChild(icon(m.icon)); return d; }
+  function thumb(m, eager) {
+    if (m && m.type === 'video') {
+      const w = el('div', 'media'), i = el('img'); i.src = 'img/' + m.img; i.alt = L(m.alt); i.loading = eager ? 'eager' : 'lazy'; i.decoding = 'async'; w.appendChild(i);
+      const pb = el('span', 'pb'); pb.setAttribute('aria-hidden', 'true'); w.appendChild(pb);
+      if (m.duration) w.appendChild(el('span', 'tm', m.duration)); return w;
+    }
+    if (m && m.type === 'photo') return photoEl(m, eager);
+    return m && m.type === 'icon' ? artEl(m) : el('div', 'art');
   }
-  function artEl(m) {
-    var d = el('div', 'art ' + (m.tone || '')); d.setAttribute('role', 'img'); d.setAttribute('aria-label', L(m.alt));
-    d.style.display = 'grid'; d.style.placeItems = 'center'; d.appendChild(icon(m.icon)); return d;
+  /* Photo from the source article (hot-linked, never copied). Falls back to the branded icon card if it fails to load. */
+  function photoEl(m, eager) {
+    const w = el('div', 'media'), i = el('img'); i.referrerPolicy = 'no-referrer'; i.src = m.src; i.alt = L(m.alt); i.loading = eager ? 'eager' : 'lazy'; i.decoding = 'async';
+    i.addEventListener('error', () => { const fb = artEl(m.fallback || { icon: 'globe', alt: m.alt }); if (w.parentNode) w.parentNode.replaceChild(fb, w); });
+    w.appendChild(i); return w;
   }
   function favBtn(id) {
-    var b = el('button', 'fav'); b.type = 'button'; b.dataset.id = id;
-    var on = !!state.saved[id]; b.textContent = on ? '★' : '☆'; b.setAttribute('aria-pressed', String(on)); b.setAttribute('aria-label', on ? t('unsave') : t('save'));
-    return b;
+    const b = el('button', 'fav'); b.type = 'button'; b.dataset.id = id; paintFav(b); return b;
   }
-  function article(a) {
-    var feat = a.kind === 'feature', root = el('article', (feat ? 'feature ' : 'card ') + a.topic); root.id = a.id;
-    var m = a.media || {};
-    if (feat) {
-      var left = el('div');
-      if (m.type === 'video') { left.appendChild(shot(m)); if (m.caption) { var cap = el('p', 'cap'); cap.appendChild(el('b', null, t('video'))); cap.appendChild(document.createTextNode(L(m.caption))); left.appendChild(cap); } }
-      else if (m.type === 'icon') left.appendChild(artEl(m));
-      var body = el('div', 'body');
-      body.appendChild(el('p', 'kick', L(a.kicker)));
-      body.appendChild(el('h3', null, L(a.headline)));
-      if (a.deck) body.appendChild(el('p', 'deck', L(a.deck)));
-      var cols = el('div', 'cols');
-      (a.body || []).forEach(function (p, i) { cols.appendChild(el('p', i === 0 ? 'dropcap' : null, L(p))); });
-      body.appendChild(cols);
-      if (a.facts && a.facts.length) {
-        body.appendChild(el('p', 'facts-head', t('facts')));
-        var dl = el('dl', 'facts');
-        a.facts.forEach(function (f) { var d = el('div'); d.appendChild(el('dt', null, L(f.k))); d.appendChild(el('dd', null, L(f.v))); dl.appendChild(d); });
-        body.appendChild(dl);
-      }
-      if (a.link) body.appendChild(link(a.link.url, L(a.link.label), 'more'));
-      if (a.also && a.also.length) {
-        var s = el('p', 'srcs', t('also') + ' ');
-        a.also.forEach(function (x, i) { if (i) s.appendChild(document.createTextNode(' · ')); s.appendChild(link(x.url, x.name)); });
-        body.appendChild(s);
-      }
-      root.appendChild(left); root.appendChild(body);
-    } else {
-      if (m.type === 'video') root.appendChild(shot(m)); else if (m.type === 'icon') root.appendChild(artEl(m));
-      var txt = el('div', 'txt');
-      txt.appendChild(el('p', 'tagline', L(a.kicker)));
-      txt.appendChild(el('h4', null, L(a.headline)));
-      (a.body || []).forEach(function (p) { txt.appendChild(el('p', null, L(p))); });
-      if (a.chip) txt.appendChild(el('span', 'chip', L(a.chip)));
-      if (a.link) txt.appendChild(link(a.link.url, L(a.link.label), 'more'));
-      root.appendChild(txt);
-    }
-    root.appendChild(favBtn(a.id));
-    return root;
+  function paintFav(b) { const on = !!state.saved[b.dataset.id]; b.textContent = on ? '★' : '☆'; b.setAttribute('aria-pressed', String(on)); b.setAttribute('aria-label', on ? t('unsave') : t('save')); }
+  function card(it, lead) {
+    const a = it.a, c = el('article', 'card' + (lead ? ' lead' : '')); c.dataset.t = a.topic; c.id = a.id;
+    c.appendChild(thumb(a.media, lead));
+    const meta = el('div', 'meta'), b = el('span', 'badge', topicName(a.topic)); meta.appendChild(b);
+    if (isUpdate(a)) meta.appendChild(el('span', 'chip upd', t('update')));
+    if (a.chip) meta.appendChild(el('span', 'chip', L(a.chip)));
+    c.appendChild(meta);
+    const h = el('h3'), link = el('a', null, L(a.headline)); link.href = '#story-' + a.id; h.appendChild(link); c.appendChild(h);
+    const sn = (a.deck ? L(a.deck) : L((a.body || [])[0])); if (sn) c.appendChild(el('p', 'snip', sn));
+    const foot = el('div', 'meta'); foot.appendChild(el('span', null, sourceName(a))); foot.appendChild(el('span', null, readMins(a) + ' ' + t('minRead'))); foot.appendChild(favBtn(a.id)); c.appendChild(foot);
+    return c;
   }
   function briefEl(sec) {
-    var as = el('aside', 'brief ' + sec.topic); as.id = sec.id + '-brief';
-    as.appendChild(el('h4', null, L(sec.title) + ' · ' + (state.lang === 'pt' ? 'Destaques rápidos' : 'Quick hits')));
-    var ul = el('ul');
-    sec.brief.forEach(function (b) { var li = el('li'); li.appendChild(link(b.url, b.src)); li.appendChild(document.createTextNode(' ' + L(b.text))); ul.appendChild(li); });
+    const as = el('aside', 'brief'); as.dataset.t = sec.topic; as.setAttribute('aria-label', L(sec.title) + ' · ' + t('quick'));
+    as.appendChild(el('h3', null, L(sec.title) + ' · ' + t('quick')));
+    const ul = el('ul');
+    (sec.brief || []).forEach((b) => { const li = el('li'); li.appendChild(ext(b.url, b.src)); li.appendChild(document.createTextNode(' ' + L(b.text))); ul.appendChild(li); });
     as.appendChild(ul); return as;
   }
-  function secTopic(sec) { return sec.topic === 'cover-section' ? '' : sec.topic; }
-
-  function buildPages() {
-    var ed = state.ed, pages = [];
-    function page(cls, topic, id) { var p = el('section', 'pg ' + cls); if (topic) p.dataset.t = topic; if (id) p.dataset.id = id; var i = el('div', 'pgi'); p.appendChild(i); p._i = i; pages.push(p); return p; }
-    function tab(title, sub) { var d = el('div', 'tab'); d.appendChild(el('h2', null, title)); if (sub) d.appendChild(el('span', null, sub)); return d; }
-
-    /* cover */
-    var p = page('pg-cover'), cov = el('header', 'cover');
-    var mast = el('div', 'mast'); mast.appendChild(el('h1', 'sr', 'The Daily Respawn'));
-    var logo = el('img', 'logo-banner'); logo.src = 'img/respawn-logo.jpg'; logo.alt = 'The Daily Respawn logo'; mast.appendChild(logo);
-    var iss = el('div', 'issue');
-    iss.appendChild(el('span', null, t('edition') + ' ' + pad3(ed.number) + ' · ' + t('daily')));
-    iss.appendChild(el('span', null, fmtDate(ed.publishedAt, true) + ' · ' + fmtTime(ed.publishedAt) + ' ' + t('tz')));
-    iss.appendChild(el('span', null, TOPICS.map(function (k) { return t('topics')[k]; }).join(' · ')));
-    mast.appendChild(iss); cov.appendChild(mast);
-    var grid = el('div', 'cover-grid');
-    var ca = el('a', 'cover-art'); ca.href = '#' + ed.cover.target; ca.style.textDecoration = 'none';
-    var st = el('div', 'stamp'); st.setAttribute('aria-label', t('edition')); st.appendChild(el('b', null, t('edition'))); st.appendChild(el('strong', null, pad3(ed.number))); st.appendChild(el('span', null, fmtDate(ed.publishedAt))); st.appendChild(el('span', null, fmtTime(ed.publishedAt) + ' ' + t('tz'))); ca.appendChild(st);
-    var cs = el('div', 'shot cover-shot'), ci = el('img'); ci.src = 'img/' + ed.cover.img; ci.alt = L(ed.cover.alt); cs.appendChild(ci); ca.appendChild(cs);
-    var ov = el('div', 'overlay'); ov.appendChild(el('span', 'k', t('cover'))); ov.appendChild(el('h2', null, L(ed.cover.headline))); ca.appendChild(ov); grid.appendChild(ca);
-    var lines = el('nav', 'lines'); lines.setAttribute('aria-label', t('inIssue')); lines.appendChild(el('h3', null, t('inIssue')));
-    ed.sections.forEach(function (sec) {
-      if (sec.topic === 'cover-section' || !sec.items.length) return;
-      var f = sec.items[0], a = el('a', f.topic); a.href = '#' + f.id; a.appendChild(el('small', null, L(sec.title))); a.appendChild(el('strong', null, L(f.headline))); lines.appendChild(a);
+  function sectionEl(title, sub, topic, list, brief) {
+    const s = el('section', 'sec'); s.dataset.t = topic; s.id = 'sec-' + topic;
+    const hd = el('div', 'sec-head'), h = el('h2', null, title); hd.appendChild(h); hd.appendChild(el('span', null, sub)); s.appendChild(hd);
+    const g = el('div', 'grid'); g.dataset.n = String(Math.max(0, list.length - 1));
+    list.forEach((it, i) => g.appendChild(card(it, i === 0)));
+    if (brief) g.appendChild(brief);
+    s.appendChild(g); return s;
+  }
+  function sectionsView(topic) {
+    const frag = document.createDocumentFragment(), ci = coverItem();
+    (state.ed.sections || []).forEach((sec) => {
+      if (sec.id === 'cover-section' || sec.topic === 'cover-section') return;
+      if (topic !== 'all' && sec.topic !== topic) return;
+      let list = (sec.items || []).map((a) => state.byId[a.id]);
+      if (topic !== 'all' && ci && ci.a.topic === sec.topic) list.unshift(ci);
+      const n = list.length;
+      frag.appendChild(sectionEl(L(sec.title), n + ' ' + t('stories'), sec.topic, list, sec.brief && sec.brief.length ? briefEl(sec) : null));
     });
-    grid.appendChild(lines);
-    var tb = el('div', 'topicbar'); tb.setAttribute('role', 'group'); tb.setAttribute('aria-label', t('browse')); tb.appendChild(el('b', null, t('browse')));
-    ['all'].concat(TOPICS).concat(['saved']).forEach(function (k) { var b = el('button', null, t('topics')[k]); b.type = 'button'; b.dataset.t = k; b.setAttribute('aria-pressed', String(state.topic === k)); tb.appendChild(b); });
-    grid.appendChild(tb); cov.appendChild(grid);
-    var cr = el('p', 'credits'); var s1 = el('span'); s1.appendChild(el('b', null, t('creators'))); s1.appendChild(document.createTextNode(' Pedro Nanjamba & Anderson Naval'));
-    var s2 = el('span'); s2.appendChild(el('b', null, t('co'))); s2.appendChild(document.createTextNode(state.lang === 'pt' ? ' Paulo Anjos e Sandro Ndala' : ' Paulo Anjos and Sandro Ndala')); cr.appendChild(s1); cr.appendChild(s2); cov.appendChild(cr);
-    p._i.appendChild(cov);
-
-    /* inside */
-    p = page('pg-inside'); p.id = 'inside'; p._i.appendChild(tab(t('inside')));
-    var note = el('div', 'note'); note.appendChild(el('b', null, t('note'))); ed.note.forEach(function (n) { note.appendChild(el('p', null, L(n))); }); p._i.appendChild(note);
-    var toc = el('nav', 'toc'); toc.setAttribute('aria-label', 'Sections');
-    ed.sections.forEach(function (sec) { var a = el('a', null, L(sec.title)); a.href = '#' + sec.id; toc.appendChild(a); });
-    p._i.appendChild(toc);
-
-    /* stories */
-    ed.sections.forEach(function (sec) {
-      var first = true;
-      function add(node, topic, id) {
-        var pg = page('spread ' + (sec.topic === 'cover-section' ? 'cover-sec' : sec.topic), topic, id);
-        if (first) { pg.id = sec.id; first = false; }
-        pg._i.appendChild(tab(L(sec.title), L(sec.subtitle)));
-        var body = el('div', 'spread-body'); body.appendChild(node); pg._i.appendChild(body);
-      }
-      sec.items.forEach(function (a) { add(article(a), a.topic, a.id); });
-      if (sec.brief && sec.brief.length) add(briefEl(sec), secTopic(sec), null);
-    });
-
-    /* end */
-    p = page('pg-end'); p._i.appendChild(tab(t('end')));
-    var foot = el('footer'); foot.appendChild(el('span', null, 'The Daily Respawn · ' + t('edition') + ' ' + pad3(ed.number) + ' · ' + fmtDate(ed.publishedAt) + ', ' + fmtTime(ed.publishedAt) + ' ' + t('tz'))); foot.appendChild(el('span', null, L(ed.footer))); p._i.appendChild(foot);
-    var back = el('button', 'toBack', t('back')); back.type = 'button'; back.dataset.act = 'cover'; p._i.appendChild(back);
-    return pages;
+    return frag;
   }
-
-  /* ---------- pager ---------- */
-  var nav = null;
-  function vis() { return state.pages.filter(function (x) { return !x.classList.contains('is-hidden'); }); }
-  function applyFilter() {
-    var T = state.topic;
-    state.pages.forEach(function (pg) {
-      var hide = false;
-      if (pg.dataset.t || pg.classList.contains('spread')) {
-        if (T === 'saved') hide = !(pg.dataset.id && state.saved[pg.dataset.id]);
-        else if (T !== 'all') hide = pg.dataset.t !== T;
-      }
-      pg.classList.toggle('is-hidden', hide);
-    });
-    document.querySelectorAll('.toc a').forEach(function (a) { var e = document.getElementById(a.getAttribute('href').slice(1)), pg = e && e.closest('.pg'); a.classList.toggle('is-hidden', !!(pg && pg.classList.contains('is-hidden'))); });
-    document.querySelectorAll('.topicbar button').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.t === T)); });
+  function savedView() {
+    const wrap = el('div'), list = state.items.filter((it) => state.saved[it.a.id]);
+    if (!list.length) { wrap.appendChild(el('p', 'empty', t('nosaved'))); return wrap; }
+    const s = el('section', 'sec'); s.dataset.t = 'all';
+    const hd = el('div', 'sec-head'); hd.appendChild(el('h2', null, t('saved'))); hd.appendChild(el('span', null, list.length + ' ' + t('stories'))); s.appendChild(hd);
+    const g = el('div', 'grid'); list.forEach((it) => g.appendChild(card(it, false))); s.appendChild(g); wrap.appendChild(s); return wrap;
   }
-  function upd() {
-    var v = vis(), i = state.idx, n = nav, pg = v[i];
-    n.ct.textContent = (v.length ? i + 1 : 0) + ' / ' + v.length;
-    n.bar.style.width = (v.length ? (i + 1) / v.length * 100 : 0) + '%';
-    var h = pg && pg.querySelector('.tab h2'); n.lb.textContent = h ? h.textContent : 'The Daily Respawn';
-    if (i > 0) n.hint.classList.add('gone');
-    n.pv.disabled = i <= 0; n.nx.disabled = i >= v.length - 1;
-    if (T_empty()) { /* nothing */ }
-  }
-  function T_empty() { return false; }
-  function go(i, instant) {
-    var v = vis(), w = app.clientWidth, tr = state.track;
-    i = Math.max(0, Math.min(v.length - 1, i)); state.idx = i;
-    tr.style.transition = instant ? 'none' : '';
-    tr.style.transform = 'translate3d(' + (-i * w) + 'px,0,0)';
-    if (instant) { void tr.offsetWidth; tr.style.transition = ''; }
-    upd();
-  }
-  function mount() {
-    var pages = buildPages(); state.pages = pages;
-    app.textContent = '';
-    var tr = el('div', 'track'); state.track = tr; app.appendChild(tr);
-    pages.forEach(function (pg) { tr.appendChild(pg); });
-    document.documentElement.classList.add('hz-on');
-    var sel = '.tab,.logo-banner,.issue,.stamp,.cover-art,.lines a,.credits,.topicbar,.note,.toc a,.shot,.art,.tagline,.kick,h3,h4,.deck,.cols p,.body p,.facts,.facts-head,.chip,.more,.srcs,li,.disc,.dropcap,footer span,.toBack';
-    pages.forEach(function (pg) { var n = 0; pg.querySelectorAll(sel).forEach(function (e) { if (e.closest('.rv')) return; e.classList.add('rv'); e.style.setProperty('--i', Math.min(n++, 14)); }); });
-    if (nav) nav.root.remove();
-    var root = el('div', 'pgnav');
-    root.innerHTML = '<button type="button" class="pv" aria-label="Previous page">‹ <span></span></button><div class="mid"><div class="lbl"><b></b><span class="ct"></span></div><div class="bar"><i></i></div></div><button type="button" class="nx" aria-label="Next page"><span></span> ›</button><div class="hint"></div>';
-    app.after(root);
-    nav = { root: root, lb: root.querySelector('.lbl b'), ct: root.querySelector('.ct'), bar: root.querySelector('.bar i'), hint: root.querySelector('.hint'), pv: root.querySelector('.pv'), nx: root.querySelector('.nx') };
-    nav.pv.querySelector('span').textContent = t('prev'); nav.nx.querySelector('span').textContent = t('next'); nav.hint.textContent = t('swipe');
-    nav.pv.addEventListener('click', function () { go(state.idx - 1); });
-    nav.nx.addEventListener('click', function () { go(state.idx + 1); });
-    var io = new IntersectionObserver(function (es) { es.forEach(function (en) { if (en.intersectionRatio >= .55) en.target.classList.add('on'); else if (en.intersectionRatio === 0) en.target.classList.remove('on'); }); }, { root: app, threshold: [0, .55] });
-    pages.forEach(function (pg) { io.observe(pg); });
-    applyFilter(); go(Math.min(state.idx, Math.max(0, vis().length - 1)), true);
-  }
-
-  /* touch: finger-following drag, exactly one page per swipe */
-  var x0 = 0, y0 = 0, dx = 0, axis = null, t0 = 0;
-  app.addEventListener('touchstart', function (e) { if (e.touches.length > 1) { axis = 'n'; return; } var q = e.touches[0]; x0 = q.clientX; y0 = q.clientY; dx = 0; axis = null; t0 = Date.now(); }, { passive: true });
-  app.addEventListener('touchmove', function (e) {
-    if (axis === 'n' || !state.track) return;
-    var q = e.touches[0], ddx = q.clientX - x0, ddy = q.clientY - y0;
-    if (!axis) { if (Math.abs(ddx) < 8 && Math.abs(ddy) < 8) return; axis = Math.abs(ddx) > Math.abs(ddy) * 1.2 ? 'x' : 'y'; if (axis === 'x') state.track.style.transition = 'none'; }
-    if (axis !== 'x') return; e.preventDefault(); dx = ddx;
-    var n = vis().length, edge = (state.idx === 0 && dx > 0) || (state.idx === n - 1 && dx < 0);
-    state.track.style.transform = 'translate3d(' + (-state.idx * app.clientWidth + (edge ? dx * .3 : dx)) + 'px,0,0)';
-  }, { passive: false });
-  function endTouch() {
-    if (axis === 'x') { var W = app.clientWidth, v = Math.abs(dx) / Math.max(1, Date.now() - t0); if (Math.abs(dx) > W * .2 || (v > .35 && Math.abs(dx) > 30)) go(state.idx + (dx < 0 ? 1 : -1)); else go(state.idx); }
-    axis = null;
-  }
-  app.addEventListener('touchend', endTouch, { passive: true }); app.addEventListener('touchcancel', endTouch, { passive: true });
-  window.addEventListener('resize', function () { if (state.track) go(state.idx, true); });
-  document.addEventListener('keydown', function (e) {
-    if (e.target.closest && e.target.closest('input,textarea,select')) return;
-    if (document.getElementById('drawer').classList.contains('open')) { if (e.key === 'Escape') closeDrawer(); return; }
-    if (e.key === 'ArrowRight') { go(state.idx + 1); e.preventDefault(); } else if (e.key === 'ArrowLeft') { go(state.idx - 1); e.preventDefault(); }
-    else if (e.key === 'Home') go(0); else if (e.key === 'End') go(vis().length - 1);
-  });
-
-  /* clicks: topic filter, favourites, internal links, back */
-  document.addEventListener('click', function (e) {
-    var tg = e.target, b;
-    if ((b = tg.closest('.topicbar button'))) { state.topic = b.dataset.t; applyFilter(); var v = vis(); var k = v.findIndex(function (x) { return x.dataset.t || x.dataset.id; }); go(b.dataset.t === 'all' ? 0 : (k < 0 ? 0 : k), true); if (b.dataset.t === 'saved' && !v.length) {} return; }
-    if ((b = tg.closest('.fav'))) {
-      var id = b.dataset.id; if (state.saved[id]) delete state.saved[id]; else state.saved[id] = 1;
-      store('tdr-saved', JSON.stringify(state.saved));
-      document.querySelectorAll('.fav[data-id="' + id + '"]').forEach(function (x) { var on = !!state.saved[id]; x.textContent = on ? '★' : '☆'; x.setAttribute('aria-pressed', String(on)); x.setAttribute('aria-label', on ? t('unsave') : t('save')); });
-      e.preventDefault(); return;
+  function heroEl() {
+    const ed = state.ed, ci = coverItem(), hero = el('div', 'hero');
+    if (ci) {
+      const a = ci.a, c = el('a', 'cover'); c.href = '#story-' + a.id; c.dataset.t = a.topic;
+      const img = el('img'); img.src = /^https?:/.test(ed.cover.img) ? ed.cover.img : 'img/' + ed.cover.img; if (/^https?:/.test(ed.cover.img)) img.referrerPolicy = 'no-referrer'; img.alt = L(ed.cover.alt); img.fetchPriority = 'high'; c.appendChild(img);
+      const inn = el('div', 'in'), bd = el('div', 'badges'); bd.appendChild(el('span', 'badge plain', t('cover'))); bd.appendChild(el('span', 'badge', topicName(a.topic))); inn.appendChild(bd);
+      inn.appendChild(el('h2', null, L(ed.cover.headline)));
+      if (a.deck) inn.appendChild(el('p', null, L(a.deck)));
+      c.appendChild(inn); hero.appendChild(c);
     }
-    if ((b = tg.closest('[data-act="cover"]'))) { go(0); return; }
-    var a = tg.closest('a[href^="#"]');
-    if (a) { var target = document.getElementById(a.getAttribute('href').slice(1)); var pg = target && target.closest('.pg'); if (!pg) return; e.preventDefault(); if (pg.classList.contains('is-hidden')) { state.topic = 'all'; applyFilter(); } go(vis().indexOf(pg)); }
-  });
-
-  /* ---------- language ---------- */
-  function setLang(l, keep) {
-    state.lang = l; store('tdr-lang', l);
-    document.documentElement.lang = l === 'pt' ? 'pt-PT' : 'en';
-    document.querySelectorAll('.langbar [data-l]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.l === l)); });
-    document.getElementById('lbl-lang').textContent = t('language');
-    document.getElementById('offdot').textContent = t('offline');
-    document.getElementById('btn-archive').textContent = t('archive');
-    document.getElementById('btn-install').textContent = t('install');
-    document.querySelector('#drawer .x').setAttribute('aria-label', t('close'));
-    document.getElementById('dr-title').textContent = t('archive');
-    if (state.ed) { mount(); fillArchive(); }
+    const iss = el('nav', 'issue'); iss.setAttribute('aria-label', t('inIssue')); iss.appendChild(el('h3', null, t('inIssue')));
+    (ed.sections || []).forEach((sec) => {
+      if (sec.id === 'cover-section' || !(sec.items || []).length) return;
+      const f = sec.items[0], a = el('a'); a.href = '#story-' + f.id; a.dataset.t = f.topic;
+      const th = el('div', 'th'); if (f.media && f.media.type === 'video') { const i = el('img'); i.src = 'img/' + f.media.img; i.alt = ''; i.loading = 'lazy'; th.appendChild(i); } else if (f.media && f.media.type === 'photo') { const i = el('img'); i.referrerPolicy = 'no-referrer'; i.src = f.media.src; i.alt = ''; i.loading = 'lazy'; i.addEventListener('error', () => i.remove()); th.appendChild(i); } else if (f.media) { const d = el('div', 'art ' + ((f.media.tone || (f.media.fallback && f.media.fallback.tone)) || '')); d.setAttribute('aria-hidden', 'true'); d.appendChild(icon(f.media.icon)); th.appendChild(d); }
+      const tx = el('div'); tx.appendChild(el('p', 'kick', L(sec.title))); tx.appendChild(el('strong', null, L(f.headline)));
+      a.appendChild(th); a.appendChild(tx); iss.appendChild(a);
+    });
+    hero.appendChild(iss);
+    if ((ed.note || []).length) { const n = el('div', 'note'); n.appendChild(el('b', null, t('note'))); ed.note.forEach((p) => n.appendChild(el('p', null, L(p)))); hero.appendChild(n); }
+    return hero;
   }
-  document.querySelectorAll('.langbar [data-l]').forEach(function (b) { b.addEventListener('click', function () { setLang(b.dataset.l); }); });
+  function footerEl() {
+    const ed = state.ed, f = el('footer', 'foot'), fb = el('div', 'fb'), i = el('img'); i.src = 'img/respawn-logo.png'; i.alt = 'The Daily Respawn'; i.style.height = '48px'; i.style.width = 'auto'; fb.appendChild(i);
+    fb.appendChild(el('strong', null, 'The Daily Respawn · ' + t('edition') + ' ' + pad3(ed.number) + ' · ' + fmtDate(ed.publishedAt) + ', ' + fmtTime(ed.publishedAt) + ' ' + t('tz'))); f.appendChild(fb);
+    if (ed.footer) f.appendChild(el('p', null, L(ed.footer)));
+    const cr = el('p'); cr.appendChild(el('strong', null, t('creators') + ': ')); cr.appendChild(document.createTextNode('Pedro Nanjamba & Anderson Naval · ')); cr.appendChild(el('strong', null, t('co') + ': ')); cr.appendChild(document.createTextNode(state.lang === 'pt' ? 'Paulo Anjos e Sandro Ndala' : 'Paulo Anjos and Sandro Ndala')); f.appendChild(cr);
+    f.appendChild(el('p', null, t('nextEd'))); return f;
+  }
 
-  /* ---------- archive drawer ---------- */
-  var drawer = document.getElementById('drawer');
-  function openDrawer() { fillArchive(); drawer.classList.add('open'); drawer.querySelector('.x').focus(); }
-  function closeDrawer() { drawer.classList.remove('open'); }
-  document.getElementById('btn-archive').addEventListener('click', openDrawer);
+  /* ---------- page ---------- */
+  function renderNav() {
+    const nav = $('catnav'); nav.textContent = ''; nav.setAttribute('aria-label', t('topicsLbl'));
+    ['all'].concat(TOPICS).concat(['saved']).forEach((k) => {
+      const b = el('button', null, topicName(k)); b.type = 'button'; b.dataset.k = k; if (TOPICS.indexOf(k) >= 0) b.dataset.t = k;
+      b.setAttribute('aria-pressed', String(state.topic === k)); nav.appendChild(b);
+    });
+  }
+  function renderMain() {
+    const ed = state.ed; main.textContent = '';
+    const line = el('p', 'edline'); line.appendChild(el('b', null, t('edition') + ' ' + pad3(ed.number) + ' · ' + t('daily'))); line.appendChild(el('span', null, fmtDate(ed.publishedAt, true) + ' · ' + fmtTime(ed.publishedAt) + ' ' + t('tz'))); main.appendChild(line);
+    if (state.topic === 'all') {
+      main.appendChild(heroEl());
+      main.appendChild(sectionsView('all'));
+    } else if (state.topic === 'saved') main.appendChild(savedView());
+    else main.appendChild(sectionsView(state.topic));
+    main.appendChild(footerEl());
+  }
+  function applyChrome() {
+    document.documentElement.lang = state.lang === 'pt' ? 'pt-PT' : 'en';
+    document.querySelectorAll('.seg [data-l]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.l === state.lang)));
+    $('offdot').textContent = t('offline'); $('btn-archive').textContent = t('archive'); $('btn-install').textContent = t('install');
+    $('btn-search').setAttribute('aria-label', t('search')); $('btn-theme').setAttribute('aria-label', t('theme'));
+    $('q').placeholder = t('searchPh'); document.querySelector('.skip').textContent = t('skip');
+    drawer.querySelector('.x').setAttribute('aria-label', t('close')); $('dr-title').textContent = t('archive');
+    searchBox.querySelector('.tbtn').setAttribute('aria-label', t('close'));
+  }
+  function renderAll() { applyChrome(); renderNav(); if (state.ed) { renderMain(); fillArchive(); if (state.reading) renderReader(state.reading); runSearch(); } }
+
+  /* ---------- reader ---------- */
+  function renderReader(id) {
+    const it = state.byId[id]; if (!it) { closeReader(true); return; }
+    const a = it.a, m = a.media || {}; reader.textContent = ''; reader.dataset.t = a.topic;
+    const bar = el('div', 'rbar'), back = el('button', 'rb', '‹ ' + t('back')); back.type = 'button'; back.dataset.act = 'close'; bar.appendChild(back); bar.appendChild(el('span', 'sp'));
+    const sh = el('button', 'tbtn txt', t('share')); sh.type = 'button'; sh.dataset.act = 'share'; bar.appendChild(sh); bar.appendChild(favBtn(a.id));
+    const pr = el('i', 'rprog'); pr.id = 'rprog'; bar.appendChild(pr); reader.appendChild(bar);
+    const pg = el('article', 'art-page'), bd = el('div', 'badges'); bd.appendChild(el('span', 'badge', topicName(a.topic)));
+    if (it.cover) bd.appendChild(el('span', 'badge plain', t('cover'))); if (isUpdate(a)) bd.appendChild(el('span', 'badge plain', t('update'))); pg.appendChild(bd);
+    pg.appendChild(el('p', 'kick', L(a.kicker)));
+    const h1 = el('h1', null, L(a.headline)); h1.id = 'rd-title'; h1.tabIndex = -1; pg.appendChild(h1);
+    if (a.deck) pg.appendChild(el('p', 'deck', L(a.deck)));
+    const meta = el('div', 'meta'); meta.appendChild(el('span', null, fmtDate(state.ed.publishedAt))); meta.appendChild(el('span', null, readMins(a) + ' ' + t('minRead'))); if (sourceName(a)) meta.appendChild(el('span', null, sourceName(a))); pg.appendChild(meta);
+    if (m.type === 'video') {
+      const l = ext(m.url, '', 'media'); const i = el('img'); i.src = 'img/' + m.img; i.alt = L(m.alt); l.appendChild(i);
+      const pb = el('span', 'pb'); pb.setAttribute('aria-hidden', 'true'); l.appendChild(pb); if (m.duration) l.appendChild(el('span', 'tm', m.duration)); l.appendChild(el('span', 'sr', t('watch'))); pg.appendChild(l);
+      if (m.caption) { const cp = el('p', 'cap'); cp.appendChild(el('b', null, t('video'))); cp.appendChild(document.createTextNode(L(m.caption))); pg.appendChild(cp); }
+    } else if (m.type === 'photo') { pg.appendChild(photoEl(m, true)); if (m.credit) { const cp = el('p', 'cap'); cp.appendChild(el('b', null, (state.lang === 'pt' ? 'IMAGEM' : 'IMAGE') + ' · ')); cp.appendChild(document.createTextNode(m.credit)); pg.appendChild(cp); }
+    } else if (m.type === 'icon') { pg.appendChild(artEl(m)); pg.appendChild(el('p', 'cap')); }
+    if (a.upd) pg.appendChild(el('p', 'upd-box', L(a.upd)));
+    const pr2 = el('div', 'prose'); (a.body || []).forEach((p) => pr2.appendChild(el('p', null, L(p)))); pg.appendChild(pr2);
+    if (a.facts && a.facts.length) {
+      const fx = el('section', 'facts'); fx.appendChild(el('h2', null, t('facts'))); const dl = el('dl');
+      a.facts.forEach((f) => { const d = el('div'); d.appendChild(el('dt', null, L(f.k))); d.appendChild(el('dd', null, L(f.v))); dl.appendChild(d); }); fx.appendChild(dl); pg.appendChild(fx);
+    }
+    const acts = el('div', 'acts'); if (a.link) acts.appendChild(ext(a.link.url, L(a.link.label), 'btn')); if (m.type === 'video') acts.appendChild(ext(m.url, t('watch'), 'btn ghost')); pg.appendChild(acts);
+    if (a.also && a.also.length) { const s = el('p', 'srcs', t('also') + ' '); a.also.forEach((x, i) => { if (i) s.appendChild(document.createTextNode(' · ')); s.appendChild(ext(x.url, x.name)); }); pg.appendChild(s); }
+    const idx = state.items.indexOf(it), pv = state.items[idx - 1], nx = state.items[idx + 1], pn = el('nav', 'pn'); pn.setAttribute('aria-label', 'Stories');
+    if (pv) { const x = el('a'); x.href = '#story-' + pv.a.id; x.appendChild(el('small', null, '‹ ' + t('prev'))); x.appendChild(el('strong', null, L(pv.a.headline))); pn.appendChild(x); }
+    if (nx) { const x = el('a', 'nx'); x.href = '#story-' + nx.a.id; x.appendChild(el('small', null, t('next') + ' ›')); x.appendChild(el('strong', null, L(nx.a.headline))); pn.appendChild(x); }
+    pg.appendChild(pn);
+    const rel = state.items.filter((o) => o !== it && o.a.topic === a.topic).slice(0, 2);
+    if (rel.length) { const r = el('section', 'rel'); r.appendChild(el('h2', null, t('related') + ' ' + topicName(a.topic))); const g = el('div', 'grid'); rel.forEach((o) => g.appendChild(card(o, false))); r.appendChild(g); pg.appendChild(r); }
+    reader.appendChild(pg);
+  }
+  function openReader(id) {
+    if (!state.byId[id]) return;
+    const first = !state.reading; state.reading = id; renderReader(id);
+    reader.hidden = false; document.body.classList.add('lock'); reader.scrollTop = 0;
+    if (first) { state.lastFocus = document.activeElement; }
+    const h = $('rd-title'); if (h) h.focus({ preventScroll: true });
+  }
+  function closeReader(silent) {
+    if (!state.reading && reader.hidden) return;
+    state.reading = null; reader.hidden = true; reader.textContent = ''; document.body.classList.remove('lock');
+    if (!silent && state.lastFocus && state.lastFocus.focus) { try { state.lastFocus.focus({ preventScroll: true }); } catch (e) { /* ignore */ } }
+  }
+  function routeFromHash() {
+    const m = /^#story-([\w-]+)$/.exec(location.hash);
+    if (m && state.ed) openReader(m[1]); else closeReader(false);
+  }
+  window.addEventListener('hashchange', routeFromHash);
+  function leaveReader() {
+    if (/^#story-/.test(location.hash)) { try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ } }
+    closeReader(false);
+  }
+  reader.addEventListener('scroll', () => {
+    const p = $('rprog'); if (!p) return; const max = reader.scrollHeight - reader.clientHeight;
+    p.style.width = (max > 0 ? Math.min(100, reader.scrollTop / max * 100) : 0) + '%';
+  }, { passive: true });
+
+  /* ---------- search ---------- */
+  function runSearch() {
+    const q = norm($('q').value.trim()), box = $('sres'); box.textContent = '';
+    if (!state.ed) return;
+    if (q.length < 2) { box.appendChild(el('p', 'hint', t('searchHint'))); return; }
+    const hits = [];
+    state.items.forEach((it) => {
+      const a = it.a, hay = norm([L(a.headline), L(a.kicker), L(a.deck), (a.body || []).map(L).join(' '), sourceName(a)].join(' '));
+      if (hay.indexOf(q) >= 0) hits.push({ type: 'story', it: it, rank: norm(L(a.headline)).indexOf(q) >= 0 ? 0 : 1 });
+    });
+    (state.ed.sections || []).forEach((sec) => (sec.brief || []).forEach((b) => { if (norm(b.src + ' ' + L(b.text)).indexOf(q) >= 0) hits.push({ type: 'brief', b: b, sec: sec, rank: 2 }); }));
+    hits.sort((x, y) => x.rank - y.rank);
+    if (!hits.length) { box.appendChild(el('p', 'hint', t('noResults'))); return; }
+    hits.slice(0, 14).forEach((h) => {
+      if (h.type === 'story') { const a = el('a'); a.href = '#story-' + h.it.a.id; a.dataset.t = h.it.a.topic; a.dataset.close = '1'; a.appendChild(el('small', null, topicName(h.it.a.topic))); a.appendChild(el('strong', null, L(h.it.a.headline))); box.appendChild(a); }
+      else { const a = ext(h.b.url, ''); a.dataset.t = h.sec.topic; a.appendChild(el('small', null, topicName(h.sec.topic) + ' · ' + t('quick') + ' · ' + h.b.src)); a.appendChild(el('strong', null, L(h.b.text))); box.appendChild(a); }
+    });
+  }
+  function openSearch() { state.lastFocus = document.activeElement; searchBox.hidden = false; document.body.classList.add('lock'); runSearch(); $('q').focus(); }
+  function closeSearch() { searchBox.hidden = true; if (!state.reading) document.body.classList.remove('lock'); if (state.lastFocus && state.lastFocus.focus) { try { state.lastFocus.focus({ preventScroll: true }); } catch (e) { /* ignore */ } } }
+  $('btn-search').addEventListener('click', openSearch);
+  $('q').addEventListener('input', runSearch);
+  searchBox.addEventListener('click', (e) => { if (e.target.closest('[data-close]')) closeSearch(); });
+
+  /* ---------- archive ---------- */
+  function openDrawer() { state.lastFocus = document.activeElement; fillArchive(); drawer.classList.add('open'); drawer.querySelector('.x').focus(); }
+  function closeDrawer() { drawer.classList.remove('open'); if (state.lastFocus && state.lastFocus.focus) { try { state.lastFocus.focus({ preventScroll: true }); } catch (e) { /* ignore */ } } }
+  $('btn-archive').addEventListener('click', openDrawer);
   drawer.querySelector('.scrim').addEventListener('click', closeDrawer);
   drawer.querySelector('.x').addEventListener('click', closeDrawer);
   function fillArchive() {
-    var box = document.getElementById('dr-list'); box.textContent = '';
-    if (!state.index) return;
-    state.index.editions.slice().sort(function (a, b) { return b.number - a.number; }).forEach(function (e) {
-      var b = el('button', 'ed'); b.type = 'button'; if (state.ed && state.ed.id === e.id) b.setAttribute('aria-current', 'true');
+    const box = $('dr-list'); box.textContent = ''; if (!state.index) return;
+    state.index.editions.slice().sort((a, b) => b.number - a.number).forEach((e) => {
+      const b = el('button', 'ed'); b.type = 'button'; if (state.ed && state.ed.id === e.id) b.setAttribute('aria-current', 'true');
       b.appendChild(el('small', null, t('edition') + ' ' + pad3(e.number) + ' · ' + fmtDate(e.publishedAt) + ' · ' + fmtTime(e.publishedAt)));
       b.appendChild(el('strong', null, L(e.headline)));
-      b.addEventListener('click', function () { closeDrawer(); loadEdition(e.id); });
+      b.addEventListener('click', () => { closeDrawer(); loadEdition(e.id); });
       box.appendChild(b);
     });
   }
 
+  /* ---------- events ---------- */
+  document.addEventListener('click', (e) => {
+    let b;
+    if ((b = e.target.closest('#catnav button'))) { state.topic = b.dataset.k; renderNav(); renderMain(); window.scrollTo(0, 0); return; }
+    if ((b = e.target.closest('.fav'))) {
+      const id = b.dataset.id; if (state.saved[id]) delete state.saved[id]; else state.saved[id] = 1; store('tdr-saved', JSON.stringify(state.saved));
+      document.querySelectorAll('.fav[data-id="' + id + '"]').forEach(paintFav); if (state.topic === 'saved' && !state.reading) renderMain(); e.preventDefault(); return;
+    }
+    if ((b = e.target.closest('[data-act="close"]'))) { leaveReader(); return; }
+    if ((b = e.target.closest('[data-act="share"]'))) {
+      const url = location.href.split('#')[0] + '#story-' + state.reading, it = state.byId[state.reading], title = it ? L(it.a.headline) : 'The Daily Respawn';
+      if (navigator.share) { navigator.share({ title: title, url: url }).catch(() => {}); }
+      else if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(() => { b.textContent = t('copied'); setTimeout(() => { b.textContent = t('share'); }, 1600); }, () => {}); }
+      return;
+    }
+    const a = e.target.closest('a[href^="#story-"]');
+    if (a) {
+      if (!searchBox.hidden) closeSearch();
+      if (reader.hidden) { state.pushed = true; }
+      return; /* default navigation changes the hash, hashchange opens the reader */
+    }
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { if (!searchBox.hidden) { closeSearch(); return; } if (drawer.classList.contains('open')) { closeDrawer(); return; } if (state.reading) { leaveReader(); return; } }
+    if (e.key === 'Tab') trapFocus(e);
+  });
+  function trapFocus(e) {
+    const host = !searchBox.hidden ? searchBox : drawer.classList.contains('open') ? drawer : !reader.hidden ? reader : null; if (!host) return;
+    const f = [].slice.call(host.querySelectorAll('a[href],button:not([disabled]),input,[tabindex]:not([tabindex="-1"])')).filter((x) => x.offsetParent !== null);
+    if (!f.length) return; const first = f[0], last = f[f.length - 1];
+    if (e.shiftKey && (document.activeElement === first || !host.contains(document.activeElement))) { last.focus(); e.preventDefault(); }
+    else if (!e.shiftKey && document.activeElement === last) { first.focus(); e.preventDefault(); }
+  }
+  document.querySelectorAll('.seg [data-l]').forEach((b) => b.addEventListener('click', () => { state.lang = b.dataset.l; store('tdr-lang', state.lang); renderAll(); }));
+  function setTheme(v) { document.documentElement.setAttribute('data-theme', v); store('tdr-theme', v); }
+  $('btn-theme').addEventListener('click', () => {
+    const cur = document.documentElement.getAttribute('data-theme') || (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    setTheme(cur === 'dark' ? 'light' : 'dark');
+  });
+
   /* ---------- data ---------- */
-  function getJSON(url) { return fetch(url).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
+  function getJSON(url) { return fetch(url).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }); }
   function showError() {
-    app.textContent = ''; var d = el('div', 'loading'); d.appendChild(el('div', null, t('fail')));
-    var b = el('button', 'toBack', t('retry')); b.type = 'button'; b.addEventListener('click', start); d.appendChild(b); app.appendChild(d);
+    main.textContent = ''; const d = el('div', 'loading'); d.appendChild(el('div', null, t('fail')));
+    const b = el('button', 'btn', t('retry')); b.type = 'button'; b.style.marginTop = '16px'; b.addEventListener('click', start); d.appendChild(b); main.appendChild(d);
   }
   function loadEdition(id) {
-    return getJSON('data/editions/' + id + '.json').then(function (ed) {
-      state.ed = ed; state.idx = 0; state.topic = 'all';
-      try { history.replaceState(null, '', location.pathname + (id === state.index.latest ? '' : '?e=' + id)); } catch (e) {}
-      mount(); fillArchive();
+    return getJSON('data/editions/' + id + '.json').then((ed) => {
+      state.ed = ed; state.topic = 'all'; indexEdition(); closeReader(true);
+      try { history.replaceState(null, '', location.pathname + (id === state.index.latest ? '' : '?e=' + id)); } catch (e) { /* ignore */ }
+      renderAll(); window.scrollTo(0, 0);
     });
   }
   function start() {
-    app.textContent = ''; app.appendChild(el('div', 'loading', t('loading')));
-    getJSON('data/editions.json').then(function (idx) {
-      state.index = idx;
-      var q = /[?&]e=([\w-]+)/.exec(location.search), id = q && idx.editions.some(function (e) { return e.id === q[1]; }) ? q[1] : idx.latest;
-      return loadEdition(id);
-    }).catch(showError);
+    main.textContent = ''; main.appendChild(el('div', 'loading', t('loading')));
+    getJSON('data/editions.json').then((idx) => {
+      state.index = idx; const q = /[?&]e=([\w-]+)/.exec(location.search), id = q && idx.editions.some((e) => e.id === q[1]) ? q[1] : idx.latest;
+      const hash = location.hash;
+      return loadEdition(id).then(() => { if (hash && /^#story-/.test(hash)) { location.hash = hash; routeFromHash(); } });
+    }).catch((e) => { if (window.console) console.error(e); showError(); });
   }
 
   /* ---------- online/offline, install, service worker ---------- */
   function net() { document.documentElement.classList.toggle('offline', !navigator.onLine); }
   window.addEventListener('online', net); window.addEventListener('offline', net); net();
-  var deferred = null, ib = document.getElementById('btn-install');
-  window.addEventListener('beforeinstallprompt', function (e) { e.preventDefault(); deferred = e; ib.classList.add('show'); });
-  ib.addEventListener('click', function () { if (!deferred) return; deferred.prompt(); deferred.userChoice.finally(function () { deferred = null; ib.classList.remove('show'); }); });
-  window.addEventListener('appinstalled', function () { ib.classList.remove('show'); });
-  if ('serviceWorker' in navigator) window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
+  let deferred = null; const ib = $('btn-install');
+  window.addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); deferred = e; ib.classList.add('show'); });
+  ib.addEventListener('click', () => { if (!deferred) return; deferred.prompt(); deferred.userChoice.finally(() => { deferred = null; ib.classList.remove('show'); }); });
+  window.addEventListener('appinstalled', () => ib.classList.remove('show'));
+  if ('serviceWorker' in navigator) window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
 
   /* ---------- boot ---------- */
   try { state.saved = JSON.parse(store('tdr-saved') || '{}') || {}; } catch (e) { state.saved = {}; }
-  var l0 = store('tdr-lang'); if (!l0) l0 = ((navigator.language || '').toLowerCase().indexOf('pt') === 0) ? 'pt' : 'en';
-  setLang(l0); start();
+  let l0 = store('tdr-lang'); if (l0 !== 'en' && l0 !== 'pt') l0 = ((navigator.language || '').toLowerCase().indexOf('pt') === 0) ? 'pt' : 'en';
+  state.lang = l0; applyChrome(); renderNav(); start();
 })();

@@ -1,7 +1,7 @@
 /* The Daily Respawn service worker: offline shell + last editions. */
-var VERSION = 'v1';
+var VERSION = 'v2';
 var SHELL = 'tdr-shell-' + VERSION, RUNTIME = 'tdr-runtime-' + VERSION;
-var CORE = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'img/respawn-logo.jpg', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'data/editions.json'];
+var CORE = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'img/respawn-logo.jpg', 'img/respawn-logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'data/editions.json'];
 
 self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(SHELL).then(function (c) { return c.addAll(CORE); }).then(function () { return self.skipWaiting(); }));
