@@ -1,5 +1,5 @@
 /* The Daily Respawn service worker: offline shell + last editions. */
-var VERSION = 'v2';
+var VERSION = 'v3';
 var SHELL = 'tdr-shell-' + VERSION, RUNTIME = 'tdr-runtime-' + VERSION;
 var CORE = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'img/respawn-logo.jpg', 'img/respawn-logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'data/editions.json'];
 
