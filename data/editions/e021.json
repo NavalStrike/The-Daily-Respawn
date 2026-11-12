@@ -1,0 +1,2025 @@
+{
+ "id": "e021",
+ "number": 21,
+ "publishedAt": "2026-11-11T10:16:00+01:00",
+ "cover": {
+  "img": "e021/cover.jpg",
+  "alt": {
+   "en": "The Ankler video about the Godzilla Minus Zero opening weekend",
+   "pt": "Vídeo do The Ankler sobre o fim de semana de estreia de Godzilla Minus Zero"
+  },
+  "target": "godzilla",
+  "headline": {
+   "en": "Godzilla Minus Zero opens to a record $32 million in North America and $63 million worldwide",
+   "pt": "Godzilla Minus Zero estreia-se com um recorde de 32 milhões de dólares na América do Norte e 63 milhões em todo o mundo"
+  }
+ },
+ "note": [
+  {
+   "en": "Wednesday's issue opens with Godzilla Minus Zero's record opening, plus Sony cancelling Fairgames, A24's You Can See Everything passing $80 million, Ring's Drone Cam and Rover Cam, Anthropic's IPO terms, a new Harley Quinn team, the manga Witch on the Holy Night and The Remarried Empress at No. 1 in 33 countries. Rumours are marked as such and follow-ups are marked as updates. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+   "pt": "A edição de quarta-feira abre com a estreia recorde de Godzilla Minus Zero, e traz o cancelamento de Fairgames pela Sony, o documentário You Can See Everything da A24 acima dos 80 milhões de dólares, o Drone Cam e o Rover Cam da Ring, os termos da OPI da Anthropic, uma nova equipa de Harley Quinn, o manga Witch on the Holy Night e The Remarried Empress em 1.º lugar em 33 países. Os rumores estão identificados como tal e os seguimentos como atualizações. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+  },
+  {
+   "en": "New since the last edition: since Edition 020 (10 Nov, 10:17), 23 new stories and 5 updates, plus 27 quick hits.",
+   "pt": "Novidades desde a última edição: desde a Edição 020 (10 nov, 10:17), 23 notícias novas e 5 atualizações, mais 27 destaques rápidos."
+  }
+ ],
+ "sections": [
+  {
+   "id": "cover-section",
+   "topic": "cover-section",
+   "title": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "subtitle": {
+    "en": "Movies · Box office",
+    "pt": "Filmes · Bilheteira"
+   },
+   "items": [
+    {
+     "id": "godzilla",
+     "topic": "movies",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=9IJ7Xl3p-ZM",
+      "img": "e021/cover.jpg",
+      "alt": {
+       "en": "The Ankler video about the Godzilla Minus Zero opening weekend",
+       "pt": "Vídeo do The Ankler sobre o fim de semana de estreia de Godzilla Minus Zero"
+      },
+      "duration": "17:28",
+      "caption": {
+       "en": "The Ankler, 9 Nov. Tap to watch on YouTube.",
+       "pt": "The Ankler, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Cover story · Movies · Godzilla Minus Zero · Box office · 11 Nov",
+      "pt": "História de capa · Filmes · Godzilla Minus Zero · Bilheteira · 11 nov"
+     },
+     "headline": {
+      "en": "Godzilla Minus Zero opens to a record $32 million in North America and $63 million worldwide",
+      "pt": "Godzilla Minus Zero estreia-se com um recorde de 32 milhões de dólares na América do Norte e 63 milhões em todo o mundo"
+     },
+     "deck": {
+      "en": "Toho's sequel, released in the US by GKIDS, beat the distributor's mid-$20 million projection.",
+      "pt": "A sequela da Toho, lançada nos EUA pela GKIDS, superou a projeção de meados dos 20 milhões de dólares do distribuidor."
+     },
+     "body": [
+      {
+       "en": "The Hollywood Reporter says Takashi Yamazaki's follow-up to the Oscar-winning Godzilla Minus One opened to an estimated $32 million, well above the distributor's mid-$20 millions projection, and is being touted as the biggest live-action foreign-language opening in North America since 2004's Hero, which bowed with $17.8 million.",
+       "pt": "A Hollywood Reporter diz que a sequela de Takashi Yamazaki a Godzilla Minus One, vencedor de um Óscar, estreou com cerca de 32 milhões de dólares, bem acima da projeção do distribuidor, de meados dos 20 milhões, e está a ser apontada como a maior estreia de um filme de ação real em língua estrangeira na América do Norte desde Hero, em 2004, que arrancou com 17,8 milhões."
+      },
+      {
+       "en": "Collider adds that the film earned $63 million globally in its opening frame and finished first, ahead of The Cat in the Hat, which made about $20 million and fell short of expectations. The Hollywood Reporter says it reportedly cost in the mid-teens of millions.",
+       "pt": "A Collider acrescenta que o filme arrecadou 63 milhões de dólares a nível mundial no primeiro fim de semana e ficou em primeiro lugar, à frente de The Cat in the Hat, que rendeu cerca de 20 milhões e ficou aquém das expectativas. A Hollywood Reporter indica que terá custado em torno de 15 milhões."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "US opening",
+        "pt": "Estreia nos EUA"
+       },
+       "v": {
+        "en": "About $32 million",
+        "pt": "Cerca de 32 M$"
+       }
+      },
+      {
+       "k": {
+        "en": "Global opening",
+        "pt": "Estreia mundial"
+       },
+       "v": {
+        "en": "$63 million",
+        "pt": "63 M$"
+       }
+      },
+      {
+       "k": {
+        "en": "Reported budget",
+        "pt": "Orçamento indicado"
+       },
+       "v": {
+        "en": "Mid-teens of millions",
+        "pt": "Cerca de 15 M$"
+       }
+      },
+      {
+       "k": {
+        "en": "Director",
+        "pt": "Realizador"
+       },
+       "v": {
+        "en": "Takashi Yamazaki",
+        "pt": "Takashi Yamazaki"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/afm-2026-preview-is-the-hope-real-1236751816/",
+      "label": {
+       "en": "Read the full story at The Hollywood Reporter →",
+       "pt": "Ler a notícia completa em The Hollywood Reporter →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://collider.com/you-can-see-everything-box-office-history-80-million/",
+       "name": "Collider"
+      },
+      {
+       "url": "https://collider.com/angel-studios-drummer-boy-hamilton-replacement-box-office-debut/",
+       "name": "Collider (weekend chart)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "topic": "games",
+   "title": {
+    "en": "Games",
+    "pt": "Jogos"
+   },
+   "subtitle": {
+    "en": "Games · Industry, releases and reveals",
+    "pt": "Jogos · Indústria, lançamentos e revelações"
+   },
+   "items": [
+    {
+     "id": "fairgames",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=9Xx33gO9r1c",
+      "img": "e021/fairgames.jpg",
+      "alt": {
+       "en": "YongYea video about the cancellation of Fairgames",
+       "pt": "Vídeo do YongYea sobre o cancelamento de Fairgames"
+      },
+      "duration": "18:59",
+      "caption": {
+       "en": "YongYea, 10 Nov. Tap to watch on YouTube.",
+       "pt": "YongYea, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · PlayStation · Haven Studios · Cancellation",
+      "pt": "Jogos · PlayStation · Haven Studios · Cancelamento"
+     },
+     "headline": {
+      "en": "Sony cancels Fairgames after a playtest falls short, and Haven Studios becomes a support studio",
+      "pt": "A Sony cancela Fairgames depois de um teste ficar aquém e a Haven Studios passa a estúdio de apoio"
+     },
+     "deck": {
+      "en": "Bloomberg's report says no layoffs are linked to the cancellation.",
+      "pt": "A notícia da Bloomberg indica que não há despedimentos associados ao cancelamento."
+     },
+     "body": [
+      {
+       "en": "Video Games Chronicle, citing Bloomberg, reports that PlayStation has cancelled the live-service heist shooter Fairgames, three years after its 2023 reveal. A note from executives Sean Decker and John Doyle says player feedback and retention results in a recent test were mixed and fell short of PlayStation's goals, and that the PvP shooter market is a challenging one.",
+       "pt": "O Video Games Chronicle, citando a Bloomberg, noticia que a PlayStation cancelou o jogo de assaltos em serviço contínuo Fairgames, três anos depois de ter sido revelado em 2023. Uma nota dos responsáveis Sean Decker e John Doyle diz que os resultados de feedback e retenção num teste recente foram mistos e ficaram aquém dos objetivos da PlayStation, e que o mercado de shooters PvP é difícil."
+      },
+      {
+       "en": "GameSpot and IGN add that Haven Studios in Montreal will not close and no job cuts are tied to the cancellation; the team will support other PlayStation projects. GameSpot notes the studio had reportedly been planning to re-reveal the game.",
+       "pt": "A GameSpot e a IGN acrescentam que a Haven Studios, em Montreal, não vai fechar e que não há cortes de empregos associados ao cancelamento; a equipa vai apoiar outros projetos da PlayStation. A GameSpot nota que o estúdio estaria a planear revelar o jogo de novo."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Revealed",
+        "pt": "Revelado"
+       },
+       "v": {
+        "en": "2023",
+        "pt": "2023"
+       }
+      },
+      {
+       "k": {
+        "en": "Studio",
+        "pt": "Estúdio"
+       },
+       "v": {
+        "en": "Haven (Montreal)",
+        "pt": "Haven (Montreal)"
+       }
+      },
+      {
+       "k": {
+        "en": "Layoffs",
+        "pt": "Despedimentos"
+       },
+       "v": {
+        "en": "None announced",
+        "pt": "Nenhum anunciado"
+       }
+      },
+      {
+       "k": {
+        "en": "Status",
+        "pt": "Estado"
+       },
+       "v": {
+        "en": "Cancelled",
+        "pt": "Cancelado"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/",
+      "label": {
+       "en": "Read the full story at Video Games Chronicle →",
+       "pt": "Ler a notícia completa em Video Games Chronicle →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
+       "name": "GameSpot"
+      },
+      {
+       "url": "https://za.ign.com/fairgame/245144/playstation-cancels-live-service-heist-shooter-fairgames",
+       "name": "IGN"
+      }
+     ]
+    },
+    {
+     "id": "gta6update",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=IHhwJREdu0M",
+      "img": "e021/gta.jpg",
+      "alt": {
+       "en": "TmarTn2 video about the GTA 6 preload trailer and 30 fps target",
+       "pt": "Vídeo do TmarTn2 sobre o trailer de pré-carregamento de GTA 6 e a meta de 30 fps"
+      },
+      "duration": "14:32",
+      "caption": {
+       "en": "TmarTn2, 10 Nov. Tap to watch on YouTube.",
+       "pt": "TmarTn2, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Rockstar · GTA 6 · Update",
+      "pt": "Jogos · Rockstar · GTA 6 · Atualização"
+     },
+     "headline": {
+      "en": "Update: Rockstar targets 30 fps on every console as GTA 6 becomes the most pre-ordered game on PlayStation and Xbox stores",
+      "pt": "Atualização: a Rockstar aponta a 30 fps em todas as consolas e GTA 6 passa a ser o jogo mais pré-encomendado nas lojas PlayStation e Xbox"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Edition 020 covered the preload; Rockstar has now published performance details and both platforms report pre-order records.",
+       "pt": "Novidades desde a última edição: a Edição 020 abordou o pré-carregamento; a Rockstar publicou agora detalhes de desempenho e ambas as plataformas indicam recordes de pré-encomendas."
+      },
+      {
+       "en": "Gematsu and Kotaku report that Rockstar says GTA 6 targets 30 frames per second on current consoles, with PS5 Pro adding PSSR and ray-traced shadows. GameSpot adds that Rockstar confirmed Xbox Cloud Gaming support, so Xbox One owners can play it.",
+       "pt": "A Gematsu e a Kotaku noticiam que a Rockstar diz que GTA 6 aponta a 30 imagens por segundo nas consolas atuais, com a PS5 Pro a acrescentar PSSR e sombras com ray tracing. A GameSpot acrescenta que a Rockstar confirmou o suporte ao Xbox Cloud Gaming, pelo que quem tem uma Xbox One pode jogar."
+      },
+      {
+       "en": "Polygon reports that PlayStation and Xbox each called it the most pre-ordered game in their store's history, and Push Square says Take-Two's CEO confirmed the game has gone gold, with no further delay.",
+       "pt": "A Polygon noticia que a PlayStation e a Xbox disseram, cada uma, que é o jogo mais pré-encomendado da história da sua loja, e a Push Square diz que o CEO da Take-Two confirmou que o jogo está concluído (gone gold), sem novos adiamentos."
+      }
+     ],
+     "chip": {
+      "en": "Launch 19 Nov",
+      "pt": "Lançamento 19 nov"
+     },
+     "link": {
+      "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
+      "label": {
+       "en": "Read the full story at Gematsu →",
+       "pt": "Ler a notícia completa em Gematsu →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.polygon.com/gta-6-pre-order-records-ps5-xbox-series-x/",
+       "name": "Polygon"
+      },
+      {
+       "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/",
+       "name": "GameSpot"
+      },
+      {
+       "url": "https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold",
+       "name": "Push Square"
+      },
+      {
+       "url": "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517",
+       "name": "Kotaku"
+      }
+     ]
+    },
+    {
+     "id": "outerworlds",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=WjlWK1Wl6dc",
+      "img": "e021/outer.jpg",
+      "alt": {
+       "en": "PlayStation trailer for The Outer Worlds 2: Side Effects Guaranteed",
+       "pt": "Trailer da PlayStation de The Outer Worlds 2: Side Effects Guaranteed"
+      },
+      "duration": "1:59",
+      "caption": {
+       "en": "PlayStation, 10 Nov. Tap to watch on YouTube.",
+       "pt": "PlayStation, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Obsidian · The Outer Worlds 2 · DLC",
+      "pt": "Jogos · Obsidian · The Outer Worlds 2 · DLC"
+     },
+     "headline": {
+      "en": "The Outer Worlds 2 gets its first expansion, Side Effects Guaranteed, on 2 December",
+      "pt": "The Outer Worlds 2 recebe a primeira expansão, Side Effects Guaranteed, a 2 de dezembro"
+     },
+     "body": [
+      {
+       "en": "Push Square reports the expansion comes in two parts: the first on PS5 on 2 December 2026 and the second in spring 2027, as Obsidian carries on with its DLC plans after losing 25 percent of its workforce in recent layoffs. Insider Gaming says it brings a new story, songs, weapons and a new region.",
+       "pt": "A Push Square noticia que a expansão chega em duas partes: a primeira na PS5 a 2 de dezembro de 2026 e a segunda na primavera de 2027, com a Obsidian a manter os planos de DLC depois de perder 25 por cento da equipa em despedimentos recentes. A Insider Gaming diz que traz uma nova história, músicas, armas e uma nova região."
+      }
+     ],
+     "chip": {
+      "en": "2 Dec",
+      "pt": "2 dez"
+     },
+     "link": {
+      "url": "https://www.pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december",
+      "label": {
+       "en": "Read the full story at Push Square →",
+       "pt": "Ler a notícia completa em Push Square →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://insider-gaming.com/the-outer-worlds-2-announces-first-dlc/",
+       "name": "Insider Gaming"
+      }
+     ]
+    },
+    {
+     "id": "skydancegames",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · Skydance Games · Paramount Games Studio · Layoffs",
+      "pt": "Jogos · Skydance Games · Paramount Games Studio · Despedimentos"
+     },
+     "headline": {
+      "en": "Skydance Games lays off staff a month after the Warner Bros. merger",
+      "pt": "A Skydance Games despede funcionários um mês depois da fusão com a Warner Bros."
+     },
+     "body": [
+      {
+       "en": "Video Games Chronicle, citing Variety, reports that Skydance Games has had a round of layoffs. Last month Paramount Skydance and Warner Bros. completed a $110 billion merger and combined their games divisions; Paramount Games Studio was announced in June.",
+       "pt": "O Video Games Chronicle, citando a Variety, noticia que a Skydance Games teve uma ronda de despedimentos. No mês passado a Paramount Skydance e a Warner Bros. concluíram uma fusão de 110 mil milhões de dólares e juntaram as divisões de jogos; o Paramount Games Studio foi anunciado em junho."
+      }
+     ],
+     "chip": {
+      "en": "Layoffs",
+      "pt": "Despedimentos"
+     },
+     "link": {
+      "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
+      "label": {
+       "en": "Read the full story at Video Games Chronicle →",
+       "pt": "Ler a notícia completa em Video Games Chronicle →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "IGN",
+     "url": "https://me.ign.com/en/grand-theft-auto-vi/249645/logitech-is-letting-employees-take-work-off-for-game-releases-just-ahead-of-gta-6",
+     "text": {
+      "en": "says Logitech is letting employees take time off for game releases, labelled Logi Game Day, and Logitech G hosts a live-streamed event on 19 November.",
+      "pt": "diz que a Logitech vai deixar os funcionários tirar folga para lançamentos de jogos, a chamada Logi Game Day, e que a Logitech G organiza um evento em direto a 19 de novembro."
+     }
+    },
+    {
+     "src": "PC Gamer",
+     "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
+     "text": {
+      "en": "reports that Steam in Australia now treats an account as age verified if it is at least nine years old and has had a consistent email address or billing information.",
+      "pt": "noticia que a Steam, na Austrália, passa a considerar uma conta com idade verificada se tiver pelo menos nove anos e um e-mail ou dados de faturação consistentes."
+     }
+    },
+    {
+     "src": "PC Gamer",
+     "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-with-ai-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+     "text": {
+      "en": "says fan Dan Whelan plans to release Shadowkey Reforged, an upgraded PC port of the Nokia N-Gage Elder Scrolls spin-off, on 11 November; players need the original game's files.",
+      "pt": "diz que o fã Dan Whelan planeia lançar a 11 de novembro o Shadowkey Reforged, uma versão melhorada para PC do spin-off de Elder Scrolls do Nokia N-Gage; é preciso ter os ficheiros do jogo original."
+     }
+    },
+    {
+     "src": "GameSpot",
+     "url": "https://www.gamespot.com/articles/gta-releases-could-speed-up-take-two-boss-says/",
+     "text": {
+      "en": "carries Take-Two's boss saying GTA releases could speed up in future.",
+      "pt": "diz que o responsável da Take-Two admite que os lançamentos de GTA podem acelerar no futuro."
+     }
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "topic": "movies",
+   "title": {
+    "en": "Movies",
+    "pt": "Filmes"
+   },
+   "subtitle": {
+    "en": "Movies · Box office, trailers and casting",
+    "pt": "Filmes · Bilheteira, trailers e elencos"
+   },
+   "items": [
+    {
+     "id": "ycse",
+     "topic": "movies",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=5Qp8X9BFnaA",
+      "img": "e021/ycse.jpg",
+      "alt": {
+       "en": "ScreenRant video about You Can See Everything and the Best Picture race",
+       "pt": "Vídeo da ScreenRant sobre You Can See Everything e a corrida ao Óscar de Melhor Filme"
+      },
+      "duration": "9:20",
+      "caption": {
+       "en": "ScreenRant, 4 Nov. Tap to watch on YouTube.",
+       "pt": "ScreenRant, 4 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · A24 · You Can See Everything · Box office",
+      "pt": "Filmes · A24 · You Can See Everything · Bilheteira"
+     },
+     "headline": {
+      "en": "A24's three-hour Elizabeth Holmes documentary passes $80 million in North America and eyes $100 million",
+      "pt": "O documentário de três horas da A24 sobre Elizabeth Holmes ultrapassa os 80 milhões de dólares na América do Norte e aponta aos 100 milhões"
+     },
+     "deck": {
+      "en": "It is now the second-highest-grossing non-music documentary ever there, behind only Fahrenheit 9/11.",
+      "pt": "É já o segundo documentário não musical de maior bilheteira de sempre no território, só atrás de Fahrenheit 9/11."
+     },
+     "body": [
+      {
+       "en": "Collider says Nathan Fielder and Lance Oppenheim's film, released on 16 October, has reached the $80 million mark domestically after a 23 percent drop last weekend, behind only Fahrenheit 9/11's $119 million among non-music documentaries, and has a strong chance of reaching $100 million.",
+       "pt": "A Collider diz que o filme de Nathan Fielder e Lance Oppenheim, estreado a 16 de outubro, chegou aos 80 milhões de dólares no mercado interno depois de uma queda de 23 por cento no último fim de semana, só atrás dos 119 milhões de Fahrenheit 9/11 entre os documentários não musicais, e tem boas hipóteses de chegar aos 100 milhões."
+      },
+      {
+       "en": "In its fourth week the film lost 770 theatres from a peak of 3,243, Collider reports, while A24 begins campaigning for a Best Picture nomination. The outlet notes the film has not yet opened in most overseas territories.",
+       "pt": "Na quarta semana o filme perdeu 770 salas, a partir de um pico de 3243, segundo a Collider, enquanto a A24 inicia uma campanha por uma nomeação para Melhor Filme. O meio nota que o filme ainda não estreou na maior parte dos territórios internacionais."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "US total",
+        "pt": "Total nos EUA"
+       },
+       "v": {
+        "en": "About $80 million",
+        "pt": "Cerca de 80 M$"
+       }
+      },
+      {
+       "k": {
+        "en": "Rank",
+        "pt": "Posição"
+       },
+       "v": {
+        "en": "No. 2 non-music doc",
+        "pt": "N.º 2 dos docs não musicais"
+       }
+      },
+      {
+       "k": {
+        "en": "Peak theatres",
+        "pt": "Pico de salas"
+       },
+       "v": {
+        "en": "3,243",
+        "pt": "3243"
+       }
+      },
+      {
+       "k": {
+        "en": "Released",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "16 October",
+        "pt": "16 de outubro"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://collider.com/you-can-see-everything-box-office-history-80-million/",
+      "label": {
+       "en": "Read the full story at Collider →",
+       "pt": "Ler a notícia completa em Collider →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://collider.com/you-can-see-everything-removed-from-770-theaters-box-office-milestone/",
+       "name": "Collider (theatre count)"
+      }
+     ]
+    },
+    {
+     "id": "dcnumbers",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=QxMGW1P2uR8",
+      "img": "e021/dc.jpg",
+      "alt": {
+       "en": "Red, White & Drama video about the Gunn and Safran exit and DC box-office numbers",
+       "pt": "Vídeo do Red, White & Drama sobre a saída de Gunn e Safran e os números de bilheteira da DC"
+      },
+      "duration": "4:42",
+      "caption": {
+       "en": "Red, White & Drama, 9 Nov. Tap to watch on YouTube.",
+       "pt": "Red, White & Drama, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · DC Studios · Box office · Update",
+      "pt": "Filmes · DC Studios · Bilheteira · Atualização"
+     },
+     "headline": {
+      "en": "Update: Variety counts the box-office cost of the Gunn–Safran era at DC Studios",
+      "pt": "Atualização: a Variety faz as contas da bilheteira da era Gunn–Safran na DC Studios"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Edition 020 covered the leadership change; Variety now sets out the film-by-film numbers.",
+       "pt": "Novidades desde a última edição: a Edição 020 abordou a mudança de liderança; a Variety apresenta agora os números filme a filme."
+      },
+      {
+       "en": "Variety reports that Superman made $618 million against a $225 million budget, Supergirl $126 million against $170 million, and Clayface $109 million against $44 million, with sources suggesting Clayface will not break even until downstream revenue is counted.",
+       "pt": "A Variety noticia que Superman rendeu 618 milhões de dólares com um orçamento de 225 milhões, Supergirl 126 milhões com 170 milhões, e Clayface 109 milhões com 44 milhões, com fontes a sugerir que Clayface só cobrirá os custos quando as receitas posteriores forem contadas."
+      }
+     ],
+     "chip": {
+      "en": "Supergirl $126M",
+      "pt": "Supergirl 126 M$"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/news/james-gunn-exits-dc-studios-losing-money-1236944392/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     }
+    },
+    {
+     "id": "yougotmail",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Warner Bros. · You've Got Mail · Reboot",
+      "pt": "Filmes · Warner Bros. · You've Got Mail · Reboot"
+     },
+     "headline": {
+      "en": "Warner Bros. is rebooting You've Got Mail, with Jason Orley attached to direct",
+      "pt": "A Warner Bros. prepara um reboot de You've Got Mail, com Jason Orley ligado à realização"
+     },
+     "body": [
+      {
+       "en": "Variety has confirmed the reboot of Nora Ephron's 1998 romantic comedy, which starred Tom Hanks and Meg Ryan and earned $250 million against a budget of about $65 million. Variety says Deadline was first to report the news.",
+       "pt": "A Variety confirmou o reboot da comédia romântica de Nora Ephron, de 1998, protagonizada por Tom Hanks e Meg Ryan, que rendeu 250 milhões de dólares com um orçamento de cerca de 65 milhões. A Variety diz que a Deadline foi a primeira a noticiar."
+      }
+     ],
+     "chip": {
+      "en": "Reboot",
+      "pt": "Reboot"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/news/youve-got-mail-reboot-warner-bros-1236944210/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-briney-michelle-randolph-clashing-through-snow-1236751703/",
+     "text": {
+      "en": "has the trailer for Prime Video's holiday rom-com Clashing Through the Snow, starring Christopher Briney and Michelle Randolph, which arrives on 23 November.",
+      "pt": "tem o trailer da comédia romântica de Natal Clashing Through the Snow, do Prime Video, com Christopher Briney e Michelle Randolph, que estreia a 23 de novembro."
+     }
+    },
+    {
+     "src": "Collider",
+     "url": "https://collider.com/wildwood-box-office-47-million/",
+     "text": {
+      "en": "says LAIKA's Wildwood fell 22 percent to $7 million domestically last weekend, taking its global total to $47.5 million.",
+      "pt": "diz que Wildwood, da LAIKA, caiu 22 por cento para 7 milhões de dólares no mercado interno no último fim de semana, com um total mundial de 47,5 milhões."
+     }
+    },
+    {
+     "src": "Deadline",
+     "url": "https://deadline.com/2026/11/focus-features-blumhouse-atomic-nicolas-curcio-play-house-1237218949/",
+     "text": {
+      "en": "reports Focus Features and Blumhouse Atomic have dated Nicolas Curcio's horror film Play House for 2 April 2027.",
+      "pt": "noticia que a Focus Features e a Blumhouse Atomic marcaram o filme de terror Play House, de Nicolas Curcio, para 2 de abril de 2027."
+     }
+    },
+    {
+     "src": "Deadline",
+     "url": "https://deadline.com/2026/11/tangles-movie-seth-rogen-julia-louis-dreyfus-bryan-cranston-1237218873/",
+     "text": {
+      "en": "says the animated Tangles, with Seth Rogen, Bryan Cranston and Julia Louis-Dreyfus, will get an IFC qualifying run later this month and a wider release in early 2027.",
+      "pt": "diz que a animação Tangles, com Seth Rogen, Bryan Cranston e Julia Louis-Dreyfus, terá uma estreia de qualificação pela IFC ainda este mês e um lançamento mais alargado no início de 2027."
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "topic": "tech",
+   "title": {
+    "en": "Tech",
+    "pt": "Tech"
+   },
+   "subtitle": {
+    "en": "Tech · Devices, software and security",
+    "pt": "Tech · Dispositivos, software e segurança"
+   },
+   "items": [
+    {
+     "id": "ring",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=1NARFzFzZdo",
+      "img": "e021/ring.jpg",
+      "alt": {
+       "en": "The Tech Chap hands-on video about Ring's Drone Cam and Rover Cam",
+       "pt": "Vídeo de The Tech Chap sobre o Drone Cam e o Rover Cam da Ring"
+      },
+      "duration": "5:28",
+      "caption": {
+       "en": "The Tech Chap, 10 Nov (labelled as an ad). Tap to watch on YouTube.",
+       "pt": "The Tech Chap, 10 nov (identificado como publicidade). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Tech · Amazon · Ring · Robotics",
+      "pt": "Tech · Amazon · Ring · Robótica"
+     },
+     "headline": {
+      "en": "Ring launches Drone Cam, a $250 flying indoor camera, and Rover Cam, a patrol robot for businesses",
+      "pt": "A Ring lança o Drone Cam, uma câmara voadora de interior de 250 dólares, e o Rover Cam, um robô de patrulha para empresas"
+     },
+     "deck": {
+      "en": "The two are the first products from the new Ring Robotics business.",
+      "pt": "Os dois são os primeiros produtos do novo negócio Ring Robotics."
+     },
+     "body": [
+      {
+       "en": "Reuters reports that Amazon's Ring launched a new robotics business on Tuesday with two autonomous security products: a flying indoor camera for homes and a roving security robot designed for businesses.",
+       "pt": "A Reuters noticia que a Ring, da Amazon, lançou na terça-feira um novo negócio de robótica com dois produtos de segurança autónomos: uma câmara voadora de interior para casas e um robô de segurança móvel pensado para empresas."
+      },
+      {
+       "en": "Video coverage of Ring's announcement lists the Drone Cam at $249.99 and shipping from 27 January 2027 pending FCC authorisation, and the Rover Cam at $999.99 shipping from 16 December, with scheduled patrols needing a Ring Protect plan. Those details come from the videos, so check Ring's own page before buying.",
+       "pt": "A cobertura em vídeo do anúncio da Ring indica o Drone Cam a 249,99 dólares, com entregas a partir de 27 de janeiro de 2027 e pendente de autorização da FCC, e o Rover Cam a 999,99 dólares, com entregas a partir de 16 de dezembro; as patrulhas agendadas exigem um plano Ring Protect. Estes detalhes vêm dos vídeos, por isso confirme na página da Ring antes de comprar."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Drone Cam",
+        "pt": "Drone Cam"
+       },
+       "v": {
+        "en": "$249.99 (per videos)",
+        "pt": "249,99 $ (segundo vídeos)"
+       }
+      },
+      {
+       "k": {
+        "en": "Rover Cam",
+        "pt": "Rover Cam"
+       },
+       "v": {
+        "en": "$999.99 (per videos)",
+        "pt": "999,99 $ (segundo vídeos)"
+       }
+      },
+      {
+       "k": {
+        "en": "Rover ships",
+        "pt": "Rover chega"
+       },
+       "v": {
+        "en": "16 Dec (per videos)",
+        "pt": "16 dez (segundo vídeos)"
+       }
+      },
+      {
+       "k": {
+        "en": "Drone ships",
+        "pt": "Drone chega"
+       },
+       "v": {
+        "en": "27 Jan 2027, FCC pending",
+        "pt": "27 jan 2027, FCC pendente"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.reuters.com/technology/amazons-ring-launches-flying-camera-autonomous-security-robot-2026-11-10/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "adobemax",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=sBckm1sBUh4",
+      "img": "e021/adobe.jpg",
+      "alt": {
+       "en": "CNET supercut of Adobe MAX 2026 announcements",
+       "pt": "Resumo da CNET dos anúncios da Adobe MAX 2026"
+      },
+      "duration": "18:08",
+      "caption": {
+       "en": "CNET, 10 Nov. Tap to watch on YouTube.",
+       "pt": "CNET, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Tech · Adobe · Adobe MAX · Creative Cloud",
+      "pt": "Tech · Adobe · Adobe MAX · Creative Cloud"
+     },
+     "headline": {
+      "en": "Adobe MAX brings Generative Remove to Premiere, Relight to Photoshop and a Firefly Design beta",
+      "pt": "A Adobe MAX traz o Generative Remove ao Premiere, o Relight ao Photoshop e uma beta do Firefly Design"
+     },
+     "body": [
+      {
+       "en": "The Verge lists a Generative Remove tool in beta for Premiere, new audio tools that split dialogue, music and effects, an upgraded Remove tool plus Quick Compare and Relight in Photoshop, and Firefly additions including a Firefly Design beta and Firefly Graph. The keynote video says Adobe is adding native MCP support so AI agents can drive its desktop apps.",
+       "pt": "A The Verge enumera uma ferramenta Generative Remove em beta para o Premiere, novas ferramentas de áudio que separam diálogo, música e efeitos, uma ferramenta Remove melhorada com Quick Compare e Relight no Photoshop, e novidades no Firefly como uma beta do Firefly Design e o Firefly Graph. O vídeo da keynote diz que a Adobe vai adicionar suporte nativo a MCP para que agentes de IA possam controlar as suas aplicações de secretária."
+      }
+     ],
+     "chip": {
+      "en": "Adobe MAX",
+      "pt": "Adobe MAX"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    },
+    {
+     "id": "autosr",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "console",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a game console",
+       "pt": "Ilustração de uma consola de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Microsoft · Xbox Ally X · Upscaling",
+      "pt": "Tech · Microsoft · Xbox Ally X · Upscaling"
+     },
+     "headline": {
+      "en": "Microsoft's Auto SR upscaling launches on Xbox Ally X, including in handheld mode",
+      "pt": "O upscaling Auto SR da Microsoft chega à Xbox Ally X, incluindo em modo portátil"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that Automatic Super Resolution is rolling out for the Xbox Ally X, Xbox Ally X20 and select Copilot Plus PCs. It now works undocked, on battery and at 1080p, and a Performance mode of up to 120 fps and Auto HDR compatibility arrive through Windows updates.",
+       "pt": "A The Verge noticia que a Automatic Super Resolution está a ser lançada para a Xbox Ally X, a Xbox Ally X20 e alguns PC Copilot Plus. Funciona agora fora da base, com bateria e a 1080p, e um modo Performance até 120 fps e a compatibilidade com Auto HDR chegam através de atualizações do Windows."
+      }
+     ],
+     "chip": {
+      "en": "Auto SR",
+      "pt": "Auto SR"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    },
+    {
+     "id": "pixeltag",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "pin",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a map pin",
+       "pt": "Ilustração de um marcador de mapa"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Google · Pixel Tag · Trackers",
+      "pt": "Tech · Google · Pixel Tag · Localizadores"
+     },
+     "headline": {
+      "en": "Google's Pixel Tag tracker costs $29.99, with a four-pack at $99.99",
+      "pt": "O localizador Pixel Tag da Google custa 29,99 dólares, com um pack de quatro a 99,99"
+     },
+     "body": [
+      {
+       "en": "The Verge says the tag works with Google's Find Hub, runs for over a year on a CR2032 battery, is IP67-rated and supports UWB and Bluetooth 6.0 Channel Sounding. 9to5Google notes some confusion about timing, saying it was not on sale on 10 November and pointing to a retail launch on 11 November.",
+       "pt": "A The Verge diz que o localizador funciona com o Find Hub da Google, dura mais de um ano com uma pilha CR2032, tem classificação IP67 e suporta UWB e Channel Sounding do Bluetooth 6.0. A 9to5Google nota alguma confusão sobre o calendário, dizendo que não estava à venda a 10 de novembro e apontando para um lançamento em lojas a 11 de novembro."
+      }
+     ],
+     "chip": {
+      "en": "$29.99",
+      "pt": "29,99 $"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+     "text": {
+      "en": "says Reddit is launching Reddit Reviews, an AI-organised product reviews hub that will start with 10,000 items.",
+      "pt": "diz que o Reddit lança o Reddit Reviews, um centro de avaliações de produtos organizado por IA que começa com 10 000 artigos."
+     }
+    },
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+     "text": {
+      "en": "reports Ableton Live 13 is due in early 2027 with a step sequencer, ARA plugin support and an experimental looper called Looplet.",
+      "pt": "noticia que o Ableton Live 13 chega no início de 2027 com um sequenciador por passos, suporte a plugins ARA e um looper experimental chamado Looplet."
+     }
+    },
+    {
+     "src": "CNET",
+     "url": "https://www.cnet.com/tech/mobile/google-fi-super-network-pixel-phones",
+     "text": {
+      "en": "says Google Fi's new super network automatically switches Pixel 9 and newer phones between two 5G networks.",
+      "pt": "diz que a nova super network da Google Fi alterna automaticamente os Pixel 9 e mais recentes entre duas redes 5G."
+     }
+    },
+    {
+     "src": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+     "text": {
+      "en": "reports Rocket Lab is raising Neutron's price from $55 million to $70 million per launch and has a backlog of 117 launches.",
+      "pt": "noticia que a Rocket Lab vai subir o preço do Neutron de 55 para 70 milhões de dólares por lançamento e tem 117 lançamentos em carteira."
+     }
+    },
+    {
+     "src": "CNET",
+     "url": "https://www.cnet.com/tech/services-and-software/ios-27-2-1-bug-security-fixes",
+     "text": {
+      "en": "says iOS 27.2.1 fixes nine issues, two of which could lead to memory corruption.",
+      "pt": "diz que o iOS 27.2.1 corrige nove problemas, dois dos quais podiam causar corrupção de memória."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "topic": "ai",
+   "title": {
+    "en": "A.I.",
+    "pt": "I.A."
+   },
+   "subtitle": {
+    "en": "A.I. · Models, markets and policy",
+    "pt": "I.A. · Modelos, mercados e política"
+   },
+   "items": [
+    {
+     "id": "ipo3",
+     "topic": "ai",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=NBzrvDLtlxY",
+      "img": "e021/ipo.jpg",
+      "alt": {
+       "en": "CNBC video about Anthropic's IPO roadshow",
+       "pt": "Vídeo da CNBC sobre o roadshow da oferta pública inicial da Anthropic"
+      },
+      "duration": "2:54",
+      "caption": {
+       "en": "CNBC Television, 10 Nov. Tap to watch on YouTube.",
+       "pt": "CNBC Television, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · IPO · Update",
+      "pt": "I.A. · Anthropic · OPI · Atualização"
+     },
+     "headline": {
+      "en": "Update: Anthropic sets IPO terms at $70 to $78 a share, with reported valuations from $1.02 trillion to $1.4 trillion",
+      "pt": "Atualização: a Anthropic define os termos da OPI em 70 a 78 dólares por ação, com avaliações indicadas de 1,02 a 1,4 biliões de dólares"
+     },
+     "deck": {
+      "en": "Axios says trading is likely to begin next week.",
+      "pt": "A Axios diz que a negociação deverá começar na próxima semana."
+     },
+     "body": [
+      {
+       "en": "Axios reports that Anthropic will seek to raise up to $62.5 billion by selling 801 million shares at $70 to $78, at a valuation that could reach $1.02 trillion. Reuters, covering the updated prospectus, puts the top valuation at up to $1.4 trillion. The two figures differ, so treat both as reported ranges. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A Axios noticia que a Anthropic quer angariar até 62,5 mil milhões de dólares vendendo 801 milhões de ações entre 70 e 78 dólares, a uma avaliação que pode chegar a 1,02 biliões. A Reuters, ao noticiar o prospeto atualizado, coloca a avaliação máxima em até 1,4 biliões. Os dois valores diferem, por isso devem ser tratados como intervalos noticiados. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      },
+      {
+       "en": "CNBC reports Anthropic opened an Australian retail offering on Wednesday ahead of a planned Nasdaq listing under the ticker ANT. Bloomberg quotes investor Jack Selby warning that lock-up expiries could trigger a correction. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A CNBC noticia que a Anthropic abriu na quarta-feira uma oferta a pequenos investidores na Austrália, antes de uma cotação prevista na Nasdaq com o símbolo ANT. A Bloomberg cita o investidor Jack Selby, que avisa que o fim dos períodos de restrição pode desencadear uma correção. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Price range",
+        "pt": "Intervalo de preço"
+       },
+       "v": {
+        "en": "$70–$78 a share",
+        "pt": "70–78 $ por ação"
+       }
+      },
+      {
+       "k": {
+        "en": "Shares",
+        "pt": "Ações"
+       },
+       "v": {
+        "en": "801 million (Axios)",
+        "pt": "801 milhões (Axios)"
+       }
+      },
+      {
+       "k": {
+        "en": "Ticker",
+        "pt": "Símbolo"
+       },
+       "v": {
+        "en": "ANT (Nasdaq)",
+        "pt": "ANT (Nasdaq)"
+       }
+      },
+      {
+       "k": {
+        "en": "Trading",
+        "pt": "Negociação"
+       },
+       "v": {
+        "en": "Likely next week",
+        "pt": "Provavelmente na próxima semana"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.axios.com/2026/11/10/anthropic-ipo-terms",
+      "label": {
+       "en": "Read the full story at Axios →",
+       "pt": "Ler a notícia completa em Axios →"
+      }
+     },
+     "also": [
+      {
+       "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WL2MS?channel=frL012",
+       "name": "Reuters"
+      },
+      {
+       "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+       "name": "CNBC"
+      },
+      {
+       "url": "https://bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+       "name": "Bloomberg"
+      }
+     ]
+    },
+    {
+     "id": "carbon",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=SlFMPTdKuAk",
+      "img": "e021/gemini.jpg",
+      "alt": {
+       "en": "Prompt Engineering video about Gemini 4 Carbon",
+       "pt": "Vídeo do Prompt Engineering sobre o Gemini 4 Carbon"
+      },
+      "duration": "1:01",
+      "caption": {
+       "en": "Prompt Engineering, 10 Nov. Tap to watch on YouTube.",
+       "pt": "Prompt Engineering, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Google · Gemini 4 Carbon · Availability",
+      "pt": "I.A. · Google · Gemini 4 Carbon · Disponibilidade"
+     },
+     "headline": {
+      "en": "Google makes Gemini 4 Carbon generally available and undercuts Claude Fable 5.2 on API price",
+      "pt": "A Google torna o Gemini 4 Carbon geralmente disponível e fica abaixo do Claude Fable 5.2 no preço da API"
+     },
+     "body": [
+      {
+       "en": "VentureBeat reports that Carbon, announced on 28 October with a limited rollout to cybersecurity defenders in Google's Fairwind programme, is now rolling out to Google AI Ultra subscribers in the Gemini app, AI Mode in Search and Antigravity, and to developers through the paid Gemini API. The outlet says its price undercuts Claude Fable 5.2 and Opus 5.5, and that the cyber-focused version stays on Fairwind. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A VentureBeat noticia que o Carbon, anunciado a 28 de outubro com um lançamento limitado a defensores de cibersegurança no programa Fairwind da Google, está agora a chegar aos assinantes do Google AI Ultra na app Gemini, no Modo IA da Pesquisa e no Antigravity, e aos programadores através da API paga do Gemini. O meio diz que o preço fica abaixo do Claude Fable 5.2 e do Opus 5.5 e que a versão focada em cibersegurança continua no Fairwind. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "Now available",
+      "pt": "Já disponível"
+     },
+     "link": {
+      "url": "https://venturebeat.com/technology/google-gemini-4-carbon-is-now-publicly-available-and-it-undercuts-claude-fable-5-2-and-opus-5-5-on-api-price",
+      "label": {
+       "en": "Read the full story at VentureBeat →",
+       "pt": "Ler a notícia completa em VentureBeat →"
+      }
+     }
+    },
+    {
+     "id": "openaiq3",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · OpenAI · Finances · Revenue",
+      "pt": "I.A. · OpenAI · Finanças · Receitas"
+     },
+     "headline": {
+      "en": "OpenAI's third-quarter revenue rises about 50% to $10 billion, but operating losses widen to $10.9 billion",
+      "pt": "As receitas da OpenAI no terceiro trimestre sobem cerca de 50% para 10 mil milhões de dólares, mas as perdas operacionais aumentam para 10,9 mil milhões"
+     },
+     "body": [
+      {
+       "en": "Reuters, citing the Wall Street Journal, says OpenAI told investors its adjusted operating margin improved to -109% from -150%, while operating losses rose to $10.9 billion from $10.1 billion. Bloomberg adds that Anthropic reported third-quarter revenue of about $17 billion, and notes the two companies have historically calculated revenue differently. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A Reuters, citando o Wall Street Journal, diz que a OpenAI informou os investidores de que a margem operacional ajustada melhorou para -109% (de -150%), enquanto as perdas operacionais subiram para 10,9 mil milhões de dólares (de 10,1). A Bloomberg acrescenta que a Anthropic registou receitas de cerca de 17 mil milhões no terceiro trimestre e nota que as duas empresas calculam historicamente as receitas de forma diferente. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "$10B in Q3",
+      "pt": "10 mil M$ no T3"
+     },
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WL34H?channel=frL012",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+       "name": "Bloomberg"
+      }
+     ]
+    },
+    {
+     "id": "meetings",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "laptop",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a laptop",
+       "pt": "Ilustração de um portátil"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · Claude Meetings · Product",
+      "pt": "I.A. · Anthropic · Claude Meetings · Produto"
+     },
+     "headline": {
+      "en": "Anthropic brings Claude to Google Meet as a visible participant",
+      "pt": "A Anthropic leva o Claude ao Google Meet como participante visível"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that Claude Meetings launches in beta for Team and Enterprise customers, first through Google Meet, letting Claude follow the conversation and draft plans, timelines and answers in the call chat. Anthropic also introduced Claude Whiteboards, Claude Sheets and Claude Data. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A Reuters noticia que o Claude Meetings chega em beta aos clientes Team e Enterprise, primeiro através do Google Meet, permitindo que o Claude acompanhe a conversa e redija planos, cronogramas e respostas no chat da chamada. A Anthropic apresentou também o Claude Whiteboards, o Claude Sheets e o Claude Data. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "Beta",
+      "pt": "Beta"
+     },
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WL2ET?channel=frL012",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "tsmc",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "chip",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a computer chip",
+       "pt": "Ilustração de um chip"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · TSMC · Anthropic · OpenAI · Investment",
+      "pt": "I.A. · TSMC · Anthropic · OpenAI · Investimento"
+     },
+     "headline": {
+      "en": "TSMC plans to invest up to $1 billion across Anthropic and OpenAI",
+      "pt": "A TSMC planeia investir até mil milhões de dólares na Anthropic e na OpenAI"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that TSMC's board approved up to $500 million to buy Anthropic shares at its IPO price and up to $500 million of OpenAI preferred stock. Reuters adds that Anthropic is also raising $26 billion in a private placement backed by investors including Google, Nvidia, AMD and Microsoft. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A Reuters noticia que o conselho da TSMC aprovou até 500 milhões de dólares para comprar ações da Anthropic ao preço da oferta pública inicial e até 500 milhões em ações preferenciais da OpenAI. A Reuters acrescenta que a Anthropic está também a angariar 26 mil milhões de dólares numa colocação privada apoiada por investidores como Google, Nvidia, AMD e Microsoft. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "$1B",
+      "pt": "1 mil M$"
+     },
+     "link": {
+      "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "uschina",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "globe",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a globe",
+       "pt": "Ilustração de um globo"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Policy · US–China · Safety",
+      "pt": "I.A. · Política · EUA–China · Segurança"
+     },
+     "headline": {
+      "en": "US and China set up a dialogue mechanism on \"super intelligence\" risks, Bessent says",
+      "pt": "EUA e China criam um mecanismo de diálogo sobre os riscos da «superinteligência», diz Bessent"
+     },
+     "body": [
+      {
+       "en": "CNBC reports that Bessent told the National Committee on U.S.-China Relations the two governments will exchange best practices for testing advanced models before release and alert each other to serious incidents, but he made no commitment to limit AI advancement. CNBC adds that Trump said he does not mind guardrails but does not want the US in \"a deep second position\".",
+       "pt": "A CNBC noticia que Bessent disse ao National Committee on U.S.-China Relations que os dois governos vão trocar boas práticas para testar modelos avançados antes do lançamento e alertar-se mutuamente para incidentes graves, mas não assumiu qualquer compromisso de limitar o avanço da IA. A CNBC acrescenta que Trump disse não se importar com salvaguardas, mas não querer os EUA numa «segunda posição bastante atrás»."
+      }
+     ],
+     "chip": {
+      "en": "Policy",
+      "pt": "Política"
+     },
+     "link": {
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "label": {
+       "en": "Read the full story at CNBC →",
+       "pt": "Ler a notícia completa em CNBC →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Reuters",
+     "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WL2HG?channel=frL012",
+     "text": {
+      "en": "says OpenAI launched \"Businesses\" in beta within ChatGPT, letting companies claim and manage their profiles.",
+      "pt": "diz que a OpenAI lançou em beta os «Businesses» no ChatGPT, permitindo que as empresas reivindiquem e giram os seus perfis."
+     }
+    },
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/tech/1030720/google-gemini-memory-summary-edit-correct-ai-knowledge",
+     "text": {
+      "en": "reports that Gemini's new Memory summary lets US users with an active Google AI plan view, edit and delete what Gemini knows about them.",
+      "pt": "noticia que o novo Memory summary do Gemini permite aos utilizadores nos EUA com um plano Google AI ativo ver, editar e apagar o que o Gemini sabe sobre eles."
+     }
+    },
+    {
+     "src": "Axios",
+     "url": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
+     "text": {
+      "en": "argues that political backlash against data centres and the Nvidia crisis could force a slowdown that industry leaders have struggled to deliver voluntarily.",
+      "pt": "argumenta que a reação política contra os centros de dados e a crise da Nvidia podem forçar um abrandamento que os líderes do setor têm tido dificuldade em concretizar voluntariamente."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WL2TS?channel=frL012",
+     "text": {
+      "en": "reports CoreWeave beat quarterly revenue estimates even as its stock has fallen more than 40% in the past month.",
+      "pt": "noticia que a CoreWeave superou as estimativas de receitas trimestrais, embora as ações tenham caído mais de 40% no último mês."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "https://www.reuters.com/legal/transactional/amazon-google-set-big-windfall-anthropic-ipo-2026-11-10/",
+     "text": {
+      "en": "calculates that Amazon's and Google's Anthropic stakes could be worth a combined $411 billion at the top of the IPO range. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+      "pt": "calcula que as participações da Amazon e da Google na Anthropic podem valer 411 mil milhões de dólares no total no topo do intervalo da oferta. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+     }
+    }
+   ]
+  },
+  {
+   "id": "comics",
+   "topic": "comics",
+   "title": {
+    "en": "Comics",
+    "pt": "Comics"
+   },
+   "subtitle": {
+    "en": "Comics · Sales, launches and previews",
+    "pt": "Comics · Vendas, lançamentos e antevisões"
+   },
+   "items": [
+    {
+     "id": "harley",
+     "topic": "comics",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Comics · DC · Harley Quinn · New creative team",
+      "pt": "Comics · DC · Harley Quinn · Nova equipa criativa"
+     },
+     "headline": {
+      "en": "Harley Quinn gets a new team and a Paris heist from issue #71 in February",
+      "pt": "Harley Quinn ganha uma nova equipa e um assalto em Paris a partir do n.º 71, em fevereiro"
+     },
+     "deck": {
+      "en": "Joanne Starer, Lukas Ketner and Dave McCaig take over, with a redesign by David Nakayama.",
+      "pt": "Joanne Starer, Lukas Ketner e Dave McCaig assumem a série, com um novo visual desenhado por David Nakayama."
+     },
+     "body": [
+      {
+       "en": "The Beat reports that DC's ongoing Harley Quinn series moves to a new creative team with issue #71, on sale 24 February 2027: writer Joanne Starer, artist Lukas Ketner and colourist Dave McCaig. The run moves Harley from New York to Paris and gives her a new costume designed by new cover artist David Nakayama.",
+       "pt": "A The Beat noticia que a série regular Harley Quinn, da DC, passa a ter uma nova equipa criativa a partir do n.º 71, à venda a 24 de fevereiro de 2027: a argumentista Joanne Starer, o desenhador Lukas Ketner e o colorista Dave McCaig. A fase leva Harley de Nova Iorque para Paris e dá-lhe um novo fato desenhado pelo novo artista das capas, David Nakayama."
+      },
+      {
+       "en": "ComicBook.com adds that the story builds to the heist of the century as Harley goes global to form a team to steal the Mona Lisa. The Beat says the issue will have variant covers by Yona, Nimit Malavia and Khary Randolph.",
+       "pt": "A ComicBook.com acrescenta que a história avança para o assalto do século, com Harley a viajar pelo mundo para formar uma equipa que roube a Mona Lisa. A The Beat diz que o número terá capas alternativas de Yona, Nimit Malavia e Khary Randolph."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Issue",
+        "pt": "Número"
+       },
+       "v": {
+        "en": "#71",
+        "pt": "N.º 71"
+       }
+      },
+      {
+       "k": {
+        "en": "On sale",
+        "pt": "À venda"
+       },
+       "v": {
+        "en": "24 Feb 2027",
+        "pt": "24 fev 2027"
+       }
+      },
+      {
+       "k": {
+        "en": "Writer",
+        "pt": "Argumentista"
+       },
+       "v": {
+        "en": "Joanne Starer",
+        "pt": "Joanne Starer"
+       }
+      },
+      {
+       "k": {
+        "en": "New setting",
+        "pt": "Novo cenário"
+       },
+       "v": {
+        "en": "Paris",
+        "pt": "Paris"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.comicsbeat.com/joanne-starer-lukas-ketner-harley-quinn-dc-comics/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://comicbook.com/comics/news/harley-quinn-is-getting-a-brand-new-design-and-bringing-back-batmans-greatest-forgotten-villain/",
+       "name": "ComicBook.com"
+      }
+     ]
+    },
+    {
+     "id": "impaler",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "blade",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a blade",
+       "pt": "Ilustração de uma lâmina"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Image · Impaler · Revival",
+      "pt": "Comics · Image · Impaler · Regresso"
+     },
+     "headline": {
+      "en": "Image revives Impaler for a six-issue series and announces the 1930s mystery Electric Smoke",
+      "pt": "A Image revive Impaler numa série de seis números e anuncia o mistério dos anos 1930 Electric Smoke"
+     },
+     "body": [
+      {
+       "en": "The Beat's digest says William Harms, Christian DiBari and colourist Lee Loughridge bring back Impaler from 3 February, two decades after the original debuted at Image. Image also unveiled Electric Smoke, a four-issue sci-fi murder mystery by Jordan Thomas and Chris Matthews set in 1930s New York, with issue #1 due on 10 February.",
+       "pt": "O resumo da The Beat diz que William Harms, Christian DiBari e o colorista Lee Loughridge trazem de volta Impaler a partir de 3 de fevereiro, duas décadas depois de o original ter estreado na Image. A Image revelou ainda Electric Smoke, um mistério policial de ficção científica em quatro números, de Jordan Thomas e Chris Matthews, passado na Nova Iorque dos anos 1930, com o n.º 1 previsto para 10 de fevereiro."
+      }
+     ],
+     "chip": {
+      "en": "Feb 2027",
+      "pt": "Fev 2027"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/digest-111026/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "tomking",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of an open book",
+       "pt": "Ilustração de um livro aberto"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Marvel · Tom King · Rumour",
+      "pt": "Comics · Marvel · Tom King · Rumor"
+     },
+     "headline": {
+      "en": "Rumour: Tom King is said to be in talks with Marvel as his DC exclusivity shifts",
+      "pt": "Rumor: Tom King estaria em conversações com a Marvel enquanto a exclusividade com a DC muda"
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool's gossip column says King was seen meeting Marvel's new editor-in-chief Steve Wacker around New York Comic Con, and that Stephanie Williams teased a Marvel return on social media, with speculation about a Storm series. None of this is confirmed; the column also notes King's Wonder Woman run is ending while he stays involved in DC Studios projects.",
+       "pt": "A coluna de rumores da Bleeding Cool diz que King foi visto a reunir-se com o novo editor-chefe da Marvel, Steve Wacker, por alturas da New York Comic Con, e que Stephanie Williams insinuou nas redes sociais um regresso à Marvel, com especulação sobre uma série de Storm. Nada disto está confirmado; a coluna nota também que a fase de King em Wonder Woman está a acabar e que ele continua envolvido em projetos da DC Studios."
+      }
+     ],
+     "chip": {
+      "en": "Rumour",
+      "pt": "Rumor"
+     },
+     "link": {
+      "url": "https://bleedingcool.com/comics/gossip-tom-king-and-stephanie-williams-coming-to-marvel/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    },
+    {
+     "id": "justiceleague",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "pyramid",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a pyramid",
+       "pt": "Ilustração de uma pirâmide"
+      }
+     },
+     "kicker": {
+      "en": "Comics · DC Studios · Justice League · Update",
+      "pt": "Comics · DC Studios · Justice League · Atualização"
+     },
+     "headline": {
+      "en": "Update: report says Skydance wants the Justice League on screen fast, and Latcham steps away from the live-action Naruto film",
+      "pt": "Atualização: relato diz que a Skydance quer a Liga da Justiça no ecrã depressa e Latcham afasta-se do filme de ação real de Naruto"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Edition 020 covered the leadership change; new reports describe the mandate for the new boss.",
+       "pt": "Novidades desde a última edição: a Edição 020 abordou a mudança de liderança; novos relatos descrevem o mandato do novo responsável."
+      },
+      {
+       "en": "Report: per The Wrap, as relayed by ComicBook.com and CBR, insiders expect Jeremy Latcham to get Justice League films under way quickly, with Wonder Woman, Green Lantern and The Flash named, by mandate of Skydance CEO David Ellison. That rests on unnamed insiders. ComicBook.com also notes Latcham says he is untangling himself from the live-action Naruto movie to focus on DC.",
+       "pt": "Relato: segundo a The Wrap, retransmitido pela ComicBook.com e pela CBR, fontes do meio esperam que Jeremy Latcham ponha filmes da Liga da Justiça em andamento rapidamente, com Wonder Woman, Lanterna Verde e The Flash mencionados, por mandato do CEO da Skydance, David Ellison. Isto assenta em fontes não identificadas. A ComicBook.com nota também que Latcham diz estar a desligar-se do filme de ação real de Naruto para se concentrar na DC."
+      }
+     ],
+     "chip": {
+      "en": "Report",
+      "pt": "Relato"
+     },
+     "link": {
+      "url": "https://comicbook.com/movies/news/dc-studios-given-justice-league-mandate-by-skydance-ceo-according-to-new-report/",
+      "label": {
+       "en": "Read the full story at ComicBook.com →",
+       "pt": "Ler a notícia completa em ComicBook.com →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.cbr.com/dc-studios-justice-league-reboot-james-gunn-exit/",
+       "name": "CBR"
+      },
+      {
+       "url": "https://comicbook.com/movies/feature/dc-studios-new-head-jeremy-latcham-explained-marvel-mcu-history-live-action-naruto-anime-movie/",
+       "name": "ComicBook.com (Latcham profile)"
+      }
+     ]
+    },
+    {
+     "id": "theheir",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of an open book",
+       "pt": "Ilustração de um livro aberto"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Mad Cave · The Heir · New series",
+      "pt": "Comics · Mad Cave · The Heir · Nova série"
+     },
+     "headline": {
+      "en": "Buffyverse writers reunite at Mad Cave for the horror miniseries The Heir",
+      "pt": "Argumentistas do Buffyverse reúnem-se na Mad Cave para a minissérie de terror The Heir"
+     },
+     "body": [
+      {
+       "en": "CBR reports Mad Cave Studios announced The Heir, a five-issue limited series co-written by Amber Benson and Christopher Golden, with art by Gavin Fullerton, colours by Juancho and letters by Becca Carey. The first issue arrives on 13 January 2027.",
+       "pt": "A CBR noticia que a Mad Cave Studios anunciou The Heir, uma minissérie de cinco números coescrita por Amber Benson e Christopher Golden, com arte de Gavin Fullerton, cores de Juancho e letras de Becca Carey. O primeiro número chega a 13 de janeiro de 2027."
+      }
+     ],
+     "chip": {
+      "en": "13 Jan 2027",
+      "pt": "13 jan 2027"
+     },
+     "link": {
+      "url": "https://www.cbr.com/mad-cave-studios-the-heir-release-date-confirmed/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/tmnt-sonic-and-worm-highlight-idw-comics-giveaway-day-offerings/",
+     "text": {
+      "en": "says Comics Giveaway Day, the parallel to Free Comic Book Day, returns for a second year on 1 May 2027.",
+      "pt": "diz que o Comics Giveaway Day, paralelo ao Free Comic Book Day, regressa pelo segundo ano a 1 de maio de 2027."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/tini-howard-joe-jaro-bring-back-marian-heretic-with-the-book-of-joan/",
+     "text": {
+      "en": "reports Tini Howard and Joe Jaro bring back Marian Heretic with The Book of Joan from BOOM! Studios, issue #1 due on 17 February 2027.",
+      "pt": "noticia que Tini Howard e Joe Jaro trazem de volta Marian Heretic com The Book of Joan, da BOOM! Studios, com o n.º 1 previsto para 17 de fevereiro de 2027."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/i-saw-spawn-a-twisted-christmas-tale-1-preview/",
+     "text": {
+      "en": "previews I Saw Spawn: A Twisted Christmas Tale #1 from Image, in shops on 11 November at $5.99.",
+      "pt": "apresenta uma antevisão de I Saw Spawn: A Twisted Christmas Tale #1, da Image, nas lojas a 11 de novembro por 5,99 dólares."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/gunn-safran-latcham-behind-yet-another-regime-change-at-dc-studios/",
+     "text": {
+      "en": "says DC Comics is for now tucked away in consumer products and supposedly untouched by Skydance's planned $6 billion in cuts.",
+      "pt": "diz que a DC Comics está, para já, integrada nos produtos de consumo e alegadamente intacta face aos cortes de 6 mil milhões de dólares planeados pela Skydance."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manga",
+   "topic": "manga",
+   "title": {
+    "en": "Manga",
+    "pt": "Manga"
+   },
+   "subtitle": {
+    "en": "Manga · Anime adaptations and releases",
+    "pt": "Manga · Adaptações a anime e lançamentos"
+   },
+   "items": [
+    {
+     "id": "witch",
+     "topic": "manga",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of an open book",
+       "pt": "Ilustração de um livro aberto"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Kodansha · Witch on the Holy Night · Serialisation",
+      "pt": "Manga · Kodansha · Witch on the Holy Night · Publicação em série"
+     },
+     "headline": {
+      "en": "Witch on the Holy Night manga launches in Weekly Shonen Magazine, with a simultaneous English release",
+      "pt": "O manga Witch on the Holy Night estreia na Weekly Shonen Magazine, com lançamento simultâneo em inglês"
+     },
+     "deck": {
+      "en": "Keigo Maki, creator of Shikimori's Not Just a Cutie, adapts TYPE-MOON's visual novel.",
+      "pt": "Keigo Maki, criador de Shikimori's Not Just a Cutie, adapta o visual novel da TYPE-MOON."
+     },
+     "body": [
+      {
+       "en": "Mantan Web reports the manga adaptation began serialisation in issue 50 of Kodansha's Weekly Shonen Magazine, released on 11 November. It is drawn by Keigo Maki, the artist behind Shikimori's Not Just a Cutie, from the 2012 TYPE-MOON visual novel written by Kinoko Nasu with character design by Hirokazu Koyama.",
+       "pt": "A Mantan Web noticia que a adaptação em manga começou a ser publicada no n.º 50 da Weekly Shonen Magazine, da Kodansha, lançado a 11 de novembro. É desenhada por Keigo Maki, o artista de Shikimori's Not Just a Cutie, a partir do visual novel da TYPE-MOON de 2012, escrito por Kinoko Nasu, com design de personagens de Hirokazu Koyama."
+      },
+      {
+       "en": "Kodansha's K MANGA site lists Chapter 1 as a free 60-page release dated 10 November, with new chapters every Tuesday. animeMANGA says a preview PV featured Haruka Tomatsu as Aoko Aozaki and Yusuke Kobayashi as Soujuurou Shizuki, the same cast as the anime adaptation.",
+       "pt": "O site K MANGA da Kodansha apresenta o capítulo 1 como uma edição gratuita de 60 páginas datada de 10 de novembro, com novos capítulos todas as terças-feiras. A animeMANGA diz que um PV de antevisão contou com Haruka Tomatsu como Aoko Aozaki e Yusuke Kobayashi como Soujuurou Shizuki, o mesmo elenco da adaptação em anime."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Magazine",
+        "pt": "Revista"
+       },
+       "v": {
+        "en": "Weekly Shonen Magazine #50",
+        "pt": "Weekly Shonen Magazine n.º 50"
+       }
+      },
+      {
+       "k": {
+        "en": "Artist",
+        "pt": "Desenhador"
+       },
+       "v": {
+        "en": "Keigo Maki",
+        "pt": "Keigo Maki"
+       }
+      },
+      {
+       "k": {
+        "en": "English",
+        "pt": "Inglês"
+       },
+       "v": {
+        "en": "K MANGA, free",
+        "pt": "K MANGA, grátis"
+       }
+      },
+      {
+       "k": {
+        "en": "New chapters",
+        "pt": "Novos capítulos"
+       },
+       "v": {
+        "en": "Tuesdays",
+        "pt": "Às terças-feiras"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://en.mantan-web.jp/e_article/20261110dog00m200096000a.html",
+      "label": {
+       "en": "Read the full story at Mantan Web →",
+       "pt": "Ler a notícia completa em Mantan Web →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://kmanga.kodansha.com/title/10756/episode/369439",
+       "name": "K MANGA"
+      },
+      {
+       "url": "https://www.animemanga.com/news/mahoutsukai-no-yoru-keigo-maki-draws-the-manga-adaptation-of-type-moons-visual-novel.html",
+       "name": "animeMANGA"
+      },
+      {
+       "url": "https://anitrendz.net/news/2026/11/09/witch-on-the-holy-night-manga-will-have-english-release-via-k-manga/",
+       "name": "AniTrendz"
+      }
+     ]
+    },
+    {
+     "id": "aoharu",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "calendar",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a calendar",
+       "pt": "Ilustração de um calendário"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shu-Cream · Aoharu Once More · Anime",
+      "pt": "Manga · Shu-Cream · Aoharu Once More · Anime"
+     },
+     "headline": {
+      "en": "Boys' love manga Aoharu Once More gets a light anime on TV Tokyo in January 2027",
+      "pt": "O manga de amor entre rapazes Aoharu Once More ganha um anime leve na TV Tokyo em janeiro de 2027"
+     },
+     "body": [
+      {
+       "en": "Comic Natalie reports that Toworu Miyata's manga, serialised in Shu-Cream's \"from RED\", will air from January 2027 on TV Tokyo, with Tsubasa Kaito and Nozomu Urawa returning from the drama CD as Hayato Kobayashi and Ritsu Onishi. Anime News Network confirms the teaser PV, cast and premiere window. A preview event is set for 22 December at Animate Theater in Tokyo.",
+       "pt": "A Comic Natalie noticia que o manga de Toworu Miyata, publicado em \"from RED\", da Shu-Cream, será emitido a partir de janeiro de 2027 na TV Tokyo, com Tsubasa Kaito e Nozomu Urawa a regressar do drama CD nos papéis de Hayato Kobayashi e Ritsu Onishi. A Anime News Network confirma o PV de teaser, o elenco e a janela de estreia. Um evento de antestreia está marcado para 22 de dezembro no Animate Theater, em Tóquio."
+      }
+     ],
+     "chip": {
+      "en": "Jan 2027",
+      "pt": "Jan 2027"
+     },
+     "link": {
+      "url": "https://natalie.mu/comic/news/697481",
+      "label": {
+       "en": "Read the full story at Comic Natalie →",
+       "pt": "Ler a notícia completa em Comic Natalie →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.animenewsnetwork.com/news/2026-11-10/aoharu-once-more-light-anime-teaser-reveals-cast-more-staff-january-2027-debut/.243708",
+       "name": "Anime News Network"
+      }
+     ]
+    },
+    {
+     "id": "jojograniph",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "pyramid",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a pyramid",
+       "pt": "Ilustração de uma pirâmide"
+      }
+     },
+     "kicker": {
+      "en": "Manga · JoJo's Bizarre Adventure · graniph · Merchandise",
+      "pt": "Manga · JoJo's Bizarre Adventure · graniph · Merchandising"
+     },
+     "headline": {
+      "en": "JoJo's Bizarre Adventure and graniph release 18 new items from Golden Wind and Stone Ocean",
+      "pt": "JoJo's Bizarre Adventure e a graniph lançam 18 novos artigos de Golden Wind e Stone Ocean"
+     },
+     "body": [
+      {
+       "en": "Comic Natalie reports the collection goes on sale on 17 November, with pre-orders opened on 11 November at the official online store. Items include a sweatshirt, a zip hoodie, a varsity jacket, a long wallet, a jacquard knit and a shoulder bag; some have purchase limits.",
+       "pt": "A Comic Natalie noticia que a coleção chega às lojas a 17 de novembro, com pré-encomendas abertas a 11 de novembro na loja online oficial. Os artigos incluem uma sweatshirt, um hoodie com fecho, um casaco de estilo universitário, uma carteira comprida, uma malha jacquard e uma mala de ombro; alguns têm limite de compra."
+      }
+     ],
+     "chip": {
+      "en": "17 Nov",
+      "pt": "17 nov"
+     },
+     "link": {
+      "url": "https://natalie.mu/comic/news/697519",
+      "label": {
+       "en": "Read the full story at Comic Natalie →",
+       "pt": "Ler a notícia completa em Comic Natalie →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/news/2026-11-11/me-idol-momo-sakurai-voice-acts-sings-in-gacha-girls-corps-anime/.243711",
+     "text": {
+      "en": "reports that ≠ME idol Momo Sakurai voices the rabbit Mofutto in the Gacha Girls Corps light-novel anime, which Natalie says premieres on 7 January 2027.",
+      "pt": "noticia que a idol Momo Sakurai, do grupo ≠ME, dá voz ao coelho Mofutto no anime de light novel Gacha Girls Corps, que a Natalie diz estrear a 7 de janeiro de 2027."
+     }
+    },
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/press-release/2026-11-10/baki-publisher-akitashoten-releases-official-interview-on-35-years-of-the-manga/.243699",
+     "text": {
+      "en": "carries a press release saying publisher Akita Shoten has released an official interview marking 35 years of the Baki manga.",
+      "pt": "publica um comunicado que diz que a editora Akita Shoten divulgou uma entrevista oficial por ocasião dos 35 anos do manga Baki."
+     }
+    },
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/press-release/2026-11-10/jonathan-tanigaki-to-star-as-akaza-in-re-anime-films-live-action-demon-slayer-akaza-vs-rengoku-/.243698",
+     "text": {
+      "en": "carries a press release saying Jonathan Tanigaki stars as Akaza in Re:Anime Films' live-action Demon Slayer: Akaza vs. Rengoku, premiering on 3 December.",
+      "pt": "publica um comunicado que diz que Jonathan Tanigaki é Akaza no Demon Slayer: Akaza vs. Rengoku, em ação real, da Re:Anime Films, com estreia a 3 de dezembro."
+     }
+    },
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/press-release/2026-11-10/new-movie-made-in-abyss-awakening-mystery-comes-to-hidive/.243700",
+     "text": {
+      "en": "carries a press release saying the Made in Abyss: Awakening Mystery film is coming to HIDIVE.",
+      "pt": "publica um comunicado que diz que o filme Made in Abyss: Awakening Mystery chega ao HIDIVE."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manhwa",
+   "topic": "manhwa",
+   "title": {
+    "en": "Manhwa",
+    "pt": "Manhwa"
+   },
+   "subtitle": {
+    "en": "Manhwa · Webtoons and adaptations",
+    "pt": "Manhwa · Webtoons e adaptações"
+   },
+   "items": [
+    {
+     "id": "empress2",
+     "topic": "manhwa",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=KQyQbVbUlj8",
+      "img": "e021/empress.jpg",
+      "alt": {
+       "en": "지구별반응 video about The Remarried Empress reaching No. 1 in 33 countries",
+       "pt": "Vídeo do 지구별반응 sobre The Remarried Empress chegar ao n.º 1 em 33 países"
+      },
+      "duration": "8:27",
+      "caption": {
+       "en": "지구별반응, 11 Nov (in Korean). Tap to watch on YouTube.",
+       "pt": "지구별반응, 11 nov (em coreano). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Disney+ · The Remarried Empress · Update",
+      "pt": "Manhwa · Disney+ · The Remarried Empress · Atualização"
+     },
+     "headline": {
+      "en": "Update: The Remarried Empress hits No. 1 in 33 countries and becomes Disney+'s most-watched local original, The Korea Times reports",
+      "pt": "Atualização: The Remarried Empress chega ao n.º 1 em 33 países e torna-se a produção local mais vista do Disney+, noticia o The Korea Times"
+     },
+     "deck": {
+      "en": "Episodes 5 and 6 arrive on 11 November at 5 p.m. KST.",
+      "pt": "Os episódios 5 e 6 chegam a 11 de novembro, às 17:00 (hora da Coreia)."
+     },
+     "body": [
+      {
+       "en": "The Korea Times says that within three days of its 3 November premiere, the series, adapted from Alphatart's web novel and the Naver webtoon, became the most-watched Disney+ local original of all time worldwide by cumulative views. According to global tracking data it reached No. 1 in 33 countries and regions and No. 2 on Disney+'s global TV chart, behind Marvel's VisionQuest.",
+       "pt": "O The Korea Times diz que, em três dias após a estreia de 3 de novembro, a série, adaptada do romance web de Alphatart e do webtoon da Naver, se tornou a produção local mais vista de sempre do Disney+ a nível mundial em visualizações acumuladas. Segundo dados de monitorização global, chegou ao n.º 1 em 33 países e regiões e ao n.º 2 do ranking global de séries do Disney+, atrás de VisionQuest, da Marvel."
+      },
+      {
+       "en": "Soompi says episodes 5 and 6 release on 11 November at 5 p.m. KST, with stills showing Sovieshu challenging Heinrey to a duel. The Korea Times adds that Disney+ opened an interactive pop-up in Seoul's Seongsu-dong that runs until Sunday.",
+       "pt": "A Soompi diz que os episódios 5 e 6 saem a 11 de novembro às 17:00 (hora da Coreia), com imagens que mostram Sovieshu a desafiar Heinrey para um duelo. O The Korea Times acrescenta que o Disney+ abriu um pop-up interativo em Seongsu-dong, em Seul, que decorre até domingo."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Premiere",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "3 November",
+        "pt": "3 de novembro"
+       }
+      },
+      {
+       "k": {
+        "en": "No. 1 in",
+        "pt": "N.º 1 em"
+       },
+       "v": {
+        "en": "33 countries/regions",
+        "pt": "33 países/regiões"
+       }
+      },
+      {
+       "k": {
+        "en": "Disney+ global TV",
+        "pt": "TV global do Disney+"
+       },
+       "v": {
+        "en": "No. 2",
+        "pt": "N.º 2"
+       }
+      },
+      {
+       "k": {
+        "en": "Next episodes",
+        "pt": "Próximos episódios"
+       },
+       "v": {
+        "en": "5–6 on 11 Nov",
+        "pt": "5–6 a 11 nov"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261111/how-disneys-the-remarried-empress-wins-over-gen-z-global-viewers",
+      "label": {
+       "en": "Read the full story at The Korea Times →",
+       "pt": "Ler a notícia completa em The Korea Times →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.soompi.com/article/1885744wpp/ju-ji-hoon-challenges-lee-jong-suk-to-a-duel-in-the-remarried-empress",
+       "name": "Soompi"
+      }
+     ]
+    },
+    {
+     "id": "wifilove",
+     "topic": "manhwa",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Webtoon adaptation · Film · Release date",
+      "pt": "Manhwa · Adaptação de webtoon · Filme · Data de estreia"
+     },
+     "headline": {
+      "en": "Webtoon-based film Wi-Fi Love in the Palace opens on 2 December with THE BOYZ's Younghoon and WJSN's Luda",
+      "pt": "O filme baseado em webtoon Wi-Fi Love in the Palace estreia a 2 de dezembro com Younghoon, dos THE BOYZ, e Luda, das WJSN"
+     },
+     "body": [
+      {
+       "en": "Soompi reports that the time-crossing romantic comedy, adapted from a webtoon, follows a webtoon artist who coaches a Joseon-era court lady through romance by phone. It is Younghoon's first lead role on the big screen, with WJSN's Luda and Kim Dong Jun in the cast.",
+       "pt": "A Soompi noticia que a comédia romântica sobre o cruzamento de tempos, adaptada de um webtoon, segue um autor de webtoons que dá conselhos de amor, por telemóvel, a uma dama da corte da era Joseon. É o primeiro papel principal de Younghoon no grande ecrã, com Luda, das WJSN, e Kim Dong Jun no elenco."
+      }
+     ],
+     "chip": {
+      "en": "2 Dec",
+      "pt": "2 dez"
+     },
+     "link": {
+      "url": "https://www.soompi.com/article/1885844wpp/the-boyzs-younghoon-unveils-stunning-new-profile-photos",
+      "label": {
+       "en": "Read the full story at Soompi →",
+       "pt": "Ler a notícia completa em Soompi →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.soompi.com/article/1884722wpp/the-boyzs-younghoon-and-wjsns-luda-bring-modern-tech-to-the-joseon-era-in-wi-fi-love-in-the-palace",
+       "name": "Soompi (poster)"
+      }
+     ]
+    }
+   ],
+   "brief": [
+    {
+     "src": "Chosun Ilbo",
+     "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/11/XAUPLMSFLFBXHOOKO2ZF2ZOQPE/",
+     "text": {
+      "en": "reports that the MBN drama The Boss's Blunt Taste, based on a web novel and webtoon of the same name and starring Sung Hoon, Oh Se-young and Lee Jung-shin, premieres on 11 November at 10:20 p.m. Korean time.",
+      "pt": "noticia que a série da MBN The Boss's Blunt Taste, baseada num romance web e num webtoon com o mesmo nome e protagonizada por Sung Hoon, Oh Se-young e Lee Jung-shin, estreia a 11 de novembro, às 22:20 (hora da Coreia)."
+     }
+    }
+   ]
+  }
+ ],
+ "footer": {
+  "en": "Compiled from 34 outlets, 77 articles, 11 videos. Summaries only; see the linked sources. Video thumbnails belong to their channels (The Ankler, YongYea, TmarTn2, PlayStation, ScreenRant, Red, The Tech Chap, CNET, CNBC Television, Prompt Engineering, 지구별반응).",
+  "pt": "Compilado a partir de 34 meios, 77 artigos e 11 vídeos. Apenas resumos; consulte as fontes ligadas. As miniaturas dos vídeos pertencem aos respetivos canais (The Ankler, YongYea, TmarTn2, PlayStation, ScreenRant, Red, The Tech Chap, CNET, CNBC Television, Prompt Engineering, 지구별반응)."
+ },
+ "footerline": "The Daily Respawn · Edition 021 · 11 Nov 2026, 10:16 Angola time"
+}

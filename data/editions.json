@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T10:17:00+01:00",
- "latest": "e020",
+ "updated": "2026-11-11T10:16:00+01:00",
+ "latest": "e021",
  "editions": [
   {
    "id": "e020",
@@ -9,6 +9,15 @@
    "headline": {
     "en": "Skydance replaces James Gunn and Peter Safran at DC Studios with Marvel veteran Jeremy Latcham",
     "pt": "A Skydance substitui James Gunn e Peter Safran na DC Studios pelo veterano da Marvel Jeremy Latcham"
+   }
+  },
+  {
+   "id": "e021",
+   "number": 21,
+   "publishedAt": "2026-11-11T10:16:00+01:00",
+   "headline": {
+    "en": "Godzilla Minus Zero opens to a record $32 million in North America and $63 million worldwide",
+    "pt": "Godzilla Minus Zero estreia-se com um recorde de 32 milhões de dólares na América do Norte e 63 milhões em todo o mundo"
    }
   }
  ]
