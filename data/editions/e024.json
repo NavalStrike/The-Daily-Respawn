@@ -1,0 +1,1911 @@
+{
+ "id": "e024",
+ "number": 24,
+ "publishedAt": "2026-11-14T09:45:00+01:00",
+ "cover": {
+  "img": "e024/cover.jpg",
+  "alt": {
+   "en": "SciNews video of Starship Flight 15 launching and the Super Heavy booster descending",
+   "pt": "Vídeo da SciNews do lançamento do Starship no Voo 15 e da descida do propulsor Super Heavy"
+  },
+  "target": "starship",
+  "headline": {
+   "en": "Starship's 15th flight reaches space, but the Super Heavy booster explodes instead of being caught",
+   "pt": "O 15.º voo do Starship chega ao espaço, mas o propulsor Super Heavy explode em vez de ser apanhado"
+  }
+ },
+ "note": [
+  {
+   "en": "Saturday's issue opens with Starship's fifteenth flight, where the ship reached orbit but the Super Heavy booster exploded instead of being caught. It also brings Halo's free Firefight mode, ChatGPT Wallet, Marvel's new Angela series, a manga reprint put on hold over a translator row, and a live-action adaptation of the Aquaman webtoon. Rumours are marked as such and follow-ups are marked as updates. Disclosure: Anthropic makes the Claude model that helps compile this magazine, and it is covered in the A.I. section.",
+   "pt": "A edição de sábado abre com o 15.º voo do Starship, em que a nave chegou à órbita mas o propulsor Super Heavy explodiu em vez de ser apanhado. Traz ainda o modo Firefight gratuito de Halo, o ChatGPT Wallet, a nova série de Angela da Marvel, uma reedição de manga suspensa por causa de uma polémica com o tradutor e uma adaptação em imagem real do webtoon Aquaman. Os rumores estão assinalados como tal e as sequências estão marcadas como atualizações. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista, e é abordada na secção de I.A."
+  },
+  {
+   "en": "New since the last edition: since Edition 023 (13 Nov, 09:45), 24 new stories and 3 updates, plus 21 quick hits. The Manga and Manhwa sections had a lighter day, with two items each.",
+   "pt": "Novidades desde a última edição: desde a Edição 023 (13 nov, 09:45), 24 notícias novas e 3 atualizações, mais 21 breves. As secções de Manga e Manhwa tiveram um dia mais calmo, com dois itens cada."
+  }
+ ],
+ "sections": [
+  {
+   "id": "cover-section",
+   "topic": "cover-section",
+   "title": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "subtitle": {
+    "en": "Tech · Space",
+    "pt": "Tecnologia · Espaço"
+   },
+   "items": [
+    {
+     "id": "starship",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=UlR504J_lww",
+      "img": "e024/cover.jpg",
+      "alt": {
+       "en": "SciNews video of Starship Flight 15 launching and the Super Heavy booster descending",
+       "pt": "Vídeo da SciNews do lançamento do Starship no Voo 15 e da descida do propulsor Super Heavy"
+      },
+      "duration": "3:07",
+      "caption": {
+       "en": "SciNews, 13 Nov. Tap to watch on YouTube.",
+       "pt": "SciNews, 13 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Cover story · Tech · Space · SpaceX · Starship · 13-14 Nov",
+      "pt": "História de capa · Tecnologia · Espaço · SpaceX · Starship · 13-14 nov"
+     },
+     "headline": {
+      "en": "Starship's 15th flight reaches space, but the Super Heavy booster explodes instead of being caught",
+      "pt": "O 15.º voo do Starship chega ao espaço, mas o propulsor Super Heavy explode em vez de ser apanhado"
+     },
+     "deck": {
+      "en": "SpaceX tried for the first full recovery of an orbital launch system. The ship flew on, the booster did not come home, and the ship's own catch attempt is still to come.",
+      "pt": "A SpaceX tentou a primeira recuperação total de um sistema de lançamento orbital. A nave seguiu viagem, o propulsor não voltou a casa, e a tentativa de captura da própria nave ainda está por vir."
+     },
+     "body": [
+      {
+       "en": "The Verge reports that the Starship launch was successful but that the booster went \"boom\" instead of sticking the landing. Today was meant to be the first time an entire orbital launch system would be recovered, and The Verge says that milestone will have to wait. The ship itself, it adds, had already deployed 22 payloads and may still be able to return to SpaceX's Starbase.",
+       "pt": "A The Verge noticia que o lançamento do Starship foi bem-sucedido, mas que o propulsor explodiu em vez de pousar com sucesso. O objetivo era recuperar pela primeira vez um sistema de lançamento orbital completo, e a The Verge diz que esse marco vai ter de esperar. A própria nave, acrescenta, já tinha largado 22 cargas e poderá ainda regressar à base da SpaceX em Starbase."
+      },
+      {
+       "en": "Ars Technica's Rocket Report had set out the plan: a launch on Friday and an upper-stage landing attempt about 22.5 hours later, on Saturday afternoon local time. SciNews' description of the video says the launch took place on 13 November at 22:47 UTC and that the booster, which was meant to return to the launch site for a catch, was sent to an offshore splashdown after the catch was waved off.",
+       "pt": "O Rocket Report da Ars Technica tinha descrito o plano: lançamento na sexta-feira e uma tentativa de aterragem do andar superior cerca de 22,5 horas depois, no sábado à tarde, hora local. A descrição do vídeo da SciNews diz que o lançamento ocorreu a 13 de novembro às 22:47 UTC e que o propulsor, que devia regressar ao local de lançamento para ser apanhado, foi desviado para uma amaragem ao largo depois de a captura ser dispensada."
+      },
+      {
+       "en": "The result of the ship's return was not known when this edition was compiled. We will report it once the sources do.",
+       "pt": "O resultado do regresso da nave não era conhecido quando esta edição foi compilada. Daremos conta dele quando as fontes o fizerem."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Flight",
+        "pt": "Voo"
+       },
+       "v": {
+        "en": "Starship Flight 15",
+        "pt": "Starship Voo 15"
+       }
+      },
+      {
+       "k": {
+        "en": "Ship payloads",
+        "pt": "Cargas da nave"
+       },
+       "v": {
+        "en": "22 deployed (The Verge)",
+        "pt": "22 largadas (The Verge)"
+       }
+      },
+      {
+       "k": {
+        "en": "Booster",
+        "pt": "Propulsor"
+       },
+       "v": {
+        "en": "Exploded, no catch",
+        "pt": "Explodiu, sem captura"
+       }
+      },
+      {
+       "k": {
+        "en": "Ship catch attempt",
+        "pt": "Captura da nave"
+       },
+       "v": {
+        "en": "Planned Saturday afternoon (Ars)",
+        "pt": "Prevista para sábado à tarde (Ars)"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.theverge.com/science/1033704/spacex-starship-launch-successful-but-a-booster-went-boom-instead-of-sticking-the-landing",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+       "name": "Ars Technica"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "topic": "games",
+   "title": {
+    "en": "Games",
+    "pt": "Jogos"
+   },
+   "subtitle": {
+    "en": "Games · Industry, releases and reveals",
+    "pt": "Jogos · Indústria, lançamentos e revelações"
+   },
+   "items": [
+    {
+     "id": "halofirefight",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=d-i9_DeuruA",
+      "img": "e024/halo.jpg",
+      "alt": {
+       "en": "MrNumNums gaming news roundup covering Halo: Campaign Evolved's Firefight update",
+       "pt": "Resumo de notícias de jogos da MrNumNums que inclui a atualização Firefight de Halo: Campaign Evolved"
+      },
+      "duration": "3:13",
+      "caption": {
+       "en": "MrNumNums, 13 Nov (roundup). Tap to watch on YouTube.",
+       "pt": "MrNumNums, 13 nov (resumo). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Xbox · Halo Studios · Halo: Campaign Evolved",
+      "pt": "Jogos · Xbox · Halo Studios · Halo: Campaign Evolved"
+     },
+     "headline": {
+      "en": "Halo: Campaign Evolved is getting a free four-player Firefight mode this winter",
+      "pt": "Halo: Campaign Evolved vai receber, este inverno, um modo Firefight gratuito para quatro jogadores"
+     },
+     "deck": {
+      "en": "The wave-survival co-op mode returns as a free update, with a first playable build already shown to fans at Xbox FanFest.",
+      "pt": "O modo cooperativo de sobrevivência por vagas regressa numa atualização gratuita, com uma primeira versão jogável já mostrada aos fãs no Xbox FanFest."
+     },
+     "body": [
+      {
+       "en": "Eurogamer reports that Xbox Game Studios and Halo Studios announced a free update for the recently released Halo: Campaign Evolved that adds Firefight, the four-player cooperative PvE mode. Halo Studios' Tahir Hasangjekaj said in a post on the Xbox website that the tradition continues \"this winter\". No release date was given.",
+       "pt": "A Eurogamer noticia que a Xbox Game Studios e a Halo Studios anunciaram uma atualização gratuita para Halo: Campaign Evolved, lançado recentemente, que acrescenta o Firefight, o modo cooperativo PvE para quatro jogadores. Tahir Hasangjekaj, da Halo Studios, disse num texto no site da Xbox que a tradição continua \"este inverno\". Não foi indicada data de lançamento."
+      },
+      {
+       "en": "Attendees at Xbox FanFest were the first to try Firefight, on new maps and with plenty of weapons, and more details are promised at Halo Fest in Seattle on 12 and 13 December. Eurogamer calls the timing odd given Xbox's recent restructuring, and notes that nothing concrete is known about the series' future. Rumour: Eurogamer says there are plenty of rumours that the next Halo is a reboot from Sledgehammer Games; none of that is confirmed.",
+       "pt": "Os participantes no Xbox FanFest foram os primeiros a experimentar o Firefight, em mapas novos e com várias armas, e mais detalhes estão prometidos no Halo Fest, em Seattle, a 12 e 13 de dezembro. A Eurogamer considera o momento estranho face à recente reestruturação da Xbox, e nota que não se sabe nada de concreto sobre o futuro da série. Rumor: a Eurogamer diz haver muitos rumores de que o próximo Halo será um reboot da Sledgehammer Games; nada disto está confirmado."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Game",
+        "pt": "Jogo"
+       },
+       "v": {
+        "en": "Halo: Campaign Evolved",
+        "pt": "Halo: Campaign Evolved"
+       }
+      },
+      {
+       "k": {
+        "en": "Mode",
+        "pt": "Modo"
+       },
+       "v": {
+        "en": "Firefight, 4-player co-op PvE",
+        "pt": "Firefight, PvE cooperativo para 4"
+       }
+      },
+      {
+       "k": {
+        "en": "Price",
+        "pt": "Preço"
+       },
+       "v": {
+        "en": "Free update",
+        "pt": "Atualização gratuita"
+       }
+      },
+      {
+       "k": {
+        "en": "Window",
+        "pt": "Janela"
+       },
+       "v": {
+        "en": "This winter; details at Halo Fest 12-13 Dec",
+        "pt": "Este inverno; detalhes no Halo Fest, 12-13 dez"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
+      "label": {
+       "en": "Read the full story at Eurogamer →",
+       "pt": "Ler a notícia completa em Eurogamer →"
+      }
+     }
+    },
+    {
+     "id": "bladerunnergame",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=1d4x_eSdqNc",
+      "img": "e024/bladerunner.jpg",
+      "alt": {
+       "en": "Prime Video final trailer for Blade Runner 2099",
+       "pt": "Trailer final da Prime Video para Blade Runner 2099"
+      },
+      "duration": "2:33",
+      "caption": {
+       "en": "Prime Video, 9 Nov (series trailer). Tap to watch on YouTube.",
+       "pt": "Prime Video, 9 nov (trailer da série). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Blade Runner · Alcon · Prime Video",
+      "pt": "Jogos · Blade Runner · Alcon · Prime Video"
+     },
+     "headline": {
+      "en": "Blade Runner's owners confirm talks for a AAA video game",
+      "pt": "Os donos de Blade Runner confirmam conversas para um jogo AAA"
+     },
+     "body": [
+      {
+       "en": "IGN reports that Andrew Kosove and Broderick Johnson, executive producers of Blade Runner 2099 and co-CEOs of Alcon Entertainment, which owns the franchise, confirmed they are in discussions about a AAA game. Asked directly, Kosove said \"Yes\" and stressed the word AAA, but could not say more. IGN notes that Blade Runner 2033: Labyrinth, announced in 2023 with Annapurna Interactive, is now largely considered cancelled.",
+       "pt": "A IGN noticia que Andrew Kosove e Broderick Johnson, produtores executivos de Blade Runner 2099 e co-CEOs da Alcon Entertainment, dona da franquia, confirmaram estar em conversações para um jogo AAA. Questionado diretamente, Kosove respondeu \"Sim\" e sublinhou a palavra AAA, mas não pôde dizer mais. A IGN nota que Blade Runner 2033: Labyrinth, anunciado em 2023 com a Annapurna Interactive, é hoje considerado em grande parte cancelado."
+      },
+      {
+       "en": "The series Blade Runner 2099 premieres on Prime Video on 25 November, which is why the trailer is shown here.",
+       "pt": "A série Blade Runner 2099 estreia na Prime Video a 25 de novembro, razão pela qual o trailer aparece aqui."
+      }
+     ],
+     "chip": {
+      "en": "Talks only",
+      "pt": "Apenas conversações"
+     },
+     "link": {
+      "url": "https://sea.ign.com/blade-runner-the-series/251963/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adapt",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     }
+    },
+    {
+     "id": "crazytaxiindia",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=nGcdyCwA894",
+      "img": "e024/crazytaxi.jpg",
+      "alt": {
+       "en": "GameTrailers India map reveal trailer for Crazy Taxi: World Tour",
+       "pt": "Trailer de revelação do mapa da Índia de Crazy Taxi: World Tour, da GameTrailers"
+      },
+      "duration": "1:00",
+      "caption": {
+       "en": "GameTrailers (IGN premiere), 13 Nov. Tap to watch on YouTube.",
+       "pt": "GameTrailers (estreia da IGN), 13 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Sega · Crazy Taxi: World Tour",
+      "pt": "Jogos · Sega · Crazy Taxi: World Tour"
+     },
+     "headline": {
+      "en": "Crazy Taxi: World Tour reveals its fifth and final map: India",
+      "pt": "Crazy Taxi: World Tour revela o quinto e último mapa: a Índia"
+     },
+     "body": [
+      {
+       "en": "IGN reports that India joins the US West Coast, Germany, Japan and Brazil as the fifth map, split into three zones: City, Countryside and Industrial. The trailer teases a Bollywood film set.",
+       "pt": "A IGN noticia que a Índia junta-se à costa oeste dos EUA, à Alemanha, ao Japão e ao Brasil como quinto mapa, dividido em três zonas: Cidade, Campo e Industrial. O trailer sugere um cenário de filme de Bollywood."
+      },
+      {
+       "en": "The game launches in early 2027 on Xbox Series X|S, Switch 2, PS5 and PC. A closed beta signup page listed two multiplayer modes: Pickup Race, for up to six players, and Cops 'N' Cabbies.",
+       "pt": "O jogo sai no início de 2027 para Xbox Series X|S, Switch 2, PS5 e PC. Uma página de inscrição na beta fechada indicava dois modos multijogador: Pickup Race, até seis jogadores, e Cops 'N' Cabbies."
+      }
+     ],
+     "chip": {
+      "en": "Early 2027",
+      "pt": "Início de 2027"
+     },
+     "link": {
+      "url": "https://nordic.ign.com/crazy-taxi-new/115628/crazy-taxi-world-tour-final-map-revealed",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     }
+    },
+    {
+     "id": "gowsparta",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "console",
+      "tone": "g",
+      "alt": {
+       "en": "Illustration of a game console",
+       "pt": "Ilustração de uma consola de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · PlayStation · God of War",
+      "pt": "Jogos · PlayStation · God of War"
+     },
+     "headline": {
+      "en": "God of War: Sons of Sparta comes to PS4 on 16 November with a free content update",
+      "pt": "God of War: Sons of Sparta chega à PS4 a 16 de novembro, com uma atualização de conteúdo gratuita"
+     },
+     "body": [
+      {
+       "en": "Gematsu reports that Sony Interactive Entertainment, Mega Cat Studios and Santa Monica Studio will release a PlayStation 4 version of the side-scrolling action game on 16 November, alongside a free content update.",
+       "pt": "A Gematsu noticia que a Sony Interactive Entertainment, a Mega Cat Studios e a Santa Monica Studio vão lançar a 16 de novembro uma versão para PlayStation 4 do jogo de ação de scroll lateral, com uma atualização de conteúdo gratuita."
+      },
+      {
+       "en": "IGN's Daily Fix adds that the game first launched earlier this year and that the update brings two new modes.",
+       "pt": "O Daily Fix da IGN acrescenta que o jogo foi lançado no início do ano e que a atualização traz dois modos novos."
+      }
+     ],
+     "chip": {
+      "en": "PS4 · 16 Nov",
+      "pt": "PS4 · 16 nov"
+     },
+     "link": {
+      "url": "https://www.gematsu.com/2026/11/god-of-war-sons-of-sparta-coming-to-ps4-on-november-16-alongside-free-content-update",
+      "label": {
+       "en": "Read the full story at Gematsu →",
+       "pt": "Ler a notícia completa em Gematsu →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://in.ign.com/wolfenstein-iii/277062/wolfenstein-3-is-officially-in-development-ign-daily-fix",
+       "name": "IGN"
+      }
+     ]
+    },
+    {
+     "id": "laytonremake",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "g",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Games · Level-5 · Professor Layton",
+      "pt": "Jogos · Level-5 · Professor Layton"
+     },
+     "headline": {
+      "en": "Professor Layton and the Curious Village is getting a remake in 2027",
+      "pt": "Professor Layton and the Curious Village vai ter um remake em 2027"
+     },
+     "body": [
+      {
+       "en": "Polygon reports that Level-5 is remaking the Nintendo DS debut of the series to mark its 20th anniversary next year. The remake is confirmed for Nintendo Switch, Switch 2, PS5 and Windows PC, with a 2027 window and no specific date.",
+       "pt": "A Polygon noticia que a Level-5 vai refazer a estreia da série na Nintendo DS para assinalar o 20.º aniversário no próximo ano. O remake está confirmado para Nintendo Switch, Switch 2, PS5 e PC Windows, com janela em 2027 e sem data concreta."
+      },
+      {
+       "en": "The original came out on 15 February 2007, and Polygon suggests that could hint at a February launch. That is the outlet's guess, not an announcement.",
+       "pt": "O original saiu a 15 de fevereiro de 2007, e a Polygon sugere que isso pode apontar para um lançamento em fevereiro. É uma conjetura do meio, não um anúncio."
+      }
+     ],
+     "chip": {
+      "en": "2027",
+      "pt": "2027"
+     },
+     "link": {
+      "url": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/",
+      "label": {
+       "en": "Read the full story at Polygon →",
+       "pt": "Ler a notícia completa em Polygon →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Push Square",
+     "url": "https://www.pushsquare.com/news/2026/11/lucky-luke-retro-collection-brings-several-games-to-the-us-for-the-very-first-time",
+     "text": {
+      "en": "says Atari's Lucky Luke: The Lonesome Cowboy Collection brings several retro games to the US for the first time on 13 January 2027.",
+      "pt": "diz que a Lucky Luke: The Lonesome Cowboy Collection, da Atari, leva vários jogos retro aos EUA pela primeira vez a 13 de janeiro de 2027."
+     }
+    },
+    {
+     "src": "GameSpot",
+     "url": "https://www.gamespot.com/videos/stranger-than-heaven-act-2-kure-story-overview-trailer/",
+     "text": {
+      "en": "shows a story overview trailer for Act 2 of Stranger Than Heaven, which releases on 15 January 2027.",
+      "pt": "mostra um trailer de resumo da história do Ato 2 de Stranger Than Heaven, que sai a 15 de janeiro de 2027."
+     }
+    },
+    {
+     "src": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2",
+     "text": {
+      "en": "reports that MAGES. announced Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! for PS5 and Switch 2, launching in Japan in 2027.",
+      "pt": "noticia que a MAGES. anunciou Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! para PS5 e Switch 2, com lançamento no Japão em 2027."
+     }
+    },
+    {
+     "src": "Gematsu",
+     "url": "https://www.gematsu.com/2026/11/strategy-rpg-guild-saga-vanished-worlds-coming-to-ps5-in-may-2027",
+     "text": {
+      "en": "says strategy RPG Guild Saga: Vanished Worlds is coming to PS5 in May 2027, alongside its full Steam release.",
+      "pt": "diz que o RPG de estratégia Guild Saga: Vanished Worlds chega à PS5 em maio de 2027, juntamente com o lançamento completo no Steam."
+     }
+    },
+    {
+     "src": "Nintendo Life",
+     "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
+     "text": {
+      "en": "reports that Metaphor: ReFantazio, which arrived on Switch 2 this week, will get a patch for a colour glitch that Sega and Atlus have acknowledged.",
+      "pt": "noticia que Metaphor: ReFantazio, que chegou esta semana à Switch 2, vai receber um patch para um problema de cor que a Sega e a Atlus reconheceram."
+     }
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "topic": "movies",
+   "title": {
+    "en": "Movies",
+    "pt": "Filmes"
+   },
+   "subtitle": {
+    "en": "Movies · Box office, trailers and deals",
+    "pt": "Filmes · Bilheteira, trailers e negócios"
+   },
+   "items": [
+    {
+     "id": "weekofpain",
+     "topic": "movies",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a film reel",
+       "pt": "Ilustração de uma bobine de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · A24 · Margot Robbie · Kristoffer Borgli",
+      "pt": "Filmes · A24 · Margot Robbie · Kristoffer Borgli"
+     },
+     "headline": {
+      "en": "Margot Robbie to star in A24's The Week of Pain from The Drama director Kristoffer Borgli",
+      "pt": "Margot Robbie vai protagonizar The Week of Pain, da A24, do realizador de The Drama, Kristoffer Borgli"
+     },
+     "deck": {
+      "en": "It will be Robbie's first A24 film, reuniting the studio and Square Peg with the filmmaker behind this year's hit The Drama.",
+      "pt": "Será o primeiro filme da A24 com Robbie, e reúne o estúdio e a Square Peg com o cineasta de The Drama, um dos êxitos do ano."
+     },
+     "body": [
+      {
+       "en": "The Hollywood Reporter confirmed that Robbie is set to star in The Week of Pain, with Borgli writing and directing. A24 is financing and producing with Square Peg, the company of Lars Knudsen and Ari Aster, alongside Dilemma Films and Robbie's LuckyChap. Plot details are being kept under wraps.",
+       "pt": "A The Hollywood Reporter confirmou que Robbie vai protagonizar The Week of Pain, com Borgli como argumentista e realizador. A A24 financia e produz com a Square Peg, de Lars Knudsen e Ari Aster, e ainda a Dilemma Films e a LuckyChap, de Robbie. Os detalhes do enredo estão sob sigilo."
+      },
+      {
+       "en": "The Drama, the romantic dark comedy with Zendaya and Robert Pattinson that A24 released in April, earned $134 million worldwide, according to THR. Robbie most recently starred in Wuthering Heights ($241.8 million worldwide) and is wrapping her Ocean's prequel, directed by and co-starring Bradley Cooper.",
+       "pt": "The Drama, a comédia romântica negra com Zendaya e Robert Pattinson que a A24 estreou em abril, rendeu 134 milhões de dólares em todo o mundo, segundo a THR. Robbie protagonizou mais recentemente Wuthering Heights (241,8 milhões de dólares) e está a terminar o seu prequel de Ocean's, realizado e coprotagonizado por Bradley Cooper."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Studio",
+        "pt": "Estúdio"
+       },
+       "v": {
+        "en": "A24, with Square Peg",
+        "pt": "A24, com a Square Peg"
+       }
+      },
+      {
+       "k": {
+        "en": "Director",
+        "pt": "Realizador"
+       },
+       "v": {
+        "en": "Kristoffer Borgli",
+        "pt": "Kristoffer Borgli"
+       }
+      },
+      {
+       "k": {
+        "en": "The Drama gross",
+        "pt": "Bilheteira de The Drama"
+       },
+       "v": {
+        "en": "$134M worldwide",
+        "pt": "134 M$ mundial"
+       }
+      },
+      {
+       "k": {
+        "en": "Release",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "Not announced",
+        "pt": "Por anunciar"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/margot-robbie-the-week-of-pain-the-drama-kristoffer-borgli-1236754966/",
+      "label": {
+       "en": "Read the full story at The Hollywood Reporter →",
+       "pt": "Ler a notícia completa em The Hollywood Reporter →"
+      }
+     }
+    },
+    {
+     "id": "ebenezerprev",
+     "topic": "movies",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Box office · Paramount · Update",
+      "pt": "Filmes · Bilheteira · Paramount · Atualização"
+     },
+     "headline": {
+      "en": "Update: Ebenezer makes $1.5 million in Thursday previews, while How to Rob a Bank opens softly",
+      "pt": "Atualização: Ebenezer faz 1,5 milhões de dólares nas antestreias de quinta-feira, e How to Rob a Bank arranca com pouca força"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: the Thursday preview figures and the studios' opening-weekend projections.",
+       "pt": "O que há de novo desde a última edição: os números das antestreias de quinta-feira e as projeções dos estúdios para o fim de semana de estreia."
+      },
+      {
+       "en": "Variety and The Hollywood Reporter say Ti West's Ebenezer made $1.5 million in previews and opens in more than 3,500 North American theatres. Paramount projects about $20 million domestically and another $20 million from 63 international markets. Variety says the film cost $38 million to make plus about $50 million to market.",
+       "pt": "A Variety e a The Hollywood Reporter dizem que Ebenezer, de Ti West, fez 1,5 milhões de dólares nas antestreias e estreia em mais de 3500 salas norte-americanas. A Paramount projeta cerca de 20 milhões de dólares nos EUA e mais 20 milhões em 63 mercados internacionais. A Variety diz que o filme custou 38 milhões de dólares a produzir, mais cerca de 50 milhões em marketing."
+      },
+      {
+       "en": "THR adds that Amazon MGM's How to Rob a Bank earned $900,000 in previews in 2,810 theatres and is expected to open in the high single digits, against a $40 million budget, with a 33% Rotten Tomatoes score. These are projections; weekend actuals come on Sunday.",
+       "pt": "A THR acrescenta que How to Rob a Bank, da Amazon MGM, fez 900 mil dólares nas antestreias em 2810 salas e deverá estrear com um valor de um só dígito alto, para um orçamento de 40 milhões, com 33% no Rotten Tomatoes. São projeções; os números reais do fim de semana saem no domingo."
+      }
+     ],
+     "chip": {
+      "en": "$20M projected",
+      "pt": "20 M$ projetados"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/box-office/box-office-ebenezer-previews-johnny-depp-1236946391/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-comeback-box-office-previews-rob-bank-1236754682/",
+       "name": "The Hollywood Reporter"
+      }
+     ]
+    },
+    {
+     "id": "captivated",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a film reel",
+       "pt": "Ilustração de uma bobine de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Casting · Al Pacino",
+      "pt": "Filmes · Elenco · Al Pacino"
+     },
+     "headline": {
+      "en": "Isla Fisher and Blake Ritson join Al Pacino in the Getty III kidnapping thriller Captivated",
+      "pt": "Isla Fisher e Blake Ritson juntam-se a Al Pacino no thriller Captivated, sobre o rapto de Getty III"
+     },
+     "body": [
+      {
+       "en": "Deadline reports exclusively that Isla Fisher, The Gilded Age's Blake Ritson and Jackson Kelly have boarded the thriller, inspired by the 1973 kidnapping of John Paul Getty III. Dito Montiel is directing, with production under way in Calabria and Rome.",
+       "pt": "A Deadline noticia em exclusivo que Isla Fisher, Blake Ritson (de The Gilded Age) e Jackson Kelly entraram no thriller, inspirado no rapto de John Paul Getty III em 1973. Dito Montiel realiza, com a produção em curso na Calábria e em Roma."
+      },
+      {
+       "en": "Deadline describes it as a new angle on the story, one not explored in All the Money in the World or the FX series Trust.",
+       "pt": "A Deadline descreve-o como um novo ângulo da história, não explorado em All the Money in the World nem na série Trust da FX."
+      }
+     ],
+     "chip": {
+      "en": "In production",
+      "pt": "Em produção"
+     },
+     "link": {
+      "url": "https://deadline.com/2026/11/al-pacino-captiviated-isla-fisher-blake-ritson-1237223529/",
+      "label": {
+       "en": "Read the full story at Deadline →",
+       "pt": "Ler a notícia completa em Deadline →"
+      }
+     }
+    },
+    {
+     "id": "clayface",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Movies · DC · Box office",
+      "pt": "Filmes · DC · Bilheteira"
+     },
+     "headline": {
+      "en": "Clayface passes $111 million worldwide and loses more than 1,000 theatres ahead of a 8 December digital debut",
+      "pt": "Clayface ultrapassa 111 milhões de dólares em todo o mundo e perde mais de 1000 salas antes da estreia digital a 8 de dezembro"
+     },
+     "body": [
+      {
+       "en": "Collider reports that DC's R-rated body-horror film has grossed $111 million worldwide against a reported $40 million budget, and enters its fourth week with over 1,000 fewer locations. It is reportedly due on premium video on demand on 8 December.",
+       "pt": "A Collider noticia que o filme de body horror da DC, classificado para maiores, rendeu 111 milhões de dólares em todo o mundo, contra um orçamento de 40 milhões, e entra na quarta semana com mais de mil salas a menos. Deverá chegar ao vídeo a pedido premium a 8 de dezembro."
+      },
+      {
+       "en": "Rotten Tomatoes shows 77% from critics and 94% from audiences, per Collider.",
+       "pt": "O Rotten Tomatoes mostra 77% da crítica e 94% do público, segundo a Collider."
+      }
+     ],
+     "chip": {
+      "en": "$111M worldwide",
+      "pt": "111 M$ mundial"
+     },
+     "link": {
+      "url": "https://collider.com/clayface-removed-from-1000-theaters/",
+      "label": {
+       "en": "Read the full story at Collider →",
+       "pt": "Ler a notícia completa em Collider →"
+      }
+     }
+    },
+    {
+     "id": "dunedoomsday",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a film reel",
+       "pt": "Ilustração de uma bobine de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Christmas box office · Dune · Avengers",
+      "pt": "Filmes · Bilheteira de Natal · Dune · Avengers"
+     },
+     "headline": {
+      "en": "Dune: Part Three and Avengers: Doomsday open the same day, 18 December, and crowd out Christmas",
+      "pt": "Dune: Part Three e Avengers: Doomsday estreiam no mesmo dia, 18 de dezembro, e apertam o Natal"
+     },
+     "body": [
+      {
+       "en": "IndieWire says the two juggernauts open on 18 December. Doomsday has already sold more than $60 million in presales, and the last Dune film passed $700 million worldwide. Dune: Part Three will be exclusively on IMAX screens, so Disney created its own Infinity Vision certification for Doomsday.",
+       "pt": "A IndieWire diz que os dois gigantes estreiam a 18 de dezembro. Doomsday já vendeu mais de 60 milhões de dólares em pré-venda, e o último Dune ultrapassou os 700 milhões em todo o mundo. Dune: Part Three estará em exclusivo nas salas IMAX, pelo que a Disney criou a sua própria certificação Infinity Vision para Doomsday."
+      },
+      {
+       "en": "The outlet adds that Christmas-weekend openers include Jumanji: Open World, Mr. Irrelevant, Werwulf and Artificial, with The Angry Birds Movie 3 on 23 December, and that the domestic box office is projected to finish 2026 far above $10 billion.",
+       "pt": "O meio acrescenta que as estreias do fim de semana de Natal incluem Jumanji: Open World, Mr. Irrelevant, Werwulf e Artificial, com The Angry Birds Movie 3 a 23 de dezembro, e que a bilheteira interna deverá fechar 2026 muito acima dos 10 mil milhões de dólares."
+      }
+     ],
+     "chip": {
+      "en": "18 Dec",
+      "pt": "18 dez"
+     },
+     "link": {
+      "url": "https://www.indiewire.com/news/box-office/will-dune-avengers-drown-out-xmas-box-office-1235227379/",
+      "label": {
+       "en": "Read the full story at IndieWire →",
+       "pt": "Ler a notícia completa em IndieWire →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Deadline",
+     "url": "https://deadline.com/2026/11/indie-films-opening-victorian-psycho-paper-tiger-almodovar-1237223240/",
+     "text": {
+      "en": "previews the indie weekend: Bleecker Street's Victorian Psycho, with Maika Monroe, opens on 1,206 screens, and James Gray's Paper Tiger, with Adam Driver, Miles Teller and Scarlett Johansson, opens in six theatres.",
+      "pt": "antevê o fim de semana indie: Victorian Psycho, da Bleecker Street, com Maika Monroe, estreia em 1206 ecrãs, e Paper Tiger, de James Gray, com Adam Driver, Miles Teller e Scarlett Johansson, estreia em seis salas."
+     }
+    },
+    {
+     "src": "Variety",
+     "url": "https://variety.com/2026/film/global/tom-hopper-rita-ora-mila-harris-sci-fi-movie-the-signalers-1236947064/",
+     "text": {
+      "en": "reports exclusively that Tom Hopper, Rita Ora and Mila Harris star in the sci-fi thriller The Signalers, now in production, with WME Independent launching sales.",
+      "pt": "noticia em exclusivo que Tom Hopper, Rita Ora e Mila Harris protagonizam o thriller de ficção científica The Signalers, já em produção, com a WME Independent a lançar as vendas."
+     }
+    },
+    {
+     "src": "Deadline",
+     "url": "https://deadline.com/2026/11/afm-david-walliams-international-insider-1237221498/",
+     "text": {
+      "en": "says in its International Insider column that Carrie-Anne Moss has joined the Montreal-set horror Replacer, and that Ebenezer had its London premiere with Johnny Depp.",
+      "pt": "diz, na rubrica International Insider, que Carrie-Anne Moss se juntou ao filme de terror Replacer, passado em Montreal, e que Ebenezer teve estreia em Londres com Johnny Depp."
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "topic": "tech",
+   "title": {
+    "en": "Tech",
+    "pt": "Tecnologia"
+   },
+   "subtitle": {
+    "en": "Tech · Space, commerce and security",
+    "pt": "Tecnologia · Espaço, comércio e segurança"
+   },
+   "items": [
+    {
+     "id": "amazonpgraph",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "globe",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a globe",
+       "pt": "Ilustração de um globo"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Amazon · E-commerce · AI agents · Reuters exclusive",
+      "pt": "Tecnologia · Amazon · Comércio eletrónico · Agentes de IA · Exclusivo Reuters"
+     },
+     "headline": {
+      "en": "Amazon plans a \"World Product Graph\" to own product data on items it doesn't even sell",
+      "pt": "A Amazon planeia um \"World Product Graph\" para ficar com os dados de produtos que nem sequer vende"
+     },
+     "deck": {
+      "en": "An internal document reviewed by Reuters lays out an effort to keep shoppers on Amazon and to counter AI shopping agents, though the company says it may not reflect current plans.",
+      "pt": "Um documento interno analisado pela Reuters descreve um esforço para manter os compradores na Amazon e travar os agentes de compras de IA, embora a empresa diga que pode não refletir os planos atuais."
+     },
+     "body": [
+      {
+       "en": "Reuters reports that the initiative, called World Product Graph, would collect data on virtually every item for sale, whether or not Amazon stocks it. The document is a PR/FAQ, a press-release-style memo, with an aspirational release date of 1 October 2027. Amazon has already signed up Coca-Cola and Bayer, among others, to contribute product data.",
+       "pt": "A Reuters noticia que a iniciativa, chamada World Product Graph, recolheria dados sobre praticamente todos os artigos à venda, tenha a Amazon stock ou não. O documento é um PR/FAQ, um memorando no formato de comunicado de imprensa, com uma data de lançamento ambiciosa de 1 de outubro de 2027. A Amazon já terá angariado a Coca-Cola e a Bayer, entre outras, para fornecerem dados de produtos."
+      },
+      {
+       "en": "The document says Amazon's own AI shopping assistant, Rufus, which the company began calling \"Alexa for Shopping\" in May, often gives wrong or incomplete answers. It also says some data would come from Amazon crawling other retailers' websites, and Reuters could not determine whether permission would be sought. Amazon told Reuters that draft, outdated documents often paint an incomplete picture.",
+       "pt": "O documento diz que o assistente de compras de IA da própria Amazon, o Rufus, a que a empresa passou a chamar \"Alexa for Shopping\" em maio, dá muitas vezes respostas erradas ou incompletas. Diz também que parte dos dados viria de a Amazon recolher informação de sites de outros retalhistas, e a Reuters não conseguiu apurar se seria pedida autorização. A Amazon disse à Reuters que documentos em rascunho e desatualizados dão muitas vezes uma imagem incompleta."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Name",
+        "pt": "Nome"
+       },
+       "v": {
+        "en": "World Product Graph",
+        "pt": "World Product Graph"
+       }
+      },
+      {
+       "k": {
+        "en": "Target date in memo",
+        "pt": "Data-alvo no memorando"
+       },
+       "v": {
+        "en": "1 Oct 2027",
+        "pt": "1 out 2027"
+       }
+      },
+      {
+       "k": {
+        "en": "Named contributors",
+        "pt": "Contribuidores citados"
+       },
+       "v": {
+        "en": "Coca-Cola, Bayer",
+        "pt": "Coca-Cola, Bayer"
+       }
+      },
+      {
+       "k": {
+        "en": "Status",
+        "pt": "Estado"
+       },
+       "v": {
+        "en": "Not confirmed as a plan",
+        "pt": "Não confirmado como plano"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "twitchclips",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a phone",
+       "pt": "Ilustração de um telemóvel"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Twitch · TwitchCon",
+      "pt": "Tecnologia · Twitch · TwitchCon"
+     },
+     "headline": {
+      "en": "Twitch is working on clips of up to five minutes, and on ad-supported TV channels",
+      "pt": "A Twitch está a preparar clipes até cinco minutos e canais de TV com publicidade"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that, at TwitchCon, the company said it is extending clips from up to 60 seconds to as long as five minutes. Streamers and viewers will also be able to play certain Amazon Luna titles together.",
+       "pt": "A The Verge noticia que, na TwitchCon, a empresa disse estar a alargar os clipes de um máximo de 60 segundos para até cinco minutos. Streamers e espectadores poderão ainda jogar em conjunto certos títulos do Amazon Luna."
+      },
+      {
+       "en": "Twitch also plans to launch ad-supported TV channels that allow co-streaming. No dates were given in the item.",
+       "pt": "A Twitch pretende ainda lançar canais de TV com publicidade que permitam co-streaming. A notícia não indica datas."
+      }
+     ],
+     "chip": {
+      "en": "60 s → 5 min",
+      "pt": "60 s → 5 min"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1032944/twitch-clips-are-going-to-get-longer",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    },
+    {
+     "id": "homeview272",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "plug",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a plug",
+       "pt": "Ilustração de uma ficha elétrica"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Apple · Security · HomeView",
+      "pt": "Tecnologia · Apple · Segurança · HomeView"
+     },
+     "headline": {
+      "en": "Apple's first HomeView update fixes bugs that could let strangers pair over Bluetooth or join iMessage groups",
+      "pt": "A primeira atualização do HomeView da Apple corrige falhas que permitiam emparelhar por Bluetooth ou entrar em grupos de iMessage"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that HomeView Software Version 27.2 patches issues that could have let unauthorised Bluetooth devices pair without user interaction, or let a remote attacker join iMessage group chats. Apple's security notes are linked from the story.",
+       "pt": "A The Verge noticia que a versão 27.2 do software do HomeView corrige problemas que podiam permitir o emparelhamento de dispositivos Bluetooth não autorizados sem interação do utilizador, ou que um atacante remoto entrasse em conversas de grupo do iMessage. As notas de segurança da Apple estão ligadas na notícia."
+      },
+      {
+       "en": "The update also brings core features to the new HomeView, including sound recognition, multiroom audio and integration with Apple's app ecosystem.",
+       "pt": "A atualização traz ainda funcionalidades essenciais ao novo HomeView, incluindo reconhecimento de sons, áudio multidivisão e integração com o ecossistema de aplicações da Apple."
+      }
+     ],
+     "chip": {
+      "en": "Version 27.2",
+      "pt": "Versão 27.2"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1033150/apples-first-homeview-update-includes-fixes-for-some-serious-security-bugs",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+     "text": {
+      "en": "says in its Rocket Report that Rocket Lab's Electron was scheduled to fly its 100th mission on 14 November from New Zealand's Mahia Peninsula.",
+      "pt": "diz, no seu Rocket Report, que o Electron da Rocket Lab estava marcado para realizar a 100.ª missão a 14 de novembro, a partir da península de Mahia, na Nova Zelândia."
+     }
+    },
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/news/1028667/its-now-easier-to-try-a-secretlab-chair-depending-on-where-you-live",
+     "text": {
+      "en": "reports that Secretlab's first US store opens in Los Angeles on 18 November, and that its chairs and desks will also be on show in 15 Best Buy stores.",
+      "pt": "noticia que a primeira loja da Secretlab nos EUA abre em Los Angeles a 18 de novembro, e que as suas cadeiras e secretárias estarão também em 15 lojas Best Buy."
+     }
+    },
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+     "text": {
+      "en": "says CMF's milk-carton-shaped Speaker S is down to $39 in Nothing's early Black Friday promo, and the larger Speaker M to $79.",
+      "pt": "diz que a coluna CMF Speaker S, em forma de pacote de leite, desceu para 39 dólares na promoção antecipada da Black Friday da Nothing, e a Speaker M, maior, para 79."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "topic": "ai",
+   "title": {
+    "en": "A.I.",
+    "pt": "I.A."
+   },
+   "subtitle": {
+    "en": "A.I. · Payments, markets and risk",
+    "pt": "I.A. · Pagamentos, mercados e risco"
+   },
+   "items": [
+    {
+     "id": "chatgptwallet",
+     "topic": "ai",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=b3zsYQgg9s4",
+      "img": "e024/wallet.jpg",
+      "alt": {
+       "en": "Red, White & Drama video explaining how ChatGPT Wallet works",
+       "pt": "Vídeo do canal Red, White & Drama a explicar como funciona o ChatGPT Wallet"
+      },
+      "duration": "3:20",
+      "caption": {
+       "en": "Red, White & Drama, 13 Nov (explainer). Tap to watch on YouTube.",
+       "pt": "Red, White & Drama, 13 nov (explicativo). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · OpenAI · ChatGPT · Payments",
+      "pt": "I.A. · OpenAI · ChatGPT · Pagamentos"
+     },
+     "headline": {
+      "en": "OpenAI launches ChatGPT Wallet, letting its AI agents pay for purchases without seeing your card",
+      "pt": "A OpenAI lança o ChatGPT Wallet, que deixa os seus agentes de IA pagar compras sem verem o cartão"
+     },
+     "deck": {
+      "en": "Built with American Express, Mastercard and Visa, it starts small, and every purchase needs a security check from the user.",
+      "pt": "Criado com a American Express, a Mastercard e a Visa, começa pequeno, e cada compra exige uma verificação de segurança do utilizador."
+     },
+     "body": [
+      {
+       "en": "Reuters reports that OpenAI said on Friday it launched ChatGPT Wallet, which lets AI agents pay for purchases without accessing card details. It is initially for US ChatGPT Pro subscribers aged 18 and over with eligible US-issued cards, and is reached through \"dots\", the company's always-on AI agents.",
+       "pt": "A Reuters noticia que a OpenAI disse na sexta-feira ter lançado o ChatGPT Wallet, que permite aos agentes de IA pagar compras sem acederem aos dados do cartão. Destina-se, para já, a assinantes norte-americanos do ChatGPT Pro com mais de 18 anos e cartões elegíveis emitidos nos EUA, e acede-se através dos \"dots\", os agentes de IA sempre ativos da empresa."
+      },
+      {
+       "en": "Users review the items, the total and the selected card, then approve with Face ID or a fingerprint. The payment network supplies a token in place of the real card details, so neither the business nor the agent sees them. Bloomberg says the launch renews OpenAI's push into AI shopping after it wound down an Instant Checkout feature earlier this year, and Reuters says OpenAI expects users to eventually delegate purchases within limits such as spending caps, categories or time periods.",
+       "pt": "Os utilizadores revêem os artigos, o total e o cartão escolhido, e aprovam com Face ID ou impressão digital. A rede de pagamentos fornece um token em vez dos dados reais do cartão, pelo que nem a empresa nem o agente os veem. A Bloomberg diz que o lançamento retoma a aposta da OpenAI nas compras por IA, depois de ter encerrado uma funcionalidade de Instant Checkout no início do ano, e a Reuters diz que a OpenAI espera que os utilizadores venham a delegar compras dentro de limites, como tetos de gastos, categorias ou períodos."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Partners",
+        "pt": "Parceiros"
+       },
+       "v": {
+        "en": "Amex, Mastercard, Visa",
+        "pt": "Amex, Mastercard, Visa"
+       }
+      },
+      {
+       "k": {
+        "en": "Who gets it",
+        "pt": "Quem tem acesso"
+       },
+       "v": {
+        "en": "US ChatGPT Pro, 18+",
+        "pt": "ChatGPT Pro nos EUA, 18+"
+       }
+      },
+      {
+       "k": {
+        "en": "Safeguard",
+        "pt": "Salvaguarda"
+       },
+       "v": {
+        "en": "Face ID or fingerprint per purchase",
+        "pt": "Face ID ou impressão digital em cada compra"
+       }
+      },
+      {
+       "k": {
+        "en": "Card data",
+        "pt": "Dados do cartão"
+       },
+       "v": {
+        "en": "Tokenised, not shared",
+        "pt": "Tokenizados, não partilhados"
+       }
+      }
+     ],
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WO208?channel=frL012",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.bloomberg.com/news/articles/2026-11-13/openai-debuts-new-chatgpt-payment-method-with-card-networks",
+       "name": "Bloomberg"
+      }
+     ]
+    },
+    {
+     "id": "anthropicipo4",
+     "topic": "ai",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=eG3c7ZHdWKE",
+      "img": "e024/ipo.jpg",
+      "alt": {
+       "en": "The Nancy Index video explaining the terms of Anthropic's proposed IPO",
+       "pt": "Vídeo do canal The Nancy Index que explica os termos da OPI proposta da Anthropic"
+      },
+      "duration": "1:22",
+      "caption": {
+       "en": "The Nancy Index, 12 Nov (explainer). Tap to watch on YouTube.",
+       "pt": "The Nancy Index, 12 nov (explicativo). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · IPO · Update",
+      "pt": "I.A. · Anthropic · OPI · Atualização"
+     },
+     "headline": {
+      "en": "Update: Anthropic's IPO is set to price on 18 November, with China-based investors shut out",
+      "pt": "Atualização: a OPI da Anthropic deverá ser fixada a 18 de novembro, com os investidores sediados na China excluídos"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: the pricing and trading dates, the exclusion of mainland China and Hong Kong investors, and how Nvidia's turmoil bears on the deal.",
+       "pt": "O que há de novo desde a última edição: as datas de preço e de negociação, a exclusão de investidores da China continental e de Hong Kong, e o peso da turbulência da Nvidia no negócio."
+      },
+      {
+       "en": "Bloomberg reports that institutional investors based in mainland China and Hong Kong have been excluded from placing orders, partly because of US arms-trade controls, according to people familiar with the matter. It says the IPO is set to price on 18 November and trade on 19 November on the Nasdaq under ANT, with Goldman Sachs and Morgan Stanley leading and 20 other banks taking part. Reuters says the roadshow runs through Wednesday and that the book was six times oversubscribed by the end of Thursday; investors are debating whether Anthropic can keep its lead over Google.",
+       "pt": "A Bloomberg noticia que investidores institucionais sediados na China continental e em Hong Kong foram impedidos de fazer ordens, em parte por causa de controlos norte-americanos ao comércio de armas, segundo pessoas familiarizadas com o assunto. Diz que a OPI deverá ser fixada a 18 de novembro e negociada a 19 de novembro na Nasdaq, sob o símbolo ANT, com a Goldman Sachs e o Morgan Stanley à frente e outros 20 bancos a participar. A Reuters diz que o roadshow decorre até quarta-feira e que o livro de ordens estava seis vezes subscrito no fim de quinta-feira; os investidores debatem se a Anthropic consegue manter a liderança face à Google."
+      },
+      {
+       "en": "Axios notes that Nvidia agreed to buy about $10 billion of shares in the $26 billion private placement, and that Huang's exit makes future mega-deals with Nvidia hazier, with no sign Nvidia would not honour its pledges. Disclosure: Anthropic makes the Claude model that helps compile this magazine. Terms could still change before pricing.",
+       "pt": "A Axios nota que a Nvidia acordou comprar cerca de 10 mil milhões de dólares em ações na colocação privada de 26 mil milhões, e que a saída de Huang torna mais incertos futuros megaacordos com a Nvidia, sem sinais de que a Nvidia não cumpra os compromissos. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista. Os termos podem ainda mudar antes da fixação do preço."
+      }
+     ],
+     "chip": {
+      "en": "Prices 18 Nov",
+      "pt": "Preço a 18 nov"
+     },
+     "link": {
+      "url": "https://mercury.bloomberg.com/news/TOC5OQKK3NY8",
+      "label": {
+       "en": "Read the full story at Bloomberg →",
+       "pt": "Ler a notícia completa em Bloomberg →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/",
+       "name": "Reuters"
+      },
+      {
+       "url": "https://www.axios.com/2026/11/13/anthropic-ipo-nvidia-jensen-huang",
+       "name": "Axios"
+      }
+     ]
+    },
+    {
+     "id": "fedsurvey",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Finance · Federal Reserve",
+      "pt": "I.A. · Finanças · Reserva Federal"
+     },
+     "headline": {
+      "en": "A Federal Reserve survey ranks AI risks as the biggest threat to the financial system",
+      "pt": "Um inquérito da Reserva Federal coloca os riscos da IA como a maior ameaça ao sistema financeiro"
+     },
+     "body": [
+      {
+       "en": "CNBC reports that threats from artificial intelligence topped the list of risks to the financial system in a Federal Reserve survey released on Friday, far ahead of any other danger.",
+       "pt": "A CNBC noticia que as ameaças da inteligência artificial lideraram a lista de riscos para o sistema financeiro num inquérito da Reserva Federal divulgado na sexta-feira, muito à frente de qualquer outro perigo."
+      },
+      {
+       "en": "Respondents named three areas of concern: elevated equity valuations and a possible correction, cybersecurity risk from state actors or from frontier AI models themselves, and risks tied to complex forms of AI financing.",
+       "pt": "Os inquiridos apontaram três áreas de preocupação: avaliações bolsistas elevadas e uma possível correção, risco de cibersegurança vindo de atores estatais ou dos próprios modelos de IA de fronteira, e riscos ligados a formas complexas de financiamento da IA."
+      }
+     ],
+     "chip": {
+      "en": "Top-ranked risk",
+      "pt": "Risco n.º 1"
+     },
+     "link": {
+      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "label": {
+       "en": "Read the full story at CNBC →",
+       "pt": "Ler a notícia completa em CNBC →"
+      }
+     }
+    },
+    {
+     "id": "nvidiafunding",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "chip",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a computer chip",
+       "pt": "Ilustração de um chip de computador"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Nvidia · Financing",
+      "pt": "I.A. · Nvidia · Financiamento"
+     },
+     "headline": {
+      "en": "Without Huang, who will fund the AI boom? Analysts point to Nvidia's checkbook",
+      "pt": "Sem Huang, quem financia o boom da IA? Os analistas apontam para a carteira da Nvidia"
+     },
+     "body": [
+      {
+       "en": "Axios argues the AI boom can survive without Jensen Huang, but that Nvidia's willingness to bankroll startups and backstop cloud debt will be harder to replace than its chips. It cites SemiAnalysis data putting Nvidia's off-balance-sheet commitments and guarantees at $530 billion, and calls that a funding hole to fill.",
+       "pt": "A Axios defende que o boom da IA sobrevive sem Jensen Huang, mas que a disponibilidade da Nvidia para financiar startups e garantir dívida de nuvem será mais difícil de substituir do que os chips. Cita dados da SemiAnalysis que apontam para 530 mil milhões de dólares em compromissos e garantias fora do balanço da Nvidia, e fala de um buraco de financiamento por preencher."
+      },
+      {
+       "en": "CNBC quotes Goldman Sachs analyst James Schneider as expecting Nvidia to fulfil announced commitments but finding it harder to negotiate new multi-party investments at the same scale. Nvidia reports quarterly results on Tuesday. This is analysis and opinion, not a confirmed change in policy.",
+       "pt": "A CNBC cita o analista da Goldman Sachs James Schneider, que espera que a Nvidia cumpra os compromissos anunciados, mas prevê mais dificuldade em negociar novos investimentos multilaterais à mesma escala. A Nvidia divulga resultados trimestrais na terça-feira. É análise e opinião, não uma mudança de política confirmada."
+      }
+     ],
+     "chip": {
+      "en": "$530B commitments",
+      "pt": "530 mil M$ em compromissos"
+     },
+     "link": {
+      "url": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia",
+      "label": {
+       "en": "Read the full story at Axios →",
+       "pt": "Ler a notícia completa em Axios →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+       "name": "CNBC"
+      }
+     ]
+    }
+   ],
+   "brief": [
+    {
+     "src": "Ars Technica",
+     "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+     "text": {
+      "en": "reports that OpenAI Foundation board member Paul Christiano told a Toronto lecture audience that an AI takeover is a serious risk, giving no quantitative estimate but calling it \"something like a coin flip\" on the fastest trajectory. This is one person's warning, not a consensus view.",
+      "pt": "noticia que Paul Christiano, membro do conselho da OpenAI Foundation, disse numa palestra em Toronto que uma tomada de controlo pela IA é um risco sério, sem apresentar uma estimativa quantitativa mas falando em \"algo como cara ou coroa\" na trajetória mais rápida. É o alerta de uma pessoa, não uma visão consensual."
+     }
+    },
+    {
+     "src": "Axios",
+     "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+     "text": {
+      "en": "reports that the American Medical Association is calling for federal and state laws to shield physicians from liability when AI tools injure patients, and for AI makers to carry liability insurance.",
+      "pt": "noticia que a American Medical Association pede leis federais e estaduais que protejam os médicos de responsabilidade quando ferramentas de IA causam danos a doentes, e que os fabricantes de IA tenham seguro de responsabilidade."
+     }
+    }
+   ]
+  },
+  {
+   "id": "comics",
+   "topic": "comics",
+   "title": {
+    "en": "Comic Books",
+    "pt": "Banda desenhada"
+   },
+   "subtitle": {
+    "en": "Comic Books · New series, reprints and collections",
+    "pt": "Banda desenhada · Novas séries, reedições e coleções"
+   },
+   "items": [
+    {
+     "id": "angelaongoing",
+     "topic": "comics",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/Angela-feature.jpg",
+      "credit": "The Beat",
+      "alt": {
+       "en": "Promotional art for Marvel's new Angela ongoing series",
+       "pt": "Arte promocional da nova série regular Angela, da Marvel"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Marvel · Angela · Wes Craig",
+      "pt": "Banda desenhada · Marvel · Angela · Wes Craig"
+     },
+     "headline": {
+      "en": "Marvel gives Angela a new ongoing series from Wes Craig and Pere Pérez, starting 10 February",
+      "pt": "A Marvel dá a Angela uma nova série regular de Wes Craig e Pere Pérez, a partir de 10 de fevereiro"
+     },
+     "deck": {
+      "en": "The Heven assassin hunts a demon outbreak in New York, in Craig's Marvel writing debut.",
+      "pt": "A assassina de Heven caça uma epidemia de demónios em Nova Iorque, na estreia de Craig como argumentista na Marvel."
+     },
+     "body": [
+      {
+       "en": "The Beat reports that Marvel announced an Angela ongoing for February 2027, written by Wes Craig (Deadly Class, Kaya) in his Marvel writing debut and drawn by Pere Pérez (Amazing Spider-Man: Torn). A mysterious demon outbreak turns Earth into her new hunting ground, and she finds unexpected allies. Issue #1 has a main cover by Kaare Andrews and arrives in shops on 10 February 2027.",
+       "pt": "A The Beat noticia que a Marvel anunciou uma série regular de Angela para fevereiro de 2027, escrita por Wes Craig (Deadly Class, Kaya) na sua estreia como argumentista na Marvel e desenhada por Pere Pérez (Amazing Spider-Man: Torn). Uma misteriosa epidemia de demónios transforma a Terra no seu novo terreno de caça, e ela encontra aliados inesperados. O n.º 1 tem capa principal de Kaare Andrews e chega às lojas a 10 de fevereiro de 2027."
+      },
+      {
+       "en": "Bleeding Cool notes that Angela's rights history, tied to Neil Gaiman and Miracleman, fuels talk of a future meeting between the two. That is speculation, not something Marvel has said.",
+       "pt": "A Bleeding Cool nota que o historial de direitos de Angela, ligado a Neil Gaiman e ao Miracleman, alimenta conversas sobre um futuro encontro entre os dois. É especulação, não algo que a Marvel tenha dito."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Writer",
+        "pt": "Argumento"
+       },
+       "v": {
+        "en": "Wes Craig",
+        "pt": "Wes Craig"
+       }
+      },
+      {
+       "k": {
+        "en": "Artist",
+        "pt": "Desenho"
+       },
+       "v": {
+        "en": "Pere Pérez",
+        "pt": "Pere Pérez"
+       }
+      },
+      {
+       "k": {
+        "en": "On sale",
+        "pt": "À venda"
+       },
+       "v": {
+        "en": "10 Feb 2027",
+        "pt": "10 fev 2027"
+       }
+      },
+      {
+       "k": {
+        "en": "Publisher",
+        "pt": "Editora"
+       },
+       "v": {
+        "en": "Marvel Comics",
+        "pt": "Marvel Comics"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.comicsbeat.com/marvel-angela-ongoing-series-announced/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://bleedingcool.com/comics/angela-gets-an-ongoing-from-marvel-in-2027-will-she-meet-miracleman/",
+       "name": "Bleeding Cool"
+      }
+     ]
+    },
+    {
+     "id": "criminalfacsimile",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Image · Criminal",
+      "pt": "Banda desenhada · Image · Criminal"
+     },
+     "headline": {
+      "en": "Image reprints key Criminal issues as facsimiles ahead of the Prime Video show",
+      "pt": "A Image reedita números-chave de Criminal em fac-símile antes da série da Prime Video"
+     },
+     "body": [
+      {
+       "en": "The Beat reports that Criminal #1 (Coward) and #6 (Lawless) by Ed Brubaker and Sean Phillips return as facsimile editions on 13 and 27 January, alongside collected editions, timed to the streaming debut. They come with wraparound variant covers, foil versions and blank sketch covers.",
+       "pt": "A The Beat noticia que Criminal n.º 1 (Coward) e n.º 6 (Lawless), de Ed Brubaker e Sean Phillips, regressam em edições fac-símile a 13 e 27 de janeiro, com as edições encadernadas, a coincidir com a estreia em streaming. Trazem capas alternativas, versões com foil e capas em branco para esboços."
+      }
+     ],
+     "chip": {
+      "en": "13 & 27 Jan",
+      "pt": "13 e 27 jan"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/image-to-reprint-key-criminal-comic-issues/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "marvelbrick",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Marvel · Collected editions",
+      "pt": "Banda desenhada · Marvel · Edições encadernadas"
+     },
+     "headline": {
+      "en": "Marvel's first Brick is a 960-page Amazing Spider-Man paperback for $60",
+      "pt": "O primeiro Brick da Marvel é um volume de 960 páginas de Amazing Spider-Man por 60 dólares"
+     },
+     "body": [
+      {
+       "en": "The Beat reports that Amazing Spider-Man: Power and Responsibility, due on 6 July 2027 per the Penguin Random House catalogue, collects Amazing Fantasy #15, Amazing Spider-Man #1-38 and Annuals #1-2. The Beat says the Brick line is cheaper than Epic Collections and uses newsprint-like paper.",
+       "pt": "A The Beat noticia que Amazing Spider-Man: Power and Responsibility, previsto para 6 de julho de 2027 segundo o catálogo da Penguin Random House, reúne Amazing Fantasy n.º 15, Amazing Spider-Man n.º 1-38 e os Annuals n.º 1-2. A The Beat diz que a linha Brick é mais barata do que as Epic Collections e usa papel semelhante a papel de jornal."
+      }
+     ],
+     "chip": {
+      "en": "6 Jul 2027",
+      "pt": "6 jul 2027"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/marvel-lays-the-first-brick-with-amazing-spider-man-power-and-responsibility/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "trekgoldkey",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · IDW · Star Trek",
+      "pt": "Banda desenhada · IDW · Star Trek"
+     },
+     "headline": {
+      "en": "IDW will fund a Star Trek Gold Key Era Collection on Kickstarter in March 2027",
+      "pt": "A IDW vai financiar uma Star Trek Gold Key Era Collection no Kickstarter em março de 2027"
+     },
+     "body": [
+      {
+       "en": "CBR reports that the collection will gather all 61 original Gold Key issues plus the lost 62nd chapter, \"Trial by Fire\", in three volumes. It comes in two editions: Star Fleet in the crew's red, blue and yellow, and Klingon in black and gold. The Kickstarter pledge starts in March 2027.",
+       "pt": "A CBR noticia que a coleção reunirá os 61 números originais da Gold Key e o 62.º capítulo perdido, \"Trial by Fire\", em três volumes. Há duas edições: Star Fleet, nas cores vermelha, azul e amarela da tripulação, e Klingon, em preto e dourado. A campanha no Kickstarter começa em março de 2027."
+      }
+     ],
+     "chip": {
+      "en": "Kickstarter Mar 2027",
+      "pt": "Kickstarter mar 2027"
+     },
+     "link": {
+      "url": "https://www.cbr.com/star-trek-gold-key-era-collection/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "courtoflore",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Cosmic Lighthouse · Thought Bubble",
+      "pt": "Banda desenhada · Cosmic Lighthouse · Thought Bubble"
+     },
+     "headline": {
+      "en": "Adrian Tchaikovsky and Sophia McDougall announce the graphic novel Court of Lore for 2028",
+      "pt": "Adrian Tchaikovsky e Sophia McDougall anunciam a novela gráfica Court of Lore para 2028"
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool reports that the new publisher Cosmic Lighthouse announced the book at Thought Bubble in Harrogate. It follows two lawyers, one from London and one from Fairyland, fighting over a changeling heir to the English crown, pitched as A Midsummer Night's Dream meets Suits. The artist has not yet been announced.",
+       "pt": "A Bleeding Cool noticia que a nova editora Cosmic Lighthouse anunciou o livro no Thought Bubble, em Harrogate. Segue dois advogados, um de Londres e outro do Reino das Fadas, em disputa pelo destino de um herdeiro trocado da coroa inglesa, apresentado como A Midsummer Night's Dream encontra Suits. O artista ainda não foi anunciado."
+      }
+     ],
+     "chip": {
+      "en": "2028",
+      "pt": "2028"
+     },
+     "link": {
+      "url": "https://bleedingcool.com/comics/cosmic-lighthouse-announces-court-of-lore-at-thought-bubble/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/furious-redbrow/",
+     "text": {
+      "en": "reports that Dark Horse's Furious Redbrow, a three-issue fantasy series by Ben Stenbeck set in the Lands Unknown universe, starts on 17 March 2027.",
+      "pt": "noticia que Furious Redbrow, da Dark Horse, uma série fantástica em três números de Ben Stenbeck passada no universo Lands Unknown, começa a 17 de março de 2027."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/comicspro-names-moni-barrette-as-new-executive-director/",
+     "text": {
+      "en": "says ComicsPRO, the comics retailers' organisation, has named Moni Barrette as its new executive director.",
+      "pt": "diz que a ComicsPRO, a organização de retalhistas de banda desenhada, nomeou Moni Barrette como nova diretora executiva."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/digest-111326/",
+     "text": {
+      "en": "reports in its Digest that Skybound will release a two-part black-and-white edition of Faith Erin Hicks's The Mummy from 24 February, and that Titan Comics and Manga is warning of shipping delays tied to the war between Iran and the United States.",
+      "pt": "noticia, no seu Digest, que a Skybound vai lançar uma edição a preto e branco em duas partes de The Mummy, de Faith Erin Hicks, a partir de 24 de fevereiro, e que a Titan Comics and Manga avisa de atrasos nos envios ligados à guerra entre o Irão e os Estados Unidos."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/exclusive-cover-reveal-magic-and-myth-meet-in-beast-quest-rise-of-the-fire-dragon/",
+     "text": {
+      "en": "reveals the cover of Beast Quest: Rise of the Fire Dragon, the first full-colour graphic novel in the series, out on 1 June 2027 from Candlewick Press.",
+      "pt": "revela a capa de Beast Quest: Rise of the Fire Dragon, a primeira novela gráfica a cores da série, que sai a 1 de junho de 2027 pela Candlewick Press."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/kibbles-n-bits-11-13-26-comic-strip-reprints-galore-journalism-fights-back-and-mark-millar-tycoon/",
+     "text": {
+      "en": "notes that StripReprints.com, a catalogue site from a group of small publishers, launched with over a hundred titles collecting more than sixty comic strips.",
+      "pt": "nota que o StripReprints.com, um site-catálogo criado por um grupo de pequenas editoras, arrancou com mais de cem títulos que reúnem mais de sessenta tiras de banda desenhada."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manga",
+   "topic": "manga",
+   "title": {
+    "en": "Manga",
+    "pt": "Manga"
+   },
+   "subtitle": {
+    "en": "Manga · Licensing, adaptations and events",
+    "pt": "Manga · Licenciamento, adaptações e eventos"
+   },
+   "items": [
+    {
+     "id": "fivestarstories",
+     "topic": "manga",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/FSSBanner.jpeg",
+      "credit": "The Beat",
+      "alt": {
+       "en": "Banner for The Beat's report on the Five Star Stories English edition",
+       "pt": "Banner da reportagem da The Beat sobre a edição inglesa de Five Star Stories"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "tl"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Titan Manga · Five Star Stories · Mamoru Nagano",
+      "pt": "Manga · Titan Manga · Five Star Stories · Mamoru Nagano"
+     },
+     "headline": {
+      "en": "Titan Manga withholds Five Star Stories volume 1 amid a translator controversy",
+      "pt": "A Titan Manga retém o primeiro volume de Five Star Stories em plena polémica sobre o tradutor"
+     },
+     "deck": {
+      "en": "The long-awaited English reprint was due on 1 December. Allegations about its translator's past as a scanlator have stopped distribution for now.",
+      "pt": "A tão esperada reedição em inglês estava prevista para 1 de dezembro. Acusações sobre o passado do tradutor como scanlator travaram, por agora, a distribuição."
+     },
+     "body": [
+      {
+       "en": "The Beat reports that Titan Manga, which acquired the rights to reprint Mamoru Nagano's space epic in 2025, told MangaAlert by email that it will withhold distribution of volume 1, which was set for 1 December. No new date or further comment has been given.",
+       "pt": "A The Beat noticia que a Titan Manga, que adquiriu em 2025 os direitos para reeditar a epopeia espacial de Mamoru Nagano, disse por email à MangaAlert que vai reter a distribuição do volume 1, previsto para 1 de dezembro. Não foi dada nova data nem mais comentários."
+      },
+      {
+       "en": "The controversy centres on translator Greco D. Espinoza. Reddit users cited by The Beat say he was a scanlator under the name WildFang/IchidoReichan, accused of selling bootleg translated copies, plagiarising other translators and using machine-assisted translation. These are allegations that The Beat reports from others; they are not proven. The Beat, which received an advance copy, says its text reads as quite literal compared with the earlier Toyspress edition overseen by Nagano, and that added captions cover some of the art.",
+       "pt": "A polémica centra-se no tradutor Greco D. Espinoza. Utilizadores do Reddit citados pela The Beat dizem que ele foi scanlator sob o nome WildFang/IchidoReichan, acusado de vender cópias traduzidas piratas, plagiar outros tradutores e usar tradução assistida por máquina. São acusações que a The Beat reporta de terceiros; não estão provadas. A The Beat, que recebeu um exemplar antecipado, diz que o texto parece bastante literal face à edição anterior da Toyspress, supervisionada por Nagano, e que legendas acrescentadas cobrem parte da arte."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Publisher",
+        "pt": "Editora"
+       },
+       "v": {
+        "en": "Titan Manga",
+        "pt": "Titan Manga"
+       }
+      },
+      {
+       "k": {
+        "en": "Planned date",
+        "pt": "Data prevista"
+       },
+       "v": {
+        "en": "1 Dec 2026",
+        "pt": "1 dez 2026"
+       }
+      },
+      {
+       "k": {
+        "en": "Status",
+        "pt": "Estado"
+       },
+       "v": {
+        "en": "Distribution withheld",
+        "pt": "Distribuição retida"
+       }
+      },
+      {
+       "k": {
+        "en": "Allegations",
+        "pt": "Acusações"
+       },
+       "v": {
+        "en": "Reported, unproven",
+        "pt": "Relatadas, não provadas"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.comicsbeat.com/translation-controversy-hits-new-editions-of-five-star-stories/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "atashinchinext",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a phone",
+       "pt": "Ilustração de um telemóvel"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Keiko Kera · Anime",
+      "pt": "Manga · Keiko Kera · Anime"
+     },
+     "headline": {
+      "en": "New Atashin'chi NEXT anime streams from 1 January 2027 on YouTube, with a new director",
+      "pt": "O novo anime Atashin'chi NEXT estreia em streaming a 1 de janeiro de 2027 no YouTube, com novo realizador"
+     },
+     "body": [
+      {
+       "en": "Natalie reports that the anime based on Keiko Kera's home-comedy manga will stream on the official Atashin'chi YouTube channel and elsewhere from 1 January 2027, on the first Friday of each month at 18:00 Japan time. A key visual with the tagline \"Always, everywhere, any number of times\" was released.",
+       "pt": "A Natalie noticia que o anime baseado no manga de comédia familiar de Keiko Kera será transmitido no canal oficial de YouTube de Atashin'chi e noutras plataformas a partir de 1 de janeiro de 2027, na primeira sexta-feira de cada mês, às 18:00 hora do Japão. Foi divulgada uma imagem principal com o lema \"Sempre, em todo o lado, quantas vezes for preciso\"."
+      },
+      {
+       "en": "Taku Kimura, of the TV anime Yanineko, takes over as director, while the main voice cast returns. The opening and ending theme is \"Saraba\" by Kinmokusei.",
+       "pt": "Taku Kimura, do anime de TV Yanineko, assume a realização, e o elenco principal de vozes regressa. O tema de abertura e de encerramento é \"Saraba\", dos Kinmokusei."
+      }
+     ],
+     "chip": {
+      "en": "From 1 Jan 2027",
+      "pt": "Desde 1 jan 2027"
+     },
+     "link": {
+      "url": "https://natalie.mu/comic/news/697953",
+      "label": {
+       "en": "Read the full story at Natalie →",
+       "pt": "Ler a notícia completa em Natalie →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/interest/2026-11-13/uma-musume-revs-its-engines-with-f1-japanese-grand-prix/.243789",
+     "text": {
+      "en": "reports that Cygames, producer of Uma Musume, became the first founding partner of the 2027 F1 Japanese Grand Prix and renamed Suzuka's 130R corner \"Umamusume 130R\" from 30 November. The franchise began as a game, not a manga.",
+      "pt": "noticia que a Cygames, produtora de Uma Musume, se tornou o primeiro parceiro fundador do Grande Prémio do Japão de F1 de 2027 e rebatizou a curva 130R de Suzuka como \"Umamusume 130R\" a partir de 30 de novembro. A franquia nasceu como jogo, não como manga."
+     }
+    },
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/news/2026-11-13/ota-tokyo-hosts-mha-theme-song-composer-wataru-katagiri-in-new-delhi/.243784",
+     "text": {
+      "en": "says the Ota Tokyo event in New Delhi on 28 and 29 November will host My Hero Academia theme composer Wataru Katagiri and the idol group DARUMA Rollin'.",
+      "pt": "diz que o evento Ota Tokyo, em Nova Deli a 28 e 29 de novembro, vai receber Wataru Katagiri, compositor dos temas de My Hero Academia, e o grupo de idols DARUMA Rollin'."
+     }
+    },
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=40945",
+     "text": {
+      "en": "lists the light-novel series Living It Up in Another World Until I Get Bored as getting a TV anime in January 2027. It is a novel adaptation, not manga.",
+      "pt": "indica que a série de light novels Living It Up in Another World Until I Get Bored vai ter anime de TV em janeiro de 2027. É uma adaptação de romance, não de manga."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manhwa",
+   "topic": "manhwa",
+   "title": {
+    "en": "Manhwa",
+    "pt": "Manhwa"
+   },
+   "subtitle": {
+    "en": "Manhwa · Webtoons and their adaptations",
+    "pt": "Manhwa · Webtoons e as suas adaptações"
+   },
+   "items": [
+    {
+     "id": "aquamanwebtoon",
+     "topic": "manhwa",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Kakao Entertainment · Fuji TV · Aquaman",
+      "pt": "Manhwa · Kakao Entertainment · Fuji TV · Aquaman"
+     },
+     "headline": {
+      "en": "Romance webtoon Aquaman gets a Japanese live-action series on 25 December",
+      "pt": "O webtoon romântico Aquaman ganha uma série japonesa em imagem real a 25 de dezembro"
+     },
+     "deck": {
+      "en": "Kakao Entertainment and Fuji TV adapt McQueen Studio's webtoon into a 10-episode drama that debuts in Japan and South Korea on the same day.",
+      "pt": "A Kakao Entertainment e a Fuji TV adaptam o webtoon do McQueen Studio numa série de 10 episódios que estreia no Japão e na Coreia do Sul no mesmo dia."
+     },
+     "body": [
+      {
+       "en": "Anime News Network reports that Kakao Entertainment announced on Thursday that McQueen Studio's romance webtoon Aquaman is being adapted by Fuji TV. The 10-episode series premieres on 25 December on Fuji TV's streaming service in Japan and on Wavve in South Korea, with new episodes every Friday afterwards.",
+       "pt": "A Anime News Network noticia que a Kakao Entertainment anunciou na quinta-feira que o webtoon romântico Aquaman, do McQueen Studio, está a ser adaptado pela Fuji TV. A série de 10 episódios estreia a 25 de dezembro no serviço de streaming da Fuji TV, no Japão, e na Wavve, na Coreia do Sul, com novos episódios todas as sextas-feiras."
+      },
+      {
+       "en": "Haru Kashiwagi plays Naru Shintani, Noritaka Hamao plays Kazunari Ikeda and Karen Ōtomo plays Sora Hoshino. Junichi Kanai directs and Erika Seki writes the screenplay. There is no official English version of the webtoon, and a North American release of the series is not confirmed.",
+       "pt": "Haru Kashiwagi interpreta Naru Shintani, Noritaka Hamao interpreta Kazunari Ikeda e Karen Ōtomo interpreta Sora Hoshino. Junichi Kanai realiza e Erika Seki assina o argumento. Não existe versão inglesa oficial do webtoon, e o lançamento da série na América do Norte não está confirmado."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Premiere",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "25 Dec 2026",
+        "pt": "25 dez 2026"
+       }
+      },
+      {
+       "k": {
+        "en": "Episodes",
+        "pt": "Episódios"
+       },
+       "v": {
+        "en": "10, weekly on Fridays",
+        "pt": "10, semanais às sextas"
+       }
+      },
+      {
+       "k": {
+        "en": "Platforms",
+        "pt": "Plataformas"
+       },
+       "v": {
+        "en": "Fuji TV streaming, Wavve",
+        "pt": "Streaming da Fuji TV, Wavve"
+       }
+      },
+      {
+       "k": {
+        "en": "English webtoon",
+        "pt": "Webtoon em inglês"
+       },
+       "v": {
+        "en": "Not available",
+        "pt": "Não disponível"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-13/aquaman-romance-webtoon-gets-japanese-live-action-series-premiering-on-december-25/.243785",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    },
+    {
+     "id": "giftedpremiere",
+     "topic": "manhwa",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Webtoon · tvN · Update",
+      "pt": "Manhwa · Webtoon · tvN · Atualização"
+     },
+     "headline": {
+      "en": "Update: baseball webtoon Gifted premieres on tvN on 5 December, with its English version on Tapas",
+      "pt": "Atualização: o webtoon de basebol Gifted estreia na tvN a 5 de dezembro, com versão inglesa no Tapas"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: the premiere date and time, and the webtoon's origins and English availability.",
+       "pt": "O que há de novo desde a última edição: a data e a hora da estreia, e a origem do webtoon e a sua disponibilidade em inglês."
+      },
+      {
+       "en": "Anime News Network reports that the live-action adaptation of Jung1212's webtoon Gifted premieres on tvN on 5 December at 9:10 p.m. KST. A baseball coach who gains the ability to see players' natural talent and limits takes over the country's last-ranked high-school team and tries to recruit a player with exceptional talent.",
+       "pt": "A Anime News Network noticia que a adaptação em imagem real do webtoon Gifted, de Jung1212, estreia na tvN a 5 de dezembro às 21:10 KST. Um treinador de basebol que ganha a capacidade de ver o talento natural e os limites dos jogadores assume a equipa liceal pior classificada do país e tenta recrutar um jogador de talento excecional."
+      },
+      {
+       "en": "Woo-bin Kim stars as coach Min-yong Jeong, and Chabin and Si-hyun Han play the rival players. The webtoon has run on Kakao Page since 2021, and the official English version is on Tapas. A North American release of the series is not confirmed.",
+       "pt": "Woo-bin Kim protagoniza como o treinador Min-yong Jeong, e Chabin e Si-hyun Han interpretam os jogadores rivais. O webtoon é publicado na Kakao Page desde 2021, e a versão inglesa oficial está no Tapas. O lançamento da série na América do Norte não está confirmado."
+      }
+     ],
+     "chip": {
+      "en": "tvN · 5 Dec",
+      "pt": "tvN · 5 dez"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-13/gifted-baseball-webtoon-gets-live-action-tv-series-adaptation-premiering-on-december-5/.243783",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    }
+   ],
+   "brief": []
+  }
+ ],
+ "footer": {
+  "en": "Compiled from 23 outlets, 55 articles, 6 videos. Summaries only; see the linked sources. Video thumbnails belong to their channels (SciNews, MrNumNums, Prime Video, GameTrailers, Red, White & Drama, The Nancy Index). Next edition tomorrow at 09:00 Angola time.",
+  "pt": "Compilado a partir de 23 meios, 55 artigos e 6 vídeos. Apenas resumos; consulte as fontes ligadas. As miniaturas dos vídeos pertencem aos respetivos canais (SciNews, MrNumNums, Prime Video, GameTrailers, Red, White & Drama, The Nancy Index). Próxima edição amanhã às 09:00, hora de Angola."
+ },
+ "footerline": "The Daily Respawn · Edition 024 · 14 Nov 2026, 09:45 Angola time · 23 outlets · 55 articles · 6 videos"
+}

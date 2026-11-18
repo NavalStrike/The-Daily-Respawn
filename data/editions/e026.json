@@ -1,0 +1,1734 @@
+{
+ "id": "e026",
+ "number": 26,
+ "publishedAt": "2026-11-16T09:43:00+01:00",
+ "cover": {
+  "img": "e026/helix.jpg",
+  "alt": {
+   "en": "Brad Sams video on the Project Helix details from Xbox's 25th anniversary magazine",
+   "pt": "Vídeo de Brad Sams sobre os detalhes do Project Helix da revista do 25.º aniversário da Xbox"
+  },
+  "target": "helixconsole",
+  "headline": {
+   "en": "Xbox turns 25 and says Project Helix is a console first, not a PC",
+   "pt": "A Xbox faz 25 anos e diz que o Project Helix é primeiro uma consola, não um PC"
+  }
+ },
+ "note": [
+  {
+   "en": "Monday's issue opens with Xbox's 25th anniversary and its clearest statement yet on Project Helix. It also brings the weekend box office, Apple's AI health study, Anthropic's Nasdaq debut this week, Wednesday's comics and the end of Witch Watch. Rumours are marked as such and follow-ups are marked as updates. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+   "pt": "A edição de segunda-feira abre com o 25.º aniversário da Xbox e a sua declaração mais clara até agora sobre o Project Helix. Traz também a bilheteira do fim de semana, o estudo de IA para a saúde da Apple, a estreia da Anthropic na Nasdaq esta semana, os comics de quarta-feira e o fim de Witch Watch. Os rumores estão assinalados e as sequelas surgem como atualizações. Divulgação: a Anthropic é a criadora do modelo Claude que ajuda a compilar esta revista."
+  },
+  {
+   "en": "New since the last edition: Since Edition 025: 18 new stories, 5 updates. Every section has fresh news.",
+   "pt": "Novidades desde a última edição: desde a Edição 025: 18 notícias novas, 5 atualizações. Todas as secções têm notícias novas."
+  }
+ ],
+ "sections": [
+  {
+   "id": "cover-section",
+   "topic": "cover-section",
+   "title": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "subtitle": {
+    "en": "Games · Xbox",
+    "pt": "Jogos · Xbox"
+   },
+   "items": [
+    {
+     "id": "helixconsole",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=N30rLaWEF1Y",
+      "img": "e026/helix.jpg",
+      "alt": {
+       "en": "Brad Sams video on the Project Helix details from Xbox's 25th anniversary magazine",
+       "pt": "Vídeo de Brad Sams sobre os detalhes do Project Helix da revista do 25.º aniversário da Xbox"
+      },
+      "duration": "8:32",
+      "caption": {
+       "en": "Brad Sams, 15 Nov. Tap to watch on YouTube.",
+       "pt": "Brad Sams, 15 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Xbox · Project Helix",
+      "pt": "Jogos · Xbox · Project Helix"
+     },
+     "headline": {
+      "en": "Xbox turns 25 and says Project Helix is a console first, not a PC",
+      "pt": "A Xbox faz 25 anos e diz que o Project Helix é primeiro uma consola, não um PC"
+     },
+     "deck": {
+      "en": "On the exact anniversary of the original Xbox's 2001 launch, Microsoft's 25 Years of Play magazine spells out what the next-generation Helix is meant to be.",
+      "pt": "No dia exato do aniversário do lançamento da Xbox original, em 2001, a revista 25 Years of Play da Microsoft explica o que a próxima geração Helix deverá ser."
+     },
+     "body": [
+      {
+       "en": "Pure Xbox and Insider Gaming report that Jason Ronald, Xbox's VP of Next Generation, writes in the magazine that Helix is 'designed to be a console that is also capable of playing games from your PC', and 'not a PC that can also play console games'. Ronald says the goal is for access to your games to be easy, intuitive and instant, while power users can still dig into settings and performance options.",
+       "pt": "O Pure Xbox e o Insider Gaming noticiam que Jason Ronald, vice-presidente de Próxima Geração da Xbox, escreve na revista que o Helix foi 'concebido para ser uma consola que também consegue jogar jogos do seu PC' e 'não um PC que também consegue jogar jogos de consola'. Ronald diz que o objetivo é que aceder aos jogos seja fácil, intuitivo e instantâneo, mas os utilizadores avançados continuam a poder mexer nas definições e opções de desempenho."
+      },
+      {
+       "en": "Insider Gaming adds that Ronald calls game preservation a core goal, with backward compatibility shaping how the platform is built, and that Xbox expects a focus on curated, creator-led games. There is still no release window, price or design. Pure Xbox notes that rumours point to a first-party handheld in 2027 and the Helix console in 2028; that is a rumour, not an Xbox announcement. IGN reports that three retro boot-up animations (original Xbox and two Xbox 360 versions) rolled out to Series X|S and Xbox One the same day.",
+       "pt": "O Insider Gaming acrescenta que Ronald considera a preservação de jogos um objetivo central, com a retrocompatibilidade a moldar a construção da plataforma, e que a Xbox prevê um foco em jogos curados e criados por criadores. Continua sem haver data de lançamento, preço ou design. O Pure Xbox nota que os rumores apontam para uma portátil própria em 2027 e para a consola Helix em 2028; isto é um rumor, não um anúncio da Xbox. A IGN noticia que três animações de arranque retro (a Xbox original e duas versões da Xbox 360) chegaram no mesmo dia às Series X|S e Xbox One."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Platform",
+        "pt": "Plataforma"
+       },
+       "v": {
+        "en": "Xbox Project Helix (next generation)",
+        "pt": "Xbox Project Helix (próxima geração)"
+       }
+      },
+      {
+       "k": {
+        "en": "Source",
+        "pt": "Fonte"
+       },
+       "v": {
+        "en": "Xbox 25 Years of Play magazine",
+        "pt": "Revista Xbox 25 Years of Play"
+       }
+      },
+      {
+       "k": {
+        "en": "Release",
+        "pt": "Lançamento"
+       },
+       "v": {
+        "en": "Not announced",
+        "pt": "Não anunciado"
+       }
+      },
+      {
+       "k": {
+        "en": "Rumour",
+        "pt": "Rumor"
+       },
+       "v": {
+        "en": "Handheld 2027, console 2028",
+        "pt": "Portátil em 2027, consola em 2028"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
+      "label": {
+       "en": "Read the full story at Pure Xbox →",
+       "pt": "Ler a notícia completa em Pure Xbox →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://insider-gaming.com/xbox-project-helix-console-first-not-pc/",
+       "name": "Insider Gaming"
+      },
+      {
+       "url": "https://insider-gaming.com/xbox-game-preservation-project-helix/",
+       "name": "Insider Gaming (preservation)"
+      },
+      {
+       "url": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
+       "name": "IGN (boot-up animations)"
+      }
+     ]
+    }
+   ],
+   "brief": []
+  },
+  {
+   "id": "games",
+   "topic": "games",
+   "title": {
+    "en": "Games",
+    "pt": "Jogos"
+   },
+   "subtitle": {
+    "en": "Games · Xbox at 25, anime action and what's next",
+    "pt": "Jogos · Xbox aos 25 anos, ação de anime e o que se segue"
+   },
+   "items": [
+    {
+     "id": "aot3",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=rXr5Cu6SIus",
+      "img": "e026/aot3.jpg",
+      "alt": {
+       "en": "IGN upload of the Attack on Titan 3 gameplay video",
+       "pt": "Vídeo da IGN com jogabilidade de Attack on Titan 3"
+      },
+      "duration": "10:59",
+      "caption": {
+       "en": "IGN, 14 Nov. Tap to watch on YouTube.",
+       "pt": "IGN, 14 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Koei Tecmo · Attack on Titan 3",
+      "pt": "Jogos · Koei Tecmo · Attack on Titan 3"
+     },
+     "headline": {
+      "en": "Attack on Titan 3 shows expeditions beyond the walls, with release set for 10 December",
+      "pt": "Attack on Titan 3 mostra expedições além das muralhas, com lançamento marcado para 10 de dezembro"
+     },
+     "deck": {
+      "en": "A new gameplay video focuses on character interactions and Titan hunts outside the walls.",
+      "pt": "Um novo vídeo de jogabilidade foca-se nas interações entre personagens e na caça a Titãs fora das muralhas."
+     },
+     "body": [
+      {
+       "en": "IGN's French site shares Koei Tecmo's gameplay video 'Character Interactions & Expeditions Beyond the Walls', described as an extended look at moment-to-moment play with character dialogue and combat against Titans. The anime action game is due on 10 December for PS5, Xbox Series X|S, Nintendo Switch 2 and PC (Steam).",
+       "pt": "O site francês da IGN partilha o vídeo de jogabilidade da Koei Tecmo 'Character Interactions & Expeditions Beyond the Walls', descrito como um olhar alargado ao jogo momento a momento, com diálogos entre personagens e combate contra Titãs. O jogo de ação baseado no anime sai a 10 de dezembro para PS5, Xbox Series X|S, Nintendo Switch 2 e PC (Steam)."
+      },
+      {
+       "en": "According to the video's description on Koei Tecmo Europe's channel, the opening animation will be produced by MAPPA, the studio behind Attack on Titan: The Final Season, but it will not be in the game at launch and will be added in a future update.",
+       "pt": "Segundo a descrição do vídeo no canal da Koei Tecmo Europe, a animação de abertura será produzida pela MAPPA, o estúdio de Attack on Titan: The Final Season, mas não estará no jogo no lançamento e será acrescentada numa futura atualização."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Developer",
+        "pt": "Programadora"
+       },
+       "v": {
+        "en": "Koei Tecmo Games",
+        "pt": "Koei Tecmo Games"
+       }
+      },
+      {
+       "k": {
+        "en": "Release",
+        "pt": "Lançamento"
+       },
+       "v": {
+        "en": "10 Dec 2026",
+        "pt": "10 dez 2026"
+       }
+      },
+      {
+       "k": {
+        "en": "Platforms",
+        "pt": "Plataformas"
+       },
+       "v": {
+        "en": "PS5, Xbox Series X|S, Switch 2, PC",
+        "pt": "PS5, Xbox Series X|S, Switch 2, PC"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://fr.ign.com/attack-on-titan-3/93954/attack-on-titan-3-video-officielle-de-gameplay-interactions-entre-les-personnages-et-expeditions-au",
+      "label": {
+       "en": "Read the full story at IGN France →",
+       "pt": "Ler a notícia completa em IGN France →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.youtube.com/watch?v=uwrh0s8SMLQ",
+       "name": "Koei Tecmo Europe (YouTube)"
+      }
+     ]
+    },
+    {
+     "id": "bladerunnergame",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · Alcon · Blade Runner",
+      "pt": "Jogos · Alcon · Blade Runner"
+     },
+     "headline": {
+      "en": "Blade Runner bosses hint at a possible 'triple-A' game, but nothing is in development",
+      "pt": "Os responsáveis de Blade Runner admitem um possível jogo 'triple-A', mas nada está em desenvolvimento"
+     },
+     "body": [
+      {
+       "en": "Eurogamer relays an IGN interview with Alcon's co-CEOs Andrew Kosove and Broderick Johnson, who say they have thought about a Blade Runner game and that it would be 'triple-A' in scope. Eurogamer reads it as talks rather than active development, so any game would be a long way off. Meanwhile Blade Runner 2099 reaches Prime Video on 25 November.",
+       "pt": "A Eurogamer reproduz uma entrevista da IGN com os co-CEOs da Alcon, Andrew Kosove e Broderick Johnson, que dizem ter pensado num jogo de Blade Runner e que teria dimensão 'triple-A'. A Eurogamer interpreta isto como conversas e não como desenvolvimento ativo, pelo que qualquer jogo estaria muito longe. Entretanto, Blade Runner 2099 chega ao Prime Video a 25 de novembro."
+      }
+     ],
+     "chip": {
+      "en": "Talks only",
+      "pt": "Só conversas"
+     },
+     "link": {
+      "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+      "label": {
+       "en": "Read the full story at Eurogamer →",
+       "pt": "Ler a notícia completa em Eurogamer →"
+      }
+     }
+    },
+    {
+     "id": "intergalactic",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "rocket",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a rocket",
+       "pt": "Ilustração de um foguetão"
+      }
+     },
+     "kicker": {
+      "en": "Games · Naughty Dog · Intergalactic",
+      "pt": "Jogos · Naughty Dog · Intergalactic"
+     },
+     "headline": {
+      "en": "Naughty Dog's Neil Druckmann says Intergalactic is in its 'final stages of production'",
+      "pt": "Neil Druckmann, da Naughty Dog, diz que Intergalactic está nas 'fases finais de produção'"
+     },
+     "body": [
+      {
+       "en": "IGN's Adria edition reports that Druckmann, speaking at Comic Creators Block Party 2026, said Intergalactic: The Heretic Prophet is playable and the work is now about refinement and polish. He described it as a blend of Jak and Daxter's sci-fi fantasy, Uncharted's action-adventure and The Last of Us's more serious drama. IGN adds that Druckmann has hinted at a full presentation within the next 12 months; PlayStation and Naughty Dog have not given a release window.",
+       "pt": "A edição Adria da IGN noticia que Druckmann, no Comic Creators Block Party 2026, disse que Intergalactic: The Heretic Prophet já é jogável e que o trabalho é agora de afinação e acabamento. Descreveu-o como uma mistura da fantasia de ficção científica de Jak and Daxter, da ação e aventura de Uncharted e do drama mais sério de The Last of Us. A IGN acrescenta que Druckmann deixou no ar uma apresentação completa nos próximos 12 meses; a PlayStation e a Naughty Dog não deram data de lançamento."
+      }
+     ],
+     "chip": {
+      "en": "No release date",
+      "pt": "Sem data"
+     },
+     "link": {
+      "url": "https://adria.ign.com/intergalactic-the-heretic-prophet/56207/intergalactic-the-heretic-prophet-se-nalazi-u-posljednjim-fazama-produkcije",
+      "label": {
+       "en": "Read the full story at IGN Adria →",
+       "pt": "Ler a notícia completa em IGN Adria →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Pure Xbox",
+     "url": "https://www.purexbox.com/news/2026/11/youtubers-share-their-amazing-home-videos-from-the-most-important-day-in-xbox-history",
+     "text": {
+      "en": "collects home videos that YouTubers shared from the original Xbox's launch day, exactly 25 years ago on 15 November 2001.",
+      "pt": "reúne vídeos caseiros partilhados por youtubers do dia de lançamento da Xbox original, há exatamente 25 anos, a 15 de novembro de 2001."
+     }
+    },
+    {
+     "src": "Pure Xbox",
+     "url": "https://www.purexbox.com/features/talking-point-as-xbox-celebrates-its-25th-anniversary-what-are-your-hopes-for-the-next-25-years",
+     "text": {
+      "en": "quotes Xbox boss Asha Sharma saying a small team will be able to build worlds that today demand hundreds of developers.",
+      "pt": "cita a responsável da Xbox, Asha Sharma, dizendo que uma pequena equipa poderá construir mundos que hoje exigem centenas de programadores."
+     }
+    },
+    {
+     "src": "IGN India",
+     "url": "https://in.ign.com/video/277099/dragon-ball-fighterz-official-balance-update-trailer",
+     "text": {
+      "en": "shares the trailer for a new Dragon Ball FighterZ balance update, which is coming soon.",
+      "pt": "partilha o trailer de uma nova atualização de equilíbrio de Dragon Ball FighterZ, que chega em breve."
+     }
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "topic": "movies",
+   "title": {
+    "en": "Movies",
+    "pt": "Filmes"
+   },
+   "subtitle": {
+    "en": "Movies · Weekend box office and awards-season indies",
+    "pt": "Filmes · Bilheteira do fim de semana e independentes da época de prémios"
+   },
+   "items": [
+    {
+     "id": "ebenezerweekend",
+     "topic": "movies",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=54nvO8uZwMk",
+      "img": "e026/ebenezer.jpg",
+      "alt": {
+       "en": "Show Me The Movie upload of the Ebenezer trailer",
+       "pt": "Vídeo do canal Show Me The Movie com o trailer de Ebenezer"
+      },
+      "duration": "1:26",
+      "caption": {
+       "en": "Show Me The Movie (fan channel), 10 Nov. Tap to watch on YouTube.",
+       "pt": "Show Me The Movie (canal de fãs), 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Paramount · Ebenezer · Update",
+      "pt": "Filmes · Paramount · Ebenezer · Atualização"
+     },
+     "headline": {
+      "en": "Update: Ebenezer wins the weekend with $19 million, while How to Rob a Bank stumbles",
+      "pt": "Atualização: Ebenezer vence o fim de semana com 19 milhões de dólares, enquanto How to Rob a Bank tropeça"
+     },
+     "deck": {
+      "en": "Johnny Depp's Dickens reimagining opened at No. 1 in a weak weekend; Variety counts $42 million worldwide.",
+      "pt": "A reimaginação de Dickens com Johnny Depp estreou em 1.º lugar num fim de semana fraco; a Variety conta 42 milhões de dólares no mundo."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Friday's $6.7 million has become a $19 million weekend.",
+       "pt": "O que há de novo desde a última edição: Os 6,7 milhões de sexta-feira transformaram-se num fim de semana de 19 milhões."
+      },
+      {
+       "en": "Variety reports that Ebenezer earned $19 million from 3,535 North American theatres and $23 million from 63 overseas markets, for a $42 million global start. IndieWire calls it a solid but unremarkable launch, and Collider notes it came about $10 million short of the 2009 Jim Carrey A Christmas Carol opening.",
+       "pt": "A Variety noticia que Ebenezer rendeu 19 milhões de dólares em 3.535 salas norte-americanas e 23 milhões em 63 mercados externos, num arranque global de 42 milhões. A IndieWire descreve-o como um lançamento sólido mas sem brilho, e a Collider nota que ficou cerca de 10 milhões abaixo da estreia de A Christmas Carol, de 2009, com Jim Carrey."
+      },
+      {
+       "en": "Variety says Amazon MGM's How to Rob a Bank opened at No. 7 with $5 million, and Screen Rant puts its budget at a reported $40 million. Sony's Ghost Soldier took $5.2 million for sixth place. Screen Rant adds that the whole weekend, at roughly $80 million, would be the fifth-worst of 2026 so far.",
+       "pt": "A Variety diz que How to Rob a Bank, da Amazon MGM, estreou em 7.º com 5 milhões, e a Screen Rant indica um orçamento reportado de 40 milhões. Ghost Soldier, da Sony, rendeu 5,2 milhões, em 6.º lugar. A Screen Rant acrescenta que o fim de semana inteiro, com cerca de 80 milhões, seria o quinto pior de 2026 até agora."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Domestic opening",
+        "pt": "Estreia nos EUA e Canadá"
+       },
+       "v": {
+        "en": "$19 million",
+        "pt": "19 milhões de dólares"
+       }
+      },
+      {
+       "k": {
+        "en": "Overseas",
+        "pt": "Mercados externos"
+       },
+       "v": {
+        "en": "$23 million",
+        "pt": "23 milhões de dólares"
+       }
+      },
+      {
+       "k": {
+        "en": "Global",
+        "pt": "Global"
+       },
+       "v": {
+        "en": "$42 million",
+        "pt": "42 milhões de dólares"
+       }
+      },
+      {
+       "k": {
+        "en": "Director",
+        "pt": "Realizador"
+       },
+       "v": {
+        "en": "Ti West",
+        "pt": "Ti West"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-weekend-how-to-rob-a-bank-1236948055/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.indiewire.com/news/box-office/box-office-ebenezer-opens-20-million-johnny-depp-comeback-1235228068/",
+       "name": "IndieWire"
+      },
+      {
+       "url": "https://collider.com/johnny-depp-ebenezer-box-office-opening-weekend-43-million/",
+       "name": "Collider"
+      },
+      {
+       "url": "https://screenrant.com/domestic-box-office-chart-report-ebenezer-godzilla-minus-zero/",
+       "name": "Screen Rant"
+      },
+      {
+       "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/",
+       "name": "Deadline"
+      }
+     ]
+    },
+    {
+     "id": "godzillaactuals",
+     "topic": "movies",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a film camera",
+       "pt": "Ilustração de uma câmara de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Toho · Godzilla Minus Zero · Update",
+      "pt": "Filmes · Toho · Godzilla Minus Zero · Atualização"
+     },
+     "headline": {
+      "en": "Update: Godzilla Minus Zero falls 75% to $8.3 million, yet passes $100 million worldwide",
+      "pt": "Atualização: Godzilla Minus Zero cai 75% para 8,3 milhões, mas ultrapassa os 100 milhões no mundo"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Yesterday's projected 75% drop is now a reported result.",
+       "pt": "O que há de novo desde a última edição: A queda projetada de 75% é agora um resultado noticiado."
+      },
+      {
+       "en": "Variety says the kaiju sequel earned $8.31 million from 3,264 locations, a 75% second-weekend drop. Deadline estimates a $21.5 million second global weekend, down 66% from the $63 million global opening, and its headline says the film has passed $100 million worldwide. Screen Rant calls the drop the worst sophomore fall for a first-run Godzilla film at the domestic box office.",
+       "pt": "A Variety diz que a sequela de kaiju rendeu 8,31 milhões em 3.264 salas, uma queda de 75% no segundo fim de semana. A Deadline estima um segundo fim de semana global de 21,5 milhões, menos 66% do que a estreia global de 63 milhões, e o título refere que o filme já passou os 100 milhões no mundo. A Screen Rant considera a queda a pior de um segundo fim de semana para um filme de Godzilla de estreia no mercado interno."
+      }
+     ],
+     "chip": {
+      "en": "-75% weekend",
+      "pt": "-75% no fim de semana"
+     },
+     "link": {
+      "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/",
+      "label": {
+       "en": "Read the full story at Deadline →",
+       "pt": "Ler a notícia completa em Deadline →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-weekend-how-to-rob-a-bank-1236948055/",
+       "name": "Variety"
+      }
+     ]
+    },
+    {
+     "id": "clubkidexpands",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=fy_4vEL2E3g",
+      "img": "e026/clubkid.jpg",
+      "alt": {
+       "en": "A24 clip from Club Kid",
+       "pt": "Excerto da A24 de Club Kid"
+      },
+      "duration": "0:51",
+      "caption": {
+       "en": "A24, 11 Nov (official clip). Tap to watch on YouTube.",
+       "pt": "A24, 11 nov (excerto oficial). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · A24 · Club Kid",
+      "pt": "Filmes · A24 · Club Kid"
+     },
+     "headline": {
+      "en": "A24's Club Kid has the best limited expansion of 2026, with $28,002 per screen",
+      "pt": "Club Kid, da A24, tem a melhor expansão limitada de 2026, com 28.002 dólares por sala"
+     },
+     "body": [
+      {
+       "en": "IndieWire and Deadline report that Jordan Firstman's debut feature took $756,060 from 27 screens in its second week, for a $1.45 million total. IndieWire says A24 sees its pace running alongside Moonlight and Anora at this stage. Deadline adds that James Gray's Paper Tiger opened with $215,000 from six screens, a $35.8k average and Gray's best per-screen debut.",
+       "pt": "A IndieWire e a Deadline noticiam que a estreia de Jordan Firstman na realização rendeu 756.060 dólares em 27 salas na segunda semana, para um total de 1,45 milhões. A IndieWire diz que a A24 vê o ritmo a par de Moonlight e Anora nesta fase. A Deadline acrescenta que Paper Tiger, de James Gray, estreou com 215 mil dólares em seis salas, uma média de 35,8 mil e a melhor estreia por sala de Gray."
+      }
+     ],
+     "chip": {
+      "en": "$1.45M total",
+      "pt": "1,45 M$ no total"
+     },
+     "link": {
+      "url": "https://www.indiewire.com/news/box-office/box-office-club-kid-best-limited-expansion-of-2026-jordan-firstman-1235228073/",
+      "label": {
+       "en": "Read the full story at IndieWire →",
+       "pt": "Ler a notícia completa em IndieWire →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498/",
+       "name": "Deadline (specialty box office)"
+      }
+     ]
+    },
+    {
+     "id": "boxofficeytd",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Box office · Year to date",
+      "pt": "Filmes · Bilheteira · Desde janeiro"
+     },
+     "headline": {
+      "en": "North American ticket sales are 20% ahead of 2025 and heading past $10 billion",
+      "pt": "As vendas de bilhetes na América do Norte estão 20% acima de 2025 e a caminho de ultrapassar os 10 mil milhões"
+     },
+     "body": [
+      {
+       "en": "Variety says domestic revenue stands at $8.76 billion through 15 November, per Rentrak, which would put the year on course to pass $10 billion for the first time since the pandemic. It is still 9% behind 2019. Variety expects The Hunger Games: Sunrise on the Reaping to open above $100 million, with Dune: Part Three and Avengers: Doomsday to follow at Christmas.",
+       "pt": "A Variety diz que a receita interna está em 8,76 mil milhões de dólares até 15 de novembro, segundo a Rentrak, o que colocaria o ano a caminho de ultrapassar os 10 mil milhões pela primeira vez desde a pandemia. Continua 9% abaixo de 2019. A Variety espera que The Hunger Games: Sunrise on the Reaping estreie acima dos 100 milhões, seguindo-se Dune: Part Three e Avengers: Doomsday no Natal."
+      }
+     ],
+     "chip": {
+      "en": "$8.76B so far",
+      "pt": "8,76 mil M$ até agora"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Collider",
+     "url": "https://collider.com/further-mis-adventures-cliff-booth-imax-release-november-25/",
+     "text": {
+      "en": "says Quentin Tarantino's first film in seven years arrives in IMAX on 25 November, 10 days away.",
+      "pt": "diz que o primeiro filme de Quentin Tarantino em sete anos chega ao IMAX a 25 de novembro, daqui a 10 dias."
+     }
+    },
+    {
+     "src": "Screen Rant",
+     "url": "https://screenrant.com/the-end-of-oak-street-hbo-max-streaming-success-november-2026/",
+     "text": {
+      "en": "reports that The End of Oak Street became HBO Max's No. 1 movie worldwide two days after premiering, after a $121 million box-office run.",
+      "pt": "noticia que The End of Oak Street se tornou o filme n.º 1 da HBO Max no mundo dois dias após a estreia, depois de 121 milhões na bilheteira."
+     }
+    },
+    {
+     "src": "Collider",
+     "url": "https://collider.com/harry-potter-movies-leaving-peacock-december-2026/",
+     "text": {
+      "en": "says all eight Harry Potter films are leaving Peacock in December, ahead of HBO's reboot.",
+      "pt": "diz que os oito filmes de Harry Potter saem do Peacock em dezembro, antes do reboot da HBO."
+     }
+    },
+    {
+     "src": "Screen Rant",
+     "url": "https://screenrant.com/ramayana-rise-of-a-legend-box-office-week-2-domestic-result/",
+     "text": {
+      "en": "reports Ramayana: Rise of a Legend heading to $24.1 million in North America, second among Indian films there.",
+      "pt": "noticia que Ramayana: Rise of a Legend caminha para 24,1 milhões na América do Norte, o segundo entre os filmes indianos."
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "topic": "tech",
+   "title": {
+    "en": "Tech",
+    "pt": "Tecnologia"
+   },
+   "subtitle": {
+    "en": "Tech · Apple, Wi-Fi 8 and a site's return",
+    "pt": "Tecnologia · Apple, Wi-Fi 8 e o regresso de um site"
+   },
+   "items": [
+    {
+     "id": "applehealthai",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of two smartphones",
+       "pt": "Ilustração de dois telemóveis"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Apple · OpenEvidence · Health",
+      "pt": "Tecnologia · Apple · OpenEvidence · Saúde"
+     },
+     "headline": {
+      "en": "Apple opens a study to test how useful AI health answers really are",
+      "pt": "A Apple abre um estudo para testar a utilidade real das respostas de IA sobre saúde"
+     },
+     "deck": {
+      "en": "The Apple Health AI Usage Study, run with OpenEvidence, is looking for up to 200,000 US participants.",
+      "pt": "O Apple Health AI Usage Study, feito com a OpenEvidence, procura até 200.000 participantes nos EUA."
+     },
+     "body": [
+      {
+       "en": "The Verge reports that Apple announced the study to learn how people interact with conversational AI health tools and how useful the answers are. Participants use a new iOS app to ask medical questions and rate the replies for accuracy, detail and relevance. OpenEvidence, a clinical AI platform used by healthcare professionals, supplies answers drawn from sources such as the New England Journal of Medicine, with links to peer-reviewed clinical sources.",
+       "pt": "A The Verge noticia que a Apple anunciou o estudo para perceber como as pessoas interagem com ferramentas conversacionais de IA para a saúde e quão úteis são as respostas. Os participantes usam uma nova aplicação iOS para fazer perguntas médicas e classificar as respostas quanto a exatidão, detalhe e relevância. A OpenEvidence, uma plataforma clínica de IA usada por profissionais de saúde, fornece respostas baseadas em fontes como o New England Journal of Medicine, com ligações a fontes clínicas revistas por pares."
+      },
+      {
+       "en": "Enrolment starts now. The Verge says participants must be 21 or older, based in the US, and have an iPhone 15 Pro running iOS 26 or later. The app does not use Apple Intelligence or Siri, and Apple says the data will not be used to train AI models.",
+       "pt": "A inscrição abre já. A The Verge diz que os participantes têm de ter 21 anos ou mais, viver nos EUA e ter um iPhone 15 Pro com iOS 26 ou posterior. A aplicação não usa Apple Intelligence nem a Siri, e a Apple afirma que os dados não serão usados para treinar modelos de IA."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Partner",
+        "pt": "Parceiro"
+       },
+       "v": {
+        "en": "OpenEvidence",
+        "pt": "OpenEvidence"
+       }
+      },
+      {
+       "k": {
+        "en": "Participants",
+        "pt": "Participantes"
+       },
+       "v": {
+        "en": "Up to 200,000",
+        "pt": "Até 200.000"
+       }
+      },
+      {
+       "k": {
+        "en": "Eligibility",
+        "pt": "Elegibilidade"
+       },
+       "v": {
+        "en": "US, 21+, iPhone 15 Pro, iOS 26+",
+        "pt": "EUA, 21+, iPhone 15 Pro, iOS 26+"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    },
+    {
+     "id": "wifi8",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "plug",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a power plug and cable",
+       "pt": "Ilustração de uma ficha e cabo"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Networking · Wi-Fi 8",
+      "pt": "Tecnologia · Redes · Wi-Fi 8"
+     },
+     "headline": {
+      "en": "Wi-Fi 8 aims to fix reliability rather than chase speed, with final approval expected in 2028",
+      "pt": "O Wi-Fi 8 quer resolver a fiabilidade em vez de perseguir a velocidade, com aprovação final prevista para 2028"
+     },
+     "body": [
+      {
+       "en": "Engadget explains that the draft 802.11bn standard, nicknamed Ultra High Reliability, targets 25% better throughput on weak signals, 25% fewer dropped packets and 25% lower latency in the worst moments, mainly by letting access points coordinate when each one transmits. ASUS already sells a router on the draft spec and TP-Link is coming, but Engadget says they will not make much difference until your devices support it too, and draft hardware may not support the final version.",
+       "pt": "A Engadget explica que a norma 802.11bn, em rascunho e alcunhada Ultra High Reliability, visa 25% mais débito com sinal fraco, 25% menos pacotes perdidos e 25% menos latência nos piores momentos, sobretudo ao permitir que os pontos de acesso coordenem quando cada um transmite. A ASUS já vende um router com a especificação em rascunho e a TP-Link vem a caminho, mas a Engadget diz que pouco farão enquanto os seus dispositivos não a suportarem e que o hardware em rascunho pode não suportar a versão final."
+      }
+     ],
+     "chip": {
+      "en": "Draft spec",
+      "pt": "Em rascunho"
+     },
+     "link": {
+      "url": "https://www.engadget.com/2313896/wifi-8-attempt-fix-biggest-problem-wireless-internet/",
+      "label": {
+       "en": "Read the full story at Engadget →",
+       "pt": "Ler a notícia completa em Engadget →"
+      }
+     }
+    },
+    {
+     "id": "ao3back",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "laptop",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a laptop",
+       "pt": "Ilustração de um portátil"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Fan fiction · Security",
+      "pt": "Tecnologia · Fan fiction · Segurança"
+     },
+     "headline": {
+      "en": "Archive of Our Own is back after 17 days offline following a security incident",
+      "pt": "O Archive of Our Own voltou após 17 dias offline devido a um incidente de segurança"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that AO3 went down on 29 October after a 'security incident' and is live again. The site says it has no reason to believe user data was compromised, though it is still investigating, and that no data was deleted. Some features are temporarily disabled and it may load slowly. Draft deletion stays paused for two more weeks so users can save or publish their drafts.",
+       "pt": "A The Verge noticia que o AO3 ficou em baixo a 29 de outubro após um 'incidente de segurança' e está de novo no ar. O site diz não ter motivos para crer que os dados dos utilizadores foram comprometidos, embora continue a investigar, e que nenhum dado foi apagado. Algumas funcionalidades estão temporariamente desativadas e pode carregar devagar. A eliminação de rascunhos fica suspensa por mais duas semanas, para os utilizadores guardarem ou publicarem os seus rascunhos."
+      }
+     ],
+     "chip": {
+      "en": "Back online",
+      "pt": "De volta"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1033963/ao3-is-back-after-17-days",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Engadget",
+     "url": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
+     "text": {
+      "en": "warns that the oldest gadget on your home network, one that no longer gets updates, can be its biggest security hole, and says to audit routers and cameras.",
+      "pt": "avisa que o aparelho mais antigo da rede doméstica, que já não recebe atualizações, pode ser a maior falha de segurança, e recomenda auditar routers e câmaras."
+     }
+    },
+    {
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan",
+     "text": {
+      "en": "reports in its Power On newsletter that Apple is betting on Siri AI app integrations as the main draw for its smart glasses.",
+      "pt": "noticia, na newsletter Power On, que a Apple aposta nas integrações de apps de IA da Siri como principal atrativo dos seus óculos inteligentes."
+     }
+    },
+    {
+     "src": "Engadget",
+     "url": "https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/",
+     "text": {
+      "en": "explains why simple maths gives a 200W fridge over five hours on a 1,000Wh power station while Jackery promises four, since AC conversion can waste 5 to 20 percent.",
+      "pt": "explica porque é que as contas simples dão a um frigorífico de 200 W mais de cinco horas numa bateria portátil de 1.000 Wh, enquanto a Jackery promete quatro: a conversão para corrente alternada pode desperdiçar 5 a 20 por cento."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "topic": "ai",
+   "title": {
+    "en": "A.I.",
+    "pt": "I.A."
+   },
+   "subtitle": {
+    "en": "A.I. · Anthropic's debut week, Nvidia and policy",
+    "pt": "I.A. · Semana de estreia da Anthropic, Nvidia e política"
+   },
+   "items": [
+    {
+     "id": "anthropicipo6",
+     "topic": "ai",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Rj-Yu4DhqZQ",
+      "img": "e026/anthropic.jpg",
+      "alt": {
+       "en": "Bloomberg Television segment on the Anthropic IPO",
+       "pt": "Segmento da Bloomberg Television sobre a IPO da Anthropic"
+      },
+      "duration": "11:07",
+      "caption": {
+       "en": "Bloomberg Television, 15 Nov. Tap to watch on YouTube.",
+       "pt": "Bloomberg Television, 15 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · IPO · Update",
+      "pt": "I.A. · Anthropic · IPO · Atualização"
+     },
+     "headline": {
+      "en": "Update: Anthropic's Nasdaq debut on Thursday is billed as a make-or-break moment for the AI trade",
+      "pt": "Atualização: a estreia da Anthropic na Nasdaq, na quinta-feira, é apresentada como um momento decisivo para o mercado de IA"
+     },
+     "deck": {
+      "en": "CNBC puts the expected price at $70 to $78 a share and sets out the spending commitments behind the listing.",
+      "pt": "A CNBC situa o preço esperado entre 70 e 78 dólares por ação e detalha os compromissos de despesa por trás da cotação."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: CNBC says Anthropic is expected to debut on the Nasdaq on Thursday, with the price currently expected at $70 to $78 a share, and that AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC are collectively investing $26 billion at the IPO price. Reuters says the offering has drawn more institutional interest than SpaceX, citing people familiar with the matter. Bloomberg Television reports a targeted valuation of about $1.4 trillion and the ticker ANT.",
+       "pt": "O que há de novo desde a última edição: a CNBC diz que a Anthropic deverá estrear-se na Nasdaq na quinta-feira, com o preço atualmente esperado entre 70 e 78 dólares por ação, e que AMD, Broadcom, Google, Micron, Microsoft, Nvidia e TSMC investem coletivamente 26 mil milhões ao preço da IPO. A Reuters diz que a oferta atraiu mais interesse institucional do que a SpaceX, citando pessoas familiarizadas com o assunto. A Bloomberg Television refere uma avaliação-alvo de cerca de 1,4 biliões de dólares e o símbolo ANT."
+      },
+      {
+       "en": "CNBC, citing the prospectus, says Anthropic has outstanding spending commitments of over $900 billion, recorded a net loss of $104 billion in the first nine months of 2026, and could raise over $90 billion on top of $132 billion in existing cash. CNBC frames the debut against rising interest rates, a nationwide AI backlash and Nvidia's CEO crisis. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A CNBC, citando o prospeto, diz que a Anthropic tem compromissos de despesa em aberto superiores a 900 mil milhões, registou um prejuízo líquido de 104 mil milhões nos primeiros nove meses de 2026 e poderá angariar mais de 90 mil milhões, além de 132 mil milhões em caixa. A CNBC enquadra a estreia num contexto de subida das taxas de juro, de uma reação negativa generalizada à IA e da crise do presidente executivo da Nvidia. Divulgação: a Anthropic é a criadora do modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Expected price",
+        "pt": "Preço esperado"
+       },
+       "v": {
+        "en": "$70 to $78 a share",
+        "pt": "70 a 78 dólares por ação"
+       }
+      },
+      {
+       "k": {
+        "en": "Ticker",
+        "pt": "Símbolo"
+       },
+       "v": {
+        "en": "ANT (Nasdaq)",
+        "pt": "ANT (Nasdaq)"
+       }
+      },
+      {
+       "k": {
+        "en": "Debut",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "Thursday 19 Nov",
+        "pt": "Quinta-feira, 19 nov"
+       }
+      },
+      {
+       "k": {
+        "en": "Spending commitments",
+        "pt": "Compromissos de despesa"
+       },
+       "v": {
+        "en": "Over $900 billion",
+        "pt": "Mais de 900 mil milhões de dólares"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "label": {
+       "en": "Read the full story at CNBC →",
+       "pt": "Ler a notícia completa em CNBC →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+       "name": "Bloomberg"
+      },
+      {
+       "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WR049?channel=frL012",
+       "name": "Reuters"
+      },
+      {
+       "url": "https://www.youtube.com/watch?v=Rj-Yu4DhqZQ",
+       "name": "Bloomberg Television (YouTube)"
+      }
+     ]
+    },
+    {
+     "id": "nvidiabessent",
+     "topic": "ai",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "icon",
+      "icon": "chip",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a computer chip",
+       "pt": "Ilustração de um chip"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Nvidia · Leadership · Update",
+      "pt": "I.A. · Nvidia · Liderança · Atualização"
+     },
+     "headline": {
+      "en": "Update: Bessent says Nvidia should look outside the company for a new CEO, with earnings on Tuesday",
+      "pt": "Atualização: Bessent diz que a Nvidia deve procurar fora da empresa um novo presidente executivo, com resultados na terça-feira"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that US Treasury Secretary Scott Bessent said on Sunday that Nvidia needs a 'dramatic shakeup' and should go outside the company for a new chief executive after Jensen Huang stepped down, and that the board and outside counsel must answer within 10 days on its culture of compliance with export restrictions. Reuters says the Financial Times reported the board approached Arm CEO Rene Haas, and that Huang has discussed possibly returning, which is unconfirmed.",
+       "pt": "A Reuters noticia que o secretário do Tesouro dos EUA, Scott Bessent, disse no domingo que a Nvidia precisa de uma 'mudança radical' e deve procurar fora da empresa um novo presidente executivo depois da saída de Jensen Huang, e que o conselho e os advogados externos têm de responder em 10 dias sobre a cultura de cumprimento das restrições à exportação. A Reuters diz que o Financial Times noticiou que o conselho abordou o presidente executivo da Arm, Rene Haas, e que Huang terá falado em regressar, o que não está confirmado."
+      },
+      {
+       "en": "Reuters adds that Nvidia's market value has fallen from about $5.8 trillion in early October to $3.9 trillion, and that analysts expect revenue of $109 billion in its fiscal third quarter, to be reported on Tuesday under interim CEO Colette Kress.",
+       "pt": "A Reuters acrescenta que o valor de mercado da Nvidia desceu de cerca de 5,8 biliões de dólares no início de outubro para 3,9 biliões, e que os analistas esperam receitas de 109 mil milhões no terceiro trimestre fiscal, a divulgar na terça-feira sob a direção interina de Colette Kress."
+      }
+     ],
+     "chip": {
+      "en": "Earnings Tue 17 Nov",
+      "pt": "Resultados ter 17 nov"
+     },
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WQ0G1?channel=frL012",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     },
+     "also": [
+      {
+       "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WR049?channel=frL012",
+       "name": "Reuters (markets)"
+      }
+     ]
+    },
+    {
+     "id": "chinaainative",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of an open book",
+       "pt": "Ilustração de um livro aberto"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Education · China · Reuters Insight",
+      "pt": "I.A. · Educação · China · Reuters Insight"
+     },
+     "headline": {
+      "en": "Reuters looks inside China's drive to build an AI-native generation of schoolchildren",
+      "pt": "A Reuters analisa a aposta da China em criar uma geração de alunos nativos da IA"
+     },
+     "body": [
+      {
+       "en": "A Reuters Insight piece says China is running one of the world's largest AI-assisted learning experiments across almost 200 million students, with Beijing wanting AI literacy to be universal among schoolchildren by 2030. Reuters found at least $31 million committed in the past year to AI classroom equipment, training and platforms, but no standard way to measure AI literacy. It cites a study of nearly 27,000 teenagers linking AI use to an 18% rise in homework scores and a 20% fall in monthly exam scores within six months, which Reuters stresses does not establish causation.",
+       "pt": "Uma reportagem Insight da Reuters diz que a China está a realizar uma das maiores experiências de aprendizagem assistida por IA do mundo, com quase 200 milhões de alunos, e que Pequim quer a literacia em IA universal entre os alunos até 2030. A Reuters encontrou pelo menos 31 milhões de dólares comprometidos no último ano em equipamento, formação e plataformas de IA para as aulas, mas nenhuma forma padrão de medir a literacia em IA. Cita um estudo com quase 27.000 adolescentes que associa o uso de IA a uma subida de 18% nas notas dos trabalhos de casa e a uma descida de 20% nas notas dos exames mensais em seis meses, o que a Reuters sublinha não provar causalidade."
+      }
+     ],
+     "chip": {
+      "en": "Reuters Insight",
+      "pt": "Reuters Insight"
+     },
+     "link": {
+      "url": "https://www.reuters.com/world/china/inside-chinas-drive-build-an-ai-native-generation-2026-11-16/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "lawsgeneva",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "globe",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a globe",
+       "pt": "Ilustração de um globo"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Policy · UN · Autonomous weapons",
+      "pt": "I.A. · Política · ONU · Armas autónomas"
+     },
+     "headline": {
+      "en": "US and Russia look set to oppose talks on binding rules for autonomous weapons in Geneva",
+      "pt": "EUA e Rússia deverão opor-se em Genebra a negociações sobre regras vinculativas para armas autónomas"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that a UN-hosted meeting starting Monday will decide whether to launch negotiations on legally binding rules for lethal autonomous weapons systems. Most of the 128 states party to the convention support that, but the US, Russia and Israel oppose it, arguing existing humanitarian law is enough. The chair has proposed a two-year mandate for a legally binding protocol, while the US proposed a five-year mandate toward a non-binding agreement. Diplomats told Reuters a compromise might be reached by the end of the week.",
+       "pt": "A Reuters noticia que uma reunião sob a égide da ONU, que começa na segunda-feira, vai decidir se lança negociações sobre regras juridicamente vinculativas para sistemas de armas letais autónomas. A maioria dos 128 Estados parte da convenção apoia a ideia, mas os EUA, a Rússia e Israel opõem-se, defendendo que o direito humanitário existente basta. O presidente propôs um mandato de dois anos para um protocolo vinculativo, enquanto os EUA propuseram um mandato de cinco anos para um acordo não vinculativo. Diplomatas disseram à Reuters que poderá haver um compromisso até ao fim da semana."
+      }
+     ],
+     "chip": {
+      "en": "Geneva, this week",
+      "pt": "Genebra, esta semana"
+     },
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WR002?channel=BEQ259",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
+     "text": {
+      "en": "reports, citing the Financial Times, that the US and its allies agreed to jointly identify and protect AI technologies and supply chains seen as vulnerable to China.",
+      "pt": "noticia, citando o Financial Times, que os EUA e os aliados acordaram identificar e proteger em conjunto tecnologias e cadeias de abastecimento de IA vistas como vulneráveis à China."
+     }
+    },
+    {
+     "src": "VentureBeat",
+     "url": "https://venturebeat.com/author/nilay-dhamsania",
+     "text": {
+      "en": "cites Gartner predicting 40% of enterprise applications will include task-specific AI agents by the end of 2026, up from under 5% in January.",
+      "pt": "cita a Gartner, que prevê que 40% das aplicações empresariais terão agentes de IA específicos até ao fim de 2026, contra menos de 5% em janeiro."
+     }
+    },
+    {
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase",
+     "text": {
+      "en": "says Kakao will split KakaoTalk into a new Kakao AI business early next year, with legacy operations going to Kakao X.",
+      "pt": "diz que a Kakao vai separar o KakaoTalk numa nova unidade, a Kakao AI, no início do próximo ano, com as operações antigas a passar para a Kakao X."
+     }
+    },
+    {
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
+     "text": {
+      "en": "reports that South Korea's top scorer in the tax accountant exams admitted using generative AI and electronic devices to cheat, and turned himself in to police.",
+      "pt": "noticia que o melhor classificado nos exames de contabilista fiscal da Coreia do Sul admitiu ter usado IA generativa e dispositivos eletrónicos para fazer batota e entregou-se à polícia."
+     }
+    }
+   ]
+  },
+  {
+   "id": "comics",
+   "topic": "comics",
+   "title": {
+    "en": "Comic Books",
+    "pt": "Comic Books"
+   },
+   "subtitle": {
+    "en": "Comics · Wednesday's releases and DC on streaming",
+    "pt": "Comics · Novidades de quarta-feira e a DC em streaming"
+   },
+   "items": [
+    {
+     "id": "detective1115",
+     "topic": "comics",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://bleedingcool.com/wp-content/uploads/2026/11/0926DC0111-0000-2000x1125.jpg",
+      "credit": "Bleeding Cool",
+      "alt": {
+       "en": "Bleeding Cool image for the Detective Comics #1115 preview",
+       "pt": "Imagem da Bleeding Cool para a antevisão de Detective Comics #1115"
+      },
+      "fallback": {
+       "icon": "bubble",
+       "tone": "gd"
+      }
+     },
+     "kicker": {
+      "en": "Comics · DC · Detective Comics #1115",
+      "pt": "Comics · DC · Detective Comics #1115"
+     },
+     "headline": {
+      "en": "Detective Comics #1115 opens 'Clark Kent: Murderer' on 18 November",
+      "pt": "Detective Comics #1115 abre 'Clark Kent: Murderer' a 18 de novembro"
+     },
+     "deck": {
+      "en": "Tom Taylor and Mikel Janin start an arc in which Batman tries to clear his jailed friend.",
+      "pt": "Tom Taylor e Mikel Janin iniciam um arco em que o Batman tenta ilibar o amigo preso."
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool's preview says Clark Kent is accused of murder and held awaiting trial, and Batman, the one man who can clear his name, gathers evidence and finds more against Clark than for him. DC bills the arc as one that could redefine the World's Finest relationship. The issue is in shops on Wednesday, 18 November, at $4.99.",
+       "pt": "A antevisão da Bleeding Cool diz que Clark Kent é acusado de homicídio e está preso à espera de julgamento, e que o Batman, o único capaz de o ilibar, reúne provas e encontra mais contra Clark do que a favor. A DC apresenta o arco como capaz de redefinir a relação dos World's Finest. O número chega às lojas na quarta-feira, 18 de novembro, a 4,99 dólares."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Writer",
+        "pt": "Argumento"
+       },
+       "v": {
+        "en": "Tom Taylor",
+        "pt": "Tom Taylor"
+       }
+      },
+      {
+       "k": {
+        "en": "Artist",
+        "pt": "Desenho"
+       },
+       "v": {
+        "en": "Mikel Janin",
+        "pt": "Mikel Janin"
+       }
+      },
+      {
+       "k": {
+        "en": "In shops",
+        "pt": "Nas lojas"
+       },
+       "v": {
+        "en": "Wed 18 Nov",
+        "pt": "Qua 18 nov"
+       }
+      },
+      {
+       "k": {
+        "en": "Price",
+        "pt": "Preço"
+       },
+       "v": {
+        "en": "$4.99",
+        "pt": "4,99 dólares"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://bleedingcool.com/comics/detective-comics-1115-preview-clark-kent-gets-booked-for-murder/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    },
+    {
+     "id": "stiltman",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Marvel · Winter Break Special",
+      "pt": "Comics · Marvel · Winter Break Special"
+     },
+     "headline": {
+      "en": "Stilt-Man gets his first solo story, written by journalist David Harper",
+      "pt": "O Stilt-Man tem a sua primeira história a solo, escrita pelo jornalista David Harper"
+     },
+     "body": [
+      {
+       "en": "CBR reports that David Harper, host of the Off Panel podcast and founder of SKTCHD, writes a three-page Stilt-Man story for Marvel Winter Break Special #1 2026, drawn by Javier Pulido, with Joe Caramagna and editor Wil Moss. It marks Harper's comic-writing debut, following his self-published Stilt-Zine in 2025. The special is due on 30 December 2026 and has two other New Year's Eve-themed tales.",
+       "pt": "A CBR noticia que David Harper, anfitrião do podcast Off Panel e fundador do SKTCHD, escreve uma história de três páginas do Stilt-Man para Marvel Winter Break Special #1 2026, desenhada por Javier Pulido, com Joe Caramagna e o editor Wil Moss. É a estreia de Harper como argumentista, depois do Stilt-Zine de autor, em 2025. O especial sai a 30 de dezembro de 2026 e inclui duas outras histórias com tema de passagem de ano."
+      }
+     ],
+     "chip": {
+      "en": "30 Dec 2026",
+      "pt": "30 dez 2026"
+     },
+     "link": {
+      "url": "https://www.cbr.com/marvel-winter-break-special-2026-1-stilt-man-david-harper/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "midnightsecond",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "pyramid",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a pyramid",
+       "pt": "Ilustração de uma pirâmide"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Marvel · Midnight line",
+      "pt": "Comics · Marvel · Linha Midnight"
+     },
+     "headline": {
+      "en": "Marvel's Midnight line returns with second issues on Wednesday, led by Spider-Man, Fantastic Four and X-Men",
+      "pt": "A linha Midnight da Marvel regressa quarta-feira com os segundos números, liderados por Spider-Man, Fantastic Four e X-Men"
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool says Midnight Spider-Man #2 (Phillip Kennedy Johnson and Scietronc), Midnight Fantastic Four #2 (Benjamin Percy and Kev Walker) and Midnight X-Men #2 all go on sale on 18 November at $4.99. Its Top 50 Anticipated Comics list, based on League of Comic Geeks pull-list data, puts Absolute Flash #21 first and the Midnight titles close behind; a pull is a sign of interest, not a sale.",
+       "pt": "A Bleeding Cool diz que Midnight Spider-Man #2 (Phillip Kennedy Johnson e Scietronc), Midnight Fantastic Four #2 (Benjamin Percy e Kev Walker) e Midnight X-Men #2 saem a 18 de novembro, a 4,99 dólares. A sua lista dos 50 Comics Mais Esperados, baseada nos dados de listas de reserva do League of Comic Geeks, põe Absolute Flash #21 em primeiro e os títulos Midnight logo atrás; uma reserva indica interesse, não uma venda."
+      }
+     ],
+     "chip": {
+      "en": "On sale 18 Nov",
+      "pt": "À venda 18 nov"
+     },
+     "link": {
+      "url": "https://bleedingcool.com/comics/absolute-midnight-lead-the-top-50-anticipated-comics-this-wednesday/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://bleedingcool.com/comics/comics-publishers/marvel-comics/uncloaking-the-covers-to-midnight-x-men-2-and-midnight-spider-man-2/",
+       "name": "Bleeding Cool (covers)"
+      },
+      {
+       "url": "https://bleedingcool.com/comics/midnight-fantastic-four-2-preview-reed-tests-a-risky-atomic-theory/",
+       "name": "Bleeding Cool (Fantastic Four #2)"
+      }
+     ]
+    },
+    {
+     "id": "supergirlnetflix",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "calendar",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a calendar",
+       "pt": "Ilustração de um calendário"
+      }
+     },
+     "kicker": {
+      "en": "Comics · DC · Streaming",
+      "pt": "Comics · DC · Streaming"
+     },
+     "headline": {
+      "en": "The CW's Supergirl leaves Netflix on 15 December",
+      "pt": "Supergirl, da CW, sai da Netflix a 15 de dezembro"
+     },
+     "body": [
+      {
+       "en": "ComicBook.com reports that The CW's Supergirl is set to leave Netflix in the US on 15 December, so 14 December is the last day to stream all six seasons. It says only DC's Legends of Tomorrow and The Flash will remain from the Arrowverse, and that it is not clear where the series will land next.",
+       "pt": "A ComicBook.com noticia que Supergirl, da CW, vai sair da Netflix nos EUA a 15 de dezembro, pelo que 14 de dezembro é o último dia para ver as seis temporadas. Diz que do Arrowverse ficarão apenas DC's Legends of Tomorrow e The Flash, e que não é claro para onde irá a série a seguir."
+      }
+     ],
+     "chip": {
+      "en": "Leaves 15 Dec",
+      "pt": "Sai a 15 dez"
+     },
+     "link": {
+      "url": "https://comicbook.com/tv-shows/news/netflix-is-about-to-lose-one-of-dcs-best-shows-and-its-bad-news-for-arrowverse-fans/",
+      "label": {
+       "en": "Read the full story at ComicBook.com →",
+       "pt": "Ler a notícia completa em ComicBook.com →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/marc-spector-moon-knight-10-preview-hank-pym-brings-the-trouble/",
+     "text": {
+      "en": "previews Marc Spector: Moon Knight #10 (18 November), in which Moon Knight and Tigra reunite with Hank Pym.",
+      "pt": "antevê Marc Spector: Moon Knight #10 (18 de novembro), em que o Moon Knight e a Tigra se reúnem com Hank Pym."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/lobo-9-preview-everyone-shows-up-to-make-sure-lobo-stays-dead/",
+     "text": {
+      "en": "previews Lobo #9, 'Burial for a Bastich', in which the DCU gathers after Lobo's sacrifice.",
+      "pt": "antevê Lobo #9, 'Burial for a Bastich', em que o DCU se reúne depois do sacrifício de Lobo."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/end-of-life-10-preview-dads-new-neighbors-hold-a-grudge/",
+     "text": {
+      "en": "previews DC's End of Life #10, by Kyle Starks and Steve Pugh, on 18 November.",
+      "pt": "antevê End of Life #10, da DC, de Kyle Starks e Steve Pugh, a 18 de novembro."
+     }
+    },
+    {
+     "src": "ComicBook.com",
+     "url": "https://comicbook.com/collectibles/news/just-50-copies-of-vampirellas-debut-comic-exist-in-this-grade-or-better-making-this-auction-a-rare-opportunity/",
+     "text": {
+      "en": "says a 9.6 copy of Vampirella #1 (1969) is up at Heritage, with only 50 copies graded 9.4 or higher.",
+      "pt": "diz que um exemplar 9.6 de Vampirella #1 (1969) vai a leilão na Heritage, havendo apenas 50 exemplares graduados com 9.4 ou mais."
+     }
+    },
+    {
+     "src": "Longbridge",
+     "url": "https://longbridge.com/en/news/305593636",
+     "text": {
+      "en": "summarises Webtoon's earnings call: Webtoon and Disney launch the Marvel Comics app on 16 November, with 35,000+ comics.",
+      "pt": "resume a chamada de resultados da Webtoon: a Webtoon e a Disney lançam a app Marvel Comics a 16 de novembro, com mais de 35.000 comics."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manga",
+   "topic": "manga",
+   "title": {
+    "en": "Manga",
+    "pt": "Manga"
+   },
+   "subtitle": {
+    "en": "Manga · A Jump finale and a Kishimoto tease",
+    "pt": "Manga · Um final na Jump e um teaser de Kishimoto"
+   },
+   "items": [
+    {
+     "id": "witchwatchends",
+     "topic": "manga",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "photo",
+      "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Witch-Watch-Season-2-2027-Anime.jpg?resize=2000,1125",
+      "credit": "ComicBook.com",
+      "alt": {
+       "en": "ComicBook.com image for the Witch Watch Season 2 announcement",
+       "pt": "Imagem da ComicBook.com para o anúncio da 2.ª temporada de Witch Watch"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shueisha · Witch Watch · Update",
+      "pt": "Manga · Shueisha · Witch Watch · Atualização"
+     },
+     "headline": {
+      "en": "Update: Witch Watch ends after 270 chapters, and anime Season 2 is confirmed for 2027",
+      "pt": "Atualização: Witch Watch termina após 270 capítulos e a 2.ª temporada do anime está confirmada para 2027"
+     },
+     "deck": {
+      "en": "The manga's final chapter ran in Weekly Shonen Jump, and a teaser visual for Season 2 arrived the same day.",
+      "pt": "O último capítulo do manga saiu na Weekly Shonen Jump e um visual teaser da 2.ª temporada chegou no mesmo dia."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Kenta Shinohara's manga reached its finale. ComicBook.com says it ended after 270 chapters and five years in Weekly Shonen Jump, and Natalie says the final chapter is in issue 51, on sale 16 November. Both report the anime's second season will air in 2027; Natalie adds a teaser visual of Nico making a heart with her hands and winking. ComicBook.com says no release date, staff or cast details have been announced.",
+       "pt": "O que há de novo desde a última edição: o manga de Kenta Shinohara chegou ao fim. A ComicBook.com diz que terminou após 270 capítulos e cinco anos na Weekly Shonen Jump, e a Natalie diz que o capítulo final está no número 51, à venda a 16 de novembro. Ambas noticiam que a 2.ª temporada do anime será transmitida em 2027; a Natalie acrescenta um visual teaser de Nico a fazer um coração com as mãos e a piscar o olho. A ComicBook.com diz que não foram anunciadas data, equipa ou elenco."
+      },
+      {
+       "en": "Natalie also carries comments from the anime's main cast congratulating the author. Season 1 aired from April to October 2025. In the same Jump issue, Ryo Nakama's Jan Is in Danger!, covered in our last edition, takes the slot.",
+       "pt": "A Natalie traz ainda comentários do elenco principal do anime a felicitar o autor. A 1.ª temporada foi transmitida de abril a outubro de 2025. No mesmo número da Jump, Jan Is in Danger!, de Ryo Nakama, que cobrimos na última edição, ocupa o lugar."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Author",
+        "pt": "Autor"
+       },
+       "v": {
+        "en": "Kenta Shinohara",
+        "pt": "Kenta Shinohara"
+       }
+      },
+      {
+       "k": {
+        "en": "Chapters",
+        "pt": "Capítulos"
+       },
+       "v": {
+        "en": "270",
+        "pt": "270"
+       }
+      },
+      {
+       "k": {
+        "en": "Anime S2",
+        "pt": "Anime T2"
+       },
+       "v": {
+        "en": "2027, date not announced",
+        "pt": "2027, sem data anunciada"
+       }
+      },
+      {
+       "k": {
+        "en": "Final chapter",
+        "pt": "Capítulo final"
+       },
+       "v": {
+        "en": "Weekly Shonen Jump No. 51",
+        "pt": "Weekly Shonen Jump n.º 51"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://comicbook.com/anime/news/major-shonen-jump-anime-confirms-season-2-return-after-manga-finale-first-look-revealed/",
+      "label": {
+       "en": "Read the full story at ComicBook.com →",
+       "pt": "Ler a notícia completa em ComicBook.com →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://natalie.mu/comic/news/698107",
+       "name": "Natalie"
+      },
+      {
+       "url": "https://comicbook.com/anime/feature/major-shonen-jump-series-officially-ends-after-5-years-with-final-release/",
+       "name": "ComicBook.com (finale)"
+      }
+     ]
+    },
+    {
+     "id": "narutoshadow",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "blade",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a blade",
+       "pt": "Ilustração de uma lâmina"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shueisha · Naruto: Shadow Rising",
+      "pt": "Manga · Shueisha · Naruto: Shadow Rising"
+     },
+     "headline": {
+      "en": "Weekly Shonen Jump teases Naruto: Shadow Rising with a Naruto versus Sasuke clash",
+      "pt": "A Weekly Shonen Jump faz um teaser de Naruto: Shadow Rising com um duelo entre Naruto e Sasuke"
+     },
+     "body": [
+      {
+       "en": "ComicBook.com reports that the teaser in Weekly Shonen Jump issue 50 reads, 'Holding up his Hokage hat, Naruto and Sasuke clash in a fierce battle!!!'. The new manga by Masashi Kishimoto was announced at New York Comic Con 2026, and the site says its format is unconfirmed: it could be a one-shot or a miniseries.",
+       "pt": "A ComicBook.com noticia que o teaser na Weekly Shonen Jump n.º 50 diz: 'Com o chapéu de Hokage na mão, Naruto e Sasuke travam uma batalha feroz!!!'. O novo manga de Masashi Kishimoto foi anunciado na New York Comic Con 2026, e o site diz que o formato não está confirmado: pode ser um one-shot ou uma minissérie."
+      }
+     ],
+     "chip": {
+      "en": "Format TBC",
+      "pt": "Formato por confirmar"
+     },
+     "link": {
+      "url": "https://comicbook.com/anime/news/naruto-shadow-rising-drops-new-tease-for-original-creators-manga-return/",
+      "label": {
+       "en": "Read the full story at ComicBook.com →",
+       "pt": "Ler a notícia completa em ComicBook.com →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Natalie",
+     "url": "https://natalie.mu/comic/news/698133",
+     "text": {
+      "en": "reports that a second Odekake Kozame film, 'Water Town Memories', has been greenlit, with a teaser visual and trailer, for release next year.",
+      "pt": "noticia que foi aprovado um segundo filme de Odekake Kozame, 'Water Town Memories', com visual teaser e trailer, para estreia no próximo ano."
+     }
+    },
+    {
+     "src": "Natalie",
+     "url": "https://natalie.mu/comic/news/698136",
+     "text": {
+      "en": "says the New Prince of Tennis musical 'Revolution Live 2027' will be held in October 2027, after the final stage ended on 15 November.",
+      "pt": "diz que o musical New Prince of Tennis 'Revolution Live 2027' se realiza em outubro de 2027, depois de o espetáculo final ter terminado a 15 de novembro."
+     }
+    },
+    {
+     "src": "CBR",
+     "url": "https://www.cbr.com/naruto-teenage-mutant-ninja-turtles-return-comic-book/",
+     "text": {
+      "en": "covers Naruto x Teenage Mutant Ninja Turtles: Manga Style Edition, a 104-page crossover published on 27 October.",
+      "pt": "fala de Naruto x Teenage Mutant Ninja Turtles: Manga Style Edition, um crossover de 104 páginas publicado a 27 de outubro."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manhwa",
+   "topic": "manhwa",
+   "title": {
+    "en": "Manhwa",
+    "pt": "Manhwa"
+   },
+   "subtitle": {
+    "en": "Manhwa · A WEBTOON comeback and company results",
+    "pt": "Manhwa · Um regresso na WEBTOON e resultados da empresa"
+   },
+   "items": [
+    {
+     "id": "omniscientreturn",
+     "topic": "manhwa",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of an open book",
+       "pt": "Ilustração de um livro aberto"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · WEBTOON · Omniscient Reader",
+      "pt": "Manhwa · WEBTOON · Omniscient Reader"
+     },
+     "headline": {
+      "en": "Omniscient Reader returns from hiatus on 24 November, after a World Webtoon Awards win",
+      "pt": "Omniscient Reader regressa da pausa a 24 de novembro, depois de ganhar nos World Webtoon Awards"
+     },
+     "deck": {
+      "en": "Season 2 of the WEBTOON series restarts with a new poster, after its first-ever hiatus.",
+      "pt": "A 2.ª temporada da série da WEBTOON recomeça com um novo cartaz, depois da primeira pausa de sempre."
+     },
+     "body": [
+      {
+       "en": "Screen Rant reports that Omniscient Reader returns on 24 November 2026. WEBTOON announced the return at NYCC 2026, and a new poster with Dokja, Junghyeon and Sooyoung went out with the date. Season 1 ended with chapter 311 in May, and Screen Rant says the series is currently in the Demon King Selection arc.",
+       "pt": "A Screen Rant noticia que Omniscient Reader regressa a 24 de novembro de 2026. A WEBTOON anunciou o regresso na NYCC 2026 e um novo cartaz com Dokja, Junghyeon e Sooyoung saiu com a data. A 1.ª temporada terminou com o capítulo 311, em maio, e a Screen Rant diz que a série está agora no arco da Seleção do Rei Demónio."
+      },
+      {
+       "en": "Screen Rant adds that the series was one of ten main winners at the 2026 World Webtoon Awards, run by South Korea's culture ministry and the Korea Creative Content Agency, and that its anime adaptation was recently reported as delayed to 2028; the site does not name who reported the delay.",
+       "pt": "A Screen Rant acrescenta que a série foi uma das dez vencedoras principais dos World Webtoon Awards 2026, organizados pelo ministério da cultura da Coreia do Sul e pela Korea Creative Content Agency, e que a adaptação ao anime foi recentemente noticiada como adiada para 2028; o site não indica quem noticiou o adiamento."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Platform",
+        "pt": "Plataforma"
+       },
+       "v": {
+        "en": "WEBTOON",
+        "pt": "WEBTOON"
+       }
+      },
+      {
+       "k": {
+        "en": "Return",
+        "pt": "Regresso"
+       },
+       "v": {
+        "en": "24 Nov 2026",
+        "pt": "24 nov 2026"
+       }
+      },
+      {
+       "k": {
+        "en": "Last chapter before hiatus",
+        "pt": "Último capítulo antes da pausa"
+       },
+       "v": {
+        "en": "311",
+        "pt": "311"
+       }
+      },
+      {
+       "k": {
+        "en": "Anime",
+        "pt": "Anime"
+       },
+       "v": {
+        "en": "Reportedly delayed to 2028",
+        "pt": "Segundo noticiado, adiado para 2028"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://screenrant.com/solo-leveling-rival-omniscient-reader-viewpoint/",
+      "label": {
+       "en": "Read the full story at Screen Rant →",
+       "pt": "Ler a notícia completa em Screen Rant →"
+      }
+     }
+    },
+    {
+     "id": "webtoonq3",
+     "topic": "manhwa",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · WEBTOON Entertainment · Business",
+      "pt": "Manhwa · WEBTOON Entertainment · Negócios"
+     },
+     "headline": {
+      "en": "WEBTOON's Q3: revenue of $362.8 million in line with guidance, Korea up, Japan down",
+      "pt": "Resultados do 3.º trimestre da WEBTOON: receitas de 362,8 milhões em linha com a previsão, Coreia a subir, Japão a descer"
+     },
+     "body": [
+      {
+       "en": "Longbridge's summary of the earnings call says revenue was $362.8 million, down 4.0% as reported and up 0.2% in constant currency. Advertising revenue rose 26.2% to $49.7 million and the net loss narrowed to $7.5 million. Korea revenue grew 10.8%, while Japan fell 18.0%. The company guides to $371 to $381 million for Q4, and plans about $63 million of local content investment in Japan over three years.",
+       "pt": "O resumo da chamada de resultados feito pela Longbridge diz que as receitas foram de 362,8 milhões de dólares, menos 4,0% em valores reportados e mais 0,2% a câmbio constante. As receitas de publicidade subiram 26,2% para 49,7 milhões e o prejuízo líquido diminuiu para 7,5 milhões. A receita na Coreia cresceu 10,8%, enquanto a do Japão caiu 18,0%. A empresa prevê 371 a 381 milhões no 4.º trimestre e planeia cerca de 63 milhões de investimento em conteúdo local no Japão em três anos."
+      }
+     ],
+     "chip": {
+      "en": "Q3 2026",
+      "pt": "3.º trim. 2026"
+     },
+     "link": {
+      "url": "https://longbridge.com/en/news/305593636",
+      "label": {
+       "en": "Read the full story at Longbridge →",
+       "pt": "Ler a notícia completa em Longbridge →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Ground News",
+     "url": "https://ground.news/article/kakao-openai-collaborate-on-ai-generated-short-animation-based-on-ryan-begins-webtoon",
+     "text": {
+      "en": "carries an Anime News Network summary saying Kakao and OpenAI made an AI-generated short animation from the Ryan Begins webtoon, using about 1,500 prompts for a single scene.",
+      "pt": "traz um resumo da Anime News Network segundo o qual a Kakao e a OpenAI fizeram uma curta de animação gerada por IA a partir do webtoon Ryan Begins, usando cerca de 1.500 instruções para uma única cena."
+     }
+    },
+    {
+     "src": "Longbridge",
+     "url": "https://longbridge.com/en/news/305593636",
+     "text": {
+      "en": "says in its WEBTOON earnings summary that The Warrior's Ballad, the platform's first Global Drop, launched in nine languages and ranked No. 1 in daily revenue in seven of the nine markets within 24 hours.",
+      "pt": "diz, no resumo dos resultados da WEBTOON, que The Warrior's Ballad, o primeiro Global Drop da plataforma, foi lançado em nove idiomas e ficou em 1.º lugar em receitas diárias em sete dos nove mercados nas primeiras 24 horas."
+     }
+    }
+   ]
+  }
+ ],
+ "footer": {
+  "en": "Compiled from 21 outlets, 58 articles, 5 videos. Summaries only; see the linked sources. Video thumbnails belong to their channels (Brad Sams, IGN, Show Me The Movie, A24, Bloomberg Television). Next edition tomorrow at 09:00 Angola time.",
+  "pt": "Compilado a partir de 21 meios, 58 artigos e 5 vídeos. Apenas resumos; consulte as fontes ligadas. As miniaturas dos vídeos pertencem aos respetivos canais (Brad Sams, IGN, Show Me The Movie, A24, Bloomberg Television). Próxima edição amanhã às 09:00, hora de Angola."
+ },
+ "footerline": "The Daily Respawn · Edition 026 · 16 Nov 2026, 09:43 Angola time · 21 outlets · 58 articles · 5 videos"
+}

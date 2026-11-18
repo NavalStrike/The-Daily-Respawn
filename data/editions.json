@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T09:14:00+01:00",
- "latest": "e022",
+ "updated": "2026-11-18T09:47:00+01:00",
+ "latest": "e028",
  "editions": [
   {
    "id": "e020",
@@ -27,6 +27,60 @@
    "headline": {
     "en": "The Legend of Zelda: Ocarina of Time remake sells more than five million copies in four days on Switch 2",
     "pt": "O remake de The Legend of Zelda: Ocarina of Time vende mais de cinco milhões de cópias em quatro dias na Switch 2"
+   }
+  },
+  {
+   "id": "e023",
+   "number": 23,
+   "publishedAt": "2026-11-13T09:45:00+01:00",
+   "headline": {
+    "en": "Nvidia CEO Jensen Huang resigns after reports of affairs, and CFO Colette Kress takes over as interim chief",
+    "pt": "O CEO da Nvidia, Jensen Huang, demite-se após relatos de relações extraconjugais, e a diretora financeira Colette Kress assume interinamente"
+   }
+  },
+  {
+   "id": "e024",
+   "number": 24,
+   "publishedAt": "2026-11-14T09:45:00+01:00",
+   "headline": {
+    "en": "Starship's 15th flight reaches space, but the Super Heavy booster explodes instead of being caught",
+    "pt": "O 15.º voo do Starship chega ao espaço, mas o propulsor Super Heavy explode em vez de ser apanhado"
+   }
+  },
+  {
+   "id": "e025",
+   "number": 25,
+   "publishedAt": "2026-11-15T09:45:00+01:00",
+   "headline": {
+    "en": "SpaceX catches a Starship ship for the first time, after 14 orbits, though the booster was lost",
+    "pt": "A SpaceX apanha pela primeira vez uma nave Starship, depois de 14 órbitas, embora o propulsor se tenha perdido"
+   }
+  },
+  {
+   "id": "e026",
+   "number": 26,
+   "publishedAt": "2026-11-16T09:43:00+01:00",
+   "headline": {
+    "en": "Xbox turns 25 and says Project Helix is a console first, not a PC",
+    "pt": "A Xbox faz 25 anos e diz que o Project Helix é primeiro uma consola, não um PC"
+   }
+  },
+  {
+   "id": "e027",
+   "number": 27,
+   "publishedAt": "2026-11-17T09:44:00+01:00",
+   "headline": {
+    "en": "Robert Pattinson is the new James Bond, with Denis Villeneuve directing",
+    "pt": "Robert Pattinson é o novo James Bond, com realização de Denis Villeneuve"
+   }
+  },
+  {
+   "id": "e028",
+   "number": 28,
+   "publishedAt": "2026-11-18T09:47:00+01:00",
+   "headline": {
+    "en": "Nvidia beats forecasts in its first earnings without Jensen Huang, and the board rules out his return",
+    "pt": "A Nvidia supera as previsões nos primeiros resultados sem Jensen Huang, e o conselho exclui o regresso dele"
    }
   }
  ]

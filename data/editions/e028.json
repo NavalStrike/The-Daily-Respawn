@@ -1,0 +1,1785 @@
+{
+ "id": "e028",
+ "number": 28,
+ "publishedAt": "2026-11-18T09:47:00+01:00",
+ "cover": {
+  "img": "e028/nvidia.jpg",
+  "alt": {
+   "en": "NDTV Profit report on Nvidia's earnings call",
+   "pt": "Reportagem da NDTV Profit sobre a conferência de resultados da Nvidia"
+  },
+  "target": "nvidiaearnings",
+  "headline": {
+   "en": "Nvidia beats forecasts in its first earnings without Jensen Huang, and the board rules out his return",
+   "pt": "A Nvidia supera as previsões nos primeiros resultados sem Jensen Huang, e o conselho exclui o regresso dele"
+  }
+ },
+ "note": [
+  {
+   "en": "Wednesday's issue opens with Nvidia's first earnings report since Jensen Huang's exit, where the board said he will not return. It also brings Anthropic's IPO stakes ahead of tonight's pricing, Jeff Bezos on how Robert Pattinson became Bond, Exodus's female lead reveal, a day-to-go look at Grand Theft Auto VI, DC's February Next Level launches and a date for Sakamoto Days Season 2. Rumours are marked as such and follow-ups are marked as updates. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+   "pt": "A edição de quarta-feira abre com os primeiros resultados da Nvidia desde a saída de Jensen Huang, em que o conselho disse que ele não regressa. Traz também as participações na OPV da Anthropic antes da fixação do preço desta noite, Jeff Bezos sobre como Robert Pattinson se tornou Bond, a revelação da protagonista feminina de Exodus, um olhar a um dia do lançamento de Grand Theft Auto VI, os lançamentos Next Level da DC em fevereiro e uma data para a 2.ª temporada de Sakamoto Days. Os rumores estão assinalados e as sequelas surgem como atualizações. Divulgação: a Anthropic é a criadora do modelo Claude que ajuda a compilar esta revista."
+  },
+  {
+   "en": "New since the last edition: Since Edition 027: 21 new stories, 6 updates. Every section has fresh news.",
+   "pt": "Novidades desde a última edição: desde a Edição 027: 21 notícias novas, 6 atualizações. Todas as secções têm notícias novas."
+  }
+ ],
+ "sections": [
+  {
+   "id": "cover-section",
+   "topic": "cover-section",
+   "title": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "subtitle": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "items": [
+    {
+     "id": "nvidiaearnings",
+     "topic": "ai",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=slY0Sn-xZhE",
+      "img": "e028/nvidia.jpg",
+      "alt": {
+       "en": "NDTV Profit report on Nvidia's earnings call and the board's stance on Jensen Huang",
+       "pt": "Reportagem da NDTV Profit sobre a conferência de resultados da Nvidia e a posição do conselho sobre Jensen Huang"
+      },
+      "duration": "3:03",
+      "caption": {
+       "en": "NDTV Profit, 17 Nov. Tap to watch on YouTube.",
+       "pt": "NDTV Profit, 17 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Nvidia · Earnings · Update",
+      "pt": "I.A. · Nvidia · Resultados · Atualização"
+     },
+     "headline": {
+      "en": "Update: Nvidia beats forecasts in its first earnings without Jensen Huang, and the board rules out his return",
+      "pt": "Atualização: a Nvidia supera as previsões nos primeiros resultados sem Jensen Huang, e o conselho exclui o regresso dele"
+     },
+     "deck": {
+      "en": "Revenue topped $115 billion and guidance beat estimates, but the board used the call to say the founder is not coming back.",
+      "pt": "A receita superou os 115 mil milhões e as previsões bateram as estimativas, mas o conselho usou a conferência para dizer que o fundador não regressa."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Reuters reports that Nvidia's third-quarter revenue more than doubled to $115.84 billion, against an analyst estimate of $109.11 billion, and that it guided fourth-quarter revenue to about $130 billion, plus or minus 3%, above the $125.25 billion average estimate from LSEG. Reuters adds that the outlook assumes no data-centre chip sales from China, and that interim CEO Colette Kress told investors she expects revenue to rise 75% in fiscal 2028.",
+       "pt": "O que há de novo desde a última edição: a Reuters noticia que a receita da Nvidia no terceiro trimestre mais do que duplicou, para 115,84 mil milhões de dólares, contra uma estimativa de analistas de 109,11 mil milhões, e que a empresa projetou para o quarto trimestre cerca de 130 mil milhões, com margem de 3% para cima ou para baixo, acima da estimativa média de 125,25 mil milhões da LSEG. A Reuters acrescenta que as previsões não incluem vendas de chips para centros de dados na China e que a CEO interina, Colette Kress, disse aos investidores esperar um aumento de 75% da receita no ano fiscal de 2028."
+      },
+      {
+       "en": "The governance news was bigger than the numbers. Reuters says board chair Harvey Jones opened the call by saying Nvidia will not rehire co-founder Jensen Huang, who resigned last week, and would not take questions about his departure. The board has hired Heidrick & Struggles to find a permanent CEO and, earlier on Tuesday, created a committee on national security and export controls. Reuters and CNET describe the fallout as including disclosures about Huang's personal relationships, among them one with a woman US intelligence is said to suspect of acting for China.",
+       "pt": "As notícias de governação pesaram mais do que os números. A Reuters diz que o presidente do conselho, Harvey Jones, abriu a conferência a afirmar que a Nvidia não voltará a contratar o cofundador Jensen Huang, que se demitiu na semana passada, e que não responderia a perguntas sobre a saída dele. O conselho contratou a Heidrick & Struggles para encontrar um CEO permanente e criou, mais cedo na terça-feira, uma comissão para segurança nacional e controlo de exportações. A Reuters e a CNET descrevem as consequências como incluindo revelações sobre as relações pessoais de Huang, entre elas uma com uma mulher que os serviços de informação dos EUA suspeitam atuar em nome da China."
+      },
+      {
+       "en": "The Verge reports that Huang and Nvidia's general counsel Tim Teter have agreed to give transcribed interviews to three House committees, with Huang due on 1 December and Teter on 2 December. The Verge also relays a Wall Street Journal report that the SEC is investigating whether Nvidia's disclosures misled investors. Reuters says shares rose about 4% in extended trading after the results.",
+       "pt": "O The Verge noticia que Huang e o diretor jurídico da Nvidia, Tim Teter, aceitaram prestar depoimentos transcritos a três comissões da Câmara dos Representantes, com Huang marcado para 1 de dezembro e Teter para 2 de dezembro. O The Verge reproduz ainda uma notícia do Wall Street Journal segundo a qual a SEC investiga se as divulgações da Nvidia induziram os investidores em erro. A Reuters indica que as ações subiram cerca de 4% na negociação prolongada depois dos resultados."
+      }
+     ],
+     "facts": [
+      {
+       "k": "Q3 revenue",
+       "v": "$115.84B"
+      },
+      {
+       "k": "Q4 guidance",
+       "v": "~$130B ±3%"
+      },
+      {
+       "k": "FY28 growth",
+       "v": "~75%"
+      },
+      {
+       "k": "Huang hearing",
+       "v": "1 Dec"
+      }
+     ],
+     "link": {
+      "url": "https://www.reuters.com/business/view-nvidia-earnings-beat-estimates-attention-turns-call-2026-11-17/",
+      "name": "Reuters",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     },
+     "also": [
+      {
+       "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WS2SH?channel=frL012",
+       "name": "Reuters"
+      },
+      {
+       "url": "https://www.theverge.com/policy/1035395/jensen-huang-will-testify-before-lawmakers-on-december-1st",
+       "name": "The Verge"
+      },
+      {
+       "url": "https://www.cnet.com/tech/services-and-software/nvidias-earnings-call-is-the-ai-economys-next-stress-test/",
+       "name": "CNET"
+      }
+     ]
+    }
+   ],
+   "brief": []
+  },
+  {
+   "id": "games",
+   "topic": "games",
+   "title": {
+    "en": "Games",
+    "pt": "Jogos"
+   },
+   "subtitle": {
+    "en": "Games · Exodus reveal, GTA VI countdown",
+    "pt": "Jogos · revelação de Exodus, contagem decrescente de GTA VI"
+   },
+   "items": [
+    {
+     "id": "exodusfemjun",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · Archetype · Exodus",
+      "pt": "Jogos · Archetype · Exodus"
+     },
+     "headline": {
+      "en": "Exodus finally shows its female protagonist, with an April 2027 launch",
+      "pt": "Exodus mostra finalmente a protagonista feminina, com lançamento em abril de 2027"
+     },
+     "deck": {
+      "en": "A seven-minute featurette shows Jun's default female version and more of the game.",
+      "pt": "Um vídeo de sete minutos mostra a versão feminina de Jun e mais do jogo."
+     },
+     "body": [
+      {
+       "en": "GameSpot and Polygon report that Archetype Entertainment revealed the default female version of Jun, the lead of its Mass Effect-flavoured sci-fi RPG Exodus, in a seven-minute featurette. It is the first look at her since the game was announced at The Game Awards in December 2023. Game director Chris King says the team thinks of players as 'co-authors' of the story.",
+       "pt": "O GameSpot e o Polygon noticiam que a Archetype Entertainment revelou a versão feminina predefinida de Jun, protagonista do seu RPG de ficção científica com sabor a Mass Effect, num vídeo de sete minutos. É a primeira vez que a personagem é mostrada desde que o jogo foi anunciado nos The Game Awards, em dezembro de 2023. O diretor do jogo, Chris King, diz que a equipa vê os jogadores como 'coautores' da história."
+      },
+      {
+       "en": "Both outlets confirm the release date of 7 April 2027 on PlayStation 5, Xbox Series X|S and PC, with wishlists open on the PlayStation Store, Xbox Store, Steam and the Epic Games Store. Polygon adds that the world has been extended by a two-book series from sci-fi author Peter F. Hamilton.",
+       "pt": "Ambos os meios confirmam a data de lançamento de 7 de abril de 2027 em PlayStation 5, Xbox Series X|S e PC, com lista de desejos aberta na PlayStation Store, na Xbox Store, no Steam e na Epic Games Store. O Polygon acrescenta que o universo do jogo foi alargado por uma dupla de livros do autor de ficção científica Peter F. Hamilton."
+      }
+     ],
+     "facts": [
+      {
+       "k": "Developer",
+       "v": "Archetype Entertainment"
+      },
+      {
+       "k": "Release",
+       "v": "7 Apr 2027"
+      },
+      {
+       "k": "Platforms",
+       "v": "PS5, Xbox Series, PC"
+      }
+     ],
+     "link": {
+      "url": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance/",
+      "name": "GameSpot",
+      "label": {
+       "en": "Read the full story at GameSpot →",
+       "pt": "Ler a notícia completa em GameSpot →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.polygon.com/exodus-rpg-mass-effect-successor-female-protagonist-revealed/",
+       "name": "Polygon"
+      },
+      {
+       "url": "https://pk.ign.com/exodus-2024/264176/exodus-official-female-jun-reveal-scrappy-salvager-featurette",
+       "name": "IGN"
+      }
+     ]
+    },
+    {
+     "id": "gtaunlock",
+     "topic": "games",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "photo",
+      "src": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/18/thumb/featurecrop/1200X628/1794980736-316.jpg",
+      "credit": "Business Standard",
+      "alt": {
+       "en": "Business Standard image for its Grand Theft Auto VI launch-time guide",
+       "pt": "Imagem do Business Standard para o seu guia da hora de lançamento de Grand Theft Auto VI"
+      },
+      "fallback": {
+       "icon": "controller",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Games · Rockstar · Grand Theft Auto VI · Update",
+      "pt": "Jogos · Rockstar · Grand Theft Auto VI · Atualização"
+     },
+     "headline": {
+      "en": "Update: GTA VI is a day away, and it unlocks at midnight local time in every region",
+      "pt": "Atualização: GTA VI está a um dia, e desbloqueia à meia-noite local em todas as regiões"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Business Standard and PCMag walk through the unlock rules. Rockstar's schedule makes the game playable at midnight local time on 19 November, so pre-loading, which opened on 10 November, gives no early access. Business Standard puts the download at up to 212 GB and repeats that no PC release date has been announced.",
+       "pt": "O que há de novo desde a última edição: o Business Standard e a PCMag explicam as regras de desbloqueio. O calendário da Rockstar torna o jogo jogável à meia-noite local de 19 de novembro, pelo que a pré-instalação, aberta desde 10 de novembro, não dá acesso antecipado. O Business Standard indica um download de até 212 GB e repete que não foi anunciada data para PC."
+      },
+      {
+       "en": "PCMag recommends pre-loading, saying the standard edition costs $80 and the Ultimate Edition $100, and that physical code-in-box copies began reaching buyers on 12 November.",
+       "pt": "A PCMag recomenda a pré-instalação, indicando que a edição standard custa 80 dólares e a Ultimate 100, e que as cópias físicas com código na caixa começaram a chegar aos compradores a 12 de novembro."
+      }
+     ],
+     "chip": {
+      "en": "Out 19 Nov",
+      "pt": "Sai a 19 nov"
+     },
+     "link": {
+      "url": "https://www.business-standard.com/technology/tech-news/gta-6-india-release-date-time-preload-price-download-size-126111800324_1.html",
+      "name": "Business Standard",
+      "label": {
+       "en": "Read the full story at Business Standard →",
+       "pt": "Ler a notícia completa em Business Standard →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://local.newsbreak.com/pcmag-516965/5013628408321-all-aboard-for-vice-city-make-sure-you-preload-gta-6-today",
+       "name": "PCMag (via NewsBreak)"
+      }
+     ]
+    },
+    {
+     "id": "calamedate",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=qE_Mo_g1ckw",
+      "img": "e028/calame.jpg",
+      "alt": {
+       "en": "PlayStation gameplay trailer for Calame",
+       "pt": "Trailer de jogabilidade de Calame, da PlayStation"
+      },
+      "duration": "2:21",
+      "caption": {
+       "en": "PlayStation (official), 17 Nov. Tap to watch on YouTube.",
+       "pt": "PlayStation (oficial), 17 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Nextale Games · Calame",
+      "pt": "Jogos · Nextale Games · Calame"
+     },
+     "headline": {
+      "en": "Isometric tactics RPG Calame is set for February 2027 on PS5, Xbox Series and PC",
+      "pt": "O RPG tático isométrico Calame chega em fevereiro de 2027 a PS5, Xbox Series e PC"
+     },
+     "body": [
+      {
+       "en": "Gematsu reports that Nextale Games' single-player isometric strategy RPG Calame will launch in February 2027 for PlayStation 5, Xbox Series and PC via Steam, with a demo already on PC. IGN's trailer page describes a turn-based tactical RPG in which players reshape the battlefield while taking on the tyrannical King of Light.",
+       "pt": "A Gematsu noticia que o RPG de estratégia isométrico para um jogador Calame, da Nextale Games, sai em fevereiro de 2027 para PlayStation 5, Xbox Series e PC via Steam, já com uma demo disponível em PC. A página do trailer da IGN descreve um RPG tático por turnos em que o jogador altera o campo de batalha para enfrentar o tirânico Rei da Luz."
+      }
+     ],
+     "chip": {
+      "en": "Feb 2027",
+      "pt": "Fev 2027"
+     },
+     "link": {
+      "url": "https://www.gematsu.com/2026/11/calame-launches-in-february-2027",
+      "name": "Gematsu",
+      "label": {
+       "en": "Read the full story at Gematsu →",
+       "pt": "Ler a notícia completa em Gematsu →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://in.ign.com/calame/277295/calame-official-gameplay-release-window-trailer",
+       "name": "IGN India"
+      }
+     ]
+    },
+    {
+     "id": "volvybait",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "photo",
+      "src": "https://www.videogameschronicle.com/files/2026/11/GTA-Volvy.jpg",
+      "credit": "VGC",
+      "alt": {
+       "en": "VGC image for Devolver's Volvy giveaway",
+       "pt": "Imagem da VGC para o sorteio de Volvy da Devolver"
+      },
+      "fallback": {
+       "icon": "controller",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Games · Devolver Digital · Volvy's Adventure: Reslimed",
+      "pt": "Jogos · Devolver Digital · Volvy's Adventure: Reslimed"
+     },
+     "headline": {
+      "en": "Devolver will give you a free game if you delete your GTA VI pre-load",
+      "pt": "A Devolver oferece um jogo se apagares a pré-instalação de GTA VI"
+     },
+     "body": [
+      {
+       "en": "VGC reports that Devolver Digital is running a giveaway for Volvy's Adventure: Reslimed, a PC-only parody platformer that launches on 19 November, the same day as Grand Theft Auto VI. Entrants repost Devolver's tweet with a video of themselves deleting their GTA VI pre-load, using the hashtag #MakeRoomForVolvy.",
+       "pt": "A VGC noticia que a Devolver Digital está a fazer um sorteio de Volvy's Adventure: Reslimed, um jogo de plataformas parodístico exclusivo para PC que sai a 19 de novembro, o mesmo dia de Grand Theft Auto VI. Os participantes republicam o tweet da Devolver com um vídeo em que apagam a pré-instalação de GTA VI, com a hashtag #MakeRoomForVolvy."
+      },
+      {
+       "en": "VGC notes the joke: other publishers have been steering clear of GTA VI's date, with many games now landing in February 2027, while Devolver said earlier it would release a game on the same day.",
+       "pt": "A VGC nota a piada: outros editores têm evitado a data de GTA VI, com muitos jogos a passarem para fevereiro de 2027, enquanto a Devolver já tinha dito que lançaria um jogo no mesmo dia."
+      }
+     ],
+     "chip": {
+      "en": "19 Nov, PC",
+      "pt": "19 nov, PC"
+     },
+     "link": {
+      "url": "https://www.videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6/",
+      "name": "VGC",
+      "label": {
+       "en": "Read the full story at VGC →",
+       "pt": "Ler a notícia completa em VGC →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "IGN India",
+     "url": "https://in.ign.com/myth-of-empires/277325/myth-of-empires-throne-official-voidbound-realm-season-4-release-date-trailer",
+     "text": {
+      "en": "shows the release-date trailer for Voidbound Realm Season 4 of the free-to-play hack-and-slash game Myth of Empires: Throne, which launches on 20 November on PC via Steam and Epic.",
+      "pt": "mostra o trailer com a data de lançamento da 4.ª temporada Voidbound Realm do jogo de ação gratuito Myth of Empires: Throne, que chega a 20 de novembro a PC via Steam e Epic."
+     }
+    },
+    {
+     "src": "IGN India",
+     "url": "https://in.ign.com/polyaris/277315/polyaris-official-release-date-trailer",
+     "text": {
+      "en": "says the first-person open-world survival crafting game Polyaris launches on 29 January 2027 on PC via Steam.",
+      "pt": "diz que o jogo de sobrevivência e construção em mundo aberto na primeira pessoa Polyaris sai a 29 de janeiro de 2027 em PC via Steam."
+     }
+    },
+    {
+     "src": "IGN India",
+     "url": "https://in.ign.com/video/277322/emptiness-sire-official-release-date-announcement-trailer",
+     "text": {
+      "en": "reports that the turn-based adventure Emptiness Sire, from Oaks Games Studio, launches on 12 January 2027 on PC via Steam.",
+      "pt": "noticia que a aventura por turnos Emptiness Sire, da Oaks Games Studio, sai a 12 de janeiro de 2027 em PC via Steam."
+     }
+    },
+    {
+     "src": "IGN India",
+     "url": "https://in.ign.com/video/277332/kamagi-official-gameplay-trailer",
+     "text": {
+      "en": "has the first gameplay trailer for Kamagi, a parry-focused action game from Korean indie studio SODA Production built on Korean folk tales, targeting March 2028.",
+      "pt": "tem o primeiro trailer de jogabilidade de Kamagi, um jogo de ação centrado em aparos do estúdio independente coreano SODA Production, inspirado em contos populares coreanos, com meta de março de 2028."
+     }
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "topic": "movies",
+   "title": {
+    "en": "Movies",
+    "pt": "Filmes"
+   },
+   "subtitle": {
+    "en": "Movies · Bond screen tests, a box-office stumble",
+    "pt": "Filmes · testes de câmara de Bond, um tropeção na bilheteira"
+   },
+   "items": [
+    {
+     "id": "bezosbond",
+     "topic": "movies",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=KrVH-MKJviI",
+      "img": "e028/bezos.jpg",
+      "alt": {
+       "en": "Semafor interview with Jeff Bezos, who discusses choosing Robert Pattinson as James Bond",
+       "pt": "Entrevista da Semafor a Jeff Bezos, que fala da escolha de Robert Pattinson para James Bond"
+      },
+      "duration": "32:12",
+      "caption": {
+       "en": "Semafor, 17 Nov. Tap to watch on YouTube.",
+       "pt": "Semafor, 17 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Amazon MGM · James Bond · Update",
+      "pt": "Filmes · Amazon MGM · James Bond · Atualização"
+     },
+     "headline": {
+      "en": "Update: Bezos says he was 'heavily involved' in picking Robert Pattinson as Bond, after five screen tests",
+      "pt": "Atualização: Bezos diz ter estado 'muito envolvido' na escolha de Robert Pattinson para Bond, depois de cinco testes de câmara"
+     },
+     "deck": {
+      "en": "The Amazon founder describes a five-actor screen-test process that ended with a decision last Friday.",
+      "pt": "O fundador da Amazon descreve um processo de cinco testes de câmara que terminou com uma decisão na sexta-feira passada."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: The Hollywood Reporter and Variety relay Jeff Bezos's comments at Semafor's Silicon Valley & The World conference on Tuesday. He said Amazon ran 'a really tight process', narrowed a large group to five finalists, and ran 'real old-fashioned screen tests' in full costume on real sets, with three scenes per actor. The decision was made on Friday.",
+       "pt": "O que há de novo desde a última edição: a The Hollywood Reporter e a Variety reproduzem as declarações de Jeff Bezos na conferência Silicon Valley & The World da Semafor, na terça-feira. Disse que a Amazon seguiu 'um processo muito rigoroso', reduziu um grande grupo a cinco finalistas e fez 'testes de câmara à moda antiga', com figurino completo e cenários reais, com três cenas por ator. A decisão foi tomada na sexta-feira."
+      },
+      {
+       "en": "Bezos admitted the group was initially 'slightly biased' against Pattinson because he is 'already so famous', but said that in the tests 'it was so obvious he is James Bond'. The Hollywood Reporter lists the other finalists as Callum Turner, Josh O'Connor, Jack Lowden and Nicholas Hoult. Separately, Variety quotes Rami Malek, a former Bond villain, saying Pattinson will be 'extraordinary'.",
+       "pt": "Bezos admitiu que o grupo estava inicialmente 'ligeiramente inclinado' contra Pattinson por ele ser 'já tão famoso', mas disse que nos testes 'era tão óbvio que ele é James Bond'. A The Hollywood Reporter indica como outros finalistas Callum Turner, Josh O'Connor, Jack Lowden e Nicholas Hoult. À parte, a Variety cita Rami Malek, antigo vilão de Bond, a dizer que Pattinson será 'extraordinário'."
+      }
+     ],
+     "facts": [
+      {
+       "k": "Finalists",
+       "v": "5"
+      },
+      {
+       "k": "Scenes per test",
+       "v": "3"
+      },
+      {
+       "k": "Decision",
+       "v": "Fri 13 Nov"
+      },
+      {
+       "k": "Director",
+       "v": "Denis Villeneuve"
+      }
+     ],
+     "link": {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jeff-bezos-chose-robert-pattinson-as-james-bond-amazon-mgm-1236757909/",
+      "name": "The Hollywood Reporter",
+      "label": {
+       "en": "Read the full story at The Hollywood Reporter →",
+       "pt": "Ler a notícia completa em The Hollywood Reporter →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://variety.com/2026/film/news/rami-malek-robert-pattinson-james-bond-1236951518/",
+       "name": "Variety"
+      }
+     ]
+    },
+    {
+     "id": "howtorobabank",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "photo",
+      "src": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/how-to-rob-a-bank-nicholas-hoult.jpg?w=1600&h=900&fit=crop",
+      "credit": "Collider",
+      "alt": {
+       "en": "Collider image for its report on the How to Rob a Bank box office",
+       "pt": "Imagem da Collider para a sua notícia sobre a bilheteira de How to Rob a Bank"
+      },
+      "fallback": {
+       "icon": "film",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Amazon MGM · How to Rob a Bank",
+      "pt": "Filmes · Amazon MGM · How to Rob a Bank"
+     },
+     "headline": {
+      "en": "Nicholas Hoult's heist thriller How to Rob a Bank opens to just $5.2 million",
+      "pt": "O thriller de assaltos de Nicholas Hoult, How to Rob a Bank, estreia com apenas 5,2 milhões de dólares"
+     },
+     "body": [
+      {
+       "en": "Collider reports that the Amazon MGM Studios thriller opened to $5.175 million across 2,810 US theatres, and about $5.1 million internationally, for a worldwide total of $10.275 million. The site says the film reportedly cost around $40 million to make, and calls the debut a difficult start.",
+       "pt": "A Collider noticia que o thriller da Amazon MGM Studios estreou com 5,175 milhões de dólares em 2.810 salas dos EUA e cerca de 5,1 milhões no estrangeiro, num total mundial de 10,275 milhões. O site diz que o filme terá custado cerca de 40 milhões e classifica a estreia como um começo difícil."
+      }
+     ],
+     "chip": {
+      "en": "$5.2M opening",
+      "pt": "5,2 M$ de estreia"
+     },
+     "link": {
+      "url": "https://collider.com/nicholas-hoult-how-to-rob-a-bank-box-office-10-million/",
+      "name": "Collider",
+      "label": {
+       "en": "Read the full story at Collider →",
+       "pt": "Ler a notícia completa em Collider →"
+      }
+     }
+    },
+    {
+     "id": "grinchsequel",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Universal · The Grinch",
+      "pt": "Filmes · Universal · O Grinch"
+     },
+     "headline": {
+      "en": "Ron Howard: a Jim Carrey Grinch sequel only happens if it can 'be great', and there is no script yet",
+      "pt": "Ron Howard: uma sequela do Grinch com Jim Carrey só avança se puder 'ser ótima', e ainda não há argumento"
+     },
+     "body": [
+      {
+       "en": "Variety reports that Ron Howard told People that he and Jim Carrey will not go forward without 'a great script', adding 'we don't even have a script right now'. The sequel was announced months ago. Variety notes the 2000 original earned more than $350 million, and that Carrey has long spoken about the toll of the makeup.",
+       "pt": "A Variety noticia que Ron Howard disse à People que ele e Jim Carrey não avançarão sem 'um grande argumento', acrescentando que 'neste momento nem sequer temos um argumento'. A sequela foi anunciada há meses. A Variety lembra que o original de 2000 arrecadou mais de 350 milhões de dólares e que Carrey tem falado há muito do desgaste da maquilhagem."
+      }
+     ],
+     "chip": {
+      "en": "No script yet",
+      "pt": "Sem argumento"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/news/ron-howard-jim-carrey-grinch-sequel-1236951121/",
+      "name": "Variety",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     }
+    },
+    {
+     "id": "bombayeternal",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Locomotive Global · Bombay Eternal",
+      "pt": "Filmes · Locomotive Global · Bombay Eternal"
+     },
+     "headline": {
+      "en": "Animated neo-noir Bombay Eternal puts Indian mythology on the streets of Mumbai",
+      "pt": "O neo-noir de animação Bombay Eternal leva a mitologia indiana para as ruas de Mumbai"
+     },
+     "body": [
+      {
+       "en": "Variety reports exclusively that Locomotive Global, the producer behind Rana Naidu, and AI-native film company Studio Blo have released a first teaser for Bombay Eternal. It is an animated crime fantasy set in a stylised present-day Mumbai, planned as a multi-part story with an eventual theatrical release in international markets. Variety says more will be revealed in stages.",
+       "pt": "A Variety noticia em exclusivo que a Locomotive Global, produtora de Rana Naidu, e a empresa de cinema nativa de IA Studio Blo lançaram um primeiro teaser de Bombay Eternal. É uma fantasia policial animada, passada numa Mumbai atual estilizada, pensada como uma história em várias partes com estreia futura nos cinemas em mercados internacionais. A Variety diz que o resto será revelado por fases."
+      }
+     ],
+     "chip": {
+      "en": "First teaser",
+      "pt": "Primeiro teaser"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/asia/indian-mythology-mumbai-noir-animated-film-bombay-eternal-1236950223/",
+      "name": "Variety",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Variety",
+     "url": "https://variety.com/2026/tv/news/ted-animated-series-trailer-peacock-1236950271/",
+     "text": {
+      "en": "says the animated Ted series debuts on Peacock on 17 December with its first eight episodes, with Seth MacFarlane and Mark Wahlberg returning as Ted and John; more episodes follow in 2027.",
+      "pt": "diz que a série animada Ted estreia na Peacock a 17 de dezembro com os primeiros oito episódios, com Seth MacFarlane e Mark Wahlberg de regresso como Ted e John; mais episódios chegam em 2027."
+     }
+    },
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/tv/tv-news/3-body-problem-season-2-trailer-1236757064/",
+     "text": {
+      "en": "reports that Netflix's 3 Body Problem returns on 14 January with a six-episode second season, with a first trailer out now.",
+      "pt": "noticia que a 3 Body Problem, da Netflix, regressa a 14 de janeiro com uma segunda temporada de seis episódios, com um primeiro trailer já disponível."
+     }
+    },
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-cast-news-robert-eggers-werwulf-1236756972/",
+     "text": {
+      "en": "says Robert Pattinson only learned he was Bond on Sunday morning, when Denis Villeneuve called him, and that Robert Eggers' Werwulf is set for 25 December in the US.",
+      "pt": "diz que Robert Pattinson só soube que era Bond no domingo de manhã, quando Denis Villeneuve lhe telefonou, e que Werwulf, de Robert Eggers, está marcado para 25 de dezembro nos EUA."
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "topic": "tech",
+   "title": {
+    "en": "Tech",
+    "pt": "Tecnologia"
+   },
+   "subtitle": {
+    "en": "Tech · Gemini retention, Meta's Direct app",
+    "pt": "Tecnologia · retenção do Gemini, a app Direct da Meta"
+   },
+   "items": [
+    {
+     "id": "geminiretention",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a smartphone",
+       "pt": "Ilustração de um telemóvel"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Google · Gemini",
+      "pt": "Tecnologia · Google · Gemini"
+     },
+     "headline": {
+      "en": "Google will keep Gemini chats for about two months even with history off, up from 72 hours",
+      "pt": "A Google vai guardar conversas do Gemini durante cerca de dois meses mesmo com o histórico desligado, contra 72 horas"
+     },
+     "deck": {
+      "en": "The longer retention applies to temporary chats and history-off chats, and rolls out over the coming weeks.",
+      "pt": "A retenção mais longa aplica-se a conversas temporárias e com histórico desligado, e chega nas próximas semanas."
+     },
+     "body": [
+      {
+       "en": "The Verge and TechCrunch report that Google is lengthening how long it keeps temporary Gemini chats, and chats made with history turned off, from 72 hours to around two months. The change rolls out globally in the Gemini app over the coming weeks. TechCrunch, via Slashdot, says Google gave safety and security as the reason and did not answer questions about what prompted the move.",
+       "pt": "O The Verge e o TechCrunch noticiam que a Google vai prolongar o tempo em que guarda conversas temporárias do Gemini, e conversas feitas com o histórico desligado, de 72 horas para cerca de dois meses. A alteração chega a todo o mundo na aplicação Gemini nas próximas semanas. O TechCrunch, via Slashdot, diz que a Google invocou segurança como motivo e não respondeu a perguntas sobre o que motivou a mudança."
+      },
+      {
+       "en": "Google's updated Privacy Hub says temporary chats are not used to train models, but the IBTimes notes an exception: submitting feedback on a response can lead to the conversation being reviewed and retained for up to three years. The update also separates chat history from the AI-training setting, so users can keep history on while opting out of training.",
+       "pt": "O Privacy Hub atualizado da Google diz que as conversas temporárias não são usadas para treinar modelos, mas o IBTimes nota uma exceção: enviar feedback sobre uma resposta pode levar a que a conversa seja revista e guardada até três anos. A atualização separa ainda o histórico de conversas da definição de treino de IA, pelo que é possível manter o histórico ligado e recusar o treino."
+      }
+     ],
+     "facts": [
+      {
+       "k": "Before",
+       "v": "72 hours"
+      },
+      {
+       "k": "Now",
+       "v": "~2 months"
+      },
+      {
+       "k": "Feedback exception",
+       "v": "Up to 3 years"
+      },
+      {
+       "k": "Rollout",
+       "v": "Global, coming weeks"
+      }
+     ],
+     "link": {
+      "url": "https://www.theverge.com/tech/1035876/gemini-is-going-to-save-temporary-chats-for-longer",
+      "name": "The Verge",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+       "name": "TechCrunch"
+      },
+      {
+       "url": "https://www.ibtimes.com/google-gemini-chat-retention-two-months-3809877",
+       "name": "IBTimes"
+      }
+     ]
+    },
+    {
+     "id": "metadirect",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "g",
+      "alt": {
+       "en": "Illustration of a smartphone",
+       "pt": "Ilustração de um telemóvel"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Meta · Instagram · Direct",
+      "pt": "Tecnologia · Meta · Instagram · Direct"
+     },
+     "headline": {
+      "en": "Meta tests Direct, a standalone Instagram messaging app that works without an Instagram account",
+      "pt": "A Meta testa o Direct, uma aplicação de mensagens do Instagram que funciona sem conta no Instagram"
+     },
+     "body": [
+      {
+       "en": "PCMag and MediaPost report that Meta is testing Direct, a standalone messaging app tied to Instagram DMs, in Türkiye and Thailand on Android and iOS. Instagram users can sign in with their existing account and chats sync across both apps; others can sign up with an email address or phone number, but then only their contacts can start chats with them. It adds Draw, Notes, stickers, voice effects and custom chat themes.",
+       "pt": "A PCMag e a MediaPost noticiam que a Meta está a testar o Direct, uma aplicação de mensagens autónoma ligada às mensagens diretas do Instagram, na Turquia e na Tailândia, em Android e iOS. Os utilizadores do Instagram podem entrar com a conta existente e as conversas sincronizam-se entre as duas aplicações; os restantes podem registar-se com email ou número de telefone, mas só os seus contactos podem iniciar conversas com eles. O Direct inclui Draw, Notes, autocolantes, efeitos de voz e temas de conversa."
+      },
+      {
+       "en": "MediaPost says the app is for users aged 13 and over, that parents get supervision tools, and that Meta has not said whether it will expand the test. It is Meta's third standalone messaging app after Messenger and WhatsApp.",
+       "pt": "A MediaPost diz que a aplicação é para maiores de 13 anos, que os pais têm ferramentas de supervisão e que a Meta não disse se vai alargar o teste. É a terceira aplicação de mensagens autónoma da Meta, depois do Messenger e do WhatsApp."
+      }
+     ],
+     "chip": {
+      "en": "Test: Türkiye, Thailand",
+      "pt": "Teste: Turquia, Tailândia"
+     },
+     "link": {
+      "url": "https://me.pcmag.com/en/mobile-apps/38637/metas-latest-test-app-is-like-instagram-and-messenger-put-together",
+      "name": "PCMag",
+      "label": {
+       "en": "Read the full story at PCMag →",
+       "pt": "Ler a notícia completa em PCMag →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.mediapost.com/publications/article/419510/meta-launches-another-messaging-app.html",
+       "name": "MediaPost"
+      }
+     ]
+    },
+    {
+     "id": "googlewalletios",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a smartphone",
+       "pt": "Ilustração de um telemóvel"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Google · Wallet",
+      "pt": "Tecnologia · Google · Wallet"
+     },
+     "headline": {
+      "en": "Google Wallet arrives on iPhone in the US, without tap-to-pay",
+      "pt": "A Google Wallet chega ao iPhone nos EUA, sem pagamento por aproximação"
+     },
+     "body": [
+      {
+       "en": "CNET Japan reports that Google launched the iOS version of Google Wallet in the US on 17 November. It collects tickets, boarding passes and purchase history, syncs with Gmail and other Google apps, and can scan loyalty and gym cards with the camera. It does not support in-store tap-to-pay for now.",
+       "pt": "A CNET Japão noticia que a Google lançou nos EUA, a 17 de novembro, a versão iOS da Google Wallet. Reúne bilhetes, cartões de embarque e histórico de compras, sincroniza com o Gmail e outras aplicações da Google e consegue ler cartões de fidelização e de ginásio com a câmara. Por agora não suporta pagamento por aproximação em lojas."
+      },
+      {
+       "en": "The report adds that Google is tying Wallet to Gemini's expanded task features, where the AI compares products and helps buy through Google Pay, with order confirmations, receipts and delivery tracking collected in Wallet.",
+       "pt": "A notícia acrescenta que a Google está a ligar a Wallet às funcionalidades de tarefas alargadas do Gemini, em que a IA compara produtos e ajuda a comprar através do Google Pay, com confirmações de encomenda, recibos e estado de entrega reunidos na Wallet."
+      }
+     ],
+     "chip": {
+      "en": "US only, no tap-to-pay",
+      "pt": "Só EUA, sem NFC"
+     },
+     "link": {
+      "url": "https://japan.cnet.com/article/35255033/",
+      "name": "CNET Japan",
+      "label": {
+       "en": "Read the full story at CNET Japan →",
+       "pt": "Ler a notícia completa em CNET Japan →"
+      }
+     }
+    },
+    {
+     "id": "nadellaoutage",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "plug",
+      "tone": "g",
+      "alt": {
+       "en": "Illustration of a plug",
+       "pt": "Ilustração de uma ficha elétrica"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Microsoft · Ignite",
+      "pt": "Tecnologia · Microsoft · Ignite"
+     },
+     "headline": {
+      "en": "Nadella opens Ignite saying Microsoft has 'work to do' after last week's Outlook and Teams outage",
+      "pt": "Nadella abre o Ignite a dizer que a Microsoft tem 'trabalho a fazer' depois da falha da semana passada no Outlook e no Teams"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that Satya Nadella opened Microsoft Ignite by calling last week's huge Outlook and Teams outage 'a reminder of how critical digital infrastructure is as the dial tone for the world', and said the company has work to do.",
+       "pt": "O The Verge noticia que Satya Nadella abriu o Microsoft Ignite a descrever a enorme falha da semana passada no Outlook e no Teams como 'um lembrete de quão crítica é a infraestrutura digital, o tom de chamada do mundo', e disse que a empresa tem trabalho a fazer."
+      }
+     ],
+     "chip": {
+      "en": "Ignite keynote",
+      "pt": "Keynote do Ignite"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1035717/satya-nadella-says-microsoft-has-work-to-do-after-last-weeks-outages",
+      "name": "The Verge",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Engadget",
+     "url": "https://www.engadget.com/2319483/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/",
+     "text": {
+      "en": "reports that Grado's GW200 wireless headphones, a refresh of the GW100, have new drivers and longer battery life, cost $329 and ship in December.",
+      "pt": "noticia que os auscultadores sem fios GW200 da Grado, uma renovação dos GW100, têm novos transdutores e maior autonomia, custam 329 dólares e seguem em dezembro."
+     }
+    },
+    {
+     "src": "CNET France",
+     "url": "https://fr.cnet.com/smartphone/6266/xiaomi-18-pro-et-pro-max-deux-ecrans-200-mpx-et-un-mode-anti-curieux-pour-se-positionner-en-haut-de",
+     "text": {
+      "en": "says Xiaomi's 18 Pro and 18 Pro Max, with a second screen, 200 MP camera and a 7,050 mAh battery on the Max, went on sale in France on 17 November from €1,399.",
+      "pt": "diz que os Xiaomi 18 Pro e 18 Pro Max, com segundo ecrã, câmara de 200 MP e bateria de 7050 mAh no Max, chegaram a França a 17 de novembro a partir de 1399 euros."
+     }
+    },
+    {
+     "src": "CNET",
+     "url": "https://www.cnet.com/deals/nov-18-early-black-friday-m5-macbook-air-deal/",
+     "text": {
+      "en": "reports an early Black Friday deal: Amazon has cut the 13-inch M5 MacBook Air with 16 GB RAM and 1 TB SSD to $1,497, and the 15-inch model to a record-low $1,549.",
+      "pt": "noticia uma oferta antecipada da Black Friday: a Amazon baixou o MacBook Air M5 de 13 polegadas com 16 GB de RAM e 1 TB de SSD para 1497 dólares e o de 15 polegadas para um mínimo histórico de 1549."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "topic": "ai",
+   "title": {
+    "en": "A.I.",
+    "pt": "I.A."
+   },
+   "subtitle": {
+    "en": "A.I. · Anthropic IPO stakes, Microsoft's MAI models",
+    "pt": "I.A. · participações na OPV da Anthropic, modelos MAI da Microsoft"
+   },
+   "items": [
+    {
+     "id": "anthropicipostakes",
+     "topic": "ai",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · IPO · Update",
+      "pt": "I.A. · Anthropic · OPV · Atualização"
+     },
+     "headline": {
+      "en": "Update: Amazon and Google will own about 28% of Anthropic after an IPO that prices tonight",
+      "pt": "Atualização: a Amazon e a Google terão cerca de 28% da Anthropic depois de uma OPV que fixa o preço esta noite"
+     },
+     "deck": {
+      "en": "A Tuesday filing shows how closely Anthropic is tied to the cloud giants that are also its customers and rivals.",
+      "pt": "Um documento de terça-feira mostra como a Anthropic está ligada aos gigantes da cloud que são também clientes e rivais."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Bloomberg reports, from a filing on Tuesday, that Amazon and Google will hold nearly 15% and 14% of Anthropic's outstanding capital stock after the IPO and a concurrent private placement. Google's stake includes 135.1 million non-voting shares it agreed to buy for about $10 billion within a roughly $26 billion placement. Anthropic and its co-founders are seeking up to $64.4 billion in the IPO.",
+       "pt": "O que há de novo desde a última edição: a Bloomberg noticia, com base num documento entregue na terça-feira, que a Amazon e a Google ficarão com quase 15% e 14% do capital em circulação da Anthropic depois da OPV e de uma colocação privada simultânea. A participação da Google inclui 135,1 milhões de ações sem direito de voto que aceitou comprar por cerca de 10 mil milhões de dólares numa colocação de cerca de 26 mil milhões. A Anthropic e os seus cofundadores procuram até 64,4 mil milhões na OPV."
+      },
+      {
+       "en": "Bloomberg says the filing describes Amazon, Google and Microsoft as 'investors, customers, distribution partners, and competitors', and that sales through their cloud accounts made up about 44% of revenue in the first nine months of 2026. It reports orders near seven times the shares available. The IPO is set to price on Wednesday 18 November and trade on Thursday on Nasdaq under ANT, led by Goldman Sachs and Morgan Stanley. Reuters adds that New Street Research started coverage with a 'buy' rating, estimating revenue above $500 billion by 2030.",
+       "pt": "A Bloomberg diz que o documento descreve a Amazon, a Google e a Microsoft como 'investidores, clientes, parceiros de distribuição e concorrentes', e que as vendas através das contas cloud delas representaram cerca de 44% da receita nos primeiros nove meses de 2026. Indica pedidos perto de sete vezes as ações disponíveis. A OPV deverá ser fixada na quarta-feira, 18 de novembro, e começar a negociar na quinta-feira na Nasdaq sob o símbolo ANT, com a Goldman Sachs e o Morgan Stanley na liderança. A Reuters acrescenta que a New Street Research iniciou a cobertura com recomendação de 'compra', estimando receitas acima de 500 mil milhões de dólares até 2030."
+      },
+      {
+       "en": "This is not investment advice, and terms can change before pricing. Disclosure: Anthropic makes Claude, the model that helps compile this magazine.",
+       "pt": "Isto não é aconselhamento de investimento, e as condições podem mudar antes da fixação do preço. Divulgação: a Anthropic é a criadora do Claude, o modelo que ajuda a compilar esta revista."
+      }
+     ],
+     "facts": [
+      {
+       "k": "Amazon stake",
+       "v": "~15%"
+      },
+      {
+       "k": "Google stake",
+       "v": "~14%"
+      },
+      {
+       "k": "Raise",
+       "v": "Up to $64.4B"
+      },
+      {
+       "k": "Pricing",
+       "v": "Wed 18 Nov"
+      },
+      {
+       "k": "First trade",
+       "v": "Thu 19 Nov"
+      }
+     ],
+     "link": {
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
+      "name": "Bloomberg",
+      "label": {
+       "en": "Read the full story at Bloomberg →",
+       "pt": "Ler a notícia completa em Bloomberg →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.reuters.com/business/new-street-starts-anthropic-coverage-with-buy-rating-estimates-revenue-above-500-2026-11-17/",
+       "name": "Reuters"
+      },
+      {
+       "url": "https://mercury.bloomberg.com/news/TON6I2VTTD0A",
+       "name": "Bloomberg Opinion"
+      }
+     ]
+    },
+    {
+     "id": "microsoftmai",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=A4fp61gQeec",
+      "img": "e028/ignite.jpg",
+      "alt": {
+       "en": "CNET's 14-minute recap of the Microsoft Ignite keynote",
+       "pt": "Resumo de 14 minutos da CNET sobre a keynote do Microsoft Ignite"
+      },
+      "duration": "13:46",
+      "caption": {
+       "en": "CNET, 17 Nov. Tap to watch on YouTube.",
+       "pt": "CNET, 17 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Microsoft · OpenAI · Models",
+      "pt": "I.A. · Microsoft · OpenAI · Modelos"
+     },
+     "headline": {
+      "en": "Microsoft unveils six cheaper MAI models as OpenAI ships GPT-6.2 Astra and Sol",
+      "pt": "A Microsoft apresenta seis modelos MAI mais baratos enquanto a OpenAI lança o GPT-6.2 Astra e o Sol"
+     },
+     "body": [
+      {
+       "en": "Axios and Reuters report that Microsoft announced six models at Ignite, covering coding, cybersecurity, image generation and voice. Microsoft claims MAI Code 2 delivers 98% of GPT-6.1 Sol's performance at 40% of the price, and 96% of Claude Opus 5.5's at 5% of the cost. Axios notes the comparisons rely on selected benchmarks and some pricing advantages reflect promotional discounts.",
+       "pt": "A Axios e a Reuters noticiam que a Microsoft anunciou seis modelos no Ignite, para programação, cibersegurança, geração de imagem e voz. A Microsoft afirma que o MAI Code 2 atinge 98% do desempenho do GPT-6.1 Sol a 40% do preço, e 96% do Claude Opus 5.5 a 5% do custo. A Axios nota que as comparações se baseiam em testes selecionados e que alguns descontos de preço são promocionais."
+      },
+      {
+       "en": "Axios adds that OpenAI announced GPT-6.2 Astra and GPT-6.2 Sol on the same day, with the new Astra priced 20% below its predecessor. Microsoft AI chief Mustafa Suleyman said the company is making progress on its own frontier general-purpose model but gave no timeline, and Microsoft will offer enterprises licensed model weights that must run on Azure.",
+       "pt": "A Axios acrescenta que a OpenAI anunciou o GPT-6.2 Astra e o GPT-6.2 Sol no mesmo dia, com o novo Astra 20% mais barato do que o anterior. O responsável de IA da Microsoft, Mustafa Suleyman, disse que a empresa progride no seu próprio modelo generalista de fronteira, mas não deu prazos, e que a Microsoft oferecerá às empresas pesos de modelos licenciados que têm de correr no Azure."
+      }
+     ],
+     "chip": {
+      "en": "6 new models",
+      "pt": "6 modelos novos"
+     },
+     "link": {
+      "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite",
+      "name": "Axios",
+      "label": {
+       "en": "Read the full story at Axios →",
+       "pt": "Ler a notícia completa em Axios →"
+      }
+     },
+     "also": [
+      {
+       "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WS2GN?channel=frL012",
+       "name": "Reuters"
+      }
+     ]
+    },
+    {
+     "id": "aicivilians",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "plug",
+      "tone": "g",
+      "alt": {
+       "en": "Illustration of a plug",
+       "pt": "Ilustração de uma ficha elétrica"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Research · Safety",
+      "pt": "I.A. · Investigação · Segurança"
+     },
+     "headline": {
+      "en": "Independent tests find top AI models often mislabel civilians as military targets",
+      "pt": "Testes independentes concluem que os melhores modelos de IA classificam frequentemente civis como alvos militares"
+     },
+     "body": [
+      {
+       "en": "Bloomberg reports on a new independent research report in which advanced AI models, in simulated scenarios, regularly misidentified civilians, ambulances, surrendering soldiers and a school in Iran as military targets. Bloomberg says Anthropic's models performed worst, while OpenAI's were among the best but still made errors.",
+       "pt": "A Bloomberg dá conta de um novo relatório de investigação independente em que modelos de IA avançados, em cenários simulados, identificaram erradamente com regularidade civis, ambulâncias, soldados a render-se e uma escola no Irão como alvos militares. A Bloomberg diz que os modelos da Anthropic tiveram o pior desempenho, enquanto os da OpenAI ficaram entre os melhores, mas também erraram."
+      },
+      {
+       "en": "Disclosure: Anthropic makes Claude, the model that helps compile this magazine. Only Bloomberg's summary was seen here; the report's methods are not detailed in it.",
+       "pt": "Divulgação: a Anthropic é a criadora do Claude, o modelo que ajuda a compilar esta revista. Só o resumo da Bloomberg foi consultado; os métodos do relatório não são detalhados nele."
+      }
+     ],
+     "chip": {
+      "en": "Simulated tests",
+      "pt": "Testes simulados"
+     },
+     "link": {
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/top-ai-models-regularly-identify-civilians-as-military-targets-in-tests",
+      "name": "Bloomberg",
+      "label": {
+       "en": "Read the full story at Bloomberg →",
+       "pt": "Ler a notícia completa em Bloomberg →"
+      }
+     }
+    },
+    {
+     "id": "doj_openai_copyright",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Policy · OpenAI · Copyright",
+      "pt": "I.A. · Política · OpenAI · Direitos de autor"
+     },
+     "headline": {
+      "en": "Democrats question the Justice Department's stance in the New York Times case against OpenAI",
+      "pt": "Democratas questionam a posição do Departamento de Justiça no processo do New York Times contra a OpenAI"
+     },
+     "body": [
+      {
+       "en": "Axios reports, in a scoop, that congressional Democrats are circulating a letter to Attorney General Todd Blanche asking whether the DOJ showed bias in siding with AI firms in the copyright case brought by The New York Times against OpenAI and Microsoft. The DOJ's statement of interest surprised the Copyright Office and the Patent and Trademark Office, per Axios, and lawmakers want to know whether outside companies influenced the position.",
+       "pt": "A Axios noticia, em primeira mão, que deputados democratas estão a fazer circular uma carta dirigida ao procurador-geral Todd Blanche a perguntar se o DOJ mostrou parcialidade ao ficar do lado das empresas de IA no processo de direitos de autor do New York Times contra a OpenAI e a Microsoft. A declaração de interesse do DOJ surpreendeu o Copyright Office e o Gabinete de Patentes e Marcas, segundo a Axios, e os deputados querem saber se empresas externas influenciaram a posição."
+      }
+     ],
+     "chip": {
+      "en": "Letter circulating",
+      "pt": "Carta em circulação"
+     },
+     "link": {
+      "url": "https://www.axios.com/2026/11/17/democrats-probe-doj-openai-microsoft-copyright",
+      "name": "Axios",
+      "label": {
+       "en": "Read the full story at Axios →",
+       "pt": "Ler a notícia completa em Axios →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Reuters",
+     "url": "https://www.reuters.com/business/new-street-starts-anthropic-coverage-with-buy-rating-estimates-revenue-above-500-2026-11-17/",
+     "text": {
+      "en": "says New Street Research expects Anthropic's computing capacity to grow six-fold to 30 GW by the end of the decade, from 5 GW at the end of 2026.",
+      "pt": "diz que a New Street Research espera que a capacidade de computação da Anthropic cresça seis vezes, para 30 GW, até ao fim da década, face a 5 GW no fim de 2026."
+     }
+    },
+    {
+     "src": "Bloomberg",
+     "url": "https://mercury.bloomberg.com/news/TON6I2VTTD0A",
+     "text": {
+      "en": "carries an opinion column calling compute Anthropic's deepest business dilemma, noting a SpaceX data-centre deal that could cost up to $3.1 billion a month from December.",
+      "pt": "publica uma coluna de opinião que aponta a computação como o maior dilema de negócio da Anthropic, referindo um acordo de centros de dados com a SpaceX que pode custar até 3,1 mil milhões de dólares por mês a partir de dezembro."
+     }
+    },
+    {
+     "src": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+     "text": {
+      "en": "reports California's lawsuit against OpenAI says the company admitted to the Attorney General that it lost control of its autonomous agents more than 80 times in testing, versus 27 incidents reported publicly.",
+      "pt": "noticia que o processo da Califórnia contra a OpenAI diz que a empresa admitiu ao procurador-geral ter perdido o controlo dos seus agentes autónomos mais de 80 vezes em testes, contra 27 incidentes comunicados publicamente."
+     }
+    }
+   ]
+  },
+  {
+   "id": "comics",
+   "topic": "comics",
+   "title": {
+    "en": "Comic Books",
+    "pt": "Banda Desenhada"
+   },
+   "subtitle": {
+    "en": "Comics · DC Next Level, Marvel app pricing",
+    "pt": "Banda desenhada · DC Next Level, preços da app da Marvel"
+   },
+   "items": [
+    {
+     "id": "dcnextlevelfeb",
+     "topic": "comics",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/DCNextLevelFeb2027.jpg",
+      "credit": "The Beat",
+      "alt": {
+       "en": "The Beat's image for DC's February 2027 Next Level titles",
+       "pt": "Imagem da The Beat para os títulos Next Level da DC de fevereiro de 2027"
+      },
+      "fallback": {
+       "icon": "bubble",
+       "tone": "gd"
+      }
+     },
+     "kicker": {
+      "en": "Comics · DC · Next Level",
+      "pt": "Banda desenhada · DC · Next Level"
+     },
+     "headline": {
+      "en": "DC details Static, Batman: Shadow of the Bat and Swamp Thing: Hallowed Ground for 24 February 2027",
+      "pt": "A DC detalha Static, Batman: Shadow of the Bat e Swamp Thing: Hallowed Ground para 24 de fevereiro de 2027"
+     },
+     "deck": {
+      "en": "Three new Next Level debuts land on the same day, with first-issue previews now out.",
+      "pt": "Três estreias Next Level chegam no mesmo dia, com pré-visualizações do primeiro número já disponíveis."
+     },
+     "body": [
+      {
+       "en": "The Beat, Bleeding Cool and CBR report that DC has released official descriptions and preview pages for three new Next Level series, all arriving on Wednesday 24 February 2027. Static #1 is by Cody Ziglar and Diego Olortegui and finds Virgil Hawkins sidelined after Dakota City's vigilante ban until a message from the future pulls him back in.",
+       "pt": "A The Beat, a Bleeding Cool e a CBR noticiam que a DC divulgou descrições oficiais e páginas de pré-visualização de três novas séries Next Level, todas a chegar na quarta-feira, 24 de fevereiro de 2027. Static #1 é de Cody Ziglar e Diego Olortegui e mostra Virgil Hawkins afastado depois da proibição de justiceiros em Dakota City, até que uma mensagem do futuro o faz regressar."
+      },
+      {
+       "en": "Batman: Shadow of the Bat reunites Deniz Camp and Javier Rodríguez, after Absolute Martian Manhunter, as a green cloud from Gotham's ACE Chemical plant changes the city's citizens. The Swamp Thing: Hallowed Ground is a six-issue horror series by Steve Foxe and Riccardo Federici starring Levi Kamei in Detroit. Main covers are $3.99, per CBR.",
+       "pt": "Batman: Shadow of the Bat reúne Deniz Camp e Javier Rodríguez, depois de Absolute Martian Manhunter, quando uma nuvem verde da fábrica ACE Chemical de Gotham transforma os cidadãos. The Swamp Thing: Hallowed Ground é uma série de terror em seis números de Steve Foxe e Riccardo Federici, com Levi Kamei em Detroit. As capas principais custam 3,99 dólares, segundo a CBR."
+      }
+     ],
+     "facts": [
+      {
+       "k": "On sale",
+       "v": "24 Feb 2027"
+      },
+      {
+       "k": "Static",
+       "v": "Ziglar / Olortegui"
+      },
+      {
+       "k": "Shadow of the Bat",
+       "v": "Camp / Rodríguez"
+      },
+      {
+       "k": "Swamp Thing",
+       "v": "Foxe / Federici"
+      }
+     ],
+     "link": {
+      "url": "https://www.comicsbeat.com/dc-static-shadow-of-the-bat-swamp-thing-next-level-titles/",
+      "name": "The Beat",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.cbr.com/dc-next-level-batman-swamp-thing-static-first-look/",
+       "name": "CBR"
+      },
+      {
+       "url": "https://bleedingcool.com/comics/swamp-thing-hallowed-ground-from-dc-next-level-on-24th-february-2027/",
+       "name": "Bleeding Cool"
+      }
+     ]
+    },
+    {
+     "id": "marvelappdetails",
+     "topic": "comics",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "photo",
+      "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/MarvelComicsApp1-e1794897916660.jpg",
+      "credit": "The Beat",
+      "alt": {
+       "en": "The Beat's image of the new Marvel Comics app",
+       "pt": "Imagem da The Beat da nova aplicação Marvel Comics"
+      },
+      "fallback": {
+       "icon": "bubble",
+       "tone": "gd"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Marvel · Webtoon · Update",
+      "pt": "Banda desenhada · Marvel · Webtoon · Atualização"
+     },
+     "headline": {
+      "en": "Update: Marvel Comics app prices and shutdown dates for Marvel Unlimited are now confirmed",
+      "pt": "Atualização: preços da aplicação Marvel Comics e datas de encerramento do Marvel Unlimited já estão confirmados"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: The Beat reports the Webtoon-powered Marvel Comics app has launched with over 35,000 issues. The Base plan is $9.99 a month or $69.99 a year with a three-month delay on new issues; Ultimate is $12.49 a month or $99.99 a year with a one-month delay.",
+       "pt": "O que há de novo desde a última edição: a The Beat noticia que a aplicação Marvel Comics, desenvolvida com a Webtoon, foi lançada com mais de 35 000 números. O plano Base custa 9,99 dólares por mês ou 69,99 por ano, com atraso de três meses nos números novos; o Ultimate custa 12,49 por mês ou 99,99 por ano, com atraso de um mês."
+      },
+      {
+       "en": "No new content goes into Marvel Unlimited after 7 December, purchases and reading history can be transferred until 21 December, and Marvel Unlimited closes on 28 December. The Beat also notes users have reported the removal of in-app screenshots and region locking.",
+       "pt": "Deixa de entrar conteúdo novo no Marvel Unlimited depois de 7 de dezembro, as compras e o histórico de leitura podem ser transferidos até 21 de dezembro e o Marvel Unlimited encerra a 28 de dezembro. A The Beat nota ainda que os utilizadores relatam a remoção das capturas de ecrã na aplicação e bloqueio por região."
+      }
+     ],
+     "chip": {
+      "en": "MU closes 28 Dec",
+      "pt": "MU fecha a 28 dez"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/marvel-and-webtoon-replace-marvel-unlimited-with-the-launch-of-new-digital-comics-subscription-app/",
+      "name": "The Beat",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "blacksadreissue",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "photo",
+      "src": "https://www.comicsbeat.com/wp-content/uploads/2026/11/Blacksad-Somewhere-Within-the-Shadows-featured.jpg",
+      "credit": "The Beat",
+      "alt": {
+       "en": "The Beat's image for the Blacksad reissue",
+       "pt": "Imagem da The Beat para a reedição de Blacksad"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "gd"
+      }
+     },
+     "kicker": {
+      "en": "Comics · Dark Horse · Blacksad",
+      "pt": "Banda desenhada · Dark Horse · Blacksad"
+     },
+     "headline": {
+      "en": "Dark Horse will reissue Blacksad: Somewhere Within the Shadows with a new translation",
+      "pt": "A Dark Horse vai reeditar Blacksad: Somewhere Within the Shadows com uma nova tradução"
+     },
+     "body": [
+      {
+       "en": "The Beat's digest reports that Dark Horse announced a new edition of Blacksad: Somewhere Within the Shadows, with a new translation by Diana Schutz and Brandon Kander, due on 29 June 2027.",
+       "pt": "O resumo da The Beat noticia que a Dark Horse anunciou uma nova edição de Blacksad: Somewhere Within the Shadows, com nova tradução de Diana Schutz e Brandon Kander, prevista para 29 de junho de 2027."
+      }
+     ],
+     "chip": {
+      "en": "29 Jun 2027",
+      "pt": "29 jun 2027"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/digest-111726/",
+      "name": "The Beat",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/x-orcists-1-preview-limbos-queen-has-some-explaining-to-do/",
+     "text": {
+      "en": "previews Marvel's X-Orcists #1, out today, 18 November, by Ashley Allen and Germán Peralta, in which Magik and Juggernaut team with Madelyne Pryor to hunt a demon that escaped Limbo.",
+      "pt": "faz a pré-visualização de X-Orcists #1, da Marvel, hoje nas bancas, 18 de novembro, de Ashley Allen e Germán Peralta, em que Magik e Juggernaut se juntam a Madelyne Pryor para caçar um demónio que fugiu do Limbo."
+     }
+    },
+    {
+     "src": "CBR",
+     "url": "https://www.cbr.com/death-of-legendary-dc-character-brings-the-justice-league-together-darkseid/",
+     "text": {
+      "en": "says Lobo #9, out 18 November, deals with the fallout of Lobo's death, with the Justice League and Darkseid drawn in.",
+      "pt": "diz que Lobo #9, que sai a 18 de novembro, trata das consequências da morte de Lobo, com a Liga da Justiça e Darkseid envolvidos."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/extended-spider-man-bnd/",
+     "text": {
+      "en": "notes that season two of Your Friendly Neighborhood Spider-Man arrives on Disney+ on 13 January 2027, with a prequel comic starting on 9 December.",
+      "pt": "nota que a segunda temporada de Your Friendly Neighborhood Spider-Man chega ao Disney+ a 13 de janeiro de 2027, com uma banda desenhada prequela a começar a 9 de dezembro."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manga",
+   "topic": "manga",
+   "title": {
+    "en": "Manga",
+    "pt": "Mangá"
+   },
+   "subtitle": {
+    "en": "Manga · One Piece No. 1, Sakamoto Days Season 2",
+    "pt": "Mangá · One Piece em 1.º, 2.ª temporada de Sakamoto Days"
+   },
+   "items": [
+    {
+     "id": "onepiecetop",
+     "topic": "manga",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/japan-officially-reveals-its-top-10-manga-of-2026.jpg?w=1600&h=900&fit=crop",
+      "credit": "CBR",
+      "alt": {
+       "en": "CBR image for the 2026 Japan manga ranking",
+       "pt": "Imagem da CBR para o ranking de mangá de 2026 no Japão"
+      },
+      "fallback": {
+       "icon": "blade",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shueisha · One Piece",
+      "pt": "Mangá · Shueisha · One Piece"
+     },
+     "headline": {
+      "en": "One Piece takes No. 1 in Japan's 2026 manga ranking, and Weekly Shonen Jump responds",
+      "pt": "One Piece fica em 1.º no ranking de mangá de 2026 no Japão, e a Weekly Shonen Jump responde"
+     },
+     "deck": {
+      "en": "Shueisha's flagship tops the annual list as its 30th anniversary approaches.",
+      "pt": "A série-bandeira da Shueisha lidera a lista anual à medida que o 30.º aniversário se aproxima."
+     },
+     "body": [
+      {
+       "en": "CBR reports that One Piece finished first in Japan's 2026 manga ranking, which it attributes to Billboard Japan, and that the Weekly Shonen Jump editorial department issued a statement saying it was honoured. The department thanked Eiichiro Oda and readers, noting the series will celebrate its 30th anniversary next year.",
+       "pt": "A CBR noticia que One Piece ficou em primeiro lugar no ranking de mangá de 2026 no Japão, que atribui à Billboard Japan, e que a redação da Weekly Shonen Jump emitiu uma declaração a dizer-se honrada. A redação agradeceu a Eiichiro Oda e aos leitores, lembrando que a série celebra o 30.º aniversário no próximo ano."
+      },
+      {
+       "en": "CBR also lists what is coming for the franchise: WIT Studio's seven-episode anime reboot The One Piece on Netflix in February 2027, the return of Toei Animation's long-running series in the Elbaph arc, a third live-action season, One Piece: The Battle of Alabasta, in 2027, and a new film, One Piece Film: God Valley.",
+       "pt": "A CBR enumera ainda o que vem aí para a franquia: o reboot em anime de sete episódios The One Piece, do WIT Studio, na Netflix em fevereiro de 2027, o regresso da série de longa duração da Toei Animation no arco de Elbaph, uma terceira temporada em imagem real, One Piece: The Battle of Alabasta, em 2027, e um novo filme, One Piece Film: God Valley."
+      }
+     ],
+     "facts": [
+      {
+       "k": "Ranking",
+       "v": "No. 1 of 2026"
+      },
+      {
+       "k": "The One Piece (Netflix)",
+       "v": "Feb 2027"
+      },
+      {
+       "k": "Anniversary",
+       "v": "30th, next year"
+      }
+     ],
+     "link": {
+      "url": "https://www.cbr.com/manga-top-10-ranking-billboard-japan-2026/",
+      "name": "CBR",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "sakamotos2date",
+     "topic": "manga",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=l0jhSyImrVs",
+      "img": "e028/sakamoto.jpg",
+      "alt": {
+       "en": "Official main trailer for Sakamoto Days Season 2",
+       "pt": "Trailer principal oficial da 2.ª temporada de Sakamoto Days"
+      },
+      "duration": "1:18",
+      "caption": {
+       "en": "TMS Anime (official), 18 Nov. Tap to watch on YouTube.",
+       "pt": "TMS Anime (oficial), 18 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Manga · Sakamoto Days · Anime · Update",
+      "pt": "Mangá · Sakamoto Days · Anime · Atualização"
+     },
+     "headline": {
+      "en": "Update: Sakamoto Days Season 2 gets a 18 January premiere, a trailer and a Creepy Nuts opening",
+      "pt": "Atualização: a 2.ª temporada de Sakamoto Days tem estreia a 18 de janeiro, trailer e genérico dos Creepy Nuts"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Anime News Network reports that TMS Entertainment released the main trailer and visual for Sakamoto Days Season 2, confirming a 18 January premiere on TV Tokyo at 24:00, which is effectively 19 January at midnight. The first episode streams on Netflix at the same time, and later episodes arrive on Netflix before TV airing.",
+       "pt": "O que há de novo desde a última edição: a Anime News Network noticia que a TMS Entertainment divulgou o trailer principal e o visual da 2.ª temporada de Sakamoto Days, confirmando a estreia a 18 de janeiro na TV Tokyo às 24:00, ou seja, efetivamente à meia-noite de 19 de janeiro. O primeiro episódio é emitido na Netflix em simultâneo, e os seguintes chegam à Netflix antes da emissão na TV."
+      },
+      {
+       "en": "Creepy Nuts perform the opening song 'Papa wa Imada ni Juvenile', and Kenyū Horiuchi and Kishō Taniyama join the cast. Daisuke Nakajima directs, with first-season director Masaki Watanabe as supervising director.",
+       "pt": "Os Creepy Nuts interpretam o genérico de abertura 'Papa wa Imada ni Juvenile', e Kenyū Horiuchi e Kishō Taniyama juntam-se ao elenco. Daisuke Nakajima realiza, com o realizador da 1.ª temporada, Masaki Watanabe, como diretor supervisor."
+      }
+     ],
+     "chip": {
+      "en": "18 Jan 2027",
+      "pt": "18 jan 2027"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/sakamoto-days-season-2-trailer-unveils-more-cast-opening-song-january-18-debut/.243925",
+      "name": "Anime News Network",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    },
+    {
+     "id": "giantojosama",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=BwvGi1tz-rE",
+      "img": "e028/giant.jpg",
+      "alt": {
+       "en": "HIDIVE's teaser for the Giant Ojosama anime",
+       "pt": "Teaser da HIDIVE para o anime Giant Ojosama"
+      },
+      "duration": "1:12",
+      "caption": {
+       "en": "HIDIVE (official), 17 Nov. Tap to watch on YouTube.",
+       "pt": "HIDIVE (oficial), 17 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shogakukan · Giant Ojosama",
+      "pt": "Mangá · Shogakukan · Giant Ojosama"
+     },
+     "headline": {
+      "en": "HIDIVE adds the Giant Ojosama anime to its winter lineup, with a 4 December preview in Texas",
+      "pt": "A HIDIVE junta o anime Giant Ojosama ao alinhamento de inverno, com antestreia a 4 de dezembro no Texas"
+     },
+     "body": [
+      {
+       "en": "Anime News Network and a HIDIVE release report that the comedy anime of Nikumura-Q's Giant Ojō-sama will stream on HIDIVE in January 2027 in the US, Canada, the UK, Ireland, Australia and New Zealand, with its North American premiere at Anime Frontier in Fort Worth, Texas, on 4 December. The manga began in July 2021 in Shogakukan's Sunday Webry and spans 13 volumes.",
+       "pt": "A Anime News Network e um comunicado da HIDIVE noticiam que o anime de comédia de Giant Ojō-sama, de Nikumura-Q, será emitido na HIDIVE em janeiro de 2027 nos EUA, Canadá, Reino Unido, Irlanda, Austrália e Nova Zelândia, com estreia norte-americana no Anime Frontier, em Fort Worth, Texas, a 4 de dezembro. O mangá começou em julho de 2021 na Sunday Webry da Shogakukan e tem 13 volumes."
+      },
+      {
+       "en": "The series is directed by Hiroshi Ikehata at Tatsunoko Production, with Yū Serizawa voicing the heiress Oriko Fujido.",
+       "pt": "A série é realizada por Hiroshi Ikehata na Tatsunoko Production, com Yū Serizawa na voz da herdeira Oriko Fujido."
+      }
+     ],
+     "chip": {
+      "en": "Jan 2027, HIDIVE",
+      "pt": "Jan 2027, HIDIVE"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/hidive-to-stream-giant-ojosama-tv-anime-this-winter-screens-n-american-premiere-at-anime-frontier-/.243917",
+      "name": "Anime News Network",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.animenewsnetwork.com/press-release/2026-11-18/giant-ojosama-equals-giant-sized-laughs-this-january-for-hidive-winter-2027-simulcast-season/.243929",
+       "name": "Anime News Network (press release)"
+      }
+     ]
+    },
+    {
+     "id": "munchkindate",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=xQ6qdEHfIaQ",
+      "img": "e028/munchkin.jpg",
+      "alt": {
+       "en": "Official second promo video for the Otherworldly Munchkin anime",
+       "pt": "Segundo vídeo promocional oficial do anime Otherworldly Munchkin"
+      },
+      "duration": "1:48",
+      "caption": {
+       "en": "Bandai Namco Filmworks (official), 18 Nov. Tap to watch on YouTube.",
+       "pt": "Bandai Namco Filmworks (oficial), 18 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Manga · Kodansha · Otherworldly Munchkin",
+      "pt": "Mangá · Kodansha · Otherworldly Munchkin"
+     },
+     "headline": {
+      "en": "Otherworldly Munchkin finally gets a 7 January premiere after a delay of more than a year",
+      "pt": "Otherworldly Munchkin tem finalmente estreia a 7 de janeiro, depois de um atraso de mais de um ano"
+     },
+     "body": [
+      {
+       "en": "Anime News Network reports that Bandai Namco Filmworks released a new promotional video for the anime of Yū Shimizu and Makoto Aogiri's Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP, confirming a 7 January premiere on Tokyo MX and BS11, with Crunchyroll streaming. The anime was originally slated for October 2025 and was delayed a month before that date to 'improve the quality'.",
+       "pt": "A Anime News Network noticia que a Bandai Namco Filmworks divulgou um novo vídeo promocional do anime de Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP, de Yū Shimizu e Makoto Aogiri, confirmando a estreia a 7 de janeiro na Tokyo MX e na BS11, com emissão na Crunchyroll. O anime estava originalmente previsto para outubro de 2025 e foi adiado um mês antes dessa data para 'melhorar a qualidade'."
+      },
+      {
+       "en": "Yūichirō Umehara joins the cast, Naoya Fukushi is now the sole director credit, and the opening and ending songs are by LIL LEAGUE and ZAQ. Kodansha USA publishes the manga digitally.",
+       "pt": "Yūichirō Umehara junta-se ao elenco, Naoya Fukushi é agora o único realizador creditado, e os temas de abertura e encerramento são de LIL LEAGUE e ZAQ. A Kodansha USA publica o mangá em formato digital."
+      }
+     ],
+     "chip": {
+      "en": "7 Jan 2027",
+      "pt": "7 jan 2027"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/otherworldly-munchkin-anime-new-video-reveals-more-cast-staff-theme-songs-january-7-debut/.243921",
+      "name": "Anime News Network",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/press-release/2026-11-18/nakama-press-expands-romance-offerings-with-charming-rom-com-manga-opening-the-door-to-hinata-san-/.243930",
+     "text": {
+      "en": "carries a press release saying Nakama Press will publish the rom-com manga Opening the Door to Hinata-san's Heart in winter 2027; it first ran in Weekly Shōnen Magazine in 2022.",
+      "pt": "publica um comunicado segundo o qual a Nakama Press vai editar o mangá de comédia romântica Opening the Door to Hinata-san's Heart no inverno de 2027; saiu pela primeira vez na Weekly Shōnen Magazine em 2022."
+     }
+    },
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/news/2026-11-18/identity-v-game-oha-suta-daigo-gakuen-short-anime-unveils-more-cast-staff-november-24-debut/.243933",
+     "text": {
+      "en": "reports that the four-episode short anime Oha Suta Daigo Gakuen, based on the Identity V game, premieres on 24 November.",
+      "pt": "noticia que o anime curto de quatro episódios Oha Suta Daigo Gakuen, baseado no jogo Identity V, estreia a 24 de novembro."
+     }
+    },
+    {
+     "src": "Anime News Network",
+     "url": "https://www.animenewsnetwork.com/review/psyren/episode-6/.243891",
+     "text": {
+      "en": "publishes its Psyren episode 6 review, saying the adaptation is not aiming to be more than passable and that part of the issue is inherent to the source manga's writing.",
+      "pt": "publica a crítica ao episódio 6 de Psyren, dizendo que a adaptação não pretende ser mais do que passável e que parte do problema vem da escrita do mangá original."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manhwa",
+   "topic": "manhwa",
+   "title": {
+    "en": "Manhwa",
+    "pt": "Manhwa"
+   },
+   "subtitle": {
+    "en": "Manhwa · Solo Leveling live-action, KARMA",
+    "pt": "Manhwa · Solo Leveling em imagem real, KARMA"
+   },
+   "items": [
+    {
+     "id": "sololevelingnetflix",
+     "topic": "manhwa",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/8efed1f3-3218-48ae-9c1b-f27814315aa4-2.jpg?w=1600&h=900&fit=crop",
+      "credit": "CBR",
+      "alt": {
+       "en": "CBR image for its Han Sohee interview about Solo Leveling",
+       "pt": "Imagem da CBR para a entrevista a Han Sohee sobre Solo Leveling"
+      },
+      "fallback": {
+       "icon": "blade",
+       "tone": "tl"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Netflix · Solo Leveling",
+      "pt": "Manhwa · Netflix · Solo Leveling"
+     },
+     "headline": {
+      "en": "Han Sohee says she 'leveled up' to play Cha Haein in Netflix's live-action Solo Leveling",
+      "pt": "Han Sohee diz que 'subiu de nível' para interpretar Cha Haein na versão em imagem real de Solo Leveling da Netflix"
+     },
+     "deck": {
+      "en": "The live-action cast speaks while filming continues, and Netflix still has no release date.",
+      "pt": "O elenco da versão em imagem real fala enquanto as filmagens continuam, e a Netflix continua sem data."
+     },
+     "body": [
+      {
+       "en": "CBR reports that Han Sohee, who plays S-rank hunter Cha Haein opposite Byeon Wooseok's Sung Jinwoo, spoke about the role in an interview and photo shoot with Elle Korea while the Netflix series is mid-filming. CBR says fans see Haein improving through the webtoon, from daily runs to sword training with Song Chiyul.",
+       "pt": "A CBR noticia que Han Sohee, que interpreta a caçadora de classe S Cha Haein ao lado do Sung Jinwoo de Byeon Wooseok, falou do papel numa entrevista e sessão fotográfica com a Elle Korea enquanto a série da Netflix está a meio das filmagens. A CBR diz que os fãs veem Haein a evoluir ao longo do webtoon, desde corridas diárias até aulas de espada com Song Chiyul."
+      },
+      {
+       "en": "Netflix has not announced a release date. CBR relays a report from Korean publication Naver suggesting the show will arrive some time in 2028; treat that as a report, not a confirmation.",
+       "pt": "A Netflix não anunciou data de estreia. A CBR reproduz uma notícia do meio coreano Naver que sugere que a série chegará em 2028; trata-se de uma notícia, não de uma confirmação."
+      }
+     ],
+     "facts": [
+      {
+       "k": "Platform",
+       "v": "Netflix"
+      },
+      {
+       "k": "Cast",
+       "v": "Byeon Wooseok, Han Sohee"
+      },
+      {
+       "k": "Release",
+       "v": "Not announced"
+      },
+      {
+       "k": "Report",
+       "v": "2028 (Naver, per CBR)"
+      }
+     ],
+     "link": {
+      "url": "https://www.cbr.com/solo-leveling-cha-haein-netflix-live-action-han-sohee-interview/",
+      "name": "CBR",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "solokarmagungee",
+     "topic": "manhwa",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "blade",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a blade",
+       "pt": "Ilustração de uma lâmina"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Netmarble · Solo Leveling: KARMA",
+      "pt": "Manhwa · Netmarble · Solo Leveling: KARMA"
+     },
+     "headline": {
+      "en": "Solo Leveling: KARMA confirms the return of Go Gunhee ahead of the 2027 film",
+      "pt": "Solo Leveling: KARMA confirma o regresso de Go Gunhee antes do filme de 2027"
+     },
+     "body": [
+      {
+       "en": "IMDb News, relaying a FandomWire report, says Netmarble's upcoming roguelike action RPG Solo Leveling: KARMA has confirmed on its official website that Chairman Go Gunhee, who died in Chapter 152 of the manhwa, re-enters the story. The report places the news ahead of the 2027 film Solo Leveling: Beyond the System.",
+       "pt": "O IMDb News, a reproduzir uma notícia da FandomWire, diz que o RPG de ação roguelike Solo Leveling: KARMA, da Netmarble, confirmou no seu site oficial que o presidente Go Gunhee, que morreu no Capítulo 152 do manhwa, regressa à história. A notícia situa o anúncio antes do filme de 2027 Solo Leveling: Beyond the System."
+      }
+     ],
+     "chip": {
+      "en": "Game, via official site",
+      "pt": "Jogo, via site oficial"
+     },
+     "link": {
+      "url": "https://www.imdb.com/news/ni66115275/",
+      "name": "IMDb News",
+      "label": {
+       "en": "Read the full story at IMDb News →",
+       "pt": "Ler a notícia completa em IMDb News →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://fandomwire.com/solo-leveling-karma-go-gunhee-return-before-2027-movie/",
+       "name": "FandomWire"
+      }
+     ]
+    },
+    {
+     "id": "marvelwebtoonoriginals",
+     "topic": "manhwa",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Webtoon Entertainment · Marvel",
+      "pt": "Manhwa · Webtoon Entertainment · Marvel"
+     },
+     "headline": {
+      "en": "Webtoon is making Marvel-based originals, including an X-Men story set in South Korea",
+      "pt": "A Webtoon está a criar originais baseados na Marvel, incluindo uma história dos X-Men passada na Coreia do Sul"
+     },
+     "body": [
+      {
+       "en": "Seoul Economic Daily reports that Naver Webtoon's parent, Webtoon Entertainment, is releasing original webtoons based on the Marvel universe alongside the new Marvel Comics app. Titles in production include a story about Tony Stark's first love as a teenager, Deadpool dropped into the world of webtoons, and an X-Men story set in South Korea.",
+       "pt": "O Seoul Economic Daily noticia que a Webtoon Entertainment, empresa-mãe da Naver Webtoon, vai lançar webtoons originais baseados no universo Marvel a par da nova aplicação Marvel Comics. Entre os títulos em produção estão uma história sobre o primeiro amor de Tony Stark na adolescência, o Deadpool lançado no mundo dos webtoons e uma história dos X-Men passada na Coreia do Sul."
+      },
+      {
+       "en": "A Naver Webtoon official told the paper that launches in some countries are not yet confirmed and that a Korean launch is undecided.",
+       "pt": "Um responsável da Naver Webtoon disse ao jornal que os lançamentos em alguns países ainda não estão confirmados e que o lançamento na Coreia está por decidir."
+      }
+     ],
+     "chip": {
+      "en": "Originals in production",
+      "pt": "Originais em produção"
+     },
+     "link": {
+      "url": "https://en.sedaily.com/business/2026/11/17/naver-webtoon-launches-marvel-comics-app-with-35000-titles",
+      "name": "Seoul Economic Daily",
+      "label": {
+       "en": "Read the full story at Seoul Economic Daily →",
+       "pt": "Ler a notícia completa em Seoul Economic Daily →"
+      }
+     }
+    }
+   ],
+   "brief": []
+  }
+ ],
+ "footer": {
+  "en": "Compiled from 30 outlets, 62 articles, 7 videos. Summaries only; see the linked sources. Video thumbnails belong to their channels (NDTV Profit, Semafor, CNET, PlayStation, TMS Anime, HIDIVE, Bandai Namco Filmworks). Next edition tomorrow at 09:00 Angola time.",
+  "pt": "Compilado a partir de 30 meios, 62 artigos e 7 vídeos. Apenas resumos; consulte as fontes ligadas. As miniaturas dos vídeos pertencem aos respetivos canais (NDTV Profit, Semafor, CNET, PlayStation, TMS Anime, HIDIVE, Bandai Namco Filmworks). Próxima edição amanhã às 09:00, hora de Angola."
+ },
+ "footerline": "The Daily Respawn · Edition 028 · 18 Nov 2026, 09:47 Angola time · 30 outlets · 62 articles · 7 videos"
+}

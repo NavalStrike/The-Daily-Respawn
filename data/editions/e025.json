@@ -1,0 +1,1799 @@
+{
+ "id": "e025",
+ "number": 25,
+ "publishedAt": "2026-11-15T09:45:00+01:00",
+ "cover": {
+  "img": "e025/cover.jpg",
+  "alt": {
+   "en": "Space Affairs replay of Starship Flight 15: orbital phase, deorbit burn and the tower catch",
+   "pt": "Repetição da Space Affairs do Voo 15 do Starship: fase orbital, travagem de reentrada e captura na torre"
+  },
+  "target": "starshipcatch",
+  "headline": {
+   "en": "SpaceX catches a Starship ship for the first time, after 14 orbits, though the booster was lost",
+   "pt": "A SpaceX apanha pela primeira vez uma nave Starship, depois de 14 órbitas, embora o propulsor se tenha perdido"
+  }
+ },
+ "note": [
+  {
+   "en": "Sunday's issue opens with SpaceX's first catch of a Starship ship from orbit, which came after our last edition went out. It also brings GTA VI's launch week, a Vulcan launch delayed for a second day, a fourth AI-industry story built around Nvidia and Anthropic, a new Charlie Adlard comic and Shonen Jump's return of Ryo Nakama. Rumours and leaks are marked as such and follow-ups are marked as updates. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+   "pt": "A edição de domingo abre com a primeira captura, pela SpaceX, de uma nave Starship vinda da órbita, que aconteceu depois de a nossa última edição sair. Traz ainda a semana de lançamento de GTA VI, um lançamento do Vulcan adiado pelo segundo dia, mais uma história da indústria de I.A. à volta da Nvidia e da Anthropic, uma nova banda desenhada de Charlie Adlard e o regresso de Ryo Nakama à Shonen Jump. Os rumores e as fugas de informação estão assinalados como tal e as sequências estão marcadas como atualizações. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+  },
+  {
+   "en": "New since the last edition: since Edition 024 (14 Nov, 09:45), 20 new stories and 4 updates, plus 20 quick hits. Manhwa had a lighter day, with one story and no quick hits, because nothing else new could be verified.",
+   "pt": "Novidades desde a última edição: desde a Edição 024 (14 nov, 09:45), 20 notícias novas e 4 atualizações, mais 20 breves. O Manhwa teve um dia mais calmo, com uma notícia e sem breves, porque não foi possível verificar mais nada de novo."
+  }
+ ],
+ "sections": [
+  {
+   "id": "cover-section",
+   "topic": "cover-section",
+   "title": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "subtitle": {
+    "en": "Tech · Space",
+    "pt": "Tecnologia · Espaço"
+   },
+   "items": [
+    {
+     "id": "starshipcatch",
+     "topic": "tech",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=IJKDRJ_GEM4",
+      "img": "e025/cover.jpg",
+      "alt": {
+       "en": "Space Affairs replay of Starship Flight 15: orbital phase, deorbit burn and the tower catch",
+       "pt": "Repetição da Space Affairs do Voo 15 do Starship: fase orbital, travagem de reentrada e captura na torre"
+      },
+      "duration": "11:21:31",
+      "caption": {
+       "en": "Space Affairs, 14 Nov (full-flight replay; the catch comes near the end). Tap to watch on YouTube.",
+       "pt": "Space Affairs, 14 nov (repetição do voo completo; a captura surge perto do fim). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Cover story · Tech · Space · SpaceX · Starship · Update · 14 Nov",
+      "pt": "História de capa · Tecnologia · Espaço · SpaceX · Starship · Atualização · 14 nov"
+     },
+     "headline": {
+      "en": "SpaceX catches a Starship ship for the first time, after 14 orbits, though the booster was lost",
+      "pt": "A SpaceX apanha pela primeira vez uma nave Starship, depois de 14 órbitas, embora o propulsor se tenha perdido"
+     },
+     "deck": {
+      "en": "Update: the catch attempt that was still to come in our last edition worked. Ship 42 came home to the Starbase tower's arms, while the Super Heavy booster is still under investigation.",
+      "pt": "Atualização: a tentativa de captura que ainda estava por vir na nossa última edição resultou. A Ship 42 regressou aos braços da torre de Starbase, enquanto o propulsor Super Heavy continua sob investigação."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Ars Technica reports that the Starship upper stage fell out of the sky, flew horizontally until the last moment, lit three Raptor engines to swing upright and was then snagged by the launch tower's two arms. Ars describes the margins as incredibly narrow: two small nubs on either side of the ship, each protruding only about a foot, were all the purchase it had on the arms.",
+       "pt": "O que há de novo desde a última edição: a Ars Technica noticia que o estágio superior do Starship caiu do céu, voou na horizontal até ao último momento, acendeu três motores Raptor para ficar na vertical e foi então apanhado pelos dois braços da torre de lançamento. A Ars descreve as margens como incrivelmente estreitas: duas pequenas saliências de cada lado da nave, cada uma com apenas cerca de um pé, eram o único apoio nos braços."
+      },
+      {
+       "en": "Payload says Ship 42 was caught at 4:20 pm US Eastern time on Saturday (22:20 in Angola), more than 22 hours after liftoff at 5:47 pm Eastern on Friday. It completed 14 orbits, relit a single Raptor for the deorbit burn and made a final swoosh manoeuvre over the Gulf before the landing flip. CNET Japan adds that the ship deployed 26 Starlink V3 satellites and that SpaceX had checked its heat shield with cameras carried on satellites before clearing the return.",
+       "pt": "A Payload diz que a Ship 42 foi apanhada às 16:20 (hora do leste dos EUA) de sábado, ou seja, às 22:20 em Angola, mais de 22 horas depois de descolar às 17:47 (hora do leste) de sexta-feira. Completou 14 órbitas, reacendeu um único Raptor para a travagem de reentrada e fez uma última manobra \"swoosh\" sobre o Golfo antes da inversão de aterragem. A CNET Japão acrescenta que a nave largou 26 satélites Starlink V3 e que a SpaceX inspecionou o escudo térmico com câmaras transportadas em satélites antes de autorizar o regresso."
+      },
+      {
+       "en": "The other half of the plan failed: the Super Heavy booster did not reach the arms and ended in the Gulf of Mexico, and Payload says SpaceX is still investigating the root cause. Payload also notes that Ship 42 could, in theory, fly again, and quotes SpaceX president Gwynne Shotwell saying the company aims to refly a second stage by early next year. A catch is not a reflight certificate: no inspection results have been published yet.",
+       "pt": "A outra metade do plano falhou: o propulsor Super Heavy não chegou aos braços e acabou no Golfo do México, e a Payload diz que a SpaceX ainda investiga a causa. A Payload nota ainda que a Ship 42 poderia, em teoria, voltar a voar, e cita a presidente da SpaceX, Gwynne Shotwell, a dizer que a empresa quer voltar a voar um segundo estágio até ao início do próximo ano. Uma captura não é um certificado de reutilização: ainda não foram divulgados resultados de inspeção."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Flight",
+        "pt": "Voo"
+       },
+       "v": {
+        "en": "Starship Flight 15, launched 13 Nov, 5:47 pm Eastern",
+        "pt": "Voo 15 do Starship, lançado a 13 nov, 17:47 (hora do leste)"
+       }
+      },
+      {
+       "k": {
+        "en": "Ship",
+        "pt": "Nave"
+       },
+       "v": {
+        "en": "Ship 42 caught by the tower, 14 Nov, 4:20 pm Eastern",
+        "pt": "Ship 42 apanhada pela torre, 14 nov, 16:20 (hora do leste)"
+       }
+      },
+      {
+       "k": {
+        "en": "Payload",
+        "pt": "Carga"
+       },
+       "v": {
+        "en": "26 Starlink V3 satellites deployed",
+        "pt": "26 satélites Starlink V3 largados"
+       }
+      },
+      {
+       "k": {
+        "en": "Booster",
+        "pt": "Propulsor"
+       },
+       "v": {
+        "en": "Lost in the Gulf; cause under investigation",
+        "pt": "Perdido no Golfo; causa sob investigação"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "label": {
+       "en": "Read the full story at Ars Technica →",
+       "pt": "Ler a notícia completa em Ars Technica →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://payloadspace.com/spacex-successfully-catches-starship-upper-stage/",
+       "name": "Payload"
+      },
+      {
+       "url": "https://japan.cnet.com/article/35254889/",
+       "name": "CNET Japan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "topic": "games",
+   "title": {
+    "en": "Games",
+    "pt": "Jogos"
+   },
+   "subtitle": {
+    "en": "Games · Launch week, reveals and rumours",
+    "pt": "Jogos · Semana de lançamento, revelações e rumores"
+   },
+   "items": [
+    {
+     "id": "gta6week",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=dvk24j5jLHA",
+      "img": "e025/gta6.jpg",
+      "alt": {
+       "en": "IGN upload of the Grand Theft Auto VI pre-load trailer",
+       "pt": "Vídeo da IGN com o trailer de pré-carregamento de Grand Theft Auto VI"
+      },
+      "duration": "0:30",
+      "caption": {
+       "en": "IGN, 10 Nov (pre-load trailer). Tap to watch on YouTube.",
+       "pt": "IGN, 10 nov (trailer de pré-carregamento). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Rockstar · Grand Theft Auto VI · Leak",
+      "pt": "Jogos · Rockstar · Grand Theft Auto VI · Fuga de informação"
+     },
+     "headline": {
+      "en": "Rockstar says GTA VI will reward empathy, as its soundtrack album's track list seemingly leaks days before launch",
+      "pt": "A Rockstar diz que GTA VI vai recompensar a empatia, enquanto a lista de faixas do álbum da banda sonora terá alegadamente sido divulgada a poucos dias do lançamento"
+     },
+     "deck": {
+      "en": "With Grand Theft Auto VI due on 19 November, the final week brings a design detail Rockstar has never used before and one more leak.",
+      "pt": "Com Grand Theft Auto VI marcado para 19 de novembro, a última semana traz um detalhe de design que a Rockstar nunca usou e mais uma fuga de informação."
+     },
+     "body": [
+      {
+       "en": "IGN reports that Rockstar has confirmed GTA VI includes mechanisms that encourage empathy, something the franchise has never had before. IGN reads this alongside a world that may reward players who take the citizens of Leonida into consideration, and NPCs that react to weapons, and concludes that it will likely be the most grounded Grand Theft Auto yet. The game launches on 19 November for PS5 and Xbox Series X|S, and IGN adds that Rockstar showed a closer look at Macca & Friends, an animated TV series that can be watched in-game.",
+       "pt": "A IGN noticia que a Rockstar confirmou que GTA VI inclui mecanismos que incentivam a empatia, algo que a série nunca teve. A IGN associa isto a um mundo que poderá recompensar quem tiver em conta os cidadãos de Leonida e a NPCs que reagem às armas, e conclui que será provavelmente o Grand Theft Auto mais realista até agora. O jogo sai a 19 de novembro para PS5 e Xbox Series X|S, e a IGN acrescenta que a Rockstar mostrou mais de perto Macca & Friends, uma série animada que se pode ver dentro do jogo."
+      },
+      {
+       "en": "Leak: IGN says the full track list of Grand Theft Auto VI: The Album seemingly leaked in a social media video that appears to come from a retailer and shows the front, back and spines of the double-LP vinyl. IGN says Rolling Stone confirmed the list with its own sources. Rockstar has not published the list itself, so treat it as unofficial until it does.",
+       "pt": "Fuga de informação: a IGN diz que a lista completa de faixas de Grand Theft Auto VI: The Album terá sido divulgada num vídeo nas redes sociais que parece vir de um retalhista e mostra a frente, o verso e as lombadas do vinil duplo. A IGN diz que a Rolling Stone confirmou a lista junto das suas fontes. A Rockstar não publicou a lista, por isso deve ser tratada como não oficial até o fazer."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Game",
+        "pt": "Jogo"
+       },
+       "v": {
+        "en": "Grand Theft Auto VI",
+        "pt": "Grand Theft Auto VI"
+       }
+      },
+      {
+       "k": {
+        "en": "Launch",
+        "pt": "Lançamento"
+       },
+       "v": {
+        "en": "19 November 2026",
+        "pt": "19 de novembro de 2026"
+       }
+      },
+      {
+       "k": {
+        "en": "Platforms",
+        "pt": "Plataformas"
+       },
+       "v": {
+        "en": "PS5, Xbox Series X|S",
+        "pt": "PS5, Xbox Series X|S"
+       }
+      },
+      {
+       "k": {
+        "en": "Album leak",
+        "pt": "Fuga do álbum"
+       },
+       "v": {
+        "en": "Unofficial; Rolling Stone says it confirmed the list",
+        "pt": "Não oficial; a Rolling Stone diz ter confirmado a lista"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://nordic.ign.com/grand-theft-auto-vi/115651/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+       "name": "IGN (album leak)"
+      }
+     ]
+    },
+    {
+     "id": "tombraiderchanges",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · Amazon Game Studios · Tomb Raider: Legacy of Atlantis",
+      "pt": "Jogos · Amazon Game Studios · Tomb Raider: Legacy of Atlantis"
+     },
+     "headline": {
+      "en": "Tomb Raider: Legacy of Atlantis combat and progression changes are dividing fans",
+      "pt": "As mudanças ao combate e à progressão de Tomb Raider: Legacy of Atlantis estão a dividir os fãs"
+     },
+     "body": [
+      {
+       "en": "Polygon reports that Amazon Game Studios' sixth behind-the-scenes video on the remake of the 1996 original details a Focus meter that fills as Lara deals and takes damage or dodges, and slows time to unlock more of her classic acrobatics. It also shows a skill tree, with points earned by collecting artifacts rather than XP, and herb gathering with Resident Evil-style crafting for healing and buffs.",
+       "pt": "A Polygon noticia que o sexto vídeo dos bastidores da Amazon Game Studios sobre o remake do original de 1996 detalha um medidor de Foco, que enche quando Lara causa ou sofre dano ou se esquiva, e que abranda o tempo para desbloquear mais das suas acrobacias clássicas. Mostra também uma árvore de competências, com pontos ganhos ao recolher artefactos em vez de XP, e recolha de ervas com criação ao estilo Resident Evil para curar e dar bónus."
+      },
+      {
+       "en": "Polygon says a ResetEra thread on the video is full of negative reactions, and that the developers tried to reassure fans by saying the whole game can be played with Lara's dual pistols alone. The game is due on 12 February 2027 for Switch 2, PS5, Windows PC and Xbox Series X.",
+       "pt": "A Polygon diz que um tópico do ResetEra sobre o vídeo está cheio de reações negativas, e que os programadores tentaram tranquilizar os fãs dizendo que o jogo todo pode ser jogado só com as pistolas duplas de Lara. O jogo sai a 12 de fevereiro de 2027 para Switch 2, PS5, PC com Windows e Xbox Series X."
+      }
+     ],
+     "chip": {
+      "en": "12 Feb 2027",
+      "pt": "12 fev 2027"
+     },
+     "link": {
+      "url": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
+      "label": {
+       "en": "Read the full story at Polygon →",
+       "pt": "Ler a notícia completa em Polygon →"
+      }
+     }
+    },
+    {
+     "id": "lolnewdawn",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=hxlAN9cbFBU",
+      "img": "e025/lol.jpg",
+      "alt": {
+       "en": "GameTrailers upload of the League of Legends: New Dawn teaser trailer",
+       "pt": "Vídeo da GameTrailers com o teaser de League of Legends: New Dawn"
+      },
+      "duration": "2:01",
+      "caption": {
+       "en": "GameTrailers, 15 Nov (teaser). Tap to watch on YouTube.",
+       "pt": "GameTrailers, 15 nov (teaser). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Riot Games · League of Legends",
+      "pt": "Jogos · Riot Games · League of Legends"
+     },
+     "headline": {
+      "en": "Riot teases League of Legends: New Dawn, with a full reveal in January and release later in 2027",
+      "pt": "A Riot mostra um teaser de League of Legends: New Dawn, com revelação completa em janeiro e lançamento mais tarde em 2027"
+     },
+     "body": [
+      {
+       "en": "IGN says the team shared a new teaser for League of Legends: New Dawn, a peek at what is coming in 2027, with the full reveal scheduled for January and the release planned for later in the year. In Riot's own teaser, two developers describe a big update that touches the client, Summoner's Rift, gameplay and the new player experience, including a visual revamp of Summoner's Rift and new ways to play champions.",
+       "pt": "A IGN diz que a equipa partilhou um novo teaser de League of Legends: New Dawn, um vislumbre do que vem em 2027, com a revelação completa marcada para janeiro e o lançamento previsto para mais tarde no ano. No teaser da própria Riot, dois programadores descrevem uma grande atualização que mexe no cliente, no Summoner's Rift, na jogabilidade e na experiência dos novos jogadores, incluindo uma renovação visual do Summoner's Rift e novas formas de jogar com os campeões."
+      }
+     ],
+     "chip": {
+      "en": "Reveal in Jan",
+      "pt": "Revelação em jan"
+     },
+     "link": {
+      "url": "https://nordic.ign.com/league-of-legends-1/115659/league-of-legends-new-dawn-official-teaser-trailer",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     }
+    },
+    {
+     "id": "r6vegas3",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · Ubisoft · Rainbow Six · Rumour",
+      "pt": "Jogos · Ubisoft · Rainbow Six · Rumor"
+     },
+     "headline": {
+      "en": "Rumour: Rainbow Six: Vegas 3 is reportedly in early development at Ubisoft Montreal",
+      "pt": "Rumor: Rainbow Six: Vegas 3 estará alegadamente em desenvolvimento inicial na Ubisoft Montreal"
+     },
+     "body": [
+      {
+       "en": "Rumour: Push Square relays an Insider Gaming report, based on anonymous sources, that Ubisoft has greenlit a third Rainbow Six: Vegas game. It is said to be one of three projects that have just started production at Ubisoft Montreal, with another also set in the Rainbow Six universe. Sources suggest it is most likely Vegas 3 and not a remake of earlier entries.",
+       "pt": "Rumor: a Push Square dá eco de uma notícia da Insider Gaming, baseada em fontes anónimas, segundo a qual a Ubisoft aprovou um terceiro Rainbow Six: Vegas. Seria um de três projetos que acabaram de entrar em produção na Ubisoft Montreal, com outro também passado no universo Rainbow Six. As fontes sugerem que será provavelmente Vegas 3 e não um remake dos anteriores."
+      },
+      {
+       "en": "It is described as very early, so no public reveal is expected for years, and the report itself allows that it could be cancelled. Ubisoft has not confirmed anything. The Vegas sub-series stopped in 2008 after Vegas 2.",
+       "pt": "É descrito como muito inicial, pelo que não se espera uma revelação pública durante anos, e a própria notícia admite que possa ser cancelado. A Ubisoft não confirmou nada. A subsérie Vegas parou em 2008, depois de Vegas 2."
+      }
+     ],
+     "chip": {
+      "en": "Rumour",
+      "pt": "Rumor"
+     },
+     "link": {
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "label": {
+       "en": "Read the full story at Push Square →",
+       "pt": "Ler a notícia completa em Push Square →"
+      }
+     }
+    },
+    {
+     "id": "supermeatboyagain",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · Team Meat · Super Meat Boy",
+      "pt": "Jogos · Team Meat · Super Meat Boy"
+     },
+     "headline": {
+      "en": "Team Meat announces Super Meat Boy Again+, a remake of the original platformer",
+      "pt": "A Team Meat anuncia Super Meat Boy Again+, um remake do jogo de plataformas original"
+     },
+     "body": [
+      {
+       "en": "Kotaku reports that Team Meat announced this weekend a return to the original obstacle courses with Super Meat Boy Again+. The studio promises the nostalgia of the original with new graphics, art, cutscenes and music from composer Danny Baranowsky, plus new levels and secrets. There is no release date yet.",
+       "pt": "A Kotaku noticia que a Team Meat anunciou este fim de semana o regresso aos percursos de obstáculos originais com Super Meat Boy Again+. O estúdio promete a nostalgia do original com gráficos, arte, cenas animadas e música novos do compositor Danny Baranowsky, além de níveis e segredos novos. Ainda não há data de lançamento."
+      }
+     ],
+     "chip": {
+      "en": "No date yet",
+      "pt": "Sem data"
+     },
+     "link": {
+      "url": "https://kotaku.com/team-meat-whips-out-remake-of-classic-brutal-platformersuper-meat-boy-2000756869",
+      "label": {
+       "en": "Read the full story at Kotaku →",
+       "pt": "Ler a notícia completa em Kotaku →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Pure Xbox",
+     "url": "https://www.purexbox.com/news/2026/11/three-classic-startup-animations-are-set-to-arrive-on-xbox-very-soon",
+     "text": {
+      "en": "says patch notes for the console update briefly listed three classic startup animations (original Xbox and the 2005 and 2010 Xbox 360) for Xbox's 25th anniversary on 15 November; the note was edited and none is live yet.",
+      "pt": "diz que as notas da atualização da consola chegaram a listar três animações de arranque clássicas (a Xbox original e a Xbox 360 de 2005 e de 2010) para o 25.º aniversário da Xbox, a 15 de novembro; a nota foi editada e nenhuma está ainda ativa."
+     }
+    },
+    {
+     "src": "Pure Xbox",
+     "url": "https://www.purexbox.com/news/2026/11/these-10plus-games-are-coming-to-xbox-next-week-november-16-20",
+     "text": {
+      "en": "rounds up more than 10 games coming to Xbox on 16-20 November, headed by GTA VI, with more Game Pass titles still to be announced.",
+      "pt": "resume mais de 10 jogos que chegam à Xbox de 16 a 20 de novembro, com GTA VI à cabeça, e ainda faltam anunciar mais títulos do Game Pass."
+     }
+    },
+    {
+     "src": "Pure Xbox",
+     "url": "https://www.purexbox.com/news/2026/11/five-games-are-confirmed-for-xbox-game-pass-in-december-2026-so-far",
+     "text": {
+      "en": "lists five games confirmed for Xbox Game Pass in December so far, including Freestyle Football 2 and the co-op title Dumpster Gang, which reaches PC Game Pass on 3 December.",
+      "pt": "lista cinco jogos já confirmados para o Xbox Game Pass em dezembro, entre eles Freestyle Football 2 e o título cooperativo Dumpster Gang, que chega ao PC Game Pass a 3 de dezembro."
+     }
+    },
+    {
+     "src": "Eurogamer",
+     "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+     "text": {
+      "en": "says the Call of Duty Endowment is marking Remembrance Day by promoting its Valor Pack, with 100% of Activision's net proceeds going to helping veterans find jobs.",
+      "pt": "diz que a Call of Duty Endowment assinala o Dia da Memória promovendo o seu Valor Pack, com 100% das receitas líquidas da Activision a reverter para ajudar veteranos a encontrar emprego."
+     }
+    },
+    {
+     "src": "IGN India",
+     "url": "https://in.ign.com/video/277082/mine-a-little-official-announcement-trailer",
+     "text": {
+      "en": "shares the announcement trailer for Mine a Little, a relaxing mining game from PotDev coming to Steam in 2027.",
+      "pt": "mostra o trailer de anúncio de Mine a Little, um jogo de mineração relaxante da PotDev que chega ao Steam em 2027."
+     }
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "topic": "movies",
+   "title": {
+    "en": "Movies",
+    "pt": "Filmes"
+   },
+   "subtitle": {
+    "en": "Movies · Box office, trailers and deals",
+    "pt": "Filmes · Bilheteira, trailers e negócios"
+   },
+   "items": [
+    {
+     "id": "ebenezerfriday",
+     "topic": "movies",
+     "kind": "feature",
+     "upd": true,
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=fJf1ECd36H8",
+      "img": "e025/ebenezer.jpg",
+      "alt": {
+       "en": "Paramount Pictures TV spot for Ebenezer with Draymond Green",
+       "pt": "Anúncio de televisão da Paramount Pictures para Ebenezer, com Draymond Green"
+      },
+      "duration": "0:58",
+      "caption": {
+       "en": "Paramount Pictures, 11 Nov (TV spot). Tap to watch on YouTube.",
+       "pt": "Paramount Pictures, 11 nov (anúncio de TV). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Box office · Paramount · Ebenezer · Update",
+      "pt": "Filmes · Bilheteira · Paramount · Ebenezer · Atualização"
+     },
+     "headline": {
+      "en": "Update: Johnny Depp's Ebenezer leads Friday with $6.7 million and an A- CinemaScore, while How to Rob a Bank stumbles",
+      "pt": "Atualização: Ebenezer, de Johnny Depp, lidera a sexta-feira com 6,7 milhões de dólares e nota A- no CinemaScore, enquanto How to Rob a Bank tropeça"
+     },
+     "deck": {
+      "en": "Opening-day numbers are in for the weekend's two big newcomers, in what Deadline calls a low weekend of about $80 million for all films.",
+      "pt": "Já há números do primeiro dia dos dois grandes estreantes do fim de semana, num fim de semana fraco que a Deadline estima em cerca de 80 milhões de dólares para todos os filmes."
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: Variety says Ti West's Ebenezer took $6.7 million on Friday, including Thursday previews, from 3,535 North American theatres, and is projected at $18 million to $20 million for the weekend, plus about $20 million overseas. The Hollywood Reporter adds an A- CinemaScore from audiences and a $38 million budget. Deadline says Paramount still hopes for $20 million but rivals see it lower, with families the hope for Saturday and premium large formats making up 36% of the gross.",
+       "pt": "O que há de novo desde a última edição: a Variety diz que Ebenezer, de Ti West, fez 6,7 milhões de dólares na sexta-feira, incluindo as antestreias de quinta, em 3535 salas norte-americanas, e tem projeção de 18 a 20 milhões para o fim de semana, mais cerca de 20 milhões no estrangeiro. A The Hollywood Reporter acrescenta nota A- no CinemaScore e um orçamento de 38 milhões de dólares. A Deadline diz que a Paramount ainda espera 20 milhões, mas a concorrência vê um valor menor, com as famílias como esperança para sábado e os formatos premium a representar 36% da bilheteira."
+      },
+      {
+       "en": "Amazon MGM's How to Rob a Bank made $2.2 million on Friday from 2,810 theatres and is tracking toward about $4.7 million, against a $40 million budget; Variety says it may rank seventh behind holdovers such as The Cat in the Hat and Godzilla Minus Zero. Sony's Ghost Soldier took $1.5 million on Friday and is projected at $4.9 million for the three days. All figures are projections; the weekend actuals come on Sunday.",
+       "pt": "How to Rob a Bank, da Amazon MGM, fez 2,2 milhões de dólares na sexta-feira em 2810 salas e caminha para cerca de 4,7 milhões, para um orçamento de 40 milhões; a Variety diz que poderá ficar em sétimo lugar, atrás de filmes já em exibição como The Cat in the Hat e Godzilla Minus Zero. Ghost Soldier, da Sony, fez 1,5 milhões na sexta-feira e tem projeção de 4,9 milhões para os três dias. Todos os valores são projeções; os números reais do fim de semana saem no domingo."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Friday (with previews)",
+        "pt": "Sexta-feira (com antestreias)"
+       },
+       "v": {
+        "en": "$6.7M, 3,535 theatres",
+        "pt": "6,7 M$, 3535 salas"
+       }
+      },
+      {
+       "k": {
+        "en": "Weekend projection",
+        "pt": "Projeção do fim de semana"
+       },
+       "v": {
+        "en": "$18-20M domestic",
+        "pt": "18 a 20 M$ nos EUA"
+       }
+      },
+      {
+       "k": {
+        "en": "Audience score",
+        "pt": "Nota do público"
+       },
+       "v": {
+        "en": "A- CinemaScore",
+        "pt": "A- no CinemaScore"
+       }
+      },
+      {
+       "k": {
+        "en": "Budget",
+        "pt": "Orçamento"
+       },
+       "v": {
+        "en": "$38M",
+        "pt": "38 M$"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-opening-how-to-rob-bank-1236755417/",
+       "name": "The Hollywood Reporter"
+      },
+      {
+       "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/comment-page-2",
+       "name": "Deadline"
+      },
+      {
+       "url": "https://screenrant.com/nicholas-hoult-how-to-rob-a-bank-box-office-opening-weekend-domestic-result/",
+       "name": "ScreenRant"
+      }
+     ]
+    },
+    {
+     "id": "hungersunrise",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=6CAR4HgLUsA",
+      "img": "e025/hunger.jpg",
+      "alt": {
+       "en": "Official The Hunger Games channel spot for Sunrise on the Reaping, one week before release",
+       "pt": "Anúncio do canal oficial de The Hunger Games para Sunrise on the Reaping, uma semana antes da estreia"
+      },
+      "duration": "0:21",
+      "caption": {
+       "en": "The Hunger Games (official), 13 Nov (spot). Tap to watch on YouTube.",
+       "pt": "The Hunger Games (oficial), 13 nov (anúncio). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Lionsgate · The Hunger Games · Release",
+      "pt": "Filmes · Lionsgate · The Hunger Games · Estreia"
+     },
+     "headline": {
+      "en": "The Hunger Games: Sunrise on the Reaping opens on 20 November, the same weekend as GTA VI",
+      "pt": "The Hunger Games: Sunrise on the Reaping estreia a 20 de novembro, no mesmo fim de semana que GTA VI"
+     },
+     "body": [
+      {
+       "en": "Collider notes that the film reaches theatres worldwide on 20 November, the same weekend Rockstar releases GTA VI. It runs 158 minutes and Francis Lawrence returns as director. The cast includes Joseph Zada as Haymitch Abernathy, Mckenna Grace, Jesse Plemons, Ralph Fiennes as President Snow, Elle Fanning, Glenn Close, Kieran Culkin, Ben Wang and Maya Hawke, and Collider says Jennifer Lawrence and Josh Hutcherson reprise their roles.",
+       "pt": "A Collider nota que o filme chega às salas de todo o mundo a 20 de novembro, no mesmo fim de semana em que a Rockstar lança GTA VI. Dura 158 minutos e Francis Lawrence regressa como realizador. O elenco inclui Joseph Zada como Haymitch Abernathy, Mckenna Grace, Jesse Plemons, Ralph Fiennes como o Presidente Snow, Elle Fanning, Glenn Close, Kieran Culkin, Ben Wang e Maya Hawke, e a Collider diz que Jennifer Lawrence e Josh Hutcherson repetem os seus papéis."
+      },
+      {
+       "en": "The franchise's official channel describes it as following sixteen-year-old Haymitch from District 12 on the morning of the reaping for the 50th Hunger Games, the Second Quarter Quell, with twice as many tributes.",
+       "pt": "O canal oficial da saga descreve-o como a história de Haymitch, de 16 anos, do Distrito 12, na manhã da colheita para os 50.os Jogos da Fome, o Segundo Quarter Quell, com o dobro de tributos."
+      }
+     ],
+     "chip": {
+      "en": "20 Nov",
+      "pt": "20 nov"
+     },
+     "link": {
+      "url": "https://collider.com/the-hunger-games-franchise-streaming-success-hulu-tubi-november-2026/",
+      "label": {
+       "en": "Read the full story at Collider →",
+       "pt": "Ler a notícia completa em Collider →"
+      }
+     }
+    },
+    {
+     "id": "godzillaminuszero",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Box office · Godzilla Minus Zero",
+      "pt": "Filmes · Bilheteira · Godzilla Minus Zero"
+     },
+     "headline": {
+      "en": "Godzilla Minus Zero is set to fall about 75% in its second weekend",
+      "pt": "Godzilla Minus Zero deverá cair cerca de 75% no segundo fim de semana"
+     },
+     "body": [
+      {
+       "en": "ScreenRant, citing Variety, says the sequel is projected at $7.5 million for its second three-day weekend, a 75% drop from a debut of $30.6 million on 6 November. That debut was the best ever domestic opening for a Japanese-language Godzilla film and for a live-action foreign-language movie.",
+       "pt": "A ScreenRant, citando a Variety, diz que a sequela tem projeção de 7,5 milhões de dólares no segundo fim de semana de três dias, uma queda de 75% face aos 30,6 milhões da estreia a 6 de novembro. Essa estreia foi a melhor de sempre nos EUA para um filme de Godzilla em japonês e para um filme de ação real em língua estrangeira."
+      },
+      {
+       "en": "Before this weekend it had a worldwide total of $72 million, more than four times its estimated $13-18 million budget, and it needs to pass the $114 million that Godzilla Minus One made globally to top its predecessor. These are projections.",
+       "pt": "Antes deste fim de semana tinha 72 milhões de dólares em todo o mundo, mais de quatro vezes o orçamento estimado de 13 a 18 milhões, e precisa de passar os 114 milhões que Godzilla Minus One fez globalmente para superar o antecessor. São projeções."
+      }
+     ],
+     "chip": {
+      "en": "-75% projected",
+      "pt": "-75% projetado"
+     },
+     "link": {
+      "url": "https://screenrant.com/godzilla-minus-zero-box-office-week-2-domestic-drop/",
+      "label": {
+       "en": "Read the full story at ScreenRant →",
+       "pt": "Ler a notícia completa em ScreenRant →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-1236755525/",
+     "text": {
+      "en": "says Chris Pratt \"would love\" to make a fourth Guardians of the Galaxy film with James Gunn if he wanted to.",
+      "pt": "diz que Chris Pratt \"adoraria\" fazer um quarto filme de Guardiões da Galáxia com James Gunn, se este quisesse."
+     }
+    },
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/fatherland-la-bola-negra-european-film-award-nominations-1236754942/",
+     "text": {
+      "en": "reports that Pawel Pawlikowski's Fatherland leads the European Film Awards nominations with 11, ahead of La Bola Negra with 10.",
+      "pt": "noticia que Fatherland, de Pawel Pawlikowski, lidera as nomeações para os Prémios do Cinema Europeu com 11, à frente de La Bola Negra, com 10."
+     }
+    },
+    {
+     "src": "Deadline",
+     "url": "https://deadline.com/2026/11/hoppers-daniel-chong-piper-curda-interview-1237224208",
+     "text": {
+      "en": "quotes Pixar's Hoppers director Daniel Chong saying comedy was the number one casting criterion, with Meryl Streep, Jon Hamm and Dave Franco in the voice cast.",
+      "pt": "cita o realizador de Hoppers, da Pixar, Daniel Chong, a dizer que a comédia foi o critério número um na escolha do elenco, com Meryl Streep, Jon Hamm e Dave Franco nas vozes."
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "topic": "tech",
+   "title": {
+    "en": "Tech",
+    "pt": "Tecnologia"
+   },
+   "subtitle": {
+    "en": "Tech · Space, policy and devices",
+    "pt": "Tecnologia · Espaço, política e dispositivos"
+   },
+   "items": [
+    {
+     "id": "vulcanscrub",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=FDW8cvuwxzM",
+      "img": "e025/vulcan.jpg",
+      "alt": {
+       "en": "United Launch Alliance video on preparing the Vulcan rocket for the Amazon Leo 1 mission",
+       "pt": "Vídeo da United Launch Alliance sobre a preparação do foguetão Vulcan para a missão Amazon Leo 1"
+      },
+      "duration": "1:35",
+      "caption": {
+       "en": "United Launch Alliance, 13 Nov (mission prep). Tap to watch on YouTube.",
+       "pt": "United Launch Alliance, 13 nov (preparação da missão). Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Tech · Space · ULA · Vulcan · Amazon Leo",
+      "pt": "Tecnologia · Espaço · ULA · Vulcan · Amazon Leo"
+     },
+     "headline": {
+      "en": "ULA scrubs Vulcan's return to flight for a second day, with the Amazon Leo launch now set for Sunday",
+      "pt": "A ULA volta a adiar o regresso do Vulcan ao voo, e o lançamento da Amazon Leo fica agora para domingo"
+     },
+     "deck": {
+      "en": "Two ground-systems problems in two days have kept 40 Amazon broadband satellites on the pad. The next attempt is on Sunday at 18:11 Angola time.",
+      "pt": "Dois problemas nos sistemas de solo em dois dias mantiveram 40 satélites de banda larga da Amazon na plataforma. A próxima tentativa é domingo, às 18:11 de Angola."
+     },
+     "body": [
+      {
+       "en": "Florida Today reports that United Launch Alliance scrubbed Vulcan's return-to-flight attempt for a second straight day on Saturday because of a network communication issue between the ground equipment and the launch vehicle. Fixing it needed a reconfiguration that would have run beyond the 29-minute launch window. The first scrub came on Friday, when the countdown was halted during fuelling after a power interruption at the Air Liquide gaseous nitrogen plant hampered the facility's high-pressure pumps.",
+       "pt": "A Florida Today noticia que a United Launch Alliance voltou a adiar, pelo segundo dia seguido, a tentativa de regresso ao voo do Vulcan no sábado, por causa de um problema de comunicação de rede entre o equipamento de solo e o veículo de lançamento. A correção exigia uma reconfiguração que ultrapassaria a janela de lançamento de 29 minutos. O primeiro adiamento foi na sexta-feira, quando a contagem foi parada durante o abastecimento, depois de uma interrupção de energia na fábrica de azoto gasoso da Air Liquide ter afetado as bombas de alta pressão da instalação."
+      },
+      {
+       "en": "ULA says the rocket and spacecraft remain healthy, and the next attempt is on Sunday 15 November at 12:11 pm US Eastern time (17:11 UTC), pending range approval. Vulcan flies with six solid boosters and 40 Amazon Leo satellites, in its return to flight after a booster anomaly on 12 February. Spaceflight Now's listing calls it the fifth Vulcan launch and the first in the VC6L configuration.",
+       "pt": "A ULA diz que o foguetão e a nave se mantêm em bom estado, e a próxima tentativa é no domingo, 15 de novembro, às 12:11 (hora do leste dos EUA), ou seja, 17:11 UTC, sujeita a aprovação da base. O Vulcan voa com seis propulsores sólidos e 40 satélites Amazon Leo, no regresso ao voo depois de uma anomalia num propulsor a 12 de fevereiro. A descrição da Spaceflight Now chama-lhe o quinto lançamento do Vulcan e o primeiro na configuração VC6L."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Mission",
+        "pt": "Missão"
+       },
+       "v": {
+        "en": "Amazon Leo 1 (LV-01)",
+        "pt": "Amazon Leo 1 (LV-01)"
+       }
+      },
+      {
+       "k": {
+        "en": "Rocket",
+        "pt": "Foguetão"
+       },
+       "v": {
+        "en": "ULA Vulcan, six solid boosters",
+        "pt": "ULA Vulcan, seis propulsores sólidos"
+       }
+      },
+      {
+       "k": {
+        "en": "Payload",
+        "pt": "Carga"
+       },
+       "v": {
+        "en": "40 Amazon Leo satellites",
+        "pt": "40 satélites Amazon Leo"
+       }
+      },
+      {
+       "k": {
+        "en": "New attempt",
+        "pt": "Nova tentativa"
+       },
+       "v": {
+        "en": "Sun 15 Nov, 12:11 pm Eastern (18:11 Angola)",
+        "pt": "Dom 15 nov, 12:11 (leste dos EUA), 18:11 em Angola"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.floridatoday.com/story/tech/science/space/2026/11/14/another-ula-vulcan-scrub-raises-stakes-for-return-to-flight-mission/92778993007/",
+      "label": {
+       "en": "Read the full story at Florida Today →",
+       "pt": "Ler a notícia completa em Florida Today →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.fox35orlando.com/news/ula-delays-vulcan-rocket-launch-due-communication-issue-officials",
+       "name": "Fox 35 Orlando"
+      }
+     ]
+    },
+    {
+     "id": "iceappsettlement",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "globe",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a globe",
+       "pt": "Ilustração de um globo"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Policy · FIRE · DOJ · DHS",
+      "pt": "Tecnologia · Política · FIRE · DOJ · DHS"
+     },
+     "headline": {
+      "en": "FIRE says the government agreed to back off ICE-monitoring groups and apps",
+      "pt": "A FIRE diz que o governo aceitou recuar na perseguição a grupos e aplicações de monitorização do ICE"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that FIRE, the free speech nonprofit that sued the Justice Department and the Department of Homeland Security, says the administration agreed to make a preliminary injunction permanent as part of a settlement. The Verge's summary gives no further terms, so check the full story for the detail.",
+       "pt": "A The Verge noticia que a FIRE, a organização sem fins lucrativos de defesa da liberdade de expressão que processou o Departamento de Justiça e o Departamento de Segurança Interna, diz que a administração aceitou tornar permanente uma providência cautelar como parte de um acordo. O resumo da The Verge não dá mais condições, por isso consulte a notícia completa para o detalhe."
+      }
+     ],
+     "chip": {
+      "en": "Settlement",
+      "pt": "Acordo"
+     },
+     "link": {
+      "url": "https://www.theverge.com/policy/1033915/government-settlement-ice-monitoring-groups-and-apps",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    },
+    {
+     "id": "sonypatent",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "photo",
+      "src": "https://www.engadget.com/img/gallery/this-sony-patent-would-add-a-credit-card-reader-to-your-playstation-controller/l-intro-1793989603.jpg",
+      "credit": "Engadget",
+      "alt": {
+       "en": "Engadget illustration for the Sony controller patent story",
+       "pt": "Ilustração da Engadget para a notícia da patente de comando da Sony"
+      },
+      "fallback": {
+       "icon": "controller",
+       "tone": "pu"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Sony · PlayStation · Patent",
+      "pt": "Tecnologia · Sony · PlayStation · Patente"
+     },
+     "headline": {
+      "en": "A Sony patent describes a PlayStation controller that could pass payment details from your phone to the console",
+      "pt": "Uma patente da Sony descreve um comando PlayStation que poderia passar dados de pagamento do telemóvel para a consola"
+     },
+     "body": [
+      {
+       "en": "Engadget describes a provisional patent filed in 2025, titled \"Video game controller-driven information transfer\". The controller would detect a nearby phone, which receives a signal and confirms, and the controller then passes payment or account information to the console, over NFC, Bluetooth or both. Triggers named include buying a game, entering gift card details or joining a multiplayer match, and the diagrams suggest a tap could log you in.",
+       "pt": "A Engadget descreve uma patente provisória registada em 2025, intitulada \"Video game controller-driven information transfer\". O comando detetaria um telemóvel próximo, que recebe um sinal e confirma, e o comando passaria então dados de pagamento ou de conta à consola, por NFC, Bluetooth ou ambos. Entre os gatilhos indicados estão comprar um jogo, introduzir dados de um cartão-oferta ou entrar numa partida multijogador, e os diagramas sugerem que um toque poderia iniciar sessão."
+      },
+      {
+       "en": "A provisional patent does not guarantee a product, and Sony has announced nothing; Engadget also notes that NFC controllers are not new, citing the Wii U GamePad and Switch Pro Controller.",
+       "pt": "Uma patente provisória não garante um produto, e a Sony não anunciou nada; a Engadget lembra também que os comandos com NFC não são novidade, citando o Wii U GamePad e o Switch Pro Controller."
+      }
+     ],
+     "chip": {
+      "en": "Patent only",
+      "pt": "Só patente"
+     },
+     "link": {
+      "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+      "label": {
+       "en": "Read the full story at Engadget →",
+       "pt": "Ler a notícia completa em Engadget →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Engadget",
+     "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+     "text": {
+      "en": "relays Digital Foundry's finding that the Nvidia graphics card closest to the base PS5's chip is the RTX 2070 Super, while stressing that the answer is not simple.",
+      "pt": "dá conta da conclusão da Digital Foundry de que a placa gráfica da Nvidia mais próxima do chip da PS5 base é a RTX 2070 Super, sublinhando que a resposta não é simples."
+     }
+    },
+    {
+     "src": "Engadget",
+     "url": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
+     "text": {
+      "en": "explains how to check whether your car is tracking your location and how to opt out, noting that most cars built in the past few years almost certainly are.",
+      "pt": "explica como verificar se o seu carro regista a sua localização e como a desativar, notando que quase de certeza a maioria dos carros dos últimos anos o faz."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "https://www.reuters.com/video/watch/idRW841714112026RP1/",
+     "text": {
+      "en": "carries a video report that China's COMAC electric plane completed its first crewed flight, according to state media.",
+      "pt": "tem uma reportagem em vídeo segundo a qual o avião elétrico da COMAC, da China, completou o seu primeiro voo tripulado, segundo a imprensa estatal."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "topic": "ai",
+   "title": {
+    "en": "A.I.",
+    "pt": "I.A."
+   },
+   "subtitle": {
+    "en": "A.I. · Industry, markets and power",
+    "pt": "I.A. · Indústria, mercados e poder"
+   },
+   "items": [
+    {
+     "id": "axiosfourcrises",
+     "topic": "ai",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "globe",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a globe",
+       "pt": "Ilustração de um globo"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Industry · Politics · Axios analysis",
+      "pt": "I.A. · Indústria · Política · Análise da Axios"
+     },
+     "headline": {
+      "en": "Axios: four colliding crises threaten AI's once-unstoppable ascent",
+      "pt": "Axios: quatro crises em colisão ameaçam a ascensão, outrora imparável, da I.A."
+     },
+     "deck": {
+      "en": "An Axios analysis says safety scares, political blows, financial turmoil and leadership scandals have converged within weeks.",
+      "pt": "Uma análise da Axios diz que sustos de segurança, golpes políticos, turbulência financeira e escândalos de liderança convergiram em poucas semanas."
+     },
+     "body": [
+      {
+       "en": "Axios says that just six weeks ago President Trump announced that top AI CEOs had agreed to a voluntary safety accord, but cracks were already showing. It lists four crises: safety, politics, finance and leadership. On safety, it reports that OpenAI and Anthropic are investigating tens of thousands of security incidents and that unvetted AI agents are accessing US bank accounts, per its colleague Madison Mills.",
+       "pt": "A Axios diz que, há apenas seis semanas, o Presidente Trump anunciou que os principais líderes de I.A. tinham aceitado um acordo voluntário de segurança, mas as fissuras já se notavam. Enumera quatro crises: segurança, política, finanças e liderança. Na segurança, noticia que a OpenAI e a Anthropic estão a investigar dezenas de milhares de incidentes de segurança e que agentes de I.A. não verificados estão a aceder a contas bancárias nos EUA, segundo a sua colega Madison Mills."
+      },
+      {
+       "en": "On politics, it says Democrats are surging to power and that guardrails for the industry will be a priority for the new Congress, with some populist Republicans eager to pile on. On finance, investors question when or whether sky-high spending will pay off, and Anthropic's projected IPO valuation is roughly $600 billion below what investors envisioned months ago. On leadership, it points to Jensen Huang's resignation. Axios adds a reality check: some of this is growing pains as investors demand returns and lawmakers seek accountability. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "Na política, diz que os democratas estão a ganhar poder e que as regras para o setor serão prioridade do novo Congresso, com alguns republicanos populistas ansiosos por se juntar. Nas finanças, os investidores questionam quando, ou se, a despesa astronómica dará retorno, e a avaliação projetada para a IPO da Anthropic fica cerca de 600 mil milhões de dólares abaixo do que os investidores imaginavam há meses. Na liderança, aponta a demissão de Jensen Huang. A Axios acrescenta uma nota de realismo: parte disto são dores de crescimento, com os investidores a exigir retorno e os legisladores a pedir responsabilidades. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Source",
+        "pt": "Fonte"
+       },
+       "v": {
+        "en": "Axios analysis, 14 Nov",
+        "pt": "Análise da Axios, 14 nov"
+       }
+      },
+      {
+       "k": {
+        "en": "Crises named",
+        "pt": "Crises indicadas"
+       },
+       "v": {
+        "en": "Safety, politics, finance, leadership",
+        "pt": "Segurança, política, finanças, liderança"
+       }
+      },
+      {
+       "k": {
+        "en": "Anthropic IPO valuation",
+        "pt": "Avaliação da IPO da Anthropic"
+       },
+       "v": {
+        "en": "About $600B below earlier hopes, per Axios",
+        "pt": "Cerca de 600 mil M$ abaixo do esperado, segundo a Axios"
+       }
+      },
+      {
+       "k": {
+        "en": "Trigger for politics",
+        "pt": "Gatilho político"
+       },
+       "v": {
+        "en": "Midterms and the new Congress",
+        "pt": "Eleições intercalares e o novo Congresso"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
+      "label": {
+       "en": "Read the full story at Axios →",
+       "pt": "Ler a notícia completa em Axios →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-11-14/",
+       "name": "Reuters Breakingviews"
+      }
+     ]
+    },
+    {
+     "id": "anthropicipo5",
+     "topic": "ai",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · IPO · Update",
+      "pt": "I.A. · Anthropic · IPO · Atualização"
+     },
+     "headline": {
+      "en": "Update: Anthropic's shares are expected to start trading on 19 November",
+      "pt": "Atualização: as ações da Anthropic deverão começar a ser negociadas a 19 de novembro"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: CNBC says Anthropic is about to go public, with trading expected to begin on 19 November, in what it calls one of the biggest IPOs on record. Our previous edition reported pricing on 18 November. CNBC profiles the seven co-founders, who started the company in 2021: Dario and Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish and Chris Olah.",
+       "pt": "O que há de novo desde a última edição: a CNBC diz que a Anthropic está prestes a abrir o capital, com a negociação prevista para 19 de novembro, naquela que descreve como uma das maiores IPO de sempre. A nossa edição anterior noticiava a fixação do preço a 18 de novembro. A CNBC traça o perfil dos sete cofundadores, que criaram a empresa em 2021: Dario e Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish e Chris Olah."
+      },
+      {
+       "en": "Axios says the projected valuation is roughly $600 billion below what investors envisioned just months ago, and Reuters Breakingviews describes it as one of the largest IPOs ever, in the middle of a nervous week for AI stocks. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "A Axios diz que a avaliação projetada fica cerca de 600 mil milhões de dólares abaixo do que os investidores imaginavam há poucos meses, e a Reuters Breakingviews descreve-a como uma das maiores IPO de sempre, numa semana nervosa para as ações de I.A. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "Trading 19 Nov",
+      "pt": "Negociação 19 nov"
+     },
+     "link": {
+      "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+      "label": {
+       "en": "Read the full story at CNBC →",
+       "pt": "Ler a notícia completa em CNBC →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
+       "name": "Axios"
+      },
+      {
+       "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-11-14/",
+       "name": "Reuters Breakingviews"
+      }
+     ]
+    },
+    {
+     "id": "nvidiakress",
+     "topic": "ai",
+     "kind": "card",
+     "upd": true,
+     "media": {
+      "type": "icon",
+      "icon": "chip",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a computer chip",
+       "pt": "Ilustração de um chip de computador"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Nvidia · Leadership · Update",
+      "pt": "I.A. · Nvidia · Liderança · Atualização"
+     },
+     "headline": {
+      "en": "Update: Nvidia's interim CEO Colette Kress faces her first earnings report on 17 November",
+      "pt": "Atualização: a CEO interina da Nvidia, Colette Kress, apresenta os seus primeiros resultados a 17 de novembro"
+     },
+     "body": [
+      {
+       "en": "What's new since the last edition: The Economic Times says Colette Kress, the CFO who is interim CEO after Jensen Huang's resignation, will report Nvidia's quarterly results on 17 November, five days after taking over. Harvey C. Jones was named the board's first chair, and the board is searching for a permanent chief executive, internal or external. The Economic Times says the shares fell 13% on the day of the announcement.",
+       "pt": "O que há de novo desde a última edição: o Economic Times diz que Colette Kress, a diretora financeira que é CEO interina depois da demissão de Jensen Huang, vai apresentar os resultados trimestrais da Nvidia a 17 de novembro, cinco dias depois de assumir o cargo. Harvey C. Jones foi nomeado o primeiro presidente do conselho, e o conselho procura um CEO permanente, interno ou externo. O Economic Times diz que as ações caíram 13% no dia do anúncio."
+      },
+      {
+       "en": "The Verge reports that Elon Musk said it would be \"an honor\" to hire Huang. AP says Huang resigned after reports of extramarital affairs, including one with a woman US intelligence suspects of being a Chinese spy, which Beijing denies, and a separate relationship with a direct report.",
+       "pt": "A The Verge noticia que Elon Musk disse que seria \"uma honra\" contratar Huang. A AP diz que Huang se demitiu depois de notícias sobre casos extraconjugais, incluindo um com uma mulher que os serviços secretos dos EUA suspeitam ser espia chinesa, o que Pequim nega, e uma relação separada com uma subordinada direta."
+      }
+     ],
+     "chip": {
+      "en": "Earnings 17 Nov",
+      "pt": "Resultados 17 nov"
+     },
+     "link": {
+      "url": "https://www.economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nvidia-shares-plunge-10-after-jensen-huang-quits-as-ceo-colette-kress-named-interim-chief/printarticle/135773196.cms",
+      "label": {
+       "en": "Read the full story at The Economic Times →",
+       "pt": "Ler a notícia completa em The Economic Times →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.theverge.com/tech/1033869/of-course-elon-musk-wants-jensen-huang-to-get-his-job-back",
+       "name": "The Verge"
+      },
+      {
+       "url": "https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-1-43-p-m-est/article_ea1bfcd7-fb9d-5666-a0ac-a3e5e5e82520.html",
+       "name": "AP"
+      }
+     ]
+    },
+    {
+     "id": "aimusicawards",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "duet",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of two overlapping speech shapes",
+       "pt": "Ilustração de duas formas de diálogo sobrepostas"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Music · Awards · Reuters",
+      "pt": "I.A. · Música · Prémios · Reuters"
+     },
+     "headline": {
+      "en": "The first US AI Music Awards go to Xania Monet, an AI-generated avatar",
+      "pt": "Os primeiros Prémios de Música com I.A. nos EUA vão para Xania Monet, uma personagem gerada por I.A."
+     },
+     "body": [
+      {
+       "en": "Reuters reports that the first AI Music Awards ceremony in the US, held on Friday, celebrated people who made songs at least partly with AI. The top awards for AI artist, song and album of the year all went to Xania Monet, an AI-generated avatar known for \"How Was I Supposed to Know?\", which Billboard said was the first song by an AI-based act to reach one of its radio charts.",
+       "pt": "A Reuters noticia que a primeira cerimónia dos Prémios de Música com I.A. nos EUA, realizada na sexta-feira, celebrou pessoas que criaram canções, pelo menos em parte, com I.A. Os principais prémios de artista, canção e álbum de I.A. do ano foram todos para Xania Monet, uma personagem gerada por I.A. conhecida por \"How Was I Supposed to Know?\", que a Billboard disse ter sido a primeira canção de um projeto baseado em I.A. a entrar numa das suas tabelas de rádio."
+      },
+      {
+       "en": "The field remains contested: record labels have sued AI companies including Anthropic and OpenAI over the use of copyrighted works for training, as has the Elvis Presley estate, and the companies say fair use protects them. Disclosure: Anthropic makes the Claude model that helps compile this magazine.",
+       "pt": "O setor continua em disputa: editoras discográficas processaram empresas de I.A., incluindo a Anthropic e a OpenAI, pelo uso de obras protegidas no treino, tal como a herança de Elvis Presley, e as empresas dizem que o uso legítimo as protege. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "First ceremony",
+      "pt": "Primeira cerimónia"
+     },
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WP0CR?channel=bcd525",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Wired",
+     "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+     "text": {
+      "en": "says fully AI-powered ransomware attacks have yet to emerge, though criminals do appear to use LLMs for some of the more mundane parts of their attacks.",
+      "pt": "diz que ainda não surgiram ataques de ransomware totalmente alimentados por I.A., embora os criminosos pareçam usar modelos de linguagem em partes mais banais dos ataques."
+     }
+    },
+    {
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
+     "text": {
+      "en": "talks to its senior writer Morgan Meaker about couples increasingly turning to AI chatbots for advice and mediation during arguments.",
+      "pt": "conversa com a redatora sénior Morgan Meaker sobre casais que recorrem cada vez mais a chatbots de I.A. para conselhos e mediação durante discussões."
+     }
+    },
+    {
+     "src": "VentureBeat",
+     "url": "https://venturebeat.com/security/the-fake-app-on-an-employees-phone-could-be-a-gateway-into-your-enterprise",
+     "text": {
+      "en": "warns that generative AI has made counterfeit mobile apps more convincing, turning a fake app on an employee's phone into a possible gateway into the enterprise.",
+      "pt": "alerta que a I.A. generativa tornou as aplicações móveis falsas mais convincentes, fazendo de uma aplicação falsa no telemóvel de um funcionário uma possível porta de entrada na empresa."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETMI92742257007?channel=qru766",
+     "text": {
+      "en": "asks whether Michigan could repeal its data center tax exemptions, which took effect in April 2025, after some Democrats who backed them reversed course.",
+      "pt": "pergunta se o Michigan poderá revogar as isenções fiscais para centros de dados, em vigor desde abril de 2025, depois de alguns democratas que as apoiaram terem mudado de posição."
+     }
+    }
+   ]
+  },
+  {
+   "id": "comics",
+   "topic": "comics",
+   "title": {
+    "en": "Comic Books",
+    "pt": "Banda desenhada"
+   },
+   "subtitle": {
+    "en": "Comic Books · New series, reprints and collections",
+    "pt": "Banda desenhada · Novas séries, reedições e coleções"
+   },
+   "items": [
+    {
+     "id": "mountainsbelong",
+     "topic": "comics",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://bleedingcool.com/wp-content/uploads/2026/11/image-2000x1125.jpg",
+      "credit": "Bleeding Cool",
+      "alt": {
+       "en": "Bleeding Cool image for The Mountains Belong To Us by Benjamin Dickson and Charlie Adlard",
+       "pt": "Imagem da Bleeding Cool para The Mountains Belong To Us, de Benjamin Dickson e Charlie Adlard"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Thought Bubble · Charlie Adlard · Benjamin Dickson",
+      "pt": "Banda desenhada · Thought Bubble · Charlie Adlard · Benjamin Dickson"
+     },
+     "headline": {
+      "en": "Charlie Adlard swaps The Walking Dead for talking sheep in The Mountains Belong To Us, due in 2027",
+      "pt": "Charlie Adlard troca The Walking Dead por ovelhas faladoras em The Mountains Belong To Us, prevista para 2027"
+     },
+     "deck": {
+      "en": "The new comic with writer Benjamin Dickson was unveiled with free samplers at Thought Bubble, ahead of an official publisher announcement.",
+      "pt": "A nova banda desenhada, com o argumentista Benjamin Dickson, foi apresentada com amostras gratuitas no Thought Bubble, antes de um anúncio oficial da editora."
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool reports that Dickson and Adlard launched the comic at Thought Bubble in Harrogate, England, giving away sampler copies ahead of an official publisher announcement later this week. Dickson is known for the graphic novel Chamberlain and Adlard for most of The Walking Dead.",
+       "pt": "A Bleeding Cool noticia que Dickson e Adlard lançaram a banda desenhada no Thought Bubble, em Harrogate, Inglaterra, oferecendo amostras antes de um anúncio oficial da editora ainda esta semana. Dickson é conhecido pela novela gráfica Chamberlain e Adlard pela maior parte de The Walking Dead."
+      },
+      {
+       "en": "The story follows a young woman who loses her father on the way to a convent, is taken in by a shepherd and takes over his flock when he is drafted to war, with the talking sheepdog Max. The publisher has not been named yet.",
+       "pt": "A história segue uma jovem que perde o pai a caminho de um convento, é acolhida por um pastor e fica com o rebanho dele quando este é recrutado para a guerra, com o cão pastor falante Max. A editora ainda não foi revelada."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Writer",
+        "pt": "Argumento"
+       },
+       "v": {
+        "en": "Benjamin Dickson",
+        "pt": "Benjamin Dickson"
+       }
+      },
+      {
+       "k": {
+        "en": "Artist",
+        "pt": "Desenho"
+       },
+       "v": {
+        "en": "Charlie Adlard",
+        "pt": "Charlie Adlard"
+       }
+      },
+      {
+       "k": {
+        "en": "Debut",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "Sampler at Thought Bubble, 14 Nov",
+        "pt": "Amostra no Thought Bubble, 14 nov"
+       }
+      },
+      {
+       "k": {
+        "en": "Publisher",
+        "pt": "Editora"
+       },
+       "v": {
+        "en": "To be announced",
+        "pt": "A anunciar"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://bleedingcool.com/comics/charlie-adlard-swaps-walking-dead-for-talking-sheep-in-his-new-comic/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    },
+    {
+     "id": "trekhidden",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "rocket",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a rocket",
+       "pt": "Ilustração de um foguetão"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · IDW · Star Trek",
+      "pt": "Banda desenhada · IDW · Star Trek"
+     },
+     "headline": {
+      "en": "IDW's Star Trek #4 will introduce a new enemy, the Hidden, in January 2027",
+      "pt": "Star Trek #4, da IDW, vai apresentar um novo inimigo, os Hidden, em janeiro de 2027"
+     },
+     "body": [
+      {
+       "en": "CBR reports that IDW's January 2027 solicitations reveal that, in Star Trek #4, the crew of the Enterprise-G becomes trapped in the uncharted Epsilon Corridor with no way home, and a race called the Hidden reveals itself. Christopher Cantwell writes and Dennis Menheere draws, and the issue goes on sale on 20 January 2027.",
+       "pt": "A CBR noticia que as solicitações da IDW para janeiro de 2027 revelam que, em Star Trek #4, a tripulação da Enterprise-G fica presa no inexplorado Corredor Epsilon, sem caminho de volta, e uma raça chamada Hidden se revela. Christopher Cantwell escreve e Dennis Menheere desenha, e o número chega às lojas a 20 de janeiro de 2027."
+      },
+      {
+       "en": "CBR adds that the Star Trek 60th Anniversary Special from September 2026 included a prequel segment, by Cantwell and Isaac Sánchez González, that hints at the Hidden.",
+       "pt": "A CBR acrescenta que o Star Trek 60th Anniversary Special, de setembro de 2026, incluía um segmento prequela, de Cantwell e Isaac Sánchez González, que sugere os Hidden."
+      }
+     ],
+     "chip": {
+      "en": "20 Jan 2027",
+      "pt": "20 jan 2027"
+     },
+     "link": {
+      "url": "https://www.cbr.com/star-trek-4-new-villain-the-hidden/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "printwatchabs",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · DC · Image · Reprints",
+      "pt": "Banda desenhada · DC · Image · Reedições"
+     },
+     "headline": {
+      "en": "Absolute Batman #25 gets a second printing, as DC and Image send more hits back to press",
+      "pt": "Absolute Batman #25 ganha segunda tiragem, enquanto a DC e a Image mandam mais êxitos de volta à impressão"
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool's PrintWatch says Absolute Batman #25 by Scott Snyder and Nick Dragotta returns for a second printing timed to the release of #26 on 13 January. DC is also sending the Detective Comics #880 Facsimile Edition, with Jock's cover, back to print for 6 January 2027.",
+       "pt": "O PrintWatch da Bleeding Cool diz que Absolute Batman #25, de Scott Snyder e Nick Dragotta, regressa numa segunda tiragem, a coincidir com o lançamento do #26 a 13 de janeiro. A DC manda também de volta à impressão a Edição Facsimile de Detective Comics #880, com capa de Jock, para 6 de janeiro de 2027."
+      },
+      {
+       "en": "On the Image side, Last Driver #1 by Sean Gordon Murphy gets a fifth printing on 16 December, with #2 on a third printing and #3 on a second.",
+       "pt": "Do lado da Image, Last Driver #1, de Sean Gordon Murphy, tem uma quinta tiragem a 16 de dezembro, com o #2 numa terceira e o #3 numa segunda."
+      }
+     ],
+     "chip": {
+      "en": "2nd printing",
+      "pt": "2.ª tiragem"
+     },
+     "link": {
+      "url": "https://bleedingcool.com/comics/printwatch-absolute-batman-last-driver-mark-spears-my-little-pony/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    },
+    {
+     "id": "asm1003top",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "photo",
+      "src": "https://bleedingcool.com/wp-content/uploads/2026/08/ASM20251003-cov-2000x1125.jpg",
+      "credit": "Bleeding Cool",
+      "alt": {
+       "en": "Cover art used by Bleeding Cool for its weekly bestseller chart",
+       "pt": "Arte de capa usada pela Bleeding Cool na sua tabela semanal de mais vendidos"
+      },
+      "fallback": {
+       "icon": "bars",
+       "tone": "gd"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Marvel · Sales chart",
+      "pt": "Banda desenhada · Marvel · Tabela de vendas"
+     },
+     "headline": {
+      "en": "Amazing Spider-Man #1003 tops Bleeding Cool's weekly comic shop bestseller list",
+      "pt": "Amazing Spider-Man #1003 lidera a tabela semanal de mais vendidos das lojas de BD da Bleeding Cool"
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool's Wednesday-to-weekend list, built from ComicHub point-of-sale data from 120 to 150 comic shops, puts Amazing Spider-Man #1003 first, ahead of Daredevil #9, with Image's Transformers #38 third. Marvel takes six of the top 11, DC three and Image one, and DC slips to seventh in a week without Absolute or Batman titles.",
+       "pt": "A tabela de quarta-feira ao fim de semana da Bleeding Cool, feita com dados de ponto de venda da ComicHub de 120 a 150 lojas de BD, põe Amazing Spider-Man #1003 em primeiro, à frente de Daredevil #9, com Transformers #38, da Image, em terceiro. A Marvel fica com seis dos 11 primeiros, a DC com três e a Image com um, e a DC desce ao sétimo lugar numa semana sem títulos Absolute ou Batman."
+      },
+      {
+       "en": "The figures reflect in-store sales, not publisher orders, and cover Wednesday to Friday only.",
+       "pt": "Os valores refletem vendas em loja, não encomendas das editoras, e cobrem apenas de quarta a sexta-feira."
+      }
+     ],
+     "chip": {
+      "en": "No. 1 this week",
+      "pt": "N.º 1 da semana"
+     },
+     "link": {
+      "url": "https://bleedingcool.com/comics/amazing-spider-man-1003-wins-the-weeks-top-11-comics-bestseller-list/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "CBR",
+     "url": "https://www.cbr.com/sonic-hedgehog-return-classic-characters-new-releases-preorder-now/",
+     "text": {
+      "en": "says Dark Horse Direct has opened pre-orders for Sonic and Tails vinyl figures, the first of its new Sonic line, due in Q3 2027, while IDW's Sonic comic joins the \"IDW Goes Dark\" horror push in 2027.",
+      "pt": "diz que a Dark Horse Direct abriu as encomendas das figuras de vinil de Sonic e Tails, as primeiras da sua nova linha Sonic, previstas para o 3.º trimestre de 2027, enquanto a BD Sonic da IDW junta-se em 2027 à vaga de terror \"IDW Goes Dark\"."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/fantastic-four-19-preview-family-stargazing-goes-horribly-wrong/",
+     "text": {
+      "en": "previews Fantastic Four #19, by Ryan North and Ramon Rosanas, which starts \"The Dark Forest\" storyline on 18 November.",
+      "pt": "mostra uma antevisão de Fantastic Four #19, de Ryan North e Ramon Rosanas, que inicia a saga \"The Dark Forest\" a 18 de novembro."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/gambit-wanted-4-preview-remys-chilling-mistake-revealed/",
+     "text": {
+      "en": "previews Gambit: Wanted #4, with Chris Claremont's return to Remy LeBeau, on sale 18 November.",
+      "pt": "mostra uma antevisão de Gambit: Wanted #4, com o regresso de Chris Claremont a Remy LeBeau, à venda a 18 de novembro."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manga",
+   "topic": "manga",
+   "title": {
+    "en": "Manga",
+    "pt": "Manga"
+   },
+   "subtitle": {
+    "en": "Manga · Licensing, adaptations and events",
+    "pt": "Manga · Licenciamento, adaptações e eventos"
+   },
+   "items": [
+    {
+     "id": "janindanger",
+     "topic": "manga",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/High-School-Family-Shonen-Jump-Manga-Logo.jpg?resize=2000,1125",
+      "credit": "ComicBook.com",
+      "alt": {
+       "en": "Logo of High School Family, the previous Shonen Jump series by Ryo Nakama, used by ComicBook.com",
+       "pt": "Logótipo de High School Family, a anterior série de Ryo Nakama na Shonen Jump, usado pela ComicBook.com"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "red"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shueisha · Weekly Shonen Jump · Ryo Nakama",
+      "pt": "Manga · Shueisha · Weekly Shonen Jump · Ryo Nakama"
+     },
+     "headline": {
+      "en": "Shonen Jump launches Jan Is in Danger! by returning creator Ryo Nakama, as Witch Watch heads for its finale",
+      "pt": "A Shonen Jump lança Jan Is in Danger!, do regressado Ryo Nakama, enquanto Witch Watch caminha para o final"
+     },
+     "deck": {
+      "en": "Nakama returns to the magazine after three years, the first of three new titles this month and the last wave of new entries this year.",
+      "pt": "Nakama regressa à revista ao fim de três anos, o primeiro de três títulos novos este mês e a última vaga de estreias deste ano."
+     },
+     "body": [
+      {
+       "en": "ComicBook.com reports that Jan Is in Danger! debuts in the next issue of Shueisha's Weekly Shonen Jump this weekend (no exact date is given), with a first look teasing a parody in the vein of Nakama's earlier work. Nakama was last in the magazine with High School Family: Kokosei Kazoku, which started in 2020 and ended in 2023.",
+       "pt": "A ComicBook.com noticia que Jan Is in Danger! estreia no próximo número da Weekly Shonen Jump, da Shueisha, este fim de semana (sem data exata), com uma primeira imagem que sugere uma paródia na linha do trabalho anterior de Nakama. Nakama esteve na revista pela última vez com High School Family: Kokosei Kazoku, que começou em 2020 e terminou em 2023."
+      },
+      {
+       "en": "The same report says Kenta Shinohara's Witch Watch will end with its next chapter. A High School Family live-action film is scheduled for Japanese theatres next January, directed by Toichiro Ruto; no international release has been announced.",
+       "pt": "A mesma notícia diz que Witch Watch, de Kenta Shinohara, vai terminar no próximo capítulo. Um filme de imagem real de High School Family está previsto para as salas japonesas em janeiro próximo, realizado por Toichiro Ruto; não foi anunciada estreia internacional."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Series",
+        "pt": "Série"
+       },
+       "v": {
+        "en": "Jan Is in Danger!",
+        "pt": "Jan Is in Danger!"
+       }
+      },
+      {
+       "k": {
+        "en": "Creator",
+        "pt": "Autor"
+       },
+       "v": {
+        "en": "Ryo Nakama",
+        "pt": "Ryo Nakama"
+       }
+      },
+      {
+       "k": {
+        "en": "Magazine",
+        "pt": "Revista"
+       },
+       "v": {
+        "en": "Weekly Shonen Jump (Shueisha)",
+        "pt": "Weekly Shonen Jump (Shueisha)"
+       }
+      },
+      {
+       "k": {
+        "en": "Ending",
+        "pt": "Final"
+       },
+       "v": {
+        "en": "Witch Watch ends with its next chapter",
+        "pt": "Witch Watch termina no próximo capítulo"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://comicbook.com/anime/news/shonen-jump-shares-first-look-at-major-creators-return-after-3-years/",
+      "label": {
+       "en": "Read the full story at ComicBook.com →",
+       "pt": "Ler a notícia completa em ComicBook.com →"
+      }
+     }
+    },
+    {
+     "id": "spyvsdandadan",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "photo",
+      "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/12/dandadan-anime-manga.jpg?w=1200&h=675&fit=crop",
+      "credit": "CBR",
+      "alt": {
+       "en": "CBR image of the Dandadan manga and anime",
+       "pt": "Imagem da CBR do manga e do anime de Dandadan"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "t"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Sales · Oricon · Spy x Family · Dandadan",
+      "pt": "Manga · Vendas · Oricon · Spy x Family · Dandadan"
+     },
+     "headline": {
+      "en": "Spy x Family Vol. 18 outsells Dandadan Vol. 26 about four to one on Oricon's weekly chart",
+      "pt": "Spy x Family vol. 18 vende cerca de quatro vezes mais do que Dandadan vol. 26 na tabela semanal da Oricon"
+     },
+     "body": [
+      {
+       "en": "CBR reports on Oricon's top-10 manga chart for 2-8 November: Spy x Family Vol. 18 is first with an estimated 253,866 copies since its 4 November release, ahead of Dandadan Vol. 26, released the same day, with an estimated 63,028. Sakamoto Days Vol. 29 is third with 58,100.",
+       "pt": "A CBR noticia a tabela dos 10 manga mais vendidos da Oricon de 2 a 8 de novembro: Spy x Family vol. 18 está em primeiro com cerca de 253 866 exemplares estimados desde o lançamento a 4 de novembro, à frente de Dandadan vol. 26, lançado no mesmo dia, com cerca de 63 028. Sakamoto Days vol. 29 é terceiro, com 58 100."
+      },
+      {
+       "en": "CBR notes that Dandadan has sold over 14 million copies worldwide since 2021, and that both series have 2027 anime plans: Spy x Family Season 4 and a second film, and Dandadan Season 3.",
+       "pt": "A CBR nota que Dandadan vendeu mais de 14 milhões de exemplares em todo o mundo desde 2021, e que ambas as séries têm planos de anime para 2027: a 4.ª temporada de Spy x Family e um segundo filme, e a 3.ª temporada de Dandadan."
+      }
+     ],
+     "chip": {
+      "en": "253,866 copies",
+      "pt": "253 866 exemplares"
+     },
+     "link": {
+      "url": "https://www.cbr.com/dandadan-spy-x-family-manga-sales-2026/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "rezero5",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Light novel · Anime · Re:Zero",
+      "pt": "Manga · Light novel · Anime · Re:Zero"
+     },
+     "headline": {
+      "en": "Re:Zero gets a fifth anime season, announced at its 10th-anniversary event",
+      "pt": "Re:Zero vai ter uma quinta temporada de anime, anunciada no evento do 10.º aniversário"
+     },
+     "body": [
+      {
+       "en": "Natalie reports that production of a fifth season of the Re:Zero -Starting Life in Another World- TV anime was announced on 14 November at the series' 10th-anniversary event in Tachikawa, Tokyo, with an \"ultra teaser\" visual. Season 4 aired in two parts, in April and August this year.",
+       "pt": "A Natalie noticia que a produção de uma quinta temporada do anime de TV Re:Zero -Starting Life in Another World- foi anunciada a 14 de novembro no evento do 10.º aniversário da série, em Tachikawa, Tóquio, com uma imagem \"ultra teaser\". A 4.ª temporada foi emitida em duas partes, em abril e agosto deste ano."
+      },
+      {
+       "en": "Original author Tappei Nagatsuki commented that Arc 6, covered by season 4, was called the franchise's hardest, but that the road through the following Arc 7 is just as punishing. No broadcast date has been announced.",
+       "pt": "O autor original, Tappei Nagatsuki, comentou que o Arco 6, coberto pela 4.ª temporada, foi chamado o mais difícil da saga, mas que o caminho pelo Arco 7 seguinte é igualmente duro. Não foi anunciada data de emissão."
+      }
+     ],
+     "chip": {
+      "en": "No date yet",
+      "pt": "Sem data"
+     },
+     "link": {
+      "url": "https://natalie.mu/comic/news/698061",
+      "label": {
+       "en": "Read the full story at Natalie →",
+       "pt": "Ler a notícia completa em Natalie →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "ComicBook.com",
+     "url": "https://comicbook.com/anime/news/bleach-creator-returns-with-new-look-at-ichigo-after-animes-finale/",
+     "text": {
+      "en": "says Bleach creator Tite Kubo posted a new Ichigo sketch on 12 November to mark the anime's finale; Hulu's English dub of episode 49 arrives on 23 November, and no adaptation of the Hell Arc has been announced.",
+      "pt": "diz que o autor de Bleach, Tite Kubo, publicou a 12 de novembro um novo esboço de Ichigo para assinalar o final do anime; a dobragem inglesa do episódio 49 chega à Hulu a 23 de novembro, e não foi anunciada a adaptação do Arco do Inferno."
+     }
+    },
+    {
+     "src": "Natalie",
+     "url": "https://natalie.mu/comic/news/698082",
+     "text": {
+      "en": "reports that the Love Live! Hasunosora Girls' Academy School Idol Club TV anime starts on 10 January 2027 on TOKYO MX and other stations, with a new PV shown at the Love Live! Fes.",
+      "pt": "noticia que o anime de TV Love Live! Hasunosora Girls' Academy School Idol Club estreia a 10 de janeiro de 2027 na TOKYO MX e noutros canais, com um novo PV mostrado no Love Live! Fes."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manhwa",
+   "topic": "manhwa",
+   "title": {
+    "en": "Manhwa",
+    "pt": "Manhwa"
+   },
+   "subtitle": {
+    "en": "Manhwa · Webtoons and their adaptations",
+    "pt": "Manhwa · Webtoons e as suas adaptações"
+   },
+   "items": [
+    {
+     "id": "sololeveling3",
+     "topic": "manhwa",
+     "kind": "feature",
+     "media": {
+      "type": "photo",
+      "src": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/d8eac33e-445e-4396-a6e7-bdee678bea23-1.jpg?w=1600&h=900&fit=crop",
+      "credit": "CBR",
+      "alt": {
+       "en": "CBR image for the Solo Leveling: Ragnarok Season 3 English release story",
+       "pt": "Imagem da CBR para a notícia do lançamento em inglês da 3.ª temporada de Solo Leveling: Ragnarok"
+      },
+      "fallback": {
+       "icon": "book",
+       "tone": "pu"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Tappytoon · KakaoPage · Solo Leveling: Ragnarok",
+      "pt": "Manhwa · Tappytoon · KakaoPage · Solo Leveling: Ragnarok"
+     },
+     "headline": {
+      "en": "Solo Leveling: Ragnarok Season 3 gets a weekly English release on Tappytoon",
+      "pt": "Solo Leveling: Ragnarok, 3.ª temporada, passa a ter lançamento semanal em inglês na Tappytoon"
+     },
+     "deck": {
+      "en": "The sequel webtoon is back after a roughly ten-month hiatus, with a new artist and a fixed English schedule.",
+      "pt": "A sequela em webtoon está de volta depois de uma pausa de cerca de dez meses, com um novo artista e um calendário fixo em inglês."
+     },
+     "body": [
+      {
+       "en": "CBR reports that Season 3 began on 4 November in Korean on KakaoPage, ending a hiatus of nearly ten months that started when original artist JIN was called to mandatory military service. The new artist is Sanjimseung, credited as M.Beast on Tappytoon. Tappytoon has announced that English episodes will drop every Saturday at 12 pm US Eastern time, and the first two Season 3 episodes were already on the platform as of 11 November.",
+       "pt": "A CBR noticia que a 3.ª temporada começou a 4 de novembro em coreano na KakaoPage, pondo fim a uma pausa de quase dez meses que começou quando o artista original, JIN, foi chamado para o serviço militar obrigatório. O novo artista é Sanjimseung, creditado como M.Beast na Tappytoon. A Tappytoon anunciou que os episódios em inglês saem todos os sábados às 12:00 (hora do leste dos EUA), e os dois primeiros episódios da 3.ª temporada já estavam na plataforma a 11 de novembro."
+      },
+      {
+       "en": "The English run trails the Korean one, which releases on Wednesdays on KakaoPage, by about a week. CBR links the Tappytoon deal to the planned shutdown of Tapas, D&C Media's own English platform. A caution: several dates in CBR's article do not match the weekdays it names (17 and 18 November fall on a Tuesday and a Wednesday), so check Tappytoon for exact release days.",
+       "pt": "A edição em inglês fica cerca de uma semana atrás da coreana, que sai às quartas-feiras na KakaoPage. A CBR liga o acordo da Tappytoon ao encerramento anunciado da Tapas, a plataforma inglesa da própria D&C Media. Uma ressalva: várias datas no artigo da CBR não coincidem com os dias da semana que indica (17 e 18 de novembro caem numa terça e numa quarta), por isso confirme na Tappytoon os dias exatos de lançamento."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Korean Season 3",
+        "pt": "3.ª temporada em coreano"
+       },
+       "v": {
+        "en": "From 4 Nov on KakaoPage, Wednesdays",
+        "pt": "Desde 4 nov na KakaoPage, às quartas"
+       }
+      },
+      {
+       "k": {
+        "en": "English release",
+        "pt": "Edição em inglês"
+       },
+       "v": {
+        "en": "Tappytoon, Saturdays 12 pm Eastern",
+        "pt": "Tappytoon, sábados às 12:00 (leste dos EUA)"
+       }
+      },
+      {
+       "k": {
+        "en": "Artist",
+        "pt": "Artista"
+       },
+       "v": {
+        "en": "Sanjimseung (M.Beast)",
+        "pt": "Sanjimseung (M.Beast)"
+       }
+      },
+      {
+       "k": {
+        "en": "Hiatus",
+        "pt": "Pausa"
+       },
+       "v": {
+        "en": "Nearly 10 months (JIN's military service)",
+        "pt": "Quase 10 meses (serviço militar de JIN)"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.cbr.com/solo-leveling-ragnarok-season-3-english-release-date/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    }
+   ],
+   "brief": []
+  }
+ ],
+ "footer": {
+  "en": "Compiled from 32 outlets, 54 articles, 6 videos. Summaries only; see the linked sources. Video thumbnails belong to their channels (Space Affairs, Paramount Pictures, IGN, GameTrailers, The Hunger Games (official), United Launch Alliance). Next edition tomorrow at 09:00 Angola time.",
+  "pt": "Compilado a partir de 32 meios, 54 artigos e 6 vídeos. Apenas resumos; consulte as fontes ligadas. As miniaturas dos vídeos pertencem aos respetivos canais (Space Affairs, Paramount Pictures, IGN, GameTrailers, The Hunger Games (oficial), United Launch Alliance). Próxima edição amanhã às 09:00, hora de Angola."
+ },
+ "footerline": "The Daily Respawn · Edition 025 · 15 Nov 2026, 09:45 Angola time · 32 outlets · 54 articles · 6 videos"
+}

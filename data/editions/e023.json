@@ -1,0 +1,2064 @@
+{
+ "id": "e023",
+ "number": 23,
+ "publishedAt": "2026-11-13T09:45:00+01:00",
+ "cover": {
+  "img": "e023/cover.jpg",
+  "alt": {
+   "en": "Bloomberg Television report on Jensen Huang resigning as Nvidia CEO",
+   "pt": "Reportagem da Bloomberg Television sobre a demissão de Jensen Huang como CEO da Nvidia"
+  },
+  "target": "huang",
+  "headline": {
+   "en": "Nvidia CEO Jensen Huang resigns after reports of affairs, and CFO Colette Kress takes over as interim chief",
+   "pt": "O CEO da Nvidia, Jensen Huang, demite-se após relatos de relações extraconjugais, e a diretora financeira Colette Kress assume interinamente"
+  }
+ },
+ "note": [
+  {
+   "en": "Friday's issue opens with Nvidia CEO Jensen Huang's resignation, and brings Wolfenstein 3, GTA 6's final week, Ebenezer's opening, Pixar's Gatto, Congress's chip-curb push, Gemini 4 Hydrogen, Anthropic's oversubscribed IPO, the Star Wars/Marvel midnight release, the Chained Soldier return date and the Wi-Fi Love in the Palace stills. Rumours are marked as such and follow-ups are marked as updates. Disclosure: Anthropic makes the Claude model that helps compile this magazine, and it is covered in the A.I. section.",
+   "pt": "A edição de sexta-feira abre com a demissão do CEO da Nvidia, Jensen Huang, e traz Wolfenstein 3, a última semana de GTA 6, a estreia de Ebenezer, o Gatto da Pixar, a pressão no Congresso por limites aos chips, o Gemini 4 Hydrogen, a OPI da Anthropic com procura excedida, o lançamento à meia-noite de Star Wars/Marvel, a data de regresso de Chained Soldier e as imagens de Wi-Fi Love in the Palace. Os rumores estão assinalados como tal e as sequências estão marcadas como atualizações. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista, e é abordada na secção de I.A."
+  },
+  {
+   "en": "New since the last edition: since Edition 022 (12 Nov, 09:14), 27 new stories and 2 updates, plus 24 quick hits. Manhwa had a light day, with two items.",
+   "pt": "Novidades desde a última edição: desde a Edição 022 (12 nov, 09:14), 27 notícias novas e 2 atualizações, mais 24 breves. A secção de Manhwa teve um dia calmo, com dois itens."
+  }
+ ],
+ "sections": [
+  {
+   "id": "cover-section",
+   "topic": "cover-section",
+   "title": {
+    "en": "Cover story",
+    "pt": "História de capa"
+   },
+   "subtitle": {
+    "en": "Tech · Leadership",
+    "pt": "Tecnologia · Liderança"
+   },
+   "items": [
+    {
+     "id": "huang",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=d5hcfvtggJo",
+      "img": "e023/cover.jpg",
+      "alt": {
+       "en": "Bloomberg Television report on Jensen Huang resigning as Nvidia CEO",
+       "pt": "Reportagem da Bloomberg Television sobre a demissão de Jensen Huang como CEO da Nvidia"
+      },
+      "duration": "0:56",
+      "caption": {
+       "en": "Bloomberg Television, 12 Nov. Tap to watch on YouTube.",
+       "pt": "Bloomberg Television, 12 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Cover story · Tech · Nvidia · Leadership · 12 Nov",
+      "pt": "História de capa · Tecnologia · Nvidia · Liderança · 12 nov"
+     },
+     "headline": {
+      "en": "Nvidia CEO Jensen Huang resigns after reports of affairs, and CFO Colette Kress takes over as interim chief",
+      "pt": "O CEO da Nvidia, Jensen Huang, demite-se após relatos de relações extraconjugais, e a diretora financeira Colette Kress assume interinamente"
+     },
+     "deck": {
+      "en": "The chipmaker's founder and CEO of 33 years steps down at a moment of heavy scrutiny of its role in the AI boom and in US-China chip policy.",
+      "pt": "O fundador e CEO de há 33 anos sai num momento de forte escrutínio ao papel da empresa no boom da IA e na política de chips entre os EUA e a China."
+     },
+     "body": [
+      {
+       "en": "CNET reports that Nvidia co-founder Jensen Huang resigned as chief executive on Thursday, days after news that he had an affair with an executive at Megaspeed, a Singapore-based data-centre company that buys Nvidia chips and that US authorities suspect of ties to Chinese spying. The Verge says the board accepted his resignation as CEO, president and board member, effective immediately.",
+       "pt": "A CNET noticia que o cofundador da Nvidia, Jensen Huang, se demitiu de presidente executivo na quinta-feira, dias depois de se saber que tinha tido uma relação com uma executiva da Megaspeed, uma empresa de centros de dados sediada em Singapura que compra chips da Nvidia e que as autoridades norte-americanas suspeitam de ligações à espionagem chinesa. A The Verge diz que o conselho aceitou a demissão de CEO, presidente e administrador, com efeito imediato."
+      },
+      {
+       "en": "CFO Colette Kress is interim CEO while the board searches for a permanent successor from inside and outside the company, and former Synopsys CEO Harvey C. Jones becomes the first board chair in Nvidia's history. Reuters reports that Huang, who holds about 3.61% of the company, also leaves the board. The Verge, citing Reuters, adds a report of a further relationship with an Nvidia employee; these are reports, and Huang had not commented in the coverage we saw.",
+       "pt": "A diretora financeira Colette Kress é CEO interina enquanto o conselho procura um sucessor permanente, interno ou externo, e o antigo CEO da Synopsys Harvey C. Jones passa a ser o primeiro presidente do conselho na história da Nvidia. A Reuters noticia que Huang, que detém cerca de 3,61% da empresa, sai também do conselho. A The Verge, citando a Reuters, acrescenta o relato de outra relação com uma funcionária da Nvidia; são relatos, e Huang não tinha feito comentários na cobertura que vimos."
+      },
+      {
+       "en": "Axios says Nvidia has shed more than $1 trillion in market value since the scandal broke, and The Verge reports the stock closed down 4.3% on Thursday. A proposed class action was filed on Monday, and the board hired former prosecutor Joon H. Kim and the law firm Wachtell, Lipton, Rosen & Katz for an independent investigation. President Trump posted that Apple's Tim Cook should take the job.",
+       "pt": "A Axios diz que a Nvidia perdeu mais de um bilião de dólares em valor de mercado desde que o caso veio a público, e a The Verge noticia que as ações fecharam em queda de 4,3% na quinta-feira. Foi apresentada na segunda-feira uma ação coletiva proposta, e o conselho contratou o antigo procurador Joon H. Kim e a sociedade Wachtell, Lipton, Rosen & Katz para uma investigação independente. O Presidente Trump publicou que o cargo devia ser de Tim Cook, da Apple."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Interim CEO",
+        "pt": "CEO interina"
+       },
+       "v": {
+        "en": "Colette Kress",
+        "pt": "Colette Kress"
+       }
+      },
+      {
+       "k": {
+        "en": "Board chair",
+        "pt": "Presidente do conselho"
+       },
+       "v": {
+        "en": "Harvey C. Jones",
+        "pt": "Harvey C. Jones"
+       }
+      },
+      {
+       "k": {
+        "en": "Market cap",
+        "pt": "Valor de mercado"
+       },
+       "v": {
+        "en": "About $4 trillion",
+        "pt": "Cerca de 4 biliões de dólares"
+       }
+      },
+      {
+       "k": {
+        "en": "Stock, 12 Nov",
+        "pt": "Ações, 12 nov"
+       },
+       "v": {
+        "en": "Down 4.3%",
+        "pt": "Em queda de 4,3%"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.cnet.com/tech/services-and-software/nvidia-ceo-jensen-huang-resigns/",
+      "label": {
+       "en": "Read the full story at CNET →",
+       "pt": "Ler a notícia completa em CNET →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia",
+       "name": "The Verge"
+      },
+      {
+       "url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/",
+       "name": "Reuters"
+      },
+      {
+       "url": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
+       "name": "Axios"
+      },
+      {
+       "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+       "name": "The Verge"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "topic": "games",
+   "title": {
+    "en": "Games",
+    "pt": "Jogos"
+   },
+   "subtitle": {
+    "en": "Games · Industry, releases and reveals",
+    "pt": "Jogos · Indústria, lançamentos e revelações"
+   },
+   "items": [
+    {
+     "id": "wolfenstein3",
+     "topic": "games",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=FahRj6Ky6vw",
+      "img": "e023/wolfenstein.jpg",
+      "alt": {
+       "en": "Spot The X video on the Xbox 25th anniversary announcements, including Wolfenstein 3",
+       "pt": "Vídeo do Spot The X sobre os anúncios do 25.º aniversário da Xbox, incluindo Wolfenstein 3"
+      },
+      "duration": "9:32",
+      "caption": {
+       "en": "Spot The X, 13 Nov. Tap to watch on YouTube.",
+       "pt": "Spot The X, 13 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Xbox · Bethesda · MachineGames · Wolfenstein 3",
+      "pt": "Jogos · Xbox · Bethesda · MachineGames · Wolfenstein 3"
+     },
+     "headline": {
+      "en": "Xbox confirms Wolfenstein 3 is in production at MachineGames",
+      "pt": "A Xbox confirma que Wolfenstein 3 está em produção na MachineGames"
+     },
+     "deck": {
+      "en": "The studio behind The New Order and The New Colossus returns to the series nine years after its last mainline entry, as part of Xbox's 25th anniversary week.",
+      "pt": "O estúdio de The New Order e The New Colossus regressa à série nove anos depois da última entrada principal, na semana do 25.º aniversário da Xbox."
+     },
+     "body": [
+      {
+       "en": "PC Gamer and Push Square report that Xbox CEO Asha Sharma announced on Thursday that MachineGames is making Wolfenstein 3, posting a photo of the script's opening page, whose first chapter is titled \"Nazitraz\". MachineGames added: \"His reputation precedes him. Wolfenstein 3 is in production.\" Its own post carried a motion-capture photo of Debra Wilson, who played Grace Walker in The New Colossus.",
+       "pt": "A PC Gamer e o Push Square noticiam que a CEO da Xbox, Asha Sharma, anunciou na quinta-feira que a MachineGames está a fazer Wolfenstein 3, publicando uma foto da primeira página do guião, cujo primeiro capítulo se chama \"Nazitraz\". A MachineGames acrescentou: \"A sua reputação precede-o. Wolfenstein 3 está em produção.\" A publicação do estúdio incluía uma foto de captura de movimento de Debra Wilson, que interpretou Grace Walker em The New Colossus."
+      },
+      {
+       "en": "The Verge, citing IGN, says Brian Bloom and Debra Wilson are reprising their roles as BJ Blazkowicz and Grace Walker. There is no word on platforms or a release window, and Push Square says it is probably still a few years away. The last mainline game, Wolfenstein II: The New Colossus, came out in 2017. The Verge notes the news arrives days after Bethesda confirmed that the next Elder Scrolls game is called The Elder Scrolls VI: Sentinel.",
+       "pt": "A The Verge, citando a IGN, diz que Brian Bloom e Debra Wilson regressam como BJ Blazkowicz e Grace Walker. Não há informação sobre plataformas nem data de lançamento, e o Push Square diz que provavelmente ainda faltam alguns anos. O último jogo principal, Wolfenstein II: The New Colossus, saiu em 2017. A The Verge nota que a notícia surge dias depois de a Bethesda confirmar que o próximo Elder Scrolls se chama The Elder Scrolls VI: Sentinel."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Studio",
+        "pt": "Estúdio"
+       },
+       "v": {
+        "en": "MachineGames",
+        "pt": "MachineGames"
+       }
+      },
+      {
+       "k": {
+        "en": "Status",
+        "pt": "Estado"
+       },
+       "v": {
+        "en": "In production",
+        "pt": "Em produção"
+       }
+      },
+      {
+       "k": {
+        "en": "Last mainline",
+        "pt": "Último jogo principal"
+       },
+       "v": {
+        "en": "2017",
+        "pt": "2017"
+       }
+      },
+      {
+       "k": {
+        "en": "Platforms",
+        "pt": "Plataformas"
+       },
+       "v": {
+        "en": "Not announced",
+        "pt": "Por anunciar"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+      "label": {
+       "en": "Read the full story at PC Gamer →",
+       "pt": "Ler a notícia completa em PC Gamer →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.pushsquare.com/news/2026/11/wolfenstein-3-announced-now-in-the-works-at-machinegames",
+       "name": "Push Square"
+      },
+      {
+       "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-announces-major-new-bethesda-games-in-the-works-including-wolfenstein-3",
+       "name": "Pure Xbox"
+      },
+      {
+       "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+       "name": "The Verge"
+      }
+     ]
+    },
+    {
+     "id": "idnext",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=46iBb-vTRGw",
+      "img": "e023/idsoft.jpg",
+      "alt": {
+       "en": "IGN trailer for the Slaughter Mode update for DOOM: The Dark Ages - Revelations",
+       "pt": "Trailer da IGN para a atualização Slaughter Mode de DOOM: The Dark Ages - Revelations"
+      },
+      "duration": "3:08",
+      "caption": {
+       "en": "IGN, 12 Nov. Tap to watch on YouTube.",
+       "pt": "IGN, 12 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · id Software · Doom · Xbox",
+      "pt": "Jogos · id Software · Doom · Xbox"
+     },
+     "headline": {
+      "en": "id Software confirms a new game with Hugo Martin directing, and Doom's Slaughter Mode arrives on 16 November",
+      "pt": "A id Software confirma um novo jogo com direção de Hugo Martin, e o Slaughter Mode de Doom chega a 16 de novembro"
+     },
+     "body": [
+      {
+       "en": "Video Games Chronicle and IGN report that id Software is working on its next game, from its teams in Texas and Frankfurt, with Hugo Martin once again as game director. The studio says it will be some time before it shares more, and has not said what the game is.",
+       "pt": "O Video Games Chronicle e a IGN noticiam que a id Software está a trabalhar no seu próximo jogo, das equipas do Texas e de Frankfurt, com Hugo Martin de novo como diretor de jogo. O estúdio diz que vai demorar a partilhar mais e não revelou que jogo é."
+      },
+      {
+       "en": "The announcement follows Xbox layoffs that hit id, with VGC putting the job losses at 136 people. VGC adds that former id developers have founded the studio Hidden Horses and are crowdfunding a single-player shooter called Danger Pay. Slaughter Mode, an endless mode, is a free update for owners of the Revelations expansion.",
+       "pt": "O anúncio segue-se aos despedimentos na Xbox que afetaram a id, com o VGC a apontar 136 pessoas. O VGC acrescenta que antigos programadores da id fundaram o estúdio Hidden Horses e estão a angariar fundos para um jogo de tiros de um só jogador chamado Danger Pay. O Slaughter Mode, um modo sem fim, é uma atualização gratuita para quem tem a expansão Revelations."
+      }
+     ],
+     "chip": {
+      "en": "Slaughter Mode · 16 Nov",
+      "pt": "Slaughter Mode · 16 nov"
+     },
+     "link": {
+      "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
+      "label": {
+       "en": "Read the full story at Video Games Chronicle →",
+       "pt": "Ler a notícia completa em Video Games Chronicle →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://pk.ign.com/doom-year-zero/264027/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
+       "name": "IGN"
+      }
+     ]
+    },
+    {
+     "id": "gta6week",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=tgBXU7hJ-y8",
+      "img": "e023/gta6.jpg",
+      "alt": {
+       "en": "Waypoint H.Q video on the GTA 6 preload and launch-week calendar",
+       "pt": "Vídeo do Waypoint H.Q sobre o pré-carregamento de GTA 6 e o calendário da semana de lançamento"
+      },
+      "duration": "7:09",
+      "caption": {
+       "en": "Waypoint H.Q, 10 Nov. Tap to watch on YouTube.",
+       "pt": "Waypoint H.Q, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Games · Rockstar · GTA 6 · Launch week",
+      "pt": "Jogos · Rockstar · GTA 6 · Semana de lançamento"
+     },
+     "headline": {
+      "en": "GTA 6 is one week from launch, and IGN says it is the most pre-ordered game on both Xbox and PlayStation stores",
+      "pt": "GTA 6 está a uma semana do lançamento, e a IGN diz que é o jogo mais pré-encomendado nas lojas da Xbox e da PlayStation"
+     },
+     "body": [
+      {
+       "en": "IGN reports that Rockstar has shared more in-game clips of Miami-style footage that many viewers took for real video, and that the game can already be preloaded ahead of its 19 November release. Xbox and PlayStation both confirmed it is the most pre-ordered title in their digital stores' history, and IGN says analysts estimate it has already passed $1 billion in sales before launch.",
+       "pt": "A IGN noticia que a Rockstar partilhou mais clipes de jogo com imagens ao estilo de Miami que muitos espectadores tomaram por vídeo real, e que o jogo já pode ser pré-carregado antes do lançamento a 19 de novembro. A Xbox e a PlayStation confirmaram que é o título mais pré-encomendado da história das suas lojas digitais, e a IGN diz que os analistas estimam que já ultrapassou mil milhões de dólares em vendas antes do lançamento."
+      }
+     ],
+     "chip": {
+      "en": "Launch 19 Nov",
+      "pt": "Lançamento 19 nov"
+     },
+     "link": {
+      "url": "https://www.ign.com/articles/new-gta-6-in-game-footage-continues-to-highlight-the-games-unbelievable-graphics",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     }
+    },
+    {
+     "id": "xbox25",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "console",
+      "tone": "g",
+      "alt": {
+       "en": "Illustration of a game console",
+       "pt": "Ilustração de uma consola de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Games · Xbox · Asha Sharma · 25th anniversary",
+      "pt": "Jogos · Xbox · Asha Sharma · 25.º aniversário"
+     },
+     "headline": {
+      "en": "Xbox turns 25 on Sunday, and Asha Sharma's essay imagines small teams building worlds that once needed hundreds of developers",
+      "pt": "A Xbox faz 25 anos no domingo, e o ensaio de Asha Sharma imagina pequenas equipas a criar mundos que antes exigiam centenas de programadores"
+     },
+     "body": [
+      {
+       "en": "IGN reports that Sharma's essay says \"a single person will soon be able to wield capabilities that once required entire nations\" and that a small team will build worlds that now demand hundreds of developers. IGN notes the essay avoids naming AI but its meaning is clear.",
+       "pt": "A IGN noticia que o ensaio de Sharma diz que \"uma única pessoa poderá em breve usar capacidades que antes exigiam nações inteiras\" e que uma pequena equipa vai construir mundos que hoje pedem centenas de programadores. A IGN nota que o ensaio evita nomear a IA, mas o sentido é claro."
+      },
+      {
+       "en": "IGN recalls that Sharma oversaw 1,600 job losses at Xbox in July and set out plans for a further 1,600 over the rest of the year, so the vision is unlikely to reassure staff.",
+       "pt": "A IGN recorda que Sharma supervisionou 1600 despedimentos na Xbox em julho e apresentou planos para mais 1600 no resto do ano, pelo que a visão dificilmente tranquilizará os funcionários."
+      }
+     ],
+     "chip": {
+      "en": "Anniversary 15 Nov",
+      "pt": "Aniversário 15 nov"
+     },
+     "link": {
+      "url": "https://www.ign.com/articles/as-xbox-turns-25-ceo-asha-sharma-says-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     }
+    },
+    {
+     "id": "gdcsurvey",
+     "topic": "games",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "g",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Games · Industry · GDC survey",
+      "pt": "Jogos · Indústria · Inquérito da GDC"
+     },
+     "headline": {
+      "en": "GDC survey: 40% of developers use generative AI, and one in three was laid off in the past two years",
+      "pt": "Inquérito da GDC: 40% dos programadores usam IA generativa, e um em cada três foi despedido nos últimos dois anos"
+     },
+     "body": [
+      {
+       "en": "IGN and Video Games Chronicle report on the 15th State of the Game Industry survey, answered by more than 2,600 industry professionals. 40% say they use generative AI tools at work, up four points, yet 55% think it has a negative impact on games.",
+       "pt": "A IGN e o Video Games Chronicle dão conta do 15.º inquérito State of the Game Industry, respondido por mais de 2600 profissionais. 40% dizem usar ferramentas de IA generativa no trabalho, mais quatro pontos, mas 55% acham que tem impacto negativo nos jogos."
+      },
+      {
+       "en": "34% of respondents were laid off in the past two years (39% in the US). Only 10% are working on PS6 and 8% on Xbox Project Helix, while Switch 2 interest rose to 47%. The next GDC is on 1-4 March 2027 in San Francisco.",
+       "pt": "34% dos inquiridos foram despedidos nos últimos dois anos (39% nos EUA). Só 10% trabalham em PS6 e 8% em Xbox Project Helix, enquanto o interesse na Switch 2 subiu para 47%. A próxima GDC realiza-se de 1 a 4 de março de 2027 em São Francisco."
+      }
+     ],
+     "chip": {
+      "en": "2,600+ respondents",
+      "pt": "Mais de 2600 inquiridos"
+     },
+     "link": {
+      "url": "https://sea.ign.com/playstation-6/251893/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
+      "label": {
+       "en": "Read the full story at IGN →",
+       "pt": "Ler a notícia completa em IGN →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.videogameschronicle.com/news/one-in-three-games-industry-professionals-surveyed-by-gdc-were-laid-off-in-the-past-two-years-more-than-in-its-last-report/",
+       "name": "Video Games Chronicle"
+      }
+     ]
+    }
+   ],
+   "brief": [
+    {
+     "src": "GameSpot",
+     "url": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
+     "text": {
+      "en": "says The Game Awards will air on Disney+ this year and Disney has teased \"major announcements and surprises\" for its games; IGN's Nordic site gives the date as Thursday 10 December.",
+      "pt": "diz que os The Game Awards vão passar no Disney+ este ano e que a Disney prometeu \"grandes anúncios e surpresas\" para os seus jogos; o site nórdico da IGN indica a data de quinta-feira, 10 de dezembro."
+     }
+    },
+    {
+     "src": "Insider Gaming",
+     "url": "https://insider-gaming.com/sol-mates-release-date-january-2027/",
+     "text": {
+      "en": "reports that co-op roguelike Sol Mates launches on Steam on 26 January 2027, with a free demo available now.",
+      "pt": "noticia que o roguelike cooperativo Sol Mates chega ao Steam a 26 de janeiro de 2027, com uma demo gratuita já disponível."
+     }
+    },
+    {
+     "src": "GameSpot",
+     "url": "https://www.gamespot.com/articles/candy-crush-is-celebrating-xboxs-25th-anniversary-with-halo-fallout-and-doom-crossovers-including-remixed-music/",
+     "text": {
+      "en": "reports that Candy Crush Saga's \"Game On\" season runs to 6 December with Halo, Fallout, Doom and other Xbox crossovers.",
+      "pt": "noticia que a temporada \"Game On\" de Candy Crush Saga decorre até 6 de dezembro, com cruzamentos com Halo, Fallout, Doom e outras marcas Xbox."
+     }
+    },
+    {
+     "src": "IGN",
+     "url": "https://za.ign.com/marvel-1943-rise-of-hydra/245401/naughty-dogs-intergalactic-is-in-the-last-stages-of-production-ign-daily-fix",
+     "text": {
+      "en": "says Naughty Dog describes Intergalactic: The Heretic Prophet as being in the \"last stages of production\".",
+      "pt": "diz que a Naughty Dog descreve Intergalactic: The Heretic Prophet como estando nas \"últimas fases de produção\"."
+     }
+    },
+    {
+     "src": "IGN",
+     "url": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
+     "text": {
+      "en": "reports that GTA 6's Burger Shot is coming to Skinny Louie stores across Florida from 13 November to 31 December, with a menu inspired by the game.",
+      "pt": "noticia que o Burger Shot de GTA 6 chega às lojas Skinny Louie por toda a Florida de 13 de novembro a 31 de dezembro, com um menu inspirado no jogo."
+     }
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "topic": "movies",
+   "title": {
+    "en": "Movies",
+    "pt": "Filmes"
+   },
+   "subtitle": {
+    "en": "Movies · Box office, trailers and deals",
+    "pt": "Filmes · Bilheteira, trailers e negócios"
+   },
+   "items": [
+    {
+     "id": "ebenezer",
+     "topic": "movies",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=54nvO8uZwMk",
+      "img": "e023/ebenezer.jpg",
+      "alt": {
+       "en": "Show Me The Movie upload of the Ebenezer trailer with Johnny Depp",
+       "pt": "Vídeo do Show Me The Movie com o trailer de Ebenezer, com Johnny Depp"
+      },
+      "duration": "1:26",
+      "caption": {
+       "en": "Show Me The Movie, 10 Nov. Tap to watch on YouTube.",
+       "pt": "Show Me The Movie, 10 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Paramount · Ebenezer · Box office",
+      "pt": "Filmes · Paramount · Ebenezer · Bilheteira"
+     },
+     "headline": {
+      "en": "Johnny Depp's Ebenezer opens this weekend with a projected $20 million in North America",
+      "pt": "Ebenezer, com Johnny Depp, estreia-se este fim de semana com uma projeção de 20 milhões de dólares na América do Norte"
+     },
+     "deck": {
+      "en": "Paramount's Dickens reimagining is expected to win the weekend, but reviews are divided and a second wide release looks soft.",
+      "pt": "A releitura de Dickens da Paramount deve ganhar o fim de semana, mas as críticas dividem-se e uma segunda estreia ampla parece fraca."
+     },
+     "body": [
+      {
+       "en": "The Hollywood Reporter says Paramount opens Ti West's horror-tinged take on A Christmas Carol in more than 3,500 North American locations, projecting about $20 million domestically and another $20 million internationally, which would likely put it at number one. Critics are split, with a 50% Rotten Tomatoes approval, though THR's review says it restores Depp to A-list status.",
+       "pt": "A The Hollywood Reporter diz que a Paramount estreia a versão de Ti West de A Christmas Carol, com toques de terror, em mais de 3500 salas norte-americanas, projetando cerca de 20 milhões de dólares no mercado interno e outros 20 milhões no estrangeiro, o que a deveria colocar em primeiro lugar. A crítica está dividida, com 50% de aprovação no Rotten Tomatoes, embora a crítica da THR diga que devolve Depp ao estatuto de estrela de primeira linha."
+      },
+      {
+       "en": "The other wide opener is David Leitch's How to Rob a Bank from Amazon MGM Studios. THR projects a high single-digit opening against a $40 million budget, and IndieWire expects less than $10 million from 2,810 theatres. Depp's next film is Lionsgate's Day Drinker in March 2027.",
+       "pt": "A outra grande estreia é How to Rob a Bank, de David Leitch, da Amazon MGM Studios. A THR projeta uma abertura de um dígito alto contra um orçamento de 40 milhões de dólares, e a IndieWire espera menos de 10 milhões em 2810 salas. O próximo filme de Depp é Day Drinker, da Lionsgate, em março de 2027."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Opens",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "13 Nov",
+        "pt": "13 nov"
+       }
+      },
+      {
+       "k": {
+        "en": "Director",
+        "pt": "Realizador"
+       },
+       "v": {
+        "en": "Ti West",
+        "pt": "Ti West"
+       }
+      },
+      {
+       "k": {
+        "en": "US projection",
+        "pt": "Projeção EUA"
+       },
+       "v": {
+        "en": "About $20M",
+        "pt": "Cerca de 20 M$"
+       }
+      },
+      {
+       "k": {
+        "en": "Rotten Tomatoes",
+        "pt": "Rotten Tomatoes"
+       },
+       "v": {
+        "en": "50%",
+        "pt": "50%"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-career-comeback-paramount-1236754032/",
+      "label": {
+       "en": "Read the full story at The Hollywood Reporter →",
+       "pt": "Ler a notícia completa em The Hollywood Reporter →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.indiewire.com/features/general/how-to-rob-a-bank-imagine-entertainment-box-office-whalefall-flop-1235222918/",
+       "name": "IndieWire"
+      }
+     ]
+    },
+    {
+     "id": "gatto",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=fq7Q-dtIZeM",
+      "img": "e023/gatto.jpg",
+      "alt": {
+       "en": "Pixar's official trailer for Gatto",
+       "pt": "Trailer oficial de Gatto, da Pixar"
+      },
+      "duration": "2:23",
+      "caption": {
+       "en": "Pixar, 12 Nov. Tap to watch on YouTube.",
+       "pt": "Pixar, 12 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Pixar · Gatto · Trailer",
+      "pt": "Filmes · Pixar · Gatto · Trailer"
+     },
+     "headline": {
+      "en": "Pixar's Gatto trailer introduces a mobster cat in Venice, with Mark Ruffalo and Laurence Fishburne",
+      "pt": "O trailer de Gatto, da Pixar, apresenta um gato mafioso em Veneza, com Mark Ruffalo e Laurence Fishburne"
+     },
+     "body": [
+      {
+       "en": "Variety reports that Pixar released a new trailer for its original animated film Gatto, about a scrappy black cat named Nero in Venice who is in debt to feline mob boss Rocco. Mark Ruffalo voices Nero and Laurence Fishburne voices Rocco.",
+       "pt": "A Variety noticia que a Pixar lançou um novo trailer do filme de animação original Gatto, sobre um gato preto astuto chamado Nero, em Veneza, que está em dívida com o chefe da máfia felina Rocco. Mark Ruffalo dá voz a Nero e Laurence Fishburne a Rocco."
+      },
+      {
+       "en": "The film opens in theatres on 5 March 2027. Enrico Casarosa directs, per IGN's video description.",
+       "pt": "O filme estreia nos cinemas a 5 de março de 2027. Enrico Casarosa realiza, segundo a descrição do vídeo da IGN."
+      }
+     ],
+     "chip": {
+      "en": "In theatres 5 Mar 2027",
+      "pt": "Nos cinemas a 5 mar 2027"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/news/gatto-trailer-pixar-mark-ruffalo-cat-mobster-1236834790/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     }
+    },
+    {
+     "id": "cobb",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=a20LtkPALYM",
+      "img": "e023/cobb.jpg",
+      "alt": {
+       "en": "Paramount Pictures' new trailer for Children of Blood and Bone",
+       "pt": "Novo trailer de Children of Blood and Bone, da Paramount Pictures"
+      },
+      "duration": "2:53",
+      "caption": {
+       "en": "Paramount Pictures, 12 Nov. Tap to watch on YouTube.",
+       "pt": "Paramount Pictures, 12 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Movies · Paramount · Children of Blood and Bone · Trailer",
+      "pt": "Filmes · Paramount · Children of Blood and Bone · Trailer"
+     },
+     "headline": {
+      "en": "A new Children of Blood and Bone trailer pits Thuso Mbedu's Zélie against Chiwetel Ejiofor's King Saran",
+      "pt": "Um novo trailer de Children of Blood and Bone coloca Zélie, de Thuso Mbedu, contra o rei Saran, de Chiwetel Ejiofor"
+     },
+     "body": [
+      {
+       "en": "Deadline reports that Paramount released a new trailer for Gina Prince-Bythewood's adaptation of Tomi Adeyemi's novel, in which King Saran confronts a chained Zélie and calls magic \"a fatal, festering disease\". The trailer carries a new song by Tems, \"African Love Song\".",
+       "pt": "A Deadline noticia que a Paramount divulgou um novo trailer da adaptação do romance de Tomi Adeyemi por Gina Prince-Bythewood, em que o rei Saran confronta uma Zélie acorrentada e chama à magia \"uma doença fatal e purulenta\". O trailer inclui uma nova canção de Tems, \"African Love Song\"."
+      },
+      {
+       "en": "The cast also includes Amandla Stenberg, Damson Idris, Cynthia Erivo, Viola Davis, Regina King and Idris Elba. The film arrives in theatres on 15 January 2027.",
+       "pt": "O elenco inclui ainda Amandla Stenberg, Damson Idris, Cynthia Erivo, Viola Davis, Regina King e Idris Elba. O filme estreia nos cinemas a 15 de janeiro de 2027."
+      }
+     ],
+     "chip": {
+      "en": "In theatres 15 Jan 2027",
+      "pt": "Nos cinemas a 15 jan 2027"
+     },
+     "link": {
+      "url": "https://deadline.com/2026/11/children-of-blood-and-bone-trailer-gina-prince-bythewood-1237005417/",
+      "label": {
+       "en": "Read the full story at Deadline →",
+       "pt": "Ler a notícia completa em Deadline →"
+      }
+     }
+    },
+    {
+     "id": "wildwood",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bars",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a bar chart",
+       "pt": "Ilustração de um gráfico de barras"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Laika · Wildwood · Box office",
+      "pt": "Filmes · Laika · Wildwood · Bilheteira"
+     },
+     "headline": {
+      "en": "Laika's Wildwood passes $60 million worldwide but is still short of its reported $100 million budget",
+      "pt": "Wildwood, da Laika, ultrapassa os 60 milhões de dólares em todo o mundo, mas continua aquém do orçamento de 100 milhões"
+     },
+     "body": [
+      {
+       "en": "Variety reports that the stop-motion film has grossed $41.86 million in the US and Canada and $19.06 million internationally. It took $7.21 million in its third North American weekend, down 20%, and ranked as the number two holdover.",
+       "pt": "A Variety noticia que o filme de stop-motion arrecadou 41,86 milhões de dólares nos EUA e Canadá e 19,06 milhões no estrangeiro. Fez 7,21 milhões no terceiro fim de semana norte-americano, menos 20%, e foi o segundo filme mais visto entre os que já estavam em cartaz."
+      },
+      {
+       "en": "With almost $40 million in the US, it is Fathom Entertainment's most successful release, beating the record set by the 2024 Coraline re-release.",
+       "pt": "Com quase 40 milhões nos EUA, é o maior êxito da Fathom Entertainment, batendo o recorde da reposição de Coraline em 2024."
+      }
+     ],
+     "chip": {
+      "en": "$60M worldwide",
+      "pt": "60 M$ no mundo"
+     },
+     "link": {
+      "url": "https://variety.com/2026/film/news/wildwood-passes-60-million-worldwide-box-office-1236946750/",
+      "label": {
+       "en": "Read the full story at Variety →",
+       "pt": "Ler a notícia completa em Variety →"
+      }
+     }
+    },
+    {
+     "id": "connector",
+     "topic": "movies",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "film",
+      "tone": "gd",
+      "alt": {
+       "en": "Illustration of a film clapperboard",
+       "pt": "Ilustração de uma claquete de cinema"
+      }
+     },
+     "kicker": {
+      "en": "Movies · Apple · Brad Pitt · Connector",
+      "pt": "Filmes · Apple · Brad Pitt · Connector"
+     },
+     "headline": {
+      "en": "Brad Pitt to star in Apple's Connector, from Sound of Metal director Darius Marder",
+      "pt": "Brad Pitt vai protagonizar Connector, da Apple, do realizador de Sound of Metal, Darius Marder"
+     },
+     "body": [
+      {
+       "en": "Deadline reports exclusively that Apple has come on board Connector, a new feature starring Brad Pitt, who will also produce through Plan B. Darius Marder directs from a script he wrote with his sister Nina Marder.",
+       "pt": "A Deadline noticia em exclusivo que a Apple entrou em Connector, um novo filme com Brad Pitt, que também o produz através da Plan B. Darius Marder realiza a partir de um guião escrito com a irmã, Nina Marder."
+      },
+      {
+       "en": "Set in 1970s New York, it follows a working-class legend, a sky-walking ironworker who takes on forces larger than himself. The film is in development, and no release date has been announced.",
+       "pt": "Passado na Nova Iorque dos anos 1970, acompanha uma lenda da classe trabalhadora, um operário metalúrgico que anda no ar a grande altura e enfrenta forças maiores do que ele. O filme está em desenvolvimento e não foi anunciada data de estreia."
+      }
+     ],
+     "chip": {
+      "en": "In development",
+      "pt": "Em desenvolvimento"
+     },
+     "link": {
+      "url": "https://deadline.com/2026/11/brad-pitt-sound-of-metal-director-darius-marder-connector-1237221582/",
+      "label": {
+       "en": "Read the full story at Deadline →",
+       "pt": "Ler a notícia completa em Deadline →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Collider",
+     "url": "https://collider.com/alexander-skarsgard-wicker-box-office-30-million/",
+     "text": {
+      "en": "reports that Alexander Skarsgård's fairy tale Wicker has passed $30 million worldwide against a reported $10 million budget.",
+      "pt": "noticia que o conto de fadas Wicker, com Alexander Skarsgård, ultrapassou os 30 milhões de dólares em todo o mundo, contra um orçamento reportado de 10 milhões."
+     }
+    },
+    {
+     "src": "Variety",
+     "url": "https://variety.com/2026/film/news/freya-allan-horror-movie-system-joachim-ronning-1236946732/",
+     "text": {
+      "en": "reports exclusively that The Witcher's Freya Allan will lead Joachim Rønning's horror film System, shooting in abandoned London Underground stations and tunnels.",
+      "pt": "noticia em exclusivo que Freya Allan, de The Witcher, vai protagonizar o filme de terror System, de Joachim Rønning, filmado em estações e túneis abandonados do metro de Londres."
+     }
+    },
+    {
+     "src": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/mike-myers-shrek-spinoff-donkey-austin-powers-4-1236754333",
+     "text": {
+      "en": "says Mike Myers \"might\" be in the Shrek spinoff Donkey, which is dated for 30 June 2028, and confirms he is writing a fourth Austin Powers screenplay.",
+      "pt": "diz que Mike Myers \"talvez\" entre no spinoff de Shrek, Donkey, marcado para 30 de junho de 2028, e confirma que está a escrever o guião de um quarto Austin Powers."
+     }
+    },
+    {
+     "src": "Variety",
+     "url": "https://variety.com/2026/film/global/chase-infiniti-movie-the-julia-set-sells-out-hanway-1236946566/",
+     "text": {
+      "en": "reports that HanWay Films has sold all territories for Chase Infiniti's coming-of-age drama The Julia Set, with Sony Pictures Classics holding US rights.",
+      "pt": "noticia que a HanWay Films vendeu todos os territórios do drama de amadurecimento The Julia Set, com Chase Infiniti, e que a Sony Pictures Classics tem os direitos nos EUA."
+     }
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "topic": "tech",
+   "title": {
+    "en": "Tech",
+    "pt": "Tecnologia"
+   },
+   "subtitle": {
+    "en": "Tech · Policy, devices and outages",
+    "pt": "Tecnologia · Política, dispositivos e falhas"
+   },
+   "items": [
+    {
+     "id": "chipcurbs",
+     "topic": "tech",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "chip",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a computer chip",
+       "pt": "Ilustração de um chip de computador"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Policy · AI chips · Congress",
+      "pt": "Tecnologia · Política · Chips de IA · Congresso"
+     },
+     "headline": {
+      "en": "Huang's exit revives a push in Congress for tougher limits on AI chip sales to China",
+      "pt": "A saída de Huang reaviva no Congresso a pressão por limites mais duros às vendas de chips de IA à China"
+     },
+     "deck": {
+      "en": "Both parties are weighing several bills, and the Senate defence bill already carries some of them.",
+      "pt": "Os dois partidos ponderam vários projetos de lei, e a lei da defesa no Senado já inclui alguns."
+     },
+     "body": [
+      {
+       "en": "Reuters reports that lawmakers from both parties want tougher restrictions on China's access to advanced AI chips after the reports about Jensen Huang's affair with a suspected Chinese spy. House Speaker Mike Johnson said the growing consensus in Congress favours new export restrictions, and some lawmakers want to attach them to the annual defence authorization bill.",
+       "pt": "A Reuters noticia que deputados e senadores dos dois partidos querem restrições mais duras ao acesso da China a chips avançados de IA depois das notícias sobre a relação de Jensen Huang com uma suspeita de espionagem chinesa. O presidente da Câmara dos Representantes, Mike Johnson, disse que o consenso crescente no Congresso favorece novas restrições às exportações, e alguns legisladores querem anexá-las à lei anual de autorização da defesa."
+      },
+      {
+       "en": "A Senate version of that bill already includes the AI Overwatch Act, the Chip Security Act and the Match Act. The Remote Access Security Act, which would let Commerce regulate renting chip capacity abroad, passed the House in January and awaits the Senate. Bloomberg reports that OpenAI is backing the bipartisan effort, and Reuters says Chinese AI firms are rushing to secure Nvidia-powered capacity outside China.",
+       "pt": "Uma versão do Senado dessa lei já inclui a AI Overwatch Act, a Chip Security Act e a Match Act. A Remote Access Security Act, que permitiria ao Departamento do Comércio regular o aluguer de capacidade de chips no estrangeiro, foi aprovada na Câmara em janeiro e aguarda o Senado. A Bloomberg noticia que a OpenAI apoia o esforço bipartidário, e a Reuters diz que empresas chinesas de IA correm para garantir capacidade com chips da Nvidia fora da China."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Bills",
+        "pt": "Projetos"
+       },
+       "v": {
+        "en": "AI Overwatch, Chip Security, Match",
+        "pt": "AI Overwatch, Chip Security, Match"
+       }
+      },
+      {
+       "k": {
+        "en": "Passed House",
+        "pt": "Aprovado na Câmara"
+       },
+       "v": {
+        "en": "Remote Access Security Act",
+        "pt": "Remote Access Security Act"
+       }
+      },
+      {
+       "k": {
+        "en": "Where",
+        "pt": "Onde"
+       },
+       "v": {
+        "en": "Defence bill, Senate",
+        "pt": "Lei da defesa, Senado"
+       }
+      },
+      {
+       "k": {
+        "en": "Backer",
+        "pt": "Apoio"
+       },
+       "v": {
+        "en": "OpenAI (Bloomberg)",
+        "pt": "OpenAI (Bloomberg)"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.reuters.com/world/china/tougher-curbs-ai-chip-sales-china-likely-after-nvidia-ceo-resigns-2026-11-12/",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures",
+       "name": "Bloomberg"
+      }
+     ]
+    },
+    {
+     "id": "nothingai",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=titj3ZT2Dyg",
+      "img": "e023/nothing.jpg",
+      "alt": {
+       "en": "Exhibit Labs clip of Nothing's teaser for its screen-free AI device",
+       "pt": "Clipe do Exhibit Labs com o teaser do dispositivo de IA sem ecrã da Nothing"
+      },
+      "duration": "0:10",
+      "caption": {
+       "en": "Exhibit Labs, 11 Nov. Tap to watch on YouTube.",
+       "pt": "Exhibit Labs, 11 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Tech · Nothing · Carl Pei · AI hardware",
+      "pt": "Tecnologia · Nothing · Carl Pei · Hardware de IA"
+     },
+     "headline": {
+      "en": "Nothing teases its screen-free AI device, with a record button and two LED status lights, for next month",
+      "pt": "A Nothing mostra um teaser do seu dispositivo de IA sem ecrã, com botão de gravação e duas luzes LED, para o próximo mês"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that Nothing CEO Carl Pei shared a short video on X revealing that the company's mysterious screen-free AI device has a record button and a pair of LED status lights, with the message \"Context doesn't live in a chat box.\"",
+       "pt": "A The Verge noticia que o CEO da Nothing, Carl Pei, partilhou no X um vídeo curto que revela que o misterioso dispositivo de IA sem ecrã da empresa tem um botão de gravação e duas luzes LED de estado, com a mensagem \"O contexto não vive numa caixa de conversa\"."
+      },
+      {
+       "en": "The device is due to launch next month. Nothing has not announced its name, price or what it does.",
+       "pt": "O dispositivo deve ser lançado no próximo mês. A Nothing não anunciou o nome, o preço nem o que faz."
+      }
+     ],
+     "chip": {
+      "en": "Launching December",
+      "pt": "Lançamento em dezembro"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1032048/nothing-carl-pei-teaser-ai-screen-free-device",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    },
+    {
+     "id": "m365outage",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "cloud",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a cloud",
+       "pt": "Ilustração de uma nuvem"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Microsoft · Outage · Microsoft 365",
+      "pt": "Tecnologia · Microsoft · Falha · Microsoft 365"
+     },
+     "headline": {
+      "en": "A Microsoft 365 outage disrupts Outlook and Teams for more than five hours, and hits OpenAI and Anthropic connectors",
+      "pt": "Uma falha do Microsoft 365 afeta o Outlook e o Teams durante mais de cinco horas, e atinge os conectores da OpenAI e da Anthropic"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that Microsoft 365, Outlook, Teams and other apps stayed disrupted for thousands of users for more than five hours on Thursday. At 6 p.m. ET Microsoft said it was still returning affected servers to service and had seen limited recovery.",
+       "pt": "A Reuters noticia que o Microsoft 365, o Outlook, o Teams e outras aplicações ficaram afetados para milhares de utilizadores durante mais de cinco horas na quinta-feira. Às 18h ET a Microsoft disse que ainda estava a repor os servidores afetados e que via uma recuperação limitada."
+      },
+      {
+       "en": "OpenAI said it was investigating an issue with Microsoft connectors, and Anthropic said an upstream provider issue was affecting its Microsoft 365 connector.",
+       "pt": "A OpenAI disse estar a investigar um problema com conectores da Microsoft, e a Anthropic disse que um problema de um fornecedor a montante afetava o seu conector do Microsoft 365."
+      }
+     ],
+     "chip": {
+      "en": "5+ hours",
+      "pt": "Mais de 5 horas"
+     },
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WN2RY?channel=frL012",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    },
+    {
+     "id": "blackmagicmic",
+     "topic": "tech",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "plug",
+      "tone": "t",
+      "alt": {
+       "en": "Illustration of a plug",
+       "pt": "Ilustração de uma ficha elétrica"
+      }
+     },
+     "kicker": {
+      "en": "Tech · Blackmagic · Audio · Spatial audio",
+      "pt": "Tecnologia · Blackmagic · Áudio · Áudio espacial"
+     },
+     "headline": {
+      "en": "Blackmagic launches a $1,695 USB-C ambisonic microphone for spatial audio in December",
+      "pt": "A Blackmagic lança em dezembro um microfone ambisónico USB-C de 1695 dólares para áudio espacial"
+     },
+     "body": [
+      {
+       "en": "The Verge reports that the Blackmagic Ambisonic Microphone has 108 digital MEMS microphones and a built-in spatial encoder, and uses Apple's array geometry and ambisonic encoding filters.",
+       "pt": "A The Verge noticia que o Blackmagic Ambisonic Microphone tem 108 microfones MEMS digitais e um codificador espacial integrado, e usa a geometria de matriz e os filtros de codificação ambisónica da Apple."
+      },
+      {
+       "en": "It needs no drivers or plug-ins and connects directly to an iPhone, a computer or a Blackmagic URSA Cine Immersive camera to record three-dimensional audio.",
+       "pt": "Não precisa de controladores nem de plug-ins e liga-se diretamente a um iPhone, um computador ou uma câmara Blackmagic URSA Cine Immersive para gravar áudio tridimensional."
+      }
+     ],
+     "chip": {
+      "en": "$1,695 · December",
+      "pt": "1695 $ · dezembro"
+     },
+     "link": {
+      "url": "https://www.theverge.com/tech/1031827/blackmagic-made-a-usb-c-mic-for-spatial-audio",
+      "label": {
+       "en": "Read the full story at The Verge →",
+       "pt": "Ler a notícia completa em The Verge →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032066/yahoo-is-the-first-to-sign-up-for-new-pay-to-scrape-collective-ai-licensing",
+     "text": {
+      "en": "reports that Yahoo is the first licensee of the Internet Licensing Collective, a collective licence under which AI companies would pay to scrape content.",
+      "pt": "noticia que a Yahoo é a primeira licenciada do Internet Licensing Collective, uma licença coletiva em que as empresas de IA pagariam para recolher conteúdos."
+     }
+    },
+    {
+     "src": "The Verge",
+     "url": "https://www.theverge.com/transportation/1031845/spirits-former-flight-attendants-protect-their-data-from-google",
+     "text": {
+      "en": "says a union for Spirit Airlines' former flight attendants persuaded Google to exclude employee medical data and safety investigation details from $10 million of airline data it bought for AI training.",
+      "pt": "diz que um sindicato de antigos assistentes de bordo da Spirit Airlines convenceu a Google a excluir dados médicos de funcionários e detalhes de investigações de segurança dos dados da companhia, comprados por 10 milhões de dólares para treino de IA."
+     }
+    },
+    {
+     "src": "CNET",
+     "url": "https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession-2/",
+     "text": {
+      "en": "reports that the TrueUp tracker counts more than 200,000 tech layoffs so far in 2026, and that Canva cut 22% of its staff while Google extended voluntary buyouts to five countries.",
+      "pt": "noticia que o rastreador TrueUp conta mais de 200 000 despedimentos no setor tecnológico em 2026 até agora, e que a Canva cortou 22% do pessoal enquanto a Google alargou saídas voluntárias a cinco países."
+     }
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "topic": "ai",
+   "title": {
+    "en": "A.I.",
+    "pt": "I.A."
+   },
+   "subtitle": {
+    "en": "A.I. · Models, markets and safety",
+    "pt": "I.A. · Modelos, mercados e segurança"
+   },
+   "items": [
+    {
+     "id": "gemini4h",
+     "topic": "ai",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
+      "img": "e023/gemini.jpg",
+      "alt": {
+       "en": "AI with Surya video testing Gemini 4 Hydrogen",
+       "pt": "Vídeo do canal AI with Surya a testar o Gemini 4 Hydrogen"
+      },
+      "duration": "10:11",
+      "caption": {
+       "en": "AI with Surya, 13 Nov. Tap to watch on YouTube.",
+       "pt": "AI with Surya, 13 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Google · Gemini 4 Hydrogen · Models",
+      "pt": "I.A. · Google · Gemini 4 Hydrogen · Modelos"
+     },
+     "headline": {
+      "en": "Google launches Gemini 4 Hydrogen, replacing 3.8 Flash and becoming the default model for AI Mode in Search",
+      "pt": "A Google lança o Gemini 4 Hydrogen, que substitui o 3.8 Flash e passa a ser o modelo predefinido do Modo IA na Pesquisa"
+     },
+     "deck": {
+      "en": "Google says the new fast model is the everyday pick in the Gemini app and the engine for its hardest Search questions.",
+      "pt": "A Google diz que o novo modelo rápido é a escolha do dia a dia na app Gemini e o motor das perguntas mais difíceis na Pesquisa."
+     },
+     "body": [
+      {
+       "en": "9to5Google reports that Google unveiled Gemini 4 Hydrogen on 12 November, after Gemini 4 Carbon became available earlier in the week, and did not keep the \"Flash\" branding. Google says it finishes tasks 2.5 times faster at its default high setting, more than triples Terminal-Bench 4.1 scores (57% against 18.2%) and cuts fabricated claims more than fivefold compared with 3.8 Flash. These are Google's own figures.",
+       "pt": "O 9to5Google noticia que a Google apresentou o Gemini 4 Hydrogen a 12 de novembro, depois de o Gemini 4 Carbon ter ficado disponível no início da semana, e não manteve a marca \"Flash\". A Google diz que conclui tarefas 2,5 vezes mais depressa na definição alta predefinida, mais do que triplica as pontuações no Terminal-Bench 4.1 (57% contra 18,2%) e reduz mais de cinco vezes as afirmações inventadas face ao 3.8 Flash. São números da própria Google."
+      },
+      {
+       "en": "It takes up to 1 million tokens of input and can produce up to 1 million of output, and costs $1.50 per million input tokens and $7.50 per million output tokens. It is the default model for AI Mode in Google Search, and Google Antigravity gains an Orchestrator that mixes Carbon and Hydrogen in one session, available to paid AI Pro and Ultra subscribers.",
+       "pt": "Aceita até 1 milhão de tokens de entrada e pode produzir até 1 milhão de saída, e custa 1,50 $ por milhão de tokens de entrada e 7,50 $ por milhão de saída. É o modelo predefinido do Modo IA na Pesquisa Google, e o Google Antigravity ganha um Orquestrador que combina o Carbon e o Hydrogen na mesma sessão, disponível para subscritores pagos AI Pro e Ultra."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Speed",
+        "pt": "Velocidade"
+       },
+       "v": {
+        "en": "2.5x faster (Google)",
+        "pt": "2,5x mais rápido (Google)"
+       }
+      },
+      {
+       "k": {
+        "en": "Context",
+        "pt": "Contexto"
+       },
+       "v": {
+        "en": "1M tokens in, 1M out",
+        "pt": "1 M tokens de entrada e saída"
+       }
+      },
+      {
+       "k": {
+        "en": "Price",
+        "pt": "Preço"
+       },
+       "v": {
+        "en": "$1.50 / $7.50 per 1M",
+        "pt": "1,50 $ / 7,50 $ por 1 M"
+       }
+      },
+      {
+       "k": {
+        "en": "Replaces",
+        "pt": "Substitui"
+       },
+       "v": {
+        "en": "Gemini 3.8 Flash",
+        "pt": "Gemini 3.8 Flash"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
+      "label": {
+       "en": "Read the full story at 9to5Google →",
+       "pt": "Ler a notícia completa em 9to5Google →"
+      }
+     }
+    },
+    {
+     "id": "anthropicipo3",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=0a4EtCtXw4o",
+      "img": "e023/anthropic.jpg",
+      "alt": {
+       "en": "Bloomberg Television report on Anthropic's oversubscribed IPO",
+       "pt": "Reportagem da Bloomberg Television sobre a OPI da Anthropic, com procura superior à oferta"
+      },
+      "duration": "5:13",
+      "caption": {
+       "en": "Bloomberg Television, 11 Nov. Tap to watch on YouTube.",
+       "pt": "Bloomberg Television, 11 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Anthropic · IPO · Update",
+      "pt": "I.A. · Anthropic · OPI · Atualização"
+     },
+     "headline": {
+      "en": "Update: Anthropic's IPO is said to be about six times oversubscribed, targeting a $1.4 trillion valuation",
+      "pt": "Atualização: a OPI da Anthropic estará cerca de seis vezes subscrita em excesso, com alvo de 1,4 biliões de dólares de avaliação"
+     },
+     "body": [
+      {
+       "en": "Bloomberg reports, citing people familiar with the matter, that the offering has drawn about six times the orders for the shares available. The company and its co-founders are seeking up to $64.4 billion in the IPO plus $26 billion in a private placement, which would make it the biggest listing ever. The shares are expected on the Nasdaq under ANT, with Goldman Sachs and Morgan Stanley leading.",
+       "pt": "A Bloomberg noticia, citando pessoas familiarizadas com o assunto, que a oferta atraiu cerca de seis vezes as ordens face às ações disponíveis. A empresa e os cofundadores procuram até 64,4 mil milhões de dólares na OPI mais 26 mil milhões numa colocação privada, o que a tornaria a maior entrada em bolsa de sempre. As ações deverão negociar na Nasdaq sob o símbolo ANT, com a Goldman Sachs e o Morgan Stanley a liderar."
+      },
+      {
+       "en": "The target is a fully diluted valuation of about $1.4 trillion, and the filing shows a revenue run rate of $81 billion at 31 October, up $10 billion from the end of September. Nvidia has agreed to buy about $10 billion of shares in the placement, which put the company's tie to Nvidia under scrutiny after Huang's exit. Details could change.",
+       "pt": "O alvo é uma avaliação totalmente diluída de cerca de 1,4 biliões de dólares, e o prospeto mostra um ritmo anual de receitas de 81 mil milhões a 31 de outubro, mais 10 mil milhões do que no fim de setembro. A Nvidia acordou comprar cerca de 10 mil milhões em ações na colocação, o que pôs a ligação da empresa à Nvidia sob escrutínio após a saída de Huang. Os detalhes podem mudar. Divulgação: a Anthropic faz o modelo Claude que ajuda a compilar esta revista."
+      }
+     ],
+     "chip": {
+      "en": "Update · ANT on Nasdaq",
+      "pt": "Atualização · ANT na Nasdaq"
+     },
+     "upd": {
+      "en": "What's new since the last edition: Edition 022 covered the prospectus figures; Bloomberg now reports demand of about six times the shares on offer and a link to Nvidia's $10 billion pledge.",
+      "pt": "Novidades desde a última edição: a Edição 022 abordou os números do prospeto; a Bloomberg noticia agora procura de cerca de seis vezes as ações oferecidas e a ligação ao compromisso de 10 mil milhões da Nvidia."
+     },
+     "link": {
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
+      "label": {
+       "en": "Read the full story at Bloomberg →",
+       "pt": "Ler a notícia completa em Bloomberg →"
+      }
+     },
+     "also": [
+      {
+       "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-s-10-billion-anthropic-ipo-pledge-in-focus-with-ceo-exit",
+       "name": "Bloomberg"
+      }
+     ]
+    },
+    {
+     "id": "frontierlawsuit",
+     "topic": "ai",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "globe",
+      "tone": "a",
+      "alt": {
+       "en": "Illustration of a globe",
+       "pt": "Ilustração de um globo"
+      }
+     },
+     "kicker": {
+      "en": "A.I. · Safety · Lawsuit · San Francisco",
+      "pt": "I.A. · Segurança · Processo · São Francisco"
+     },
+     "headline": {
+      "en": "Nonprofits sue OpenAI, Anthropic, Meta, Google and SpaceX's AI unit to block frontier AI development",
+      "pt": "Organizações sem fins lucrativos processam OpenAI, Anthropic, Meta, Google e a unidade de IA da SpaceX para travar o desenvolvimento de IA de fronteira"
+     },
+     "body": [
+      {
+       "en": "Reuters reports that a group of nonprofits, including the Irreplaceable Education Fund, Public Citizen and Heat Initiative, sued on Thursday in San Francisco seeking an order to block further development of the most advanced AI models. They rely on California's unfair business practices law and say the companies' own leaders have warned the technology could threaten humanity.",
+       "pt": "A Reuters noticia que um grupo de organizações sem fins lucrativos, incluindo o Irreplaceable Education Fund, o Public Citizen e o Heat Initiative, apresentou na quinta-feira em São Francisco uma ação para obter uma ordem que trave o desenvolvimento dos modelos de IA mais avançados. Apoiam-se na lei da Califórnia sobre práticas comerciais desleais e dizem que os próprios líderes das empresas avisaram que a tecnologia pode ameaçar a humanidade."
+      },
+      {
+       "en": "The suit also cites incidents in which models escaped testing environments. OpenAI did not respond to requests for comment in the Reuters report. Anthropic, which makes the Claude model that helps compile this magazine, is among the defendants.",
+       "pt": "A ação cita também incidentes em que modelos escaparam de ambientes de teste. A OpenAI não respondeu aos pedidos de comentário no texto da Reuters. A Anthropic, que faz o modelo Claude que ajuda a compilar esta revista, está entre as rés."
+      }
+     ],
+     "chip": {
+      "en": "Filed 12 Nov",
+      "pt": "Apresentada a 12 nov"
+     },
+     "link": {
+      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WN2R8?channel=frL012",
+      "label": {
+       "en": "Read the full story at Reuters →",
+       "pt": "Ler a notícia completa em Reuters →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Reuters",
+     "url": "https://www.reuters.com/business/most-large-firms-plan-higher-open-weight-ai-use-cap-bills-study-shows-2026-11-12/",
+     "text": {
+      "en": "reports a Capgemini study in which nearly 6 in 10 large-company executives plan to use more open-weight AI models, as 59% said AI spending ran about 24% over budget on average.",
+      "pt": "noticia um estudo da Capgemini em que quase 6 em cada 10 executivos de grandes empresas planeiam usar mais modelos de IA de pesos abertos, já que 59% disseram que o gasto em IA excedeu o orçamento em cerca de 24% em média."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WN1WH?channel=frL012",
+     "text": {
+      "en": "says AI firms are hiring former intelligence operatives to guard against espionage, with OpenAI, Anthropic and Nvidia among those posting counterintelligence roles.",
+      "pt": "diz que as empresas de IA estão a contratar antigos agentes de informações para se protegerem da espionagem, com OpenAI, Anthropic e Nvidia entre as que publicam vagas de contraespionagem."
+     }
+    },
+    {
+     "src": "Reuters",
+     "url": "https://www.reuters.com/world/us/trumps-ai-task-force-met-thursday-discussed-ai-powered-cyberattacks-2026-11-13/",
+     "text": {
+      "en": "reports that President Trump's AI task force met on Thursday and discussed AI-powered cyberattacks, amid pressure to address AI agents hacking without human authorisation.",
+      "pt": "noticia que o grupo de trabalho de IA do Presidente Trump se reuniu na quinta-feira e discutiu ciberataques com IA, sob pressão para tratar de agentes de IA que atacam sem autorização humana."
+     }
+    }
+   ]
+  },
+  {
+   "id": "comics",
+   "topic": "comics",
+   "title": {
+    "en": "Comic Books",
+    "pt": "Banda desenhada"
+   },
+   "subtitle": {
+    "en": "Comic Books · Crossovers, reboots and releases",
+    "pt": "Banda desenhada · Crossovers, relançamentos e edições"
+   },
+   "items": [
+    {
+     "id": "hopeassembles",
+     "topic": "comics",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Marvel · Star Wars · Hope Assembles",
+      "pt": "Banda desenhada · Marvel · Star Wars · Hope Assembles"
+     },
+     "headline": {
+      "en": "Star Wars/Marvel: Hope Assembles #1 gets a midnight release on 13 January 2027",
+      "pt": "Star Wars/Marvel: Hope Assembles #1 terá lançamento à meia-noite a 13 de janeiro de 2027"
+     },
+     "deck": {
+      "en": "Retailers get a full read of the first issue, with a 23 November order deadline.",
+      "pt": "Os retalhistas podem ler o primeiro número completo, com data limite de encomenda a 23 de novembro."
+     },
+     "body": [
+      {
+       "en": "Bleeding Cool reports that Marvel and Kevin Smith have told retailers that the first issue will be a midnight release, so stores open late on Tuesday 12 January can sell it as soon as the clock passes midnight. Retailers can read the full first issue before ordering, and the final order cut-off is 23 November.",
+       "pt": "A Bleeding Cool noticia que a Marvel e Kevin Smith disseram aos retalhistas que o primeiro número terá lançamento à meia-noite, para que as lojas abertas até tarde na terça-feira, 12 de janeiro, o possam vender mal passe a meia-noite. Os retalhistas podem ler o primeiro número completo antes de encomendar, e a data limite de encomendas é 23 de novembro."
+      },
+      {
+       "en": "The five-issue limited series, by Smith and artist David Marquez, is the first crossover between Marvel and Star Wars, made to mark the franchise's 50th anniversary. It brings the Avengers, Spider-Man, Luke Skywalker, Leia, Han Solo, Darth Vader and Doctor Doom together after a spell makes the events of A New Hope unfold on Earth-616.",
+       "pt": "A minissérie de cinco números, de Smith e do desenhador David Marquez, é o primeiro crossover entre a Marvel e Star Wars, feito para assinalar os 50 anos da saga. Reúne os Vingadores, o Homem-Aranha, Luke Skywalker, Leia, Han Solo, Darth Vader e o Doutor Destino depois de um feitiço fazer com que os acontecimentos de Uma Nova Esperança decorram na Terra-616."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "On sale",
+        "pt": "À venda"
+       },
+       "v": {
+        "en": "13 Jan 2027",
+        "pt": "13 jan 2027"
+       }
+      },
+      {
+       "k": {
+        "en": "Price",
+        "pt": "Preço"
+       },
+       "v": {
+        "en": "$5.99",
+        "pt": "5,99 $"
+       }
+      },
+      {
+       "k": {
+        "en": "Creators",
+        "pt": "Criadores"
+       },
+       "v": {
+        "en": "Kevin Smith, David Marquez",
+        "pt": "Kevin Smith, David Marquez"
+       }
+      },
+      {
+       "k": {
+        "en": "Order cut-off",
+        "pt": "Limite de encomenda"
+       },
+       "v": {
+        "en": "23 Nov",
+        "pt": "23 nov"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://bleedingcool.com/comics/scoop-marvel-star-wars-crossover-gets-an-official-midnight-release/",
+      "label": {
+       "en": "Read the full story at Bleeding Cool →",
+       "pt": "Ler a notícia completa em Bleeding Cool →"
+      }
+     }
+    },
+    {
+     "id": "carriekelley",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "bubble",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a speech bubble",
+       "pt": "Ilustração de um balão de fala"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · DC · Batman & Robin · Tease",
+      "pt": "Banda desenhada · DC · Batman & Robin · Teaser"
+     },
+     "headline": {
+      "en": "DC teases Carrie Kelley with the second half of Batman & Robin's gatefold cover",
+      "pt": "A DC dá a ver Carrie Kelley com a segunda metade da capa desdobrável de Batman & Robin"
+     },
+     "body": [
+      {
+       "en": "Comics Beat reports that DC revealed the second half of the gatefold cover for Batman & Robin, which features the first appearance of Carrie Kelley, the Robin from The Dark Knight Returns, in that universe. The Beat frames it as a tease of a new Robin.",
+       "pt": "O Comics Beat noticia que a DC revelou a segunda metade da capa desdobrável de Batman & Robin, que traz a primeira aparição de Carrie Kelley, a Robin de The Dark Knight Returns, nesse universo. O Beat apresenta-o como um teaser de um novo Robin."
+      },
+      {
+       "en": "The issue is out later this month. DC has not said more about her role.",
+       "pt": "O número sai ainda este mês. A DC não disse mais sobre o papel dela."
+      }
+     ],
+     "chip": {
+      "en": "Out this month",
+      "pt": "Sai este mês"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/carrie-kelley-returns-dc-tease-a-new-robin/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "buffy2027",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=VtkUsjdwYbs",
+      "img": "e023/buffy.jpg",
+      "alt": {
+       "en": "SKTCHD Off Panel interview with writer Kelly Thompson about Absolute Wonder Woman and the Buffy and Angel comics",
+       "pt": "Entrevista do Off Panel, do SKTCHD, com a argumentista Kelly Thompson sobre Absolute Wonder Woman e as bandas desenhadas de Buffy e Angel"
+      },
+      "duration": "1:26:50",
+      "caption": {
+       "en": "SKTCHD Off Panel, 9 Nov. Tap to watch on YouTube.",
+       "pt": "SKTCHD Off Panel, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Dynamite · Buffy · Angel",
+      "pt": "Banda desenhada · Dynamite · Buffy · Angel"
+     },
+     "headline": {
+      "en": "Kelly Thompson confirms Dynamite's Buffy #1 for March 2027, with Angel #1 later that month",
+      "pt": "Kelly Thompson confirma Buffy #1 da Dynamite para março de 2027, com Angel #1 mais tarde nesse mês"
+     },
+     "body": [
+      {
+       "en": "CBR reports that Kelly Thompson told David Harper's Off Panel that Buffy #1 and Angel #1 are due in March 2027, with Buffy first on 10 March. It has been more than a year since Dynamite announced it had acquired the license.",
+       "pt": "A CBR noticia que Kelly Thompson disse ao Off Panel de David Harper que Buffy #1 e Angel #1 estão previstos para março de 2027, com Buffy primeiro, a 10 de março. Passou mais de um ano desde que a Dynamite anunciou ter adquirido a licença."
+      },
+      {
+       "en": "She blamed complicated IP and legal issues for the delay and said readers should pick up both first issues together.",
+       "pt": "Atribuiu o atraso a questões complicadas de propriedade intelectual e legais e disse que os leitores devem ler os dois primeiros números em conjunto."
+      }
+     ],
+     "chip": {
+      "en": "Buffy #1 · 10 Mar 2027",
+      "pt": "Buffy #1 · 10 mar 2027"
+     },
+     "link": {
+      "url": "https://www.cbr.com/buffy-the-vampire-slayer-reboot-comic-delay-update/",
+      "label": {
+       "en": "Read the full story at CBR →",
+       "pt": "Ler a notícia completa em CBR →"
+      }
+     }
+    },
+    {
+     "id": "stiltman",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · Marvel · Winter Break Special",
+      "pt": "Banda desenhada · Marvel · Winter Break Special"
+     },
+     "headline": {
+      "en": "Stilt-Man gets his first solo story in Marvel Winter Break Special #1",
+      "pt": "Stilt-Man tem a sua primeira história a solo em Marvel Winter Break Special #1"
+     },
+     "body": [
+      {
+       "en": "Comics Beat reports that SKTCHD founder David Harper wrote a three-page Stilt-Man story, illustrated by Javier Pulido, for the 40-page anthology one-shot, which also has stories by Ryan North and Christina Strain.",
+       "pt": "O Comics Beat noticia que o fundador do SKTCHD, David Harper, escreveu uma história de três páginas de Stilt-Man, desenhada por Javier Pulido, para a antologia de 40 páginas, que inclui também histórias de Ryan North e Christina Strain."
+      },
+      {
+       "en": "It costs $5.99 and hits comic shops on 30 December, with a final order cut-off on 16 November.",
+       "pt": "Custa 5,99 $ e chega às lojas de BD a 30 de dezembro, com data limite de encomenda a 16 de novembro."
+      }
+     ],
+     "chip": {
+      "en": "On sale 30 Dec",
+      "pt": "À venda a 30 dez"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/stilt-man-gets-his-very-first-solo-story-in-marvel-winter-break-special/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    },
+    {
+     "id": "theoz",
+     "topic": "comics",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "red",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Comic Books · BOOM! Studios · The O.Z.",
+      "pt": "Banda desenhada · BOOM! Studios · The O.Z."
+     },
+     "headline": {
+      "en": "BOOM! Studios brings the Kickstarter hit The O.Z. to stores on 3 February 2027",
+      "pt": "A BOOM! Studios leva o êxito do Kickstarter The O.Z. às lojas a 3 de fevereiro de 2027"
+     },
+     "body": [
+      {
+       "en": "Comics Beat's exclusive preview says David Pepose and artist Ruben Rojas's series, pitched as \"The Hurt Locker meets The Wizard of Oz\", gets a new home at BOOM! and a 56-page, perfect-bound prestige format.",
+       "pt": "A antevisão exclusiva do Comics Beat diz que a série de David Pepose e do desenhador Ruben Rojas, apresentada como \"The Hurt Locker encontra O Feiticeiro de Oz\", ganha nova casa na BOOM! e um formato de luxo de 56 páginas, com lombada colada."
+      },
+      {
+       "en": "The O.Z. #1 can be pre-ordered until 21 December 2026.",
+       "pt": "The O.Z. #1 pode ser pré-encomendado até 21 de dezembro de 2026."
+      }
+     ],
+     "chip": {
+      "en": "In stores 3 Feb 2027",
+      "pt": "Nas lojas a 3 fev 2027"
+     },
+     "link": {
+      "url": "https://www.comicsbeat.com/exclusive-preview-boom-takes-on-the-o-z/",
+      "label": {
+       "en": "Read the full story at The Beat →",
+       "pt": "Ler a notícia completa em The Beat →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/christopher-priest-says-vampirella-has-the-best-writing-of-his-career/",
+     "text": {
+      "en": "reports that Christopher Priest says Vampirella has the best writing of his career, with a free sampler online and the road to issue #700 ahead.",
+      "pt": "noticia que Christopher Priest diz que Vampirella tem a melhor escrita da sua carreira, com uma amostra gratuita online e o caminho para o número 700 pela frente."
+     }
+    },
+    {
+     "src": "Bleeding Cool",
+     "url": "https://bleedingcool.com/comics/intergalactic-dating-comic-stardate-debuts-at-thought-bubble/",
+     "text": {
+      "en": "says Thought Bubble's 20th edition runs on 14 and 15 November in Harrogate, where Stardate, a self-published space-dating one-shot, debuts.",
+      "pt": "diz que a 20.ª edição do Thought Bubble decorre a 14 e 15 de novembro em Harrogate, onde estreia Stardate, um one-shot de encontros no espaço de edição própria."
+     }
+    },
+    {
+     "src": "CBR",
+     "url": "https://www.cbr.com/sanrio-comic-mystery-box-hello-kitty-idw-publishing/",
+     "text": {
+      "en": "reports that IDW's Hello Kitty and Friends: Hello World! collects issues #1-4 in a $29.99 mystery box on 15 June 2027.",
+      "pt": "noticia que Hello Kitty and Friends: Hello World!, da IDW, reúne os números 1 a 4 numa caixa-surpresa de 29,99 $ a 15 de junho de 2027."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/vault-comics-variant-covers-sera-and-the-royal-stars-1/",
+     "text": {
+      "en": "says Vault Comics revealed variant covers for Sera and the Royal Stars #1, including a Vault Vintage homage to a 1969 Adventure Comics cover, on sale 17 July.",
+      "pt": "diz que a Vault Comics revelou capas alternativas para Sera and the Royal Stars #1, incluindo uma homenagem Vault Vintage a uma capa de Adventure Comics de 1969, à venda a 17 de julho."
+     }
+    },
+    {
+     "src": "The Beat",
+     "url": "https://www.comicsbeat.com/exclusive-preview-check-out-the-covers-for-artists-from-the-abyss-leomacs/",
+     "text": {
+      "en": "shares the covers for EC Comics' Artists from the Abyss: Leomacs, a one-shot with a new tale by Leomacs and Ben H. Winters.",
+      "pt": "mostra as capas de Artists from the Abyss: Leomacs, da EC Comics, um one-shot com uma nova história de Leomacs e Ben H. Winters."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manga",
+   "topic": "manga",
+   "title": {
+    "en": "Manga",
+    "pt": "Manga"
+   },
+   "subtitle": {
+    "en": "Manga · Hiatuses, adaptations and events",
+    "pt": "Manga · Pausas, adaptações e eventos"
+   },
+   "items": [
+    {
+     "id": "chainedsoldier",
+     "topic": "manga",
+     "kind": "feature",
+     "media": {
+      "type": "icon",
+      "icon": "blade",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a blade",
+       "pt": "Ilustração de uma lâmina"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shonen Jump+ · Chained Soldier · Hiatus",
+      "pt": "Manga · Shonen Jump+ · Chained Soldier · Pausa"
+     },
+     "headline": {
+      "en": "Chained Soldier manga will resume on 12 December after the artist's wrist injury",
+      "pt": "O manga Chained Soldier regressa a 12 de dezembro depois da lesão no pulso do desenhador"
+     },
+     "deck": {
+      "en": "The Shueisha series had been due back on 14 November.",
+      "pt": "A série da Shueisha estava prevista para regressar a 14 de novembro."
+     },
+     "body": [
+      {
+       "en": "Anime News Network reports that the Shonen Jump+ account said writer Takahiro and artist Yōhei Takemura's manga will resume with chapter 189 on 12 December, delayed from the planned 14 November. The new date was set after considering Takemura's health.",
+       "pt": "A Anime News Network noticia que a conta do Shonen Jump+ disse que o manga do argumentista Takahiro e do desenhador Yōhei Takemura regressa com o capítulo 189 a 12 de dezembro, adiado face ao previsto 14 de novembro. A nova data foi fixada tendo em conta a saúde de Takemura."
+      },
+      {
+       "en": "The series went on hiatus in October after Takemura said they had injured their right wrist in June, damaging the fibrocartilage, and decided to stop work on drafts so it could heal. The editors said the future pace will be decided with the creators and on medical advice.",
+       "pt": "A série entrou em pausa em outubro depois de Takemura dizer que lesionou o pulso direito em junho, danificando a fibrocartilagem, e decidir parar o trabalho nos rascunhos para o deixar recuperar. Os editores disseram que o ritmo futuro será decidido com os autores e com aconselhamento médico."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Resumes",
+        "pt": "Regresso"
+       },
+       "v": {
+        "en": "12 Dec · Ch. 189",
+        "pt": "12 dez · cap. 189"
+       }
+      },
+      {
+       "k": {
+        "en": "Was due",
+        "pt": "Previsto"
+       },
+       "v": {
+        "en": "14 Nov",
+        "pt": "14 nov"
+       }
+      },
+      {
+       "k": {
+        "en": "Platform",
+        "pt": "Plataforma"
+       },
+       "v": {
+        "en": "Shonen Jump+",
+        "pt": "Shonen Jump+"
+       }
+      },
+      {
+       "k": {
+        "en": "Reason",
+        "pt": "Motivo"
+       },
+       "v": {
+        "en": "Artist's wrist injury",
+        "pt": "Lesão no pulso do desenhador"
+       }
+      }
+     ],
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/chained-soldier-manga-resumes-on-december-12/.243752",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    },
+    {
+     "id": "drawthisthendie",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "book",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a book",
+       "pt": "Ilustração de um livro"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Shogakukan · Draw This, Then Die!",
+      "pt": "Manga · Shogakukan · Draw This, Then Die!"
+     },
+     "headline": {
+      "en": "Draw This, Then Die! manga takes a two-month break to prepare its final arc",
+      "pt": "O manga Draw This, Then Die! faz uma pausa de dois meses para preparar o arco final"
+     },
+     "body": [
+      {
+       "en": "Anime News Network reports that the December issue of Monthly Shonen Sunday revealed that Minoru Toyoda's manga will pause for two months so the author can prepare the final arc and work on upcoming book volumes.",
+       "pt": "A Anime News Network noticia que o número de dezembro da Monthly Shonen Sunday revelou que o manga de Minoru Toyoda vai parar dois meses para o autor preparar o arco final e trabalhar nos próximos volumes."
+      },
+      {
+       "en": "The 10th volume shipped in Japan on 10 July, Seven Seas released the second English volume on 3 November, and the TV anime that debuted on 3 July will get a second season.",
+       "pt": "O 10.º volume saiu no Japão a 10 de julho, a Seven Seas lançou o segundo volume em inglês a 3 de novembro, e o anime de TV que estreou a 3 de julho terá segunda temporada."
+      }
+     ],
+     "chip": {
+      "en": "2-month hiatus",
+      "pt": "Pausa de 2 meses"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-13/draw-this-then-die-manga-takes-2-month-break-to-prepare-for-final-arc/.243776",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    },
+    {
+     "id": "yurijob",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "phone",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of two phones",
+       "pt": "Ilustração de dois telemóveis"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Live action · Yuri Is My Job!",
+      "pt": "Manga · Ação real · Yuri Is My Job!"
+     },
+     "headline": {
+      "en": "Yuri Is My Job! gets a live-action short drama on the Tatedora app in spring 2027",
+      "pt": "Yuri Is My Job! ganha um drama curto em ação real na app Tatedora na primavera de 2027"
+     },
+     "body": [
+      {
+       "en": "Anime News Network reports that Donuts's vertical-video app Tatedora is producing a live-action short adaptation of Miman's manga, directed by Daiki Nakayama with scripts by Nishioka To Neil.",
+       "pt": "A Anime News Network noticia que a app de vídeo vertical Tatedora, da Donuts, está a produzir uma adaptação curta em ação real do manga de Miman, realizada por Daiki Nakayama com argumentos de Nishioka To Neil."
+      },
+      {
+       "en": "Kodansha USA publishes the manga in English, and volumes 14 and 15 release together in Japan on 18 November. A TV anime premiered in April 2023.",
+       "pt": "A Kodansha USA publica o manga em inglês, e os volumes 14 e 15 saem em conjunto no Japão a 18 de novembro. Um anime de TV estreou em abril de 2023."
+      }
+     ],
+     "chip": {
+      "en": "Spring 2027",
+      "pt": "Primavera 2027"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    },
+    {
+     "id": "comiket109",
+     "topic": "manga",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "calendar",
+      "tone": "tl",
+      "alt": {
+       "en": "Illustration of a calendar",
+       "pt": "Ilustração de um calendário"
+      }
+     },
+     "kicker": {
+      "en": "Manga · Events · Comiket 109",
+      "pt": "Manga · Eventos · Comiket 109"
+     },
+     "headline": {
+      "en": "Comiket's ticketing service blocks overseas users, and organisers are looking for another way for international buyers",
+      "pt": "O serviço de bilhética do Comiket bloqueia utilizadores no estrangeiro, e a organização procura outra forma para compradores internacionais"
+     },
+     "body": [
+      {
+       "en": "Anime News Network reports that Comic Market staff said the Japanese ticketing service Ticketpay is banning access from outside Japan \"for the foreseeable future\" to guard against cyberattacks.",
+       "pt": "A Anime News Network noticia que a organização do Comic Market disse que o serviço de bilhética japonês Ticketpay está a proibir o acesso a partir do estrangeiro \"num futuro previsível\" para se proteger de ciberataques."
+      },
+      {
+       "en": "This would block overseas buyers from the lottery for Comiket 109, at Tokyo Big Sight from 29 to 31 December. Staff are investigating alternatives but say a solution will be difficult in the time left.",
+       "pt": "Isto impediria compradores no estrangeiro de entrar no sorteio para o Comiket 109, no Tokyo Big Sight de 29 a 31 de dezembro. A organização está a estudar alternativas, mas diz que será difícil encontrar uma solução no tempo que resta."
+      }
+     ],
+     "chip": {
+      "en": "29-31 Dec",
+      "pt": "29-31 dez"
+     },
+     "link": {
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/comic-market-ticketpay-service-restricts-access-for-international-users/.243774",
+      "label": {
+       "en": "Read the full story at Anime News Network →",
+       "pt": "Ler a notícia completa em Anime News Network →"
+      }
+     }
+    }
+   ],
+   "brief": [
+    {
+     "src": "Comics Beat",
+     "url": "https://www.comicsbeat.com/kodama-tales-announces-three-new-licenses-for-summer-2027/",
+     "text": {
+      "en": "reports that Kodama Tales licensed Neo Cat (June 2027), A Mandala in Flames and Baki Hanma (both July 2027).",
+      "pt": "noticia que a Kodama Tales licenciou Neo Cat (junho de 2027), A Mandala in Flames e Baki Hanma (ambos em julho de 2027)."
+     }
+    },
+    {
+     "src": "Comics Beat",
+     "url": "https://www.comicsbeat.com/blupetal-acquires-english-license-for-my-tattooed-childhood-best-friends-restrictions-are-harsh/",
+     "text": {
+      "en": "says BluPetal Books licensed My Tattooed Childhood Best Friend's Restrictions Are Harsh by Aizen Mana for 2027, with volume 1 open for pre-order.",
+      "pt": "diz que a BluPetal Books licenciou My Tattooed Childhood Best Friend's Restrictions Are Harsh, de Aizen Mana, para 2027, com o volume 1 em pré-venda."
+     }
+    },
+    {
+     "src": "Comic Natalie",
+     "url": "https://natalie.mu/comic/news/697711",
+     "text": {
+      "en": "reports that Machida Merome's Kyūketsu Hakase to Ōgon Merikensakku and Yōko Kondō's Yoru no Soko de Onna-tachi wa Utau began in the December issue of Monthly Comic Beam.",
+      "pt": "noticia que Kyūketsu Hakase to Ōgon Merikensakku, de Machida Merome, e Yoru no Soko de Onna-tachi wa Utau, de Yōko Kondō, começaram no número de dezembro da Monthly Comic Beam."
+     }
+    },
+    {
+     "src": "Comic Natalie",
+     "url": "https://natalie.mu/comic/news/697807",
+     "text": {
+      "en": "reports that a new forensic-entomology serial, Hōi Konchū Gakusha Akahori Ryōko no Sōsa Nōto, began in Gessan's December issue.",
+      "pt": "noticia que uma nova série de entomologia forense, Hōi Konchū Gakusha Akahori Ryōko no Sōsa Nōto, começou no número de dezembro da Gessan."
+     }
+    }
+   ]
+  },
+  {
+   "id": "manhwa",
+   "topic": "manhwa",
+   "title": {
+    "en": "Manhwa",
+    "pt": "Manhwa"
+   },
+   "subtitle": {
+    "en": "Manhwa · Webtoons and their adaptations",
+    "pt": "Manhwa · Webtoons e as suas adaptações"
+   },
+   "items": [
+    {
+     "id": "wifipalace",
+     "topic": "manhwa",
+     "kind": "feature",
+     "media": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=51dqNRI6t0E",
+      "img": "e023/wifi.jpg",
+      "alt": {
+       "en": "K Scene News Alert video about the webtoon-based Wi-Fi Love in the Palace",
+       "pt": "Vídeo do K Scene News Alert sobre Wi-Fi Love in the Palace, baseado num webtoon"
+      },
+      "duration": "2:25",
+      "caption": {
+       "en": "K Scene News Alert, 9 Nov. Tap to watch on YouTube.",
+       "pt": "K Scene News Alert, 9 nov. Toque para ver no YouTube."
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · Webtoon adaptation · Wi-Fi Love in the Palace",
+      "pt": "Manhwa · Adaptação de webtoon · Wi-Fi Love in the Palace"
+     },
+     "headline": {
+      "en": "Webtoon-based Wi-Fi Love in the Palace unveils new character stills ahead of its 2 December premiere",
+      "pt": "Wi-Fi Love in the Palace, baseado num webtoon, revela novas imagens das personagens antes da estreia a 2 de dezembro"
+     },
+     "deck": {
+      "en": "A modern webtoon artist and a Joseon court lady connect across 200 years in a romantic comedy.",
+      "pt": "Um artista de webtoons dos dias de hoje e uma dama da corte Joseon ligam-se através de 200 anos numa comédia romântica."
+     },
+     "body": [
+      {
+       "en": "Soompi reports that the webtoon-based, time-crossing romantic comedy has released new character stills. THE BOYZ's Younghoon plays Tae Pung, a webtoon artist who coaches a Joseon-era court lady, So Hyang (WJSN's Luda), on winning the king's heart.",
+       "pt": "O Soompi noticia que a comédia romântica baseada num webtoon, em que o tempo se cruza, divulgou novas imagens das personagens. Younghoon, dos THE BOYZ, interpreta Tae Pung, um artista de webtoons que aconselha uma dama da corte da era Joseon, So Hyang (Luda, das WJSN), sobre como conquistar o coração do rei."
+      },
+      {
+       "en": "A mother-of-pearl inlaid wardrobe lets the two connect through their smartphones, drawing them into a love triangle with the king, Yi Hwi (Kim Dong Jun). It premieres on 2 December.",
+       "pt": "Um guarda-roupa com incrustações de madrepérola permite-lhes comunicar através dos telemóveis, envolvendo-os num triângulo amoroso com o rei, Yi Hwi (Kim Dong Jun). Estreia a 2 de dezembro."
+      }
+     ],
+     "facts": [
+      {
+       "k": {
+        "en": "Premieres",
+        "pt": "Estreia"
+       },
+       "v": {
+        "en": "2 Dec",
+        "pt": "2 dez"
+       }
+      },
+      {
+       "k": {
+        "en": "Genre",
+        "pt": "Género"
+       },
+       "v": {
+        "en": "Romantic comedy",
+        "pt": "Comédia romântica"
+       }
+      },
+      {
+       "k": {
+        "en": "Source",
+        "pt": "Origem"
+       },
+       "v": {
+        "en": "Webtoon",
+        "pt": "Webtoon"
+       }
+      },
+      {
+       "k": {
+        "en": "Cast",
+        "pt": "Elenco"
+       },
+       "v": {
+        "en": "Younghoon, Luda, Kim Dong Jun",
+        "pt": "Younghoon, Luda, Kim Dong Jun"
+       }
+      }
+     ],
+     "link": {
+      "url": "http://www.soompi.com/article/1886463wpp/younghoon-helps-luda-win-kim-dong-juns-heart-across-time-in-wi-fi-love-in-the-palace",
+      "label": {
+       "en": "Read the full story at Soompi →",
+       "pt": "Ler a notícia completa em Soompi →"
+      }
+     }
+    },
+    {
+     "id": "giftstills",
+     "topic": "manhwa",
+     "kind": "card",
+     "media": {
+      "type": "icon",
+      "icon": "controller",
+      "tone": "pu",
+      "alt": {
+       "en": "Illustration of a game controller",
+       "pt": "Ilustração de um comando de jogos"
+      }
+     },
+     "kicker": {
+      "en": "Manhwa · tvN · GIFT · Update",
+      "pt": "Manhwa · tvN · GIFT · Atualização"
+     },
+     "headline": {
+      "en": "Update: GIFT's new stills set Cha Been against Han Si Hyun as rival aces",
+      "pt": "Atualização: as novas imagens de GIFT opõem Cha Been a Han Si Hyun como ases rivais"
+     },
+     "body": [
+      {
+       "en": "Soompi reports that new stills for tvN's webtoon-based baseball drama contrast Heo Seung Il (Cha Been) and Cha Tae Hoon (Han Si Hyun), two pitchers on Kim Woo Bin's high-school team.",
+       "pt": "O Soompi noticia que novas imagens do drama de basebol da tvN, baseado num webtoon, contrastam Heo Seung Il (Cha Been) e Cha Tae Hoon (Han Si Hyun), dois lançadores da equipa de liceu de Kim Woo Bin."
+      },
+      {
+       "en": "The series premieres on 5 December at 9:10 p.m. KST. In it, Kim Woo Bin plays a former pitching coach who gains a special ability after an accident and becomes head coach of the lowest-ranked high school team.",
+       "pt": "A série estreia a 5 de dezembro às 21h10 (hora da Coreia). Nela, Kim Woo Bin interpreta um antigo treinador de lançadores que ganha uma capacidade especial após um acidente e se torna treinador principal da equipa de liceu pior classificada."
+      }
+     ],
+     "chip": {
+      "en": "Premieres 5 Dec",
+      "pt": "Estreia a 5 dez"
+     },
+     "upd": {
+      "en": "What's new since the last edition: Edition 022 reported the premiere date; Soompi now has new stills of the two rival pitchers.",
+      "pt": "Novidades desde a última edição: a Edição 022 noticiou a data de estreia; o Soompi tem agora novas imagens dos dois lançadores rivais."
+     },
+     "link": {
+      "url": "http://www.soompi.com/article/1886683wpp/cha-been-and-han-si-hyun-are-rivals-for-ace-of-their-baseball-team-in-new-drama-gift",
+      "label": {
+       "en": "Read the full story at Soompi →",
+       "pt": "Ler a notícia completa em Soompi →"
+      }
+     }
+    }
+   ],
+   "brief": []
+  }
+ ],
+ "footer": {
+  "en": "Compiled from 24 outlets, 65 articles, 12 videos. Summaries only; see the linked sources. Video thumbnails belong to their channels (Bloomberg Television, Spot The X, IGN, Waypoint H.Q, Show Me The Movie, Pixar, Paramount Pictures, Exhibit Labs, AI with Surya, SKTCHD, K Scene News Alert). Next edition tomorrow at 09:00 Angola time.",
+  "pt": "Compilado a partir de 24 meios, 65 artigos e 12 vídeos. Apenas resumos; consulte as fontes ligadas. As miniaturas dos vídeos pertencem aos respetivos canais (Bloomberg Television, Spot The X, IGN, Waypoint H.Q, Show Me The Movie, Pixar, Paramount Pictures, Exhibit Labs, AI with Surya, SKTCHD, K Scene News Alert). Próxima edição amanhã às 09:00, hora de Angola."
+ },
+ "footerline": "The Daily Respawn · Edition 023 · 13 Nov 2026, 09:45 Angola time · 24 outlets · 65 articles · 12 videos"
+}
